@@ -1,0 +1,21 @@
+---
+name: Validate that the issue has at least one label
+on:
+  issues:
+    types: [opened, unlabeled]
+
+jobs:
+  check_required_labels:
+    if: join(github.event.issue.labels) == ''
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+
+      - name: Add comment
+        run: gh issue comment "$NUMBER" --body "$BODY"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          NUMBER: ${{ github.event.issue.number }}
+          BODY: "This issue has no label; please add one to help filter and searching issues."
