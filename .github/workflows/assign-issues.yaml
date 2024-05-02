@@ -1,0 +1,16 @@
+---
+name: Assign all issues to fharper
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-assign:
+    runs-on: ubuntu-latest
+    permissions:
+        issues: write
+    steps:
+      - name: assign-issue
+        uses: pozil/auto-assign-issue@v1.14.0
+        with:
+          assignees: fharper
