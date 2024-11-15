@@ -1,0 +1,17 @@
+---
+title: "Tips and tricks for people #28"
+date: "2013-03-24"
+categories: 
+  - "brainer"
+  - "en"
+  - "fixtxt"
+  - "fiximg"
+  - "fixlang"
+  - "fixtags"
+  - "fixurl"
+tags: 
+  - "tipsandtricks"
+slug: "tips-and-tricks-for-people-28"
+---
+
+The best way to promote _whatever_ is to add me, without my consent, to your mailing list.

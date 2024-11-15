@@ -1,0 +1,22 @@
+---
+title: "Follow Friday - Debbie Rouleau"
+date: "2010-12-17"
+categories: 
+  - "brainer"
+  - "en"
+  - "fixtxt"
+  - "fiximg"
+  - "fixlang"
+  - "fixtags"
+  - "fixurl"
+coverImage: "4279283887_df01d30654-225x300.jpg"
+slug: "follow-friday-debbie-rouleau"
+---
+
+Ce billet a été initialement rédigé sur le défunt blogue À la base 2
+
+[![](images/4279283887_df01d30654-225x300.jpg "SONY DSC")](http://fred.dev/content/uploads/2010/12/4279283887_df01d30654.gif)Pour mon premier [Follow Friday](https://fred.dev/les-follow-friday-un-concept-qui-perd-de-sa-valeur/ "Les Follow Friday, un concept qui perd de sa valeur"), j'avais commencé par [celle qui partage ma vie](https://fred.dev/follow-friday-emilie-plante/ "Follow Friday – Émilie Plante"). Pourquoi ne pas y aller en deuxième avec celle dont le monde pense qu'elle partage ma vie. Bien oui, j'ai entendu dire dernièrement qu'on pensait qu'elle et moi on sortait ensemble! Aujourd'hui, j'aimerais vous présenter Debbie Rouleau connue sous le surnom de [SekhmetDesign](https://twitter.com/SekhmetDesign "Compte Twitter de Debbie Rouleau")Je pense que mon deuxième choix ne pouvait aller à personne d'autre. Outre le fait qu'il y a plusieurs personnes que j'affectionne particulièrement sur Twitter, Debbie et moi sommes souvent ensemble sur différents projets et dans différents événements à un point tel que c'est devenue une très bonne amie malgré nos innombrables taquineries un envers l'autre. Elle est embarqué dans mes projets sans aucune retenue et avec l'énergie qu'on lui connait: Directrice des activités pour le [Festival Geek de Montréal](https://geekfestmtl.com "Site Web du Festival Geek de Montréal"), [beta-testeuse](https://portraitdeblogueurs.com/2010/03/13/debbie-rouleau/ "Portrait de blogueurs de Debbie Rouleau") pour mes [Portraits de blogueurs](https://portraitdeblogueurs.com "Site Web de Portrait de blogueurs"), podcastrice (elle se déclare elle-même ainsi) permanente dans mon autre podcast audio [We are Geeks](https://wearegeek.org "Site Web de We are Geeks")... Outre sa participation dans mes folies, car ce n'est pas une raison pour la suivre sur Twitter je vous le concède, Debbie est une Geek et une femme en TI qui est bien active. Une grande présence sur les médias sociaux, une présence constante dans les événements à Montréal à un point-elle qu'il y a des semaines où je la vois plus que ma conjointe et où elle me voit plus souvent que son mari! C'est une femme, et une future maman, pleines de ressource qui vient tout juste de joindre le CA du [W3Québec](https://w3qc.org "Site Web du W3Québec"), un bel atout pour cet organisme.
+
+Outre sa présence et ses implications, Debbie est un personnage en soi: c'est Debbie presque au "day to day" sur cette photo. Vous aurez peut-être peur de lui parler en lisant son fil Twitter, car elle grogne fort! Elle n'aimera pas que je dise ça, mais sous ses allures de chien de garde, se cache une gentille et douce personne avec qui tous devraient être amis (c'est la partie après chien de garde qui va me coûter cher, haha).
+
+**Si vous aimez quelqu'un qui a une tête sur les épaules, qui a du caractères, qui sait ce qu'elle veut, qui s'implique à fond dans sa communauté, qui est une des plus grande Geek que je connaisse, qui a quelque chose à dire et qui le dit tout haut que ça vous plaise ou pas, suivez la sur Twitter...**

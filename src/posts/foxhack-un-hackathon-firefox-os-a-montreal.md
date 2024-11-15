@@ -1,0 +1,24 @@
+---
+title: "FOXHACK, un hackathon Firefox OS à Montréal"
+date: "2013-09-09"
+categories: 
+  - "brainer"
+  - "en"
+  - "fixtxt"
+  - "fiximg"
+  - "fixlang"
+  - "fixtags"
+  - "fixurl"
+coverImage: "fxos-hackathon.jpg"
+slug: "foxhack-un-hackathon-firefox-os-a-montreal"
+---
+
+[![fxos-hackathon](images/fxos-hackathon.jpg)Le samedi 28 septembre prochain aura lieu un](http://fred.dev/content/uploads/2013/09/fxos-hackathon.jpg) [hackathon Firefox OS à Montréal](https://foxhack.eventbrite.com/). Organisé par [la Commune](https://www.lacommune.ca/), [Mozilla Québec](https://mozillaquebec.org/web/fr/), [Startup Weekend Montréal](http://communities.techstars.com/canada/montreal/startup-weekend/), [FACIL](https://facil.qc.ca/fr) et en collaboration avec Mozilla, le premier événement Firefox OS à Montréal depuis que [j'ai joint les rangs de Mozilla](https://fred.dev/one-month-as-a-firefox-os-technical-evangelist/ "One month as a Firefox OS Technical Evangelist") (en anglais), vous donnera la chance d'exploré ce nouvel OS: que ce soit pour débuter une nouvelle application ou tout simplement de faire fonctionner votre application HTML5 actuelle, vous aurez accès à des présentations et experts sur place.
+
+En réalité, cet événement se déroule sur trois jours. Le vendredi soir se veut un 5 à 7 optionnel où ils vous sera possible de rencontrer les organisateurs et les autres participants, mais aussi de débuter la réflexion sur ce que vous allez accomplir lors du reste de la fin de semaine. Le samedi étant la journée principale, ceux qui le désirent pourront écouter diverses présentations qui vous aideront à comprendre la plateforme, savoir comment débuter et comment en tirer le maximum. Pour ma part, j'ouvrirais le bal en présentant la plateforme, ainsi que la vision derrière Firefox OS. Bien sûr, la journée de samedi sera 100% codage, donc aucune obligation d'écouter les présentations si vous désirez travailler sur votre application. Pour ceux qui vont se donner à 200%, vous pourrez continuer de coder le dimanche et vous aurez la chance de présenter votre chef d'oeuvre vers la fin de l'événement. Bien sûr, il y a aura possibilité de repartir avec des prix pour votre participation.
+
+L'événement est gratuit et se passera à La Commune, située au 266 rue St Paul Est. Vous pouvez mentionner votre intérêt et rester informer en vous joignant à [l'événement Facebook](https://foxhack.eventbrite.com/). Toutefois, cela ne garantit pas votre participation; il vous faut prendre [un billet gratuit sur le site EventBrite](https://foxhack.eventbrite.com/). Je vous invite donc fortement à vous inscrire, car il reste peu de place: si jamais vous ne pouvez plus venir, annuler votre inscription pour laisser la place à quelqu'un qui pourra y aller. Cet événement est une bonne façon de connaître une nouvelle plateforme, d'aller chercher de nouvelles connaissances, de rencontrer d'autres passionnées comme vous, et ce, même si vous développez présentement pour d'autres plateformes. Pour toute question, veuillez contacter les organisateurs avec [EventBrite](https://foxhack.eventbrite.com/) ou en posant vos questions sur [l'événement Facebook](https://foxhack.eventbrite.com/).
+
+Alors, vous verrais-je sur place le 28? Avez-vous déjà une idée d'application que vous voulez faire? Avez-vous plutôt déjà une application faite avec HTML5, CSS3, et JavaScript que vous voudriez rendre fonctionnel sous Firefox OS? En espérant vous voir [lors du hackathon](https://foxhack.eventbrite.com/)!
+
+P.-S.: Si vous ne pouvez venir, mais que vous voulez développer une application sous Firefox OS (ou rendre une application HTML5 fonctionnelle), même si vous ne pouvez venir pour le hackathon, [envoyez-moi un courriel](mailto:fharper@mozilla.com).

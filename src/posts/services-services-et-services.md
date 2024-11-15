@@ -1,0 +1,24 @@
+---
+title: "Services, services et services"
+date: "2010-07-20"
+categories: 
+  - "brainer"
+  - "en"
+  - "fixtxt"
+  - "fiximg"
+  - "fixlang"
+  - "fixtags"
+  - "fixurl"
+coverImage: "social-media-overload-196x300.jpg"
+slug: "services-services-et-services"
+---
+
+Ce billet a été initialement rédigé sur le défunt blogue À la base 2
+
+![](images/social-media-overload-196x300.jpg "social-media-overload")Dans la folie du Web [Empire Avenue](https://www.empireavenue.com/eahome "Site Web de Empire Avenue"), je m'y suis aussi [abonnéDepuis quelques années, la mode est à la précision du contenu, à la niche. On ne veut plus aller à l'épicerie du coin pour faire son épicerie. On veut plutôt aller à la boulangerie acheter son pain, à la fruiterie acheter ses fruits, au café du coin acheter son café... Bref, on se spécialise et on veut des spécialistes, ce que je comprends et j'en suis moi-même un ardent défenseur. Cette tendance se vit aussi au niveau du Web.](https://www.empireavenue.com/fhar "Ma page sur Empire Avenue") [Facebook](https://www.facebook.com/fharper "Mon compte sur Facebook") permet de faire du microblogage, d'avoir un album photo, de planifier des événements... On se tourne toutefois encore vers des services très spécifiques : on met nos photos sur [Flickr](https://www.flickr.com/photos/fredericharper/ "Mon compte Flickr"), on fait des statuts sur [Twitter](https://twitter.com/fharper "Mon compte Twitter"), on créé même des événements sur [Plancast](https://plancast.com/fharper "Mon compte sur Plancast")! À ce niveau aussi, on cherche à se détacher d'un seul service qui offre tout : cela nous évite de tout perdre si ce dernier ferme. Là où je me questionne, c'est au niveau du nombre... est-ce trop?
+
+Personnellement, je commence à trouver gourmand tout le temps que je passe sur ces différents services. Est-ce le fait d'en utiliser un seul, comme Facebook par exemple, qui regroupe plusieurs de leurs fonctionnalités serait préférable? Je crois que si on met de côté l'aspect réseau ciblé (je n'ai peut-être pas tout mon monde sur Facebook, par exemple), je pense que oui. Avec le temps, je commence à voir un besoin de ramener certaines choses sous un même toit au lieu de se spécialiser. J'en ai fait l'expérience personnelle avec le [Festival Geek de Montréal](https://geekfestmtl.com "Site Web du Festival Geek de Montréal") qui rassemblait sous le même toit différents types de Geek plutôt que de faire plusieurs festivals. On voit aussi des exemples très clairs qui fonctionnent bien comme la conférence [Confoo](https://confoo.ca "Site Web de la conférence Confoo") qui rassemble plusieurs technologies Web dans la même conférence ou bien [Podcamp Montréal](https://podcampmontreal.org/ "Site Web de Podcamp Montréal") qui malgré le nom, ne parle pas que de balado, mais bien des nouveaux médias en général. Ce sont tous des exemples qui focus tout de même sur un aspect (Geek pour l'un, technologies Web pour l'autre et médias sociaux pour le dernier), mais qui rassemble pareil plusieurs éléments plutôt que de subdiviser.
+
+De mon côté, je pense que l'effet inverse de la niche va se produire dans plusieurs domaines d'ici quelques années. **Qu'en dites-vous? Pensez-vous que ce phénomène de niche va continuer? Pensez-vous l'inverse?**
+
+Source de l'image : [https://trinidarlin.blogspot.com/](https://trinidarlin.blogspot.com/ "Site Web de l'image")

@@ -1,0 +1,31 @@
+---
+title: "Questions d'un développeur nouvellement entrepreneur"
+date: "2014-09-25"
+categories: 
+  - "brainer"
+  - "en"
+  - "fixtxt"
+  - "fixlang"
+  - "fixtags"
+  - "fixurl"
+coverImage: "entrepreneurship.png"
+slug: "questions-dun-developpeur-nouvellement-entrepreneur"
+---
+
+Lors d'un des tout premiers [YulDev](https://www.meetup.com/YulDev/ "Site Web du YulDev"), j'ai discuté avec un développeur qui venait de partir à son compte. Ayant été moi-même à mon compte, pour une durée d'environ un an, mais sachant que je retournerais un de ces jours, j'ai accepté de répondre à ses questions sur mon expérience.
+
+## Si tu avais des connaissances que tu aurais aimé savoir dès le début, quelle aurait-elle été?
+
+J'étais un développeur qui partait à son compte pour offrir des services de développement. Même si ce qu'on dépeint de la vie d'entrepreneur est souvent "glamour", je savais à quoi m'attendre en terme de haut et de bas. Par contre, ce que j'avais sous-estimé c'est la partie que je pourrais réellement consacrer au développement d'applications, contrairement aux autres tâches d'être à son compte. Lorsqu'on est le seul employé d'une petite entreprise, on occupe tous les rôles: secrétaire, financier, président, marketing, développeur, testeur, designer... J'ai donc réalisé très rapidement que je ne pouvais consacrer tout mon temps à offrir mes services, mais qu'il y avait une grande partie qui entrait dans la section autre. Pendant que tu travailles sur un projet, tu dois en même temps courtiser de nouveaux clients, réseauter pour agrandir ton réseau, travailler sur ton offre pour toujours la rendre compétitive, t'informer sur le marché ainsi que sur tes compétiteurs, t'éduquer sur les nouvelles technologies, faire des soumissions qui n'aboutiront peut-être à rien, agrandir ton réseau de professionnel fiable pour sous-traiter des aspects que tu ne peux faire... Il sera trop tard pour faire tout cela lorsque le contrat que tu fais en ce moment sera fini. Une fois que c'est compris, il suffit de t'organiser et aussi d'évaluer tes dates de livraisons en conséquence.
+
+Malgré que j'ai passé une bonne partie de ma carrière à traiter avec des clients, j'ai tout de même été surpris de la dévalorisation, ainsi que du manque d'éducation des gens à propos des technologies et du développement d'applications. C'était toujours trop cher pour le budget, une tactique que plusieurs prennent probablement dans plusieurs industries, mais j'ai trouvé cela plus flagrant et semblait plus honnête comme réaction: on ne connait pas la complexité de créer un logiciel de qualité. Il faut donc être bon vendeur pour ne pas travailler pour rien. Offrir un service est aussi une boucle sans fin: il faut toujours trouver un nouveau projet si on veut avoir de l'argent pour vivre. De ce fait, je serais tenté de me diriger vers la création d'un produit dans le future: il y a d'autres défis, mais différents.
+
+## Quels sont les meilleurs moyens d'atteindre une clientèle lorsque l'on travaille dans le domaine IT?
+
+La présence web, ainsi que le réseautage sont la clé. Être présent en ligne est très important: créer un blogue et avoir des comptes que l'ont va maintenir sur les médias sociaux. C'est une façon par laquelle les gens vont trouver vos services, mais aussi une manière que les gens vont utiliser pour vous recommander à de potentiels clients. Une grande majorité de mes prospects venaient de gens en ligne, que je ne connaissais pas, mais qui avait entendu parler de mes services et qui me référait à leurs contacts. Le réseautage est aussi important, voir critique. Il peut porter des fruits à court terme, mais souvent ce sera un travail de longue haleine. Une personne que vous avez rencontrée il y a un an, peut soudainement avoir besoin de vos services et pourtant, elle jurait ne jamais avoir recours à quelqu'un comme vous dans le futur. Vous ne savez jamais lorsque quelqu'un a qui vous parlé, peu importe l'occasion, soirée de réseautage ou non, pourra avoir besoin ou connaitra quelqu'un qui aura besoin de votre expertise. Il faut donc varier: aller dans des soirées pour développeurs tels [YulDev](https://www.meetup.com/YulDev/ "Site Web du YulDev") à Montréal, car ce n'est pas tout le monde qui a votre passion pour ce que vous offrez, mais aller aussi dans d'autres types d'événements où vous rencontrerez des gens qui ne sont pas du milieu.
+
+## Quelles sont les méthodes que tu as employées pour t'autodiscipliner, travaillant à la maison?
+
+J'ai aménagé une pièce qui me sert de bureau et juste de bureau: c'est plus facile _d'aller_ travailler. J'utilise aussi différentes techniques telles que celle du [Pomodoro](https://pomodorotechnique.com/ "Pomodoro Technique") pour me concentrer sur la tâche actuelle. Il faut dire qu'il est facile de faire autre chose lorsqu'on est à la maison, mais il en est tout aussi facile de ne pas travailler lorsqu'on est au bureau. C'est une tout autre optique: vous êtes maintenant le patron de votre entreprise! Aimeriez-vous qu'un employé soit payé à ne rien faire? Probablement pas, donc soyez cet employé modèle qui travaille bien. De plus, l'avantage de travailler à son compte est que vous pouvez travailler lorsque bon vous semble: si ça ne fonctionne pas, aller faire autre chose et revenez en soirée ou durant la fin de semaine. Pas besoin de faire du 8 à 5.
+
+En espérant que cela répondre aux questions qui m'ont été posées et pourra aider d'autres entrepreneurs. Si vous avez d'autres interrogations, faite moi signe dans la section des commentaires.
