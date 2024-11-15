@@ -1,13 +1,6 @@
 ---
 title: "Building web mobile app that don't suck at Web Unleashed"
 date: "2014-10-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "15393177841_963e7af679_o.jpg"
 slug: "building-web-mobile-app-that-dont-suck-at-web-unleashed"
 ---

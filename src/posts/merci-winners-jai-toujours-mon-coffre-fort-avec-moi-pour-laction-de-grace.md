@@ -1,14 +1,6 @@
 ---
 title: "Merci Winners, j'ai toujours mon coffre-fort avec moi pour l'Action de grâce"
 date: "2012-10-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "winners2012.png"
 slug: "merci-winners-jai-toujours-mon-coffre-fort-avec-moi-pour-laction-de-grace"
 ---

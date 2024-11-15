@@ -1,14 +1,6 @@
 ---
 title: "L'analyse des Geeks et moi"
 date: "2010-08-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "analysedesgeeks-300x126.jpg"
 slug: "lanalyse-des-geeks-et-moi"
 ---

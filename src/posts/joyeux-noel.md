@@ -1,14 +1,6 @@
 ---
 title: "Joyeux Noël"
 date: "2008-12-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "16468-300x224.jpg"
 slug: "joyeux-noel"
 ---

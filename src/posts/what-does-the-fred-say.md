@@ -1,14 +1,6 @@
 ---
 title: "What does the Fred say?"
 date: "2013-10-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "what-does-the-fred-say"
 ---
 

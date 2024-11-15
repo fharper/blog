@@ -1,12 +1,6 @@
 ---
 title: "Publish a Firefox OS app, and get a free phone"
 date: "2014-05-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "8800479801_e1372a3a18_o.jpg"
 slug: "publish-a-firefox-os-app-and-get-a-free-phone"
 ---

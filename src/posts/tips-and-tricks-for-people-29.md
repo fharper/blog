@@ -1,14 +1,6 @@
 ---
 title: "Tips and tricks for people #29"
 date: "2013-03-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-29"

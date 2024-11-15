@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #1: get rid of excess clothing"
 date: "2012-01-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6642357447_f5a287c130_b-580x400.jpg"
 slug: "hack-your-life-challenge-1-get-rid-of-excess-clothing"
 ---

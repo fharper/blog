@@ -1,14 +1,6 @@
 ---
 title: "Bruno-Pierre Campeau"
 date: "2010-04-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "bruno-pierre-campeau"
 ---
 

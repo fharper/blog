@@ -1,14 +1,6 @@
 ---
 title: "Make your slides worth of showing them"
 date: "2014-01-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "speaking.jpg"
 slug: "make-your-slides-worth-of-showing-them"
 ---

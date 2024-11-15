@@ -1,14 +1,6 @@
 ---
 title: "LinkedIn: un C.V. 2.0 ?"
 date: "2009-11-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "linkedin.jpg"
 slug: "linkedin-un-c-v-2-0"
 ---

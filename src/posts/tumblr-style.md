@@ -1,14 +1,6 @@
 ---
 title: "Tumblr style"
 date: "2011-04-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tumblr_logo-300x78.png"
 slug: "tumblr-style"
 ---

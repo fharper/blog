@@ -1,14 +1,6 @@
 ---
 title: "Show me your book: Linchpin by Seth Godin"
 date: "2011-12-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "show-me-your-book-linchpin-by-seth-godin"
 ---
 

@@ -1,13 +1,6 @@
 ---
 title: "Le web ouvert avec Firefox OS et Firefox à Linux Montréal"
 date: "2014-07-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6261682210_48313c34a2_o.jpg"
 slug: "le-web-ouvert-avec-firefox-os-et-firefox-a-linux-montreal"
 ---

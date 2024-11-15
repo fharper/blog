@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Windows Azure with Cory Fowler"
 date: "2013-09-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Cory_and_Fred.jpg"
 slug: "make-web-not-war-tv-windows-azure-with-cory-fowler"
 ---

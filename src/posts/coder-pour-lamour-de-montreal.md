@@ -1,13 +1,6 @@
 ---
 title: "Coder pour l'amour de Montréal"
 date: "2014-05-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "CodeLove.png"
 slug: "coder-pour-lamour-de-montreal"
 ---

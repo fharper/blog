@@ -1,13 +1,6 @@
 ---
 title: "The day I was ashamed of myself"
 date: "2015-01-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "jordan-whitfield-sm3Ub_IJKQg-unsplash-scaled.jpg"
 slug: "the-day-i-was-ashamed-of-myself"
 ---

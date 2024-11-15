@@ -1,14 +1,6 @@
 ---
 title: "Prendre le temps de trouver les bons outils"
 date: "2010-08-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "klein_01-300x237.jpg"
 slug: "prendre-le-temps-de-trouver-les-bons-outils"
 ---

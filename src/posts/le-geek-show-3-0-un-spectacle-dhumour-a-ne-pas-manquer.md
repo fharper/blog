@@ -1,14 +1,6 @@
 ---
 title: "Le Geek Show 3.0, un spectacle d'humour à ne pas manquer"
 date: "2013-07-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "GeekShow-full.jpg"
 slug: "le-geek-show-3-0-un-spectacle-dhumour-a-ne-pas-manquer"
 ---

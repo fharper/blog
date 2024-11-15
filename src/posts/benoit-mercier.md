@@ -1,14 +1,6 @@
 ---
 title: "Benoit Mercier"
 date: "2010-05-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "benoit-mercier"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "What would happen if you died today?"
 date: "2012-12-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5946686018_3166efc63e_b.jpg"
 slug: "what-would-happen-if-you-died-today"
 ---

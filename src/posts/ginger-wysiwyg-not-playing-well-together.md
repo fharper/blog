@@ -1,14 +1,6 @@
 ---
 title: "Ginger & WYSIWYG, not playing well together"
 date: "2013-08-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2013-08-01_0953.png"
 slug: "ginger-wysiwyg-not-playing-well-together"
 ---

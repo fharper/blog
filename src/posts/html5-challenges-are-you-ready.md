@@ -1,14 +1,6 @@
 ---
 title: "HTML5 challenges, are you ready?"
 date: "2013-04-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "html5-topper1.png"
 slug: "html5-challenges-are-you-ready"
 ---

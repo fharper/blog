@@ -1,14 +1,6 @@
 ---
 title: "Focus"
 date: "2013-12-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "focus.jpg"
 slug: "focus"
 ---

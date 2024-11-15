@@ -1,14 +1,6 @@
 ---
 title: "Improvisation d'un party de bureau"
 date: "2010-11-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "christmas-holiday-party-people-300x157.jpg"
 slug: "improvisation-dun-party-de-bureau"
 ---

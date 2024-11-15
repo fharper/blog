@@ -1,14 +1,6 @@
 ---
 title: "iThingy"
 date: "2013-02-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130220_007.jpg"
 slug: "ithingy"
 ---

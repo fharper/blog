@@ -1,14 +1,6 @@
 ---
 title: "Lancement de la série 2008 de Microsoft"
 date: "2008-05-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "windows-art1-290x300.png"
 slug: "lancement-de-la-serie-2008-de-microsoft"
 ---

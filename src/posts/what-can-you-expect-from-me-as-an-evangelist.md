@@ -1,14 +1,6 @@
 ---
 title: "What can you expect from me as an Evangelist?"
 date: "2013-05-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4016547286_b3f0b04831_b.jpg"
 slug: "what-can-you-expect-from-me-as-an-evangelist"
 ---

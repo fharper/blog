@@ -1,14 +1,6 @@
 ---
 title: "Obvious placard is obvious"
 date: "2013-03-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130201_003.jpg"
 slug: "obvious-placard-is-obvious"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Saving your keystrokes"
 date: "2012-04-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "keystroke"
   - "productivity"

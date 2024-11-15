@@ -1,14 +1,6 @@
 ---
 title: "I am a blogger, not cheap labor"
 date: "2011-07-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2268610556_2fa88c227f_b-580x400.jpg"
 slug: "i-am-a-blogger-not-cheap-labor"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "À la recherche d'un nouveau thème"
 date: "2010-12-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "wordpress-must-dos.jpg"
 slug: "a-la-recherche-dun-nouveau-theme"
 ---

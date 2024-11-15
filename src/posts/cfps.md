@@ -1,9 +1,6 @@
 ---
 title: "Cornucopia of call for speakers tips"
 date: "2024-07-31"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "cfp"
   - "conference"

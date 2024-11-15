@@ -1,13 +1,6 @@
 ---
 title: "Qu'est-ce que le YulDev?"
 date: "2014-06-10"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
-  - "fr"
 image: "Fred@YulDev.png"
 slug: "quest-ce-que-le-yuldev"
 ---

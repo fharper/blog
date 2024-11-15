@@ -1,14 +1,6 @@
 ---
 title: "Ma carrière techno, l'enregistrement de ma présentation"
 date: "2013-11-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "nerd.png"
 slug: "ma-carriere-techno-lenregistrement-de-ma-presentation"
 ---

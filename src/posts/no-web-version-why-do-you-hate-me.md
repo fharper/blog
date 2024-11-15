@@ -1,14 +1,6 @@
 ---
 title: "No web version! Why do you hate me?"
 date: "2013-10-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "dontlike.jpg"
 slug: "no-web-version-why-do-you-hate-me"
 ---

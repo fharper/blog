@@ -1,13 +1,6 @@
 ---
 title: "Looking for a new challenge"
 date: "2016-01-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "challenge"
   - "developer-advocate"

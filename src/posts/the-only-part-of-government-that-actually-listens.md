@@ -1,14 +1,6 @@
 ---
 title: "The only part of government that actually listens"
 date: "2014-01-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "the-only-part-of-government-that-actually-listens"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "How I'm managing my social media connections"
 date: "2013-09-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "network.jpg"
 slug: "how-im-managing-my-social-media-connections"
 ---

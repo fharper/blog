@@ -1,14 +1,6 @@
 ---
 title: "Where fans becomes fanboys and haters"
 date: "2011-12-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5443535994_8734fed57d_b-580x400.jpg"
 slug: "where-fans-becomes-fanboys-and-haters"
 ---

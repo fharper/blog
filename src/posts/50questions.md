@@ -1,14 +1,6 @@
 ---
 title: "The 50 questions you want to ask when applying for a technical evangelist role"
 date: "2014-10-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "developer-relations"

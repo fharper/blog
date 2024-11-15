@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Jonathan Snook"
 date: "2013-08-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Snook_and_Fred.png"
 slug: "make-web-not-war-tv-jonathan-snook"
 ---

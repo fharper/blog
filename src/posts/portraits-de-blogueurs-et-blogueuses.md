@@ -1,14 +1,6 @@
 ---
 title: "Portraits de blogueurs et blogueuses"
 date: "2009-12-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "podcast-299x300.jpg"
 slug: "portraits-de-blogueurs-et-blogueuses"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Samsung Mobilers"
 date: "2010-09-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo3-300x82.png"
 slug: "samsung-mobilers"
 ---

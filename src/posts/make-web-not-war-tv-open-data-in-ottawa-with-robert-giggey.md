@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Open Data in Ottawa with Robert Giggey"
 date: "2013-09-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Robert_Giggey_and_Fred.jpg"
 slug: "make-web-not-war-tv-open-data-in-ottawa-with-robert-giggey"
 ---

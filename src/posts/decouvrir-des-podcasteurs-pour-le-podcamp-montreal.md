@@ -1,14 +1,6 @@
 ---
 title: "Découvrir des podcasteurs pour le Podcamp Montréal"
 date: "2010-06-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "podcamp-montreal.jpg"
 slug: "decouvrir-des-podcasteurs-pour-le-podcamp-montreal"
 ---

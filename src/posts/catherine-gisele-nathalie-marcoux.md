@@ -1,14 +1,6 @@
 ---
 title: "Catherine Gisèle Nathalie Marcoux"
 date: "2010-07-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "catherine-gisele-nathalie-marcoux"
 ---
 

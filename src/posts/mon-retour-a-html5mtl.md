@@ -1,13 +1,6 @@
 ---
 title: "Mon retour à HTML5mtl"
 date: "2014-09-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "HTML5mtl.png"
 slug: "mon-retour-a-html5mtl"
 ---

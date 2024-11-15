@@ -1,14 +1,6 @@
 ---
 title: "Kobo Town, Jumbie in the Jukebox... a festive music"
 date: "2013-04-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "kobo_town_sleeve_5x5_300dpi.jpg"
 slug: "kobo-town-jumbie-in-the-jukebox-a-festive-music"
 ---

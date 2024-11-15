@@ -1,14 +1,6 @@
 ---
 title: "MaMairie.ca, une plateforme de participation citoyenne"
 date: "2013-04-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2013-03-29_1130.png"
 slug: "mamairie-ca-une-plateforme-de-participation-citoyenne"
 ---

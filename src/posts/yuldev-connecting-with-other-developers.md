@@ -1,12 +1,6 @@
 ---
 title: "YulDev, connecting with other developers"
 date: "2014-04-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "YulDev.png"
 slug: "yuldev-connecting-with-other-developers"
 ---

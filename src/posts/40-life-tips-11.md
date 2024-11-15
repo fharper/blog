@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty #11"
 date: "2022-02-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "change"

@@ -1,14 +1,6 @@
 ---
 title: "Going to San Francisco in United States, anything a tourist should do?"
 date: "2013-11-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sanfrancisco.jpg"
 slug: "going-to-san-francisco-in-united-states-anything-a-tourist-should-do"
 ---

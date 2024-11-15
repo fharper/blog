@@ -1,14 +1,6 @@
 ---
 title: "Please leave a tip or..."
 date: "2013-04-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130202_014.jpg"
 slug: "please-leave-a-tip-or"
 ---

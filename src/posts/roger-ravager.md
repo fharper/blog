@@ -1,14 +1,6 @@
 ---
 title: "Roger Ravager"
 date: "2010-11-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "roger-ravager"
 ---
 

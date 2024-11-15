@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #4: set a happiness metric"
 date: "2012-02-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5000120312_a47b4a5034_o-580x400.jpg"
 slug: "hack-your-life-challenge-4-set-a-happiness-metric"
 ---

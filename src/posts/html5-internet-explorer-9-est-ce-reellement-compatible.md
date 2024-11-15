@@ -1,14 +1,6 @@
 ---
 title: "HTML5 & Internet Explorer 9, est-ce réellement compatible?"
 date: "2011-02-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "HTML5-300x300.png"
 slug: "html5-internet-explorer-9-est-ce-reellement-compatible"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Stéphanie Marcoux"
 date: "2010-03-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "stephanie-marcoux"
 ---
 

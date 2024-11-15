@@ -1,14 +1,6 @@
 ---
 title: "Three months as a Mozillian"
 date: "2013-10-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "three-months-as-a-mozillian"
 ---
 

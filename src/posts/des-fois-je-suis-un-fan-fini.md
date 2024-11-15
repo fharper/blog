@@ -1,14 +1,6 @@
 ---
 title: "Des fois, je suis un fan fini"
 date: "2013-09-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Perusse.jpg"
 slug: "des-fois-je-suis-un-fan-fini"
 ---

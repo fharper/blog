@@ -1,14 +1,6 @@
 ---
 title: "My Twitter manifesto"
 date: "2013-10-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "twitter.jpg"
 slug: "my-twitter-manifesto"
 ---

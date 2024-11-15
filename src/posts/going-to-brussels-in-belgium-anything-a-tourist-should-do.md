@@ -1,14 +1,6 @@
 ---
 title: "Going to Brussels in Belgium, anything a tourist should do?"
 date: "2013-09-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "brussels.jpg"
 slug: "going-to-brussels-in-belgium-anything-a-tourist-should-do"
 ---

@@ -1,13 +1,6 @@
 ---
 title: "Welcome to the chapter one of the rest of your life"
 date: "2015-01-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5313067703_dc9f69ce48_o.jpg"
 slug: "welcome-to-the-chapter-one-of-the-rest-of-your-life"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Prairie Dev Con West and the power of the Matrix"
 date: "2012-03-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "prairie-dev-con-west-and-the-power-of-the-matrix"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Aubergiste, mon cheval"
 date: "2011-08-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "26-440x586.jpg"
 slug: "aubergiste-mon-cheval"
 ---

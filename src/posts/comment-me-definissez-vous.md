@@ -1,14 +1,6 @@
 ---
 title: "Comment me définissez-vous?"
 date: "2010-12-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3d-glasses-300x222.jpg"
 slug: "comment-me-definissez-vous"
 ---

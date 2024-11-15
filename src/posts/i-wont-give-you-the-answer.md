@@ -1,14 +1,6 @@
 ---
 title: "I won't give you the answer"
 date: "2013-03-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3269448838_aed667ed1d_b.jpg"
 slug: "i-wont-give-you-the-answer"
 ---

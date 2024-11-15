@@ -1,13 +1,6 @@
 ---
 title: "Firefox OS love in the Python world"
 date: "2014-05-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5396463842_40452dc571_o.png"
 slug: "firefox-os-love-in-the-python-world"
 ---

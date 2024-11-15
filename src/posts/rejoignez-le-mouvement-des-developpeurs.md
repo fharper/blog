@@ -1,14 +1,6 @@
 ---
 title: "Rejoignez le mouvement des développeurs"
 date: "2012-01-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "devmov.jpg"
 slug: "rejoignez-le-mouvement-des-developpeurs"
 ---

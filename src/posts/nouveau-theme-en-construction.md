@@ -1,14 +1,6 @@
 ---
 title: "Nouveau thème... en construction"
 date: "2010-12-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mainss-300x181.gif"
 slug: "nouveau-theme-en-construction"
 ---

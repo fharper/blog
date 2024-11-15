@@ -1,14 +1,6 @@
 ---
 title: "CUSEC 2011"
 date: "2011-01-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "cusec.jpg"
 slug: "cusec-2011"
 ---

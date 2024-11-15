@@ -1,14 +1,6 @@
 ---
 title: "Music is my life"
 date: "2012-01-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3497849677_9798b22910_b-580x400.jpg"
 slug: "music-is-my-life"
 ---

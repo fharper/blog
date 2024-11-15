@@ -1,14 +1,6 @@
 ---
 title: "Don't be ashamed of self-promotion"
 date: "2014-02-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "promotion.jpg"
 slug: "dont-be-ashamed-of-self-promotion"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "À la base 2"
 date: "2008-03-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "pourquoibloguer-201x300.png"
 slug: "a-la-base-2"
 ---

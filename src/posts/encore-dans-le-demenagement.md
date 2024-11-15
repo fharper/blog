@@ -1,14 +1,6 @@
 ---
 title: "Encore dans le déménagement"
 date: "2008-07-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "demenagement-300x222.jpg"
 slug: "encore-dans-le-demenagement"
 ---

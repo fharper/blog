@@ -1,14 +1,6 @@
 ---
 title: "Et si on intégrait les blogueurs dans nos promotions ?"
 date: "2010-07-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4796225037_50239439b9_o-300x199.jpg"
 slug: "et-si-on-integrait-les-blogueurs-dans-nos-promotions"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Take the red pill and enter the Matrix"
 date: "2013-06-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WebMatrix_bL1.png"
 slug: "take-the-red-pill-and-enter-the-matrix"
 ---

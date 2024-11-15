@@ -1,14 +1,6 @@
 ---
 title: "MobileCamp Montréal"
 date: "2010-12-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mobmtl-logo-300x57.jpg"
 slug: "mobilecamp-montreal"
 ---

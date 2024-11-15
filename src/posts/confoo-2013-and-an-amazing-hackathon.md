@@ -1,14 +1,6 @@
 ---
 title: "Confoo 2013, and an amazing hackathon"
 date: "2013-01-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mwnwhack2013confoo.jpg"
 slug: "confoo-2013-and-an-amazing-hackathon"
 ---

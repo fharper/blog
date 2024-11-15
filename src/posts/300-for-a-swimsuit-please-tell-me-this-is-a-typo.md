@@ -1,14 +1,6 @@
 ---
 title: "300$ for a swimsuit, please tell me this is a typo"
 date: "2013-09-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "300-for-a-swimsuit-please-tell-me-this-is-a-typo"
 ---
 

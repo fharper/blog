@@ -1,14 +1,6 @@
 ---
 title: "Don't feed the trolls"
 date: "2012-09-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "trollface.jpg"
 slug: "dont-feed-the-trolls"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Who are your rock star developers?"
 date: "2014-02-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "rockstar.jpg"
 slug: "who-are-your-rock-star-developers"
 ---

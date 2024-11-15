@@ -1,14 +1,6 @@
 ---
 title: "Sophie Labelle"
 date: "2010-08-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "sophie-labelle"
 ---
 

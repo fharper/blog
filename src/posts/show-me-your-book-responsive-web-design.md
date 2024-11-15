@@ -1,14 +1,6 @@
 ---
 title: "Show me your book: Responsive Web Design"
 date: "2012-04-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "RWD-feature.png"
 slug: "show-me-your-book-responsive-web-design"
 ---

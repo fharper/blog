@@ -1,14 +1,6 @@
 ---
 title: "Out of Comfort Zone dans la démo de l'agence TP1"
 date: "2012-08-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tp1.jpg"
 slug: "out-of-comfort-zone-dans-la-demo-de-lagence-tp1"
 ---

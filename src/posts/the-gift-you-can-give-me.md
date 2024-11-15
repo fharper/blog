@@ -1,13 +1,6 @@
 ---
 title: "The gift you can give me"
 date: "2015-03-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "apress"
   - "book"

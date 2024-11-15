@@ -1,14 +1,6 @@
 ---
 title: "I'm a shareaholic, so I'm enjoying Yelp"
 date: "2012-08-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "yelp.jpg"
 slug: "im-a-shareaholic-so-im-enjoying-yelp"
 ---

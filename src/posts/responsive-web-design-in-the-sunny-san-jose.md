@@ -1,14 +1,6 @@
 ---
 title: "Responsive Web Design in the sunny San Jose"
 date: "2013-09-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "rws.jpg"
 slug: "responsive-web-design-in-the-sunny-san-jose"
 ---

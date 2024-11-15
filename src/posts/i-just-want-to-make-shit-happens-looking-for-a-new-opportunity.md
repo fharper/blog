@@ -1,13 +1,6 @@
 ---
 title: "I just want to make shit happen - looking for a new opportunity"
 date: "2017-04-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "career"
   - "change"

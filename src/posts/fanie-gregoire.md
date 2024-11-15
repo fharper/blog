@@ -1,14 +1,6 @@
 ---
 title: "Fanie Grégoire"
 date: "2010-04-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "fanie-gregoire"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Street Art #2 - The king"
 date: "2014-01-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "street-art-2-the-king"
 ---
 

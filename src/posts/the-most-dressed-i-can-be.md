@@ -1,14 +1,6 @@
 ---
 title: "The most dressed I can be"
 date: "2013-05-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DSC_2309_small.jpg"
 slug: "the-most-dressed-i-can-be"
 ---

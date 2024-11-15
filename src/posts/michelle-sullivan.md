@@ -1,14 +1,6 @@
 ---
 title: "Michelle Sullivan"
 date: "2010-08-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "michelle-sullivan"
 ---
 

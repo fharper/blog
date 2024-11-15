@@ -1,14 +1,6 @@
 ---
 title: "What does the fox say?"
 date: "2013-09-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "what-does-the-fox-say"
 ---
 

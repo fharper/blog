@@ -1,14 +1,6 @@
 ---
 title: "The word respect lost his meaning..."
 date: "2014-01-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "respect.jpg"
 slug: "the-word-respect-lost-his-meaning"
 ---

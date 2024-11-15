@@ -1,9 +1,6 @@
 ---
 title: "Hiring me in Québec, Canada"
 date: "2020-10-15"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "canada"
   - "job"

@@ -1,12 +1,6 @@
 ---
 title: "I'm going to Prague in Czech Republic, anything else a tourist should do?"
 date: "2014-03-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "310990867_64974ce2d2_o-scaled.jpg"
 slug: "im-going-to-prague-in-czech-republic-anything-else-a-tourist-should-do"
 ---

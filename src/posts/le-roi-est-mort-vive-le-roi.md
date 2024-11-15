@@ -1,14 +1,6 @@
 ---
 title: "Le roi est mort, vive le roi"
 date: "2010-11-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "le-roi-est-mort-vive-le-roi"
 ---
 

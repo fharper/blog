@@ -1,13 +1,6 @@
 ---
 title: "One year at Mozilla"
 date: "2014-07-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "MozillaFharper.jpg"
 slug: "one-year-at-mozilla"
 ---

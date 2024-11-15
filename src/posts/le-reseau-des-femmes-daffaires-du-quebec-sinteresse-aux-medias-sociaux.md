@@ -1,14 +1,6 @@
 ---
 title: "Le réseau des femmes d'affaires du Québec s'intéresse aux médias sociaux"
 date: "2011-03-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logorfaq200.png"
 slug: "le-reseau-des-femmes-daffaires-du-quebec-sinteresse-aux-medias-sociaux"
 ---

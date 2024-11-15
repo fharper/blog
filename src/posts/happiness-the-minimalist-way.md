@@ -1,14 +1,6 @@
 ---
 title: "Happiness - the minimalist way"
 date: "2016-02-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "challenge"
   - "happiness"

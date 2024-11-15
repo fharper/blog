@@ -1,13 +1,6 @@
 ---
 title: "Is a developer advocate role for me?"
 date: "2019-05-17"
-categories: 
-  - "brainer"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "developer-relations"

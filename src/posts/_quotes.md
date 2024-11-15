@@ -1,8 +1,6 @@
 ---
 title: "Quotes"
 date: "2006-09-11"
-categories: 
-  - "brainer"
 slug: "_quotes"
 ---
 

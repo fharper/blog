@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #2: Turn off the electronics"
 date: "2012-01-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1288700874_cabb8e6095_b-580x400.jpg"
 slug: "hack-your-life-challenge-2-turn-off-the-electronics"
 ---

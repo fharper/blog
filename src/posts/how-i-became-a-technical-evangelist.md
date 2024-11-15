@@ -1,11 +1,6 @@
 ---
 title: "How I became a Technical Evangelist"
 date: "2013-11-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "developer-relations"

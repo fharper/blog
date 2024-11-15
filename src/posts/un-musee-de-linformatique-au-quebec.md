@@ -1,14 +1,6 @@
 ---
 title: "Un musée de l'informatique au Québec"
 date: "2010-09-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "un-musee-de-linformatique-au-quebec"
 ---
 

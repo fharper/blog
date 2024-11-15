@@ -1,14 +1,6 @@
 ---
 title: "Free your mind"
 date: "2013-12-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "freeyourmind.jpg"
 slug: "free-your-mind"
 ---

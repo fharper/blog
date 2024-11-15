@@ -1,13 +1,6 @@
 ---
 title: "I'm joining npm as their new Developer Advocate"
 date: "2018-11-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "developer-evangelist"

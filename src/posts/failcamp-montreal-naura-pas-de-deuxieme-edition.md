@@ -1,14 +1,6 @@
 ---
 title: "Failcamp Montréal n'aura pas de deuxième édition"
 date: "2013-07-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "failcampmtl.png"
 slug: "failcamp-montreal-naura-pas-de-deuxieme-edition"
 ---

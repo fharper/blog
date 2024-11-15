@@ -1,14 +1,6 @@
 ---
 title: "Only in Verdun #1"
 date: "2013-11-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "only-in-verdun-1"
 ---
 

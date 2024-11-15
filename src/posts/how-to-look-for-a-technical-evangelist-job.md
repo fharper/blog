@@ -1,14 +1,6 @@
 ---
 title: "How to look for a technical evangelist job"
 date: "2018-04-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "job"

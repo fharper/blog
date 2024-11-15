@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty #09"
 date: "2022-02-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "adulting"

@@ -1,10 +1,6 @@
 ---
 title: "No bullshit policy"
 date: "2015-04-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "bullshit"
   - "life"

@@ -1,13 +1,6 @@
 ---
 title: "Questions d'un développeur nouvellement entrepreneur"
 date: "2014-09-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "entrepreneurship.png"
 slug: "questions-dun-developpeur-nouvellement-entrepreneur"
 ---

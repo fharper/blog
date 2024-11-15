@@ -1,14 +1,6 @@
 ---
 title: "TechDays Online est maintenant disponible"
 date: "2012-02-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "techdays-online-est-maintenant-disponible"
 ---
 

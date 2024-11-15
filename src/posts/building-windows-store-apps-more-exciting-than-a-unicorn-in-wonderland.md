@@ -1,14 +1,6 @@
 ---
 title: "Building Windows Store Apps, More Exciting Than A Unicorn in Wonderland"
 date: "2013-04-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Picture1.png"
 slug: "building-windows-store-apps-more-exciting-than-a-unicorn-in-wonderland"
 ---

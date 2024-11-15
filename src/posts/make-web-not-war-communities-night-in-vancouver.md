@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War Communities Night in Vancouver"
 date: "2012-02-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "make-web-not-war-communities-night-in-vancouver"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "42, encore un autre blogue..."
 date: "2010-12-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "421.png"
 slug: "42-encore-un-autre-blogue"
 ---

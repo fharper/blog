@@ -1,14 +1,6 @@
 ---
 title: "The Comedy Nest: laughter guaranteed"
 date: "2012-07-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Comedy-Nest-Stage.jpg"
 slug: "the-comedy-nest-laughter-guaranteed"
 ---

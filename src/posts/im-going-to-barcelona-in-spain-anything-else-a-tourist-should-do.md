@@ -1,14 +1,6 @@
 ---
 title: "I'm going to Barcelona in Spain, anything else a tourist should do?"
 date: "2014-01-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "8464046864_a2c4399a48_o.jpg"
 slug: "im-going-to-barcelona-in-spain-anything-else-a-tourist-should-do"
 ---

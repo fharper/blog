@@ -1,13 +1,6 @@
 ---
 title: "No speakers, no conferences."
 date: "2014-03-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "9478232458_422e622fe7_o-scaled.jpg"
 slug: "no-speakers-no-conferences"
 ---

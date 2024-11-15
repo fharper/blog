@@ -1,14 +1,6 @@
 ---
 title: "Are you stealing in a store?"
 date: "2012-06-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1003687878_c1ac1df293_b.jpg"
 slug: "are-you-stealing-in-a-store"
 ---

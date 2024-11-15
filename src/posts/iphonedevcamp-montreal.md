@@ -1,14 +1,6 @@
 ---
 title: "iPhoneDevCamp Montréal"
 date: "2009-01-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "ipod-300x238.png"
 slug: "iphonedevcamp-montreal"
 ---

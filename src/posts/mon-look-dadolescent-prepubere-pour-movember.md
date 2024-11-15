@@ -1,14 +1,6 @@
 ---
 title: "Mon look d'adolescent prépubère pour Movember"
 date: "2011-11-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000135-440x330.jpg"
 slug: "mon-look-dadolescent-prepubere-pour-movember"
 ---

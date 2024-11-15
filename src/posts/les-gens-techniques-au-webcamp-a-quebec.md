@@ -1,14 +1,6 @@
 ---
 title: "Les gens techniques au Webcamp à Québec"
 date: "2012-05-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "201251785345.jpg"
 slug: "les-gens-techniques-au-webcamp-a-quebec"
 ---

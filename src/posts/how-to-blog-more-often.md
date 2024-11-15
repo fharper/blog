@@ -1,14 +1,6 @@
 ---
 title: "How to blog more often"
 date: "2014-01-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "blogging.jpg"
 slug: "how-to-blog-more-often"
 ---

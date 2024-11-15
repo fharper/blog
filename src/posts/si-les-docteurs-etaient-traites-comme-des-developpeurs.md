@@ -1,14 +1,6 @@
 ---
 title: "Si les docteurs étaient traités comme des développeurs"
 date: "2010-07-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "si-les-docteurs-etaient-traites-comme-des-developpeurs"
 ---
 

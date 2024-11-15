@@ -1,14 +1,6 @@
 ---
 title: "Un mot... Une photo!"
 date: "2009-04-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3432303175_62e9d9ce90_o.png"
 slug: "un-mot-une-photo"
 ---

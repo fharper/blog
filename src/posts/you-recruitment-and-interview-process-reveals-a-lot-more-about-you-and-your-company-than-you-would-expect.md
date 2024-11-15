@@ -1,14 +1,6 @@
 ---
 title: "You recruitment, and interview process reveals a lot more about you, and your company than you would expect"
 date: "2014-11-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6922749580_e7b6bb8378_o-scaled.jpg"
 slug: "you-recruitment-and-interview-process-reveals-a-lot-more-about-you-and-your-company-than-you-would-expect"
 ---

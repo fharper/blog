@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Wordpress & Windows 8 with Bryan Xu"
 date: "2013-09-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "bryan_and_fred.jpg"
 slug: "make-web-not-war-tv-wordpress-windows-8-with-bryan-xu"
 ---

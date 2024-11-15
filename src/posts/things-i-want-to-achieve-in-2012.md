@@ -1,14 +1,6 @@
 ---
 title: "Things I want to achieve in 2012"
 date: "2012-01-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5063192367_4ff8b947ee_o.jpg"
 slug: "things-i-want-to-achieve-in-2012"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "You are an influencer"
 date: "2014-01-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "influence.png"
 slug: "you-are-an-influencer"
 ---

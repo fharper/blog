@@ -1,13 +1,6 @@
 ---
 title: "Microsoft nominated me as a Most Valuable Professional"
 date: "2014-07-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "devopsgroup_microsoft_mvp_winner.jpg"
 slug: "microsoft-nominated-me-as-a-most-valuable-professional"
 ---

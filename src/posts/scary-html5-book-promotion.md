@@ -1,14 +1,6 @@
 ---
 title: "Scary HTML5 book promotion"
 date: "2012-02-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "scary-html5-book-promotion"
 ---
 

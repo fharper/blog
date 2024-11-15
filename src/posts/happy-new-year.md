@@ -1,14 +1,6 @@
 ---
 title: "Happy New Year!"
 date: "2014-01-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "happynewyear.jpg"
 slug: "happy-new-year"
 ---

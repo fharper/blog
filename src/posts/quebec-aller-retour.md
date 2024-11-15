@@ -1,14 +1,6 @@
 ---
 title: "Québec aller-retour"
 date: "2011-04-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "cloudcamp-quebec-300x112.jpg"
 slug: "quebec-aller-retour"
 ---

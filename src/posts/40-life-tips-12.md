@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty #12"
 date: "2022-02-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "busyness"

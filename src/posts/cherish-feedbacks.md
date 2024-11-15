@@ -1,13 +1,6 @@
 ---
 title: "Cherish feedbacks"
 date: "2014-02-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "5282390494_62776d797a_o-scaled.jpg"
 slug: "cherish-feedbacks"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Soyez remercié comme il se doit"
 date: "2013-04-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130330_001.jpg"
 slug: "soyez-remercie-comme-il-se-doit"
 ---

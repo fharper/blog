@@ -1,14 +1,6 @@
 ---
 title: "Sébastien Provencher"
 date: "2010-05-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "sebastien-provencher"
 ---
 

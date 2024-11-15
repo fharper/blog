@@ -1,14 +1,6 @@
 ---
 title: "The Microsoft ShamWOW"
 date: "2012-03-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "the-microsoft-shamwow"
 ---
 

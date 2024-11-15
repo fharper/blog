@@ -1,14 +1,6 @@
 ---
 title: "L'euthanasie ça tue"
 date: "2009-04-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3410727398_3d7812e093_m.png"
 slug: "leuthanasie-ca-tue"
 ---

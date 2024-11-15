@@ -1,14 +1,6 @@
 ---
 title: "I'm crowdsourcing my bio"
 date: "2013-06-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "135287814_7d01fe5642_o.jpg"
 slug: "im-crowdsourcing-my-bio"
 ---

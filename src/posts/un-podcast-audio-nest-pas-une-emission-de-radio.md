@@ -1,14 +1,6 @@
 ---
 title: "Un podcast audio n'est pas une émission de radio"
 date: "2010-11-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "un-podcast-audio-nest-pas-une-emission-de-radio"
 ---
 

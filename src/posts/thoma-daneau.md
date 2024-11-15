@@ -1,14 +1,6 @@
 ---
 title: "Thoma Daneau"
 date: "2010-06-23"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
-  - "fr"
 slug: "thoma-daneau"
 ---
 

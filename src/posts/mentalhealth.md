@@ -1,13 +1,6 @@
 ---
 title: "The Day I Wanted to Kill Myself"
 date: "2016-04-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "depression"
   - "learning"

@@ -1,14 +1,6 @@
 ---
 title: "KWS Forum : Technologie, développement social et économique"
 date: "2014-01-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fred_at_kws.jpg"
 slug: "kws-forum-technologie-developpement-social-et-economique"
 ---

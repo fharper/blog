@@ -1,14 +1,6 @@
 ---
 title: "Vous avez une idée d'application pour Windows Phone 7? Je la réalise!"
 date: "2011-01-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Samsung-Focus-ATT-Windows-Phone-7-official_thumb.jpg"
 slug: "vous-avez-une-idee-dapplication-pour-windows-phone-7-je-la-realise"
 ---

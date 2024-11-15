@@ -1,14 +1,6 @@
 ---
 title: "Ma carrière techno - notre responsabilité en tant que professionnel des TIC"
 date: "2013-10-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "schoolbus.jpg"
 slug: "ma-carriere-techno-notre-responsabilite-en-tant-que-professionnel-des-tic"
 ---

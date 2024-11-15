@@ -1,14 +1,6 @@
 ---
 title: "So you want to work at home?"
 date: "2013-04-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "114082129.jpg"
 slug: "so-you-want-to-work-at-home"
 ---

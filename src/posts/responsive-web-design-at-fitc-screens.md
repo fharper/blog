@@ -1,14 +1,6 @@
 ---
 title: "Responsive Web Design at FITC SCREENS"
 date: "2012-09-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "A35EiMKCYAE_t1i.jpg"
 slug: "responsive-web-design-at-fitc-screens"
 ---

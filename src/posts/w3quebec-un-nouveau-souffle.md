@@ -1,14 +1,6 @@
 ---
 title: "W3Québec - Un nouveau souffle"
 date: "2008-06-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "w3quebec.gif"
 slug: "w3quebec-un-nouveau-souffle"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Say hi to my new friend the gnome"
 date: "2014-01-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fharper.png"
 slug: "say-hi-to-my-new-friend-the-gnome"
 ---

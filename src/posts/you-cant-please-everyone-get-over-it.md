@@ -1,13 +1,6 @@
 ---
 title: "You can't please everyone, get over it"
 date: "2013-12-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "8675724041_3c35450f25_o-scaled.jpg"
 slug: "you-cant-please-everyone-get-over-it"
 ---

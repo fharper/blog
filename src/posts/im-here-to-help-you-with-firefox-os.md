@@ -1,14 +1,6 @@
 ---
 title: "I'm here to help you with Firefox OS"
 date: "2013-07-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "FFxOSDevs_.png"
 slug: "im-here-to-help-you-with-firefox-os"
 ---

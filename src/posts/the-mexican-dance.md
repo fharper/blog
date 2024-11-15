@@ -1,14 +1,6 @@
 ---
 title: "The Mexican dance"
 date: "2013-11-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Mexico_dance.gif"
 slug: "the-mexican-dance"
 ---

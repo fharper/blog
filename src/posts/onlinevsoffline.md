@@ -1,14 +1,6 @@
 ---
 title: "Online is good. Offline is the secret sauce."
 date: "2017-05-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "connection"
   - "developer-outreach"

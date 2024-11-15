@@ -1,14 +1,6 @@
 ---
 title: "Ménage de printemps en 140 caractères"
 date: "2010-04-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "twitter-over-300x225.jpg"
 slug: "menage-de-printemps-en-140-caracteres"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "FounderFuel et l’entrepreneuriat à Montréal"
 date: "2013-05-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "FounderFuel-logo-On-white.jpg"
 slug: "founderfuel-et-lentrepreneuriat-a-montreal"
 ---

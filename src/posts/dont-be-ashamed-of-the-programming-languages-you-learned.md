@@ -1,14 +1,6 @@
 ---
 title: "Don't be ashamed of the programming languages you learned"
 date: "2013-09-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "vb.jpg"
 slug: "dont-be-ashamed-of-the-programming-languages-you-learned"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Je redeviens un agent libre sous peu, professionnellement parlant!"
 date: "2010-04-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "jobless-240x300.jpg"
 slug: "je-redeviens-un-agent-libre-sous-peu-professionnellement-parlant"
 ---

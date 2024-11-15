@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS, the platform you deserve - Budapest, Hungary"
 date: "2013-11-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "budapestFred.jpg"
 slug: "firefox-os-the-platform-you-deserve-budapest-hungary"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Show me your book: Strengths Finder 2.0"
 date: "2012-02-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "show-me-your-book-strengths-finder-2-0"
 ---
 

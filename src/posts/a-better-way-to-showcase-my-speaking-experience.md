@@ -1,14 +1,6 @@
 ---
 title: "A better way to showcase my speaking experience"
 date: "2014-02-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "speakup.jpg"
 slug: "a-better-way-to-showcase-my-speaking-experience"
 ---

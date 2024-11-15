@@ -1,14 +1,6 @@
 ---
 title: "Star Wars : The Clones Wars"
 date: "2010-09-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "theclonewars_logo-300x206.jpg"
 slug: "star-wars-the-clones-wars"
 ---

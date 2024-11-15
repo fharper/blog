@@ -1,14 +1,6 @@
 ---
 title: "Stop being a pussy and take the control of your life"
 date: "2011-07-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5094829588_3b26bdb283_o-1-scaled.jpg"
 slug: "stop-being-a-pussy-and-take-the-control-of-your-life"
 ---

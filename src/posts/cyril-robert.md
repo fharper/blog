@@ -1,14 +1,6 @@
 ---
 title: "Cyril Robert"
 date: "2010-04-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "cyril-robert"
 ---
 

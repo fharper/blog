@@ -1,14 +1,6 @@
 ---
 title: "Entrevue de Geeks and Com' sur Firefox OS"
 date: "2013-11-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "GeeksandcomFred.png"
 slug: "entrevue-de-geeks-and-com-sur-firefox-os"
 ---

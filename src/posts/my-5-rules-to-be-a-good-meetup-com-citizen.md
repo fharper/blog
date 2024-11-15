@@ -1,14 +1,6 @@
 ---
 title: "My 5 rules to be a good meetup.com citizen"
 date: "2015-01-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "meetup"
 image: "Meetup-Logo-1300x730-1.png"

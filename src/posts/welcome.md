@@ -1,12 +1,6 @@
 ---
 title: "Welcome to fred.dev"
 date: "2019-04-10"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "blogging"
 image: "alexandre-godreau-510220-unsplash.jpg"

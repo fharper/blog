@@ -1,14 +1,6 @@
 ---
 title: "Stop blaming others"
 date: "2015-03-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3710798106_dee1e87638_b.jpg"
 slug: "stop-blaming-others"
 ---

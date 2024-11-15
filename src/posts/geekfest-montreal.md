@@ -1,14 +1,6 @@
 ---
 title: "GeekFest Montréal"
 date: "2009-08-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "geekfestmtl-300x148.png"
 slug: "geekfest-montreal"
 ---

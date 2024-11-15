@@ -1,13 +1,6 @@
 ---
 title: "Community Evangelist: Firefox OS developer outreach at MozCamp India"
 date: "2014-07-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "14478398402_4b758cb0df_o.jpg"
 slug: "community-evangelist-firefox-os-developer-outreach-at-mozcamp-india"
 ---

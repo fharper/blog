@@ -1,14 +1,6 @@
 ---
 title: "À la base 2 migre vers Out of Comfort Zone"
 date: "2011-12-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6046349308_3fb0fe8ef1_b-440x588.jpg"
 slug: "a-la-base-2-migre-vers-out-of-comfort-zone"
 ---

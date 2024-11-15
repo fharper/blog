@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - The importance of security with Philippe Gamache"
 date: "2013-10-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Philippe_Gamache_and_Fred.png"
 slug: "make-web-not-war-tv-the-importance-of-security-with-philippe-gamache"
 ---

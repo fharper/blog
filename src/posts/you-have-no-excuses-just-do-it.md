@@ -1,14 +1,6 @@
 ---
 title: "You have no excuses: just do it!"
 date: "2013-12-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "excuses.jpg"
 slug: "you-have-no-excuses-just-do-it"
 ---

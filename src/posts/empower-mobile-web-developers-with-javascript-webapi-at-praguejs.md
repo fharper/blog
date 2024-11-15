@@ -1,12 +1,6 @@
 ---
 title: "Empower Mobile Web Developers with JavaScript & WebAPI at PragueJS"
 date: "2014-03-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "fharper@PragueJS.jpg"
 slug: "empower-mobile-web-developers-with-javascript-webapi-at-praguejs"
 ---

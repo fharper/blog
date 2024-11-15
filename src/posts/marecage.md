@@ -1,14 +1,6 @@
 ---
 title: "Marécage"
 date: "2009-05-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3524173888_c859011988_o.png"
 slug: "marecage"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Follow Friday - Laurent LaSalle"
 date: "2010-12-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "582038_300.jpg"
 slug: "follow-friday-laurent-lasalle"
 ---

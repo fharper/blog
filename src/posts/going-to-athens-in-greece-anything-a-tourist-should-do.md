@@ -1,14 +1,6 @@
 ---
 title: "Going to Athens in Greece, anything a tourist should do?"
 date: "2013-11-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "athens.jpg"
 slug: "going-to-athens-in-greece-anything-a-tourist-should-do"
 ---

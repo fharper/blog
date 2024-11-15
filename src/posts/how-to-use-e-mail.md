@@ -1,14 +1,6 @@
 ---
 title: "How to use e-mail"
 date: "2011-11-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3175872479_aff91d806c_o-580x400.jpg"
 slug: "how-to-use-e-mail"
 ---

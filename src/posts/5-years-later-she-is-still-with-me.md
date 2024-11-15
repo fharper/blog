@@ -1,14 +1,6 @@
 ---
 title: "5 years later, she is still with me"
 date: "2012-08-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3497660519_a6ae4af43d_z.jpg"
 slug: "5-years-later-she-is-still-with-me"
 ---

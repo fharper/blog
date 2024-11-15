@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS love in Toronto"
 date: "2014-01-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "FredInToronto.jpg"
 slug: "firefox-os-love-in-toronto"
 ---

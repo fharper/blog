@@ -1,14 +1,6 @@
 ---
 title: "Soyez conséquent avec vous-même"
 date: "2010-09-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "two-face.png"
 slug: "soyez-consequent-avec-vous-meme"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Les billets de 42 sont maintenant disponibles ici"
 date: "2012-03-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "42.png"
 slug: "les-billets-de-42-sont-maintenant-disponibles-ici"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "Cornucopia of public speaking tips"
 date: "2022-04-01"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "communication"
   - "conference"

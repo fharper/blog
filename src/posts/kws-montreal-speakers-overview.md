@@ -1,14 +1,6 @@
 ---
 title: "KWS Montréal - Speakers Overview"
 date: "2013-09-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "kws.png"
 slug: "kws-montreal-speakers-overview"
 ---

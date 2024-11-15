@@ -1,14 +1,6 @@
 ---
 title: "Chat"
 date: "2009-04-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3432158731_e1ebd6ff56_o.png"
 slug: "chat"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Stop crying in your shower: change is a new opportunity"
 date: "2011-07-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "stop-crying-in-your-shower-change-is-a-new-opportunity"
 ---
 

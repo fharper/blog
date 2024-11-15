@@ -1,14 +1,6 @@
 ---
 title: "Show me your book: Read this before our next meeting"
 date: "2012-04-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Read-This-Before-Our-Next-Meeting.jpg"
 slug: "show-me-your-book-read-this-before-our-next-meeting"
 ---

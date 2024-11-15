@@ -1,14 +1,6 @@
 ---
 title: "So it's your first flight, no worries, here are some thing you should think about"
 date: "2014-01-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2181849280_875d408640_o.jpg"
 slug: "so-its-your-first-flight-no-worries-here-are-some-thing-you-should-think-about"
 ---

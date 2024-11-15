@@ -1,14 +1,6 @@
 ---
 title: "My fans are intense"
 date: "2012-04-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000190.jpg"
 slug: "my-fans-are-intense"
 ---

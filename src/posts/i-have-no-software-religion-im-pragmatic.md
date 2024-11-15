@@ -1,14 +1,6 @@
 ---
 title: "I have no software religion; I'm pragmatic"
 date: "2014-01-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "open.jpg"
 slug: "i-have-no-software-religion-im-pragmatic"
 ---

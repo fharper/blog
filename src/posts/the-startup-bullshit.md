@@ -1,14 +1,6 @@
 ---
 title: "The startup bullshit"
 date: "2013-08-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3738819183_15ee79c350_z.jpg"
 slug: "the-startup-bullshit"
 ---

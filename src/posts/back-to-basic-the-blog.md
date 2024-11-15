@@ -1,14 +1,6 @@
 ---
 title: "Back to basic, the blog"
 date: "2011-12-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4021813470_90f76ddc77_b-580x400.jpg"
 slug: "back-to-basic-the-blog"
 ---

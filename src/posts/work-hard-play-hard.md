@@ -1,14 +1,6 @@
 ---
 title: "Work hard, play hard"
 date: "2011-09-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5343267956_32c89b8580_b-580x400.jpg"
 slug: "work-hard-play-hard"
 ---

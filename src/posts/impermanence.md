@@ -1,10 +1,6 @@
 ---
 title: "Nothing Is Permanent"
 date: "2020-10-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "buddhism"
   - "impermanence"

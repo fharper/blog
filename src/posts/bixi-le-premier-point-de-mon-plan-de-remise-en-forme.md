@@ -1,14 +1,6 @@
 ---
 title: "BIXI: le premier point de mon plan de remise en forme"
 date: "2011-04-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "bixi-300x100.png"
 slug: "bixi-le-premier-point-de-mon-plan-de-remise-en-forme"
 ---

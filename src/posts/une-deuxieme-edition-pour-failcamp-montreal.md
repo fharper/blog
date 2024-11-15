@@ -1,14 +1,6 @@
 ---
 title: "Une deuxième édition pour FailCamp Montréal"
 date: "2014-02-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "failcampmtl-600x291.jpg"
 slug: "une-deuxieme-edition-pour-failcamp-montreal"
 ---

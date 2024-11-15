@@ -1,14 +1,6 @@
 ---
 title: "Tomorrow"
 date: "2013-12-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "gnome.jpg"
 slug: "tomorrow"
 ---

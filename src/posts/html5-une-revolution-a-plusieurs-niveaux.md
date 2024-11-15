@@ -1,14 +1,6 @@
 ---
 title: "HTML5, une révolution à plusieurs niveaux"
 date: "2012-11-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mobiz.jpg"
 slug: "html5-une-revolution-a-plusieurs-niveaux"
 ---

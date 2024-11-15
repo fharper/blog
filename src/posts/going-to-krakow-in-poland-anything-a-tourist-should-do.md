@@ -1,14 +1,6 @@
 ---
 title: "Going to Krakow in Poland, anything a tourist should do?"
 date: "2013-08-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "krakow.jpg"
 slug: "going-to-krakow-in-poland-anything-a-tourist-should-do"
 ---

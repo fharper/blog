@@ -1,14 +1,6 @@
 ---
 title: "My retrospective of my 2013's words"
 date: "2013-12-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fast.jpg"
 slug: "my-retrospective-of-my-2013s-words"
 ---

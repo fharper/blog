@@ -1,9 +1,6 @@
 ---
 title: "I'm joining MeiliSearch as their Director of Developer Relations"
 date: "2020-11-11"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "community"
   - "developer-relations"

@@ -1,14 +1,6 @@
 ---
 title: "Better comment at the source"
 date: "2013-10-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "comments.jpg"
 slug: "better-comment-at-the-source"
 ---

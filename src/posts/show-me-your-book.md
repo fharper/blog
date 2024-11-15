@@ -1,14 +1,6 @@
 ---
 title: "Show me your book"
 date: "2011-07-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "537556252_49a33faf55_o-580x400.jpg"
 slug: "show-me-your-book"
 ---

@@ -1,13 +1,6 @@
 ---
 title: "I'm joining IMMUNIO as their Technical Evangelist"
 date: "2015-06-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "immunio"
   - "job"

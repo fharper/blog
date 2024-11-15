@@ -1,14 +1,6 @@
 ---
 title: "Being a treasure hunter in the 21st century with geocaching"
 date: "2013-12-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "geocaching.jpg"
 slug: "being-a-treasure-hunter-in-the-21st-century-with-geocaching"
 ---

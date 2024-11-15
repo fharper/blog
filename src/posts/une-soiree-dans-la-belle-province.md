@@ -1,14 +1,6 @@
 ---
 title: "Une soirée dans la belle province"
 date: "2011-03-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "plaque_bellepro-300x211.jpg"
 slug: "une-soiree-dans-la-belle-province"
 ---

@@ -1,13 +1,6 @@
 ---
 title: "I'm moving to San Francisco and joining Uber as their first Developer Advocate"
 date: "2018-09-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "open-source"

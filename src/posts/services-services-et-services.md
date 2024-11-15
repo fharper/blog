@@ -1,14 +1,6 @@
 ---
 title: "Services, services et services"
 date: "2010-07-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "social-media-overload-196x300.jpg"
 slug: "services-services-et-services"
 ---

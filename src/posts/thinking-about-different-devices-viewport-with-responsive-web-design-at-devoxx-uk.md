@@ -1,13 +1,6 @@
 ---
 title: "Thinking about different devices viewport with Responsive Web Design at Devoxx UK"
 date: "2014-05-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DevoxxUK.png"
 slug: "thinking-about-different-devices-viewport-with-responsive-web-design-at-devoxx-uk"
 ---

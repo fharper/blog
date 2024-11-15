@@ -1,14 +1,6 @@
 ---
 title: "Une présentation techno, ça vous dirait?"
 date: "2011-06-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "une-presentation-techno-ca-vous-dirait"
 ---
 

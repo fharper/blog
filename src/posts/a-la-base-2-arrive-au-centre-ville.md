@@ -1,14 +1,6 @@
 ---
 title: "À la base 2 arrive au Centre-Ville"
 date: "2010-06-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "new-montreal-logo.jpg"
 slug: "a-la-base-2-arrive-au-centre-ville"
 ---

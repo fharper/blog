@@ -1,14 +1,6 @@
 ---
 title: "Be strong for the ones you love"
 date: "2013-09-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "hospital.jpg"
 slug: "be-strong-for-the-ones-you-love"
 ---

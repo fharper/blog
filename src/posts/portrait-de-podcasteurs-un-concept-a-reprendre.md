@@ -1,14 +1,6 @@
 ---
 title: "Portrait de podcasteurs, un concept à reprendre"
 date: "2010-10-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Portpod-300x225.png"
 slug: "portrait-de-podcasteurs-un-concept-a-reprendre"
 ---

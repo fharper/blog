@@ -1,14 +1,6 @@
 ---
 title: "Lucy in the sky..."
 date: "2009-05-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3511033621_7de1a869b6.png"
 slug: "lucy-in-the-sky"
 ---

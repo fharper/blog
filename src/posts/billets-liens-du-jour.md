@@ -1,14 +1,6 @@
 ---
 title: "Billets \"Liens du jour\""
 date: "2008-06-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "delicious.png"
 slug: "billets-liens-du-jour"
 ---

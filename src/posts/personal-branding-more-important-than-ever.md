@@ -1,14 +1,6 @@
 ---
 title: "Personal Branding, more important than ever"
 date: "2013-09-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "0Q8A2576.jpg"
 slug: "personal-branding-more-important-than-ever"
 ---

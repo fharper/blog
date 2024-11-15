@@ -1,14 +1,6 @@
 ---
 title: "Yulblog - Prise 2"
 date: "2009-01-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo2.png"
 slug: "yulblog-prise-2"
 ---

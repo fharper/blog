@@ -1,14 +1,6 @@
 ---
 title: "Justin et moi"
 date: "2011-08-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1a-440x586.jpg"
 slug: "justin-et-moi"
 ---

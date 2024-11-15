@@ -1,14 +1,6 @@
 ---
 title: "Manifeste des médias sociaux"
 date: "2011-06-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mouth_tape-200x300.jpg"
 slug: "manifeste-des-medias-sociaux"
 ---

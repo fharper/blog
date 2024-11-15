@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #7: take a break"
 date: "2012-02-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4337496170_8052a14cac_o-580x400.jpg"
 slug: "hack-your-life-challenge-7-take-a-break"
 ---

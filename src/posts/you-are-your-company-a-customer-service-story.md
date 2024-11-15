@@ -1,14 +1,6 @@
 ---
 title: "You are your company, a customer service story"
 date: "2012-02-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "you-are-your-company-a-customer-service-story"
 ---
 

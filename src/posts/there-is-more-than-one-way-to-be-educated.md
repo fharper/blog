@@ -1,14 +1,6 @@
 ---
 title: "There is more than one way to be educated"
 date: "2012-12-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "there-is-more-than-one-way-to-be-educated"
 ---
 

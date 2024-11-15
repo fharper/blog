@@ -1,14 +1,6 @@
 ---
 title: "My life manifesto"
 date: "2011-11-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4574733303_5c72eac636_o-580x400.jpg"
 slug: "my-life-manifesto"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "I'm joining Mozilla"
 date: "2013-06-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mozilla_wordmark1.png"
 slug: "im-joining-mozilla"
 ---

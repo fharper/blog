@@ -1,14 +1,6 @@
 ---
 title: "Combat de gros"
 date: "2010-11-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sumo-wrestler-lawn-sculpture-300x300.jpg"
 slug: "combat-de-gros"
 ---

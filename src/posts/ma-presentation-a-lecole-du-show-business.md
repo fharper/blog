@@ -1,14 +1,6 @@
 ---
 title: "Ma présentation à l'École du Show Business"
 date: "2010-11-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "ma-presentation-a-lecole-du-show-business"
 ---
 

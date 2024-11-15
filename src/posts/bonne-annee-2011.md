@@ -1,14 +1,6 @@
 ---
 title: "Bonne Année 2011"
 date: "2011-01-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "bonne-annee-2011"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Don't be shy, leave a comment"
 date: "2012-09-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "express_yourself.jpg"
 slug: "dont-be-shy-leave-a-comment"
 ---

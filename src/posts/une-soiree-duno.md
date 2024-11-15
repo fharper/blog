@@ -1,14 +1,6 @@
 ---
 title: "Une soirée d'Uno"
 date: "2011-04-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "uno-300x208.jpg"
 slug: "une-soiree-duno"
 ---

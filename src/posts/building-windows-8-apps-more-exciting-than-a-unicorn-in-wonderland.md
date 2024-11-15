@@ -1,14 +1,6 @@
 ---
 title: "Building Windows 8 apps, more exciting than a unicorn in wonderland"
 date: "2013-04-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2192179302_aa69fd2aab_b.jpg"
 slug: "building-windows-8-apps-more-exciting-than-a-unicorn-in-wonderland"
 ---

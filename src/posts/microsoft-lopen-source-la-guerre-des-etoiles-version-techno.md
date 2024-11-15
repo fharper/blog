@@ -1,14 +1,6 @@
 ---
 title: "Microsoft & l'Open Source, la guerre des étoiles version techno"
 date: "2012-09-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "7025126015_a40502ceb4_b.jpg"
 slug: "microsoft-lopen-source-la-guerre-des-etoiles-version-techno"
 ---

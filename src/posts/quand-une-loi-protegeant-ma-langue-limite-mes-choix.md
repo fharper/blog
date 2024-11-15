@@ -1,14 +1,6 @@
 ---
 title: "Quand une loi protégeant ma langue limite mes choix"
 date: "2012-11-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2012-11-07_2027.png"
 slug: "quand-une-loi-protegeant-ma-langue-limite-mes-choix"
 ---

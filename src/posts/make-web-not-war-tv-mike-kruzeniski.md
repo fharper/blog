@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Mike Kruzeniski"
 date: "2013-08-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Mike_and_Fred.png"
 slug: "make-web-not-war-tv-mike-kruzeniski"
 ---

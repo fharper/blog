@@ -1,14 +1,6 @@
 ---
 title: "Debbie Rouleau"
 date: "2010-03-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "debbie-rouleau"
 ---
 

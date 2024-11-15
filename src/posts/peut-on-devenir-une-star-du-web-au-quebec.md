@@ -1,14 +1,6 @@
 ---
 title: "Peut-on devenir une star du Web au Québec?"
 date: "2010-06-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "versionfinale-300x191.jpg"
 slug: "peut-on-devenir-une-star-du-web-au-quebec"
 ---

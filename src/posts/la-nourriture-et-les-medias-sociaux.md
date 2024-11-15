@@ -1,14 +1,6 @@
 ---
 title: "La nourriture et les médias sociaux"
 date: "2010-11-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sodexo_4c-300x127.jpg"
 slug: "la-nourriture-et-les-medias-sociaux"
 ---

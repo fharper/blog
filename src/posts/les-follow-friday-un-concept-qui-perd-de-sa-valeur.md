@@ -1,14 +1,6 @@
 ---
 title: "Les Follow Friday, un concept qui perd de sa valeur"
 date: "2010-12-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Death-of-Follow-Friday-on-Twitter-300x182.jpg"
 slug: "les-follow-friday-un-concept-qui-perd-de-sa-valeur"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Twitter me rend paresseux"
 date: "2009-03-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "twitter.png"
 slug: "twitter-me-rend-paresseux"
 ---

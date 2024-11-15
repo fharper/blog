@@ -1,14 +1,6 @@
 ---
 title: "Do you have a bozo list?"
 date: "2015-01-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "toxic-people"
 image: "5489894082_b1ff845522_o.jpg"

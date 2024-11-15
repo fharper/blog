@@ -1,12 +1,6 @@
 ---
 title: "My blog posts frequency"
 date: "2014-03-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "5700038935_4cc490d41c_o.jpg"
 slug: "my-blog-posts-frequency"
 ---

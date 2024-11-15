@@ -1,14 +1,6 @@
 ---
 title: "Wordpress dans les nuages au Wordcamp Montréal"
 date: "2012-08-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2a65ac68e93411e18b0122000a1e9b8c_7.jpg"
 slug: "wordpress-dans-les-nuages-au-wordcamp-montreal"
 ---

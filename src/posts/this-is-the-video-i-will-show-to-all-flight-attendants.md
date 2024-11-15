@@ -1,14 +1,6 @@
 ---
 title: "This is the video I will show to all flight attendants"
 date: "2012-04-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "this-is-the-video-i-will-show-to-all-flight-attendants"
 ---
 

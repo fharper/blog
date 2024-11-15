@@ -1,14 +1,6 @@
 ---
 title: "Trop de contrats: un beau problème"
 date: "2010-09-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "too-much-work-300x200.jpg"
 slug: "trop-de-contrats-un-beau-probleme"
 ---

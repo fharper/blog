@@ -1,14 +1,6 @@
 ---
 title: "20 pounds, and counting"
 date: "2012-08-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "7582140718_72b91ae0d9_c.jpg"
 slug: "20-pounds-and-counting"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Mystérieux tel un cougar - Movember jour 19"
 date: "2011-11-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000165-440x586.jpg"
 slug: "mysterieux-tel-un-cougar-movember-jour-19"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "I'm joining Kubefirst"
 date: "2022-11-28"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "announcement"
   - "devrel"

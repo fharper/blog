@@ -1,14 +1,6 @@
 ---
 title: "First week done as a Mozillian"
 date: "2013-07-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Moz_ffx_openStandards.jpg"
 slug: "first-week-done-as-a-mozillian"
 ---

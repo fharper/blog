@@ -1,14 +1,6 @@
 ---
 title: "Devenez fan sur Facebook"
 date: "2010-08-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "facebook-300x112.jpg"
 slug: "devenez-fan-sur-facebook"
 ---

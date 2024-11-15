@@ -1,14 +1,6 @@
 ---
 title: "The WWW and me..."
 date: "2017-05-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "apress"
   - "event"

@@ -1,14 +1,6 @@
 ---
 title: "Take vacations or change job"
 date: "2011-07-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4848319217_dc2bd109eb_o-580x400.jpg"
 slug: "take-vacations-or-change-job"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Web Camp en début février, y serez-vous?"
 date: "2011-01-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo-webcamps.png"
 slug: "web-camp-en-debut-fevrier-y-serez-vous"
 ---

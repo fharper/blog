@@ -1,14 +1,6 @@
 ---
 title: "Nuage"
 date: "2009-08-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3753962744_4400d7959a_o.png"
 slug: "nuage"
 ---

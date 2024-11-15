@@ -1,14 +1,6 @@
 ---
 title: "HTML5 Challenge #1 - The result"
 date: "2013-05-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "html5-topper.png"
 slug: "html5-challenge-1-the-result"
 ---

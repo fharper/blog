@@ -1,14 +1,6 @@
 ---
 title: "6 years of freedom"
 date: "2013-08-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "cherie_et_moi.jpg"
 slug: "6-years-of-freedom"
 ---

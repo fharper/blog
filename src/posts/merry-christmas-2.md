@@ -1,14 +1,6 @@
 ---
 title: "Merry Christmas"
 date: "2013-12-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "geekchristmas.jpg"
 slug: "merry-christmas-2"
 ---

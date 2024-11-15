@@ -1,13 +1,6 @@
 ---
 title: "Internet freedom with my internet stick from Rogers"
 date: "2015-01-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "252218894_3779c6a5ee_b.jpg"
 slug: "internet-freedom-with-my-internet-stick-from-rogers"
 ---

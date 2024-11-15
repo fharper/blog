@@ -1,14 +1,6 @@
 ---
 title: "Qui va commencer à jouer au Golf selon vous?"
 date: "2011-09-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "43-440x586.jpg"
 slug: "qui-va-commencer-a-jouer-au-golf-selon-vous"
 ---

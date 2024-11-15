@@ -1,14 +1,6 @@
 ---
 title: "Tips for your first presentation"
 date: "2015-09-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "conference"
   - "presentation"

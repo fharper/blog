@@ -1,14 +1,6 @@
 ---
 title: "Do you recognize your local high speed Internet & cable provider?"
 date: "2013-03-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2013-03-29_1055.png"
 slug: "do-you-recognize-your-local-high-speed-internet-cable-provider"
 ---

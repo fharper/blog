@@ -1,14 +1,6 @@
 ---
 title: "En rénovation"
 date: "2009-11-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "under_construction-300x299.png"
 slug: "en-renovation"
 ---

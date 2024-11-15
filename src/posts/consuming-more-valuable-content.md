@@ -1,14 +1,6 @@
 ---
 title: "Consuming more valuable content"
 date: "2014-01-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "listen.jpg"
 slug: "consuming-more-valuable-content"
 ---

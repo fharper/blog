@@ -1,14 +1,6 @@
 ---
 title: "A sketch of me... with a duckface"
 date: "2012-04-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "582805_278586808898724_100002422216764_580232_486958561_n.jpg"
 slug: "a-sketch-of-me-with-a-duckface"
 ---

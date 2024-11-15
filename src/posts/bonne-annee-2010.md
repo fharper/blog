@@ -1,14 +1,6 @@
 ---
 title: "Bonne année 2010"
 date: "2009-12-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "dejese-papa-tux-noel-2395.png"
 slug: "bonne-annee-2010"
 ---

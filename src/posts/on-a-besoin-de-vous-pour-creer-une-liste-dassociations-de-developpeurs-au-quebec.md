@@ -1,14 +1,6 @@
 ---
 title: "On a besoin de vous pour créer une liste d'associations de développeurs au Québec"
 date: "2011-01-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fleur_de_lys_thumb.jpg"
 slug: "on-a-besoin-de-vous-pour-creer-une-liste-dassociations-de-developpeurs-au-quebec"
 ---

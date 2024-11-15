@@ -1,12 +1,6 @@
 ---
 title: "My little girl"
 date: "2019-12-10"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "cat"
   - "java"

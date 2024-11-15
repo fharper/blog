@@ -1,14 +1,6 @@
 ---
 title: "Concours: VIP au party de la F1 du Light Ultra Club"
 date: "2011-06-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "618_l-300x195.jpg"
 slug: "concours-vip-au-party-de-la-f1-du-light-ultra-club"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Social Media roundtable at the McGill Writing Centre"
 date: "2013-05-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3289068821_b190d6a311_b.jpg"
 slug: "social-media-roundtable-at-the-mcgill-writing-centre"
 ---

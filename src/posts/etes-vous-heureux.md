@@ -1,14 +1,6 @@
 ---
 title: "Êtes-vous heureux?"
 date: "2011-08-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tumblr_lpkntj8baF1qzleu4o1_500.jpg"
 slug: "etes-vous-heureux"
 ---

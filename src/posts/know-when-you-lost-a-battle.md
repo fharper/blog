@@ -1,13 +1,6 @@
 ---
 title: "Know when you lost a battle"
 date: "2014-08-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4602804480_78ece120a2_o-scaled.jpg"
 slug: "know-when-you-lost-a-battle"
 ---

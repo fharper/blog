@@ -1,14 +1,6 @@
 ---
 title: "Looking for a Windows 8 or Windows Phone freelancer? I know one of the best out there!"
 date: "2013-12-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sebastienhelping.jpg"
 slug: "looking-for-a-windows-8-or-windows-phone-freelancer-i-know-one-of-the-best-out-there"
 ---

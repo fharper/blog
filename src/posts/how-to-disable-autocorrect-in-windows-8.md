@@ -1,14 +1,6 @@
 ---
 title: "How to disable autocorrect in Windows 8"
 date: "2012-09-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2012-09-15_1305.png"
 slug: "how-to-disable-autocorrect-in-windows-8"
 ---

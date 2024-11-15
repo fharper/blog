@@ -1,14 +1,6 @@
 ---
 title: "J'ai encouragé Layton"
 date: "2011-05-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DSCN03911.jpg"
 slug: "jai-encourage-layton"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Attention: ce site change de vocation"
 date: "2010-05-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "attention-300x300.jpg"
 slug: "attention-ce-site-change-de-vocation"
 ---

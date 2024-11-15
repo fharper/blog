@@ -1,13 +1,6 @@
 ---
 title: "Stop Glorifying Busyness"
 date: "2017-05-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "busyness"
   - "focus"

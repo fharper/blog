@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #5: do"
 date: "2012-02-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2995826559_f6b9aaeb48_o-580x400.jpg"
 slug: "hack-your-life-challenge-5-do"
 ---

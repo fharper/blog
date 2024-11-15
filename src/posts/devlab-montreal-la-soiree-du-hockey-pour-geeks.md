@@ -1,14 +1,6 @@
 ---
 title: "devLAB Montréal - La soirée du hockey pour Geeks"
 date: "2011-01-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "devlab-300x127.png"
 slug: "devlab-montreal-la-soiree-du-hockey-pour-geeks"
 ---

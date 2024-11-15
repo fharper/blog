@@ -1,10 +1,6 @@
 ---
 title: "First impression matter"
 date: "2014-07-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtags"
 image: "10631714324_0089582057_k.jpg"
 slug: "firstimpression"
 ---

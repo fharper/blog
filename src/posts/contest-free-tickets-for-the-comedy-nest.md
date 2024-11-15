@@ -1,14 +1,6 @@
 ---
 title: "Contest: free tickets for the Comedy Nest"
 date: "2012-07-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2998579599_1cbf5fc4a3_b.jpg"
 slug: "contest-free-tickets-for-the-comedy-nest"
 ---

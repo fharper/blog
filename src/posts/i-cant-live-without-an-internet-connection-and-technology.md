@@ -1,14 +1,6 @@
 ---
 title: "I can't live without an Internet connection, and technology"
 date: "2014-01-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "technology.jpg"
 slug: "i-cant-live-without-an-internet-connection-and-technology"
 ---

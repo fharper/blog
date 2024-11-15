@@ -1,13 +1,6 @@
 ---
 title: "Open for new contracts"
 date: "2016-02-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "business-development"
   - "coaching"

@@ -1,14 +1,6 @@
 ---
 title: "I did not subscribe to your newsletter"
 date: "2013-08-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "junkmail.jpg"
 slug: "i-did-not-subscribe-to-your-newsletter"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - An unfinished project"
 date: "2013-08-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "MWNW1.png"
 slug: "make-web-not-war-tv-an-unfinished-project"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Thinking about being nomad"
 date: "2014-01-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "freedom.jpg"
 slug: "thinking-about-being-nomad"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Shit happens, so what?"
 date: "2014-01-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "shithappens.jpg"
 slug: "shit-happens-so-what"
 ---

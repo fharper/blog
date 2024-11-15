@@ -1,14 +1,6 @@
 ---
 title: "Laurent LaSalle"
 date: "2010-10-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "laurent-lasalle"
 ---
 

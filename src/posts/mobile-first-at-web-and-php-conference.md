@@ -1,14 +1,6 @@
 ---
 title: "Mobile First at Web and PHP Conference"
 date: "2013-09-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "8569155191_f9ef1e9d9e_o.jpg"
 slug: "mobile-first-at-web-and-php-conference"
 ---

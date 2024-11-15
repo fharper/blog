@@ -1,14 +1,6 @@
 ---
 title: "One year at the evil empire"
 date: "2011-12-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5696645310_eb609dc95d_o.jpg"
 slug: "one-year-at-the-evil-empire"
 ---

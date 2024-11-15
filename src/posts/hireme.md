@@ -1,8 +1,6 @@
 ---
 title: "Wanna Work with Me?"
 date: "2020-10-06"
-categories: 
-  - "brainer"
 tags: 
   - "developer-advocate"
   - "job"

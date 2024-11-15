@@ -1,14 +1,6 @@
 ---
 title: "Un site pour les travailleurs mobiles, ça vous dirait?"
 date: "2011-06-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "j0423031-300x300.jpg"
 slug: "un-site-pour-les-travailleurs-mobiles-ca-vous-dirait"
 ---

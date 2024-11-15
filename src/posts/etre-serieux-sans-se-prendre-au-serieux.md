@@ -1,14 +1,6 @@
 ---
 title: "Être sérieux, sans se prendre au sérieux"
 date: "2010-07-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "corbis-300x225.jpg"
 slug: "etre-serieux-sans-se-prendre-au-serieux"
 ---

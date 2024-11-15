@@ -1,9 +1,6 @@
 ---
 title: "Developer Advocate - where soft skills become hard skills"
 date: "2017-08-08"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "developer-advocate"
   - "hard-skills"

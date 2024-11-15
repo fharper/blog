@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - 3D printing with a Kinect, and Raymond Kao"
 date: "2013-10-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Raymond_Kao_and_Fred.jpg"
 slug: "make-web-not-war-tv-3d-printing-with-a-kinect-and-raymond-kao"
 ---

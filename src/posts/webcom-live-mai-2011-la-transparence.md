@@ -1,14 +1,6 @@
 ---
 title: "Webcom Live Mai 2011 - La transparence"
 date: "2011-05-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "webcom-live-mai-2011-la-transparence"
 ---
 

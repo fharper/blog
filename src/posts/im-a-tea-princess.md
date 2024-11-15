@@ -1,14 +1,6 @@
 ---
 title: "I'm a Tea Princess"
 date: "2013-06-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "7810826712_270f958de0_b.jpg"
 slug: "im-a-tea-princess"
 ---

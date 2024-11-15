@@ -1,14 +1,6 @@
 ---
 title: "Geek Show v2.0: gare aux ninjas"
 date: "2012-07-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "PosterGeek2012v3_web.jpg"
 slug: "geek-show-v2-0-gare-aux-ninjas"
 ---

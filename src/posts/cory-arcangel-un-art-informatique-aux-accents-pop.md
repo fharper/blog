@@ -1,14 +1,6 @@
 ---
 title: "Cory Arcangel - Un art informatique aux accents pop"
 date: "2013-11-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "KillWarhol.jpg"
 slug: "cory-arcangel-un-art-informatique-aux-accents-pop"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Street music #1"
 date: "2014-02-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "cheesecakeninja.png"
 slug: "street-music-1"
 ---

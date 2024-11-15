@@ -1,14 +1,6 @@
 ---
 title: "There is something wrong with HTML5"
 date: "2012-03-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6346609079_aae53a2270_b.jpg"
 slug: "there-is-something-wrong-with-html5"
 ---

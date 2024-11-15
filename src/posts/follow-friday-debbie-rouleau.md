@@ -1,14 +1,6 @@
 ---
 title: "Follow Friday - Debbie Rouleau"
 date: "2010-12-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4279283887_df01d30654-225x300.jpg"
 slug: "follow-friday-debbie-rouleau"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Un TabletteCamp à Montréal"
 date: "2010-11-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "web-in_noir-300x53.jpg"
 slug: "un-tablettecamp-a-montreal"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Le Festival Geek de Montréal ne verra pas de 3e édition"
 date: "2011-05-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo_geekfestmtl2011_rgb_medium1.png"
 slug: "le-festival-geek-de-montreal-ne-verra-pas-de-3e-edition"
 ---

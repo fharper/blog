@@ -1,14 +1,6 @@
 ---
 title: "À la recherche d'un logo"
 date: "2008-11-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "a-la-recherche-dun-logo"
 ---
 

@@ -1,13 +1,6 @@
 ---
 title: "Free stickers - show others that you are a lion"
 date: "2016-08-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "business"
   - "entrepreneur"

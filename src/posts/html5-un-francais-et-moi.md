@@ -1,14 +1,6 @@
 ---
 title: "HTML5, un Français et moi"
 date: "2011-05-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DSC_00314-300x200.jpg"
 slug: "html5-un-francais-et-moi"
 ---

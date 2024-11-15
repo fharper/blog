@@ -1,14 +1,6 @@
 ---
 title: "Portrait de blogueurs 002 - Stéphanie Marcoux"
 date: "2010-03-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "portrait-de-blogueurs-002-stephanie-marcoux"
 ---
 

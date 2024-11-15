@@ -1,14 +1,6 @@
 ---
 title: "You can't judge a book by its cover, but you do"
 date: "2014-02-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "yourself.jpg"
 slug: "you-cant-judge-a-book-by-its-cover-but-you-do"
 ---

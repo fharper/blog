@@ -1,14 +1,6 @@
 ---
 title: "Tips and tricks for people #9"
 date: "2012-05-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-9"

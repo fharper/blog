@@ -1,14 +1,6 @@
 ---
 title: "You too can become a Make Web Not War Warriors"
 date: "2012-02-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3627118865_3f6fbc63da_b-580x400.jpg"
 slug: "you-too-can-become-a-make-web-not-war-warriors"
 ---

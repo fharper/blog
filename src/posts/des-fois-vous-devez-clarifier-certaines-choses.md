@@ -1,14 +1,6 @@
 ---
 title: "Des fois, vous devez clarifier certaines choses"
 date: "2011-06-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5800383424_a17af3753b1-300x225.jpg"
 slug: "des-fois-vous-devez-clarifier-certaines-choses"
 ---

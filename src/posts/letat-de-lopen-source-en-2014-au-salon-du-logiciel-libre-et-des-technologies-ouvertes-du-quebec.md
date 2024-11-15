@@ -1,13 +1,6 @@
 ---
 title: "L’état de l'Open Source en 2014 au Salon du Logiciel Libre et des technologies ouvertes du Québec"
 date: "2014-10-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fred@S2LQ.jpg"
 slug: "letat-de-lopen-source-en-2014-au-salon-du-logiciel-libre-et-des-technologies-ouvertes-du-quebec"
 ---

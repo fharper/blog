@@ -1,14 +1,6 @@
 ---
 title: "Ça y est!"
 date: "2008-05-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "wordpress-logo2-300x282.png"
 slug: "ca-y-est"
 ---

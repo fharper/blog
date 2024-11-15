@@ -1,9 +1,6 @@
 ---
 title: "Say hi to the new Director of Developer Relations at Mindee"
 date: "2021-08-23"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "developer-relations"
   - "job"

@@ -1,9 +1,6 @@
 ---
 title: "Awesome Chrome Extensions"
 date: "2023-08-28"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "brave"
   - "browser"

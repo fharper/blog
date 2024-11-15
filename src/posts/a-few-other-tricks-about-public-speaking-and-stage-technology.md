@@ -1,14 +1,6 @@
 ---
 title: "A few other tricks about public speaking and stage technology"
 date: "2013-06-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "7290691698_2bf85df5d1_c.jpg"
 slug: "a-few-other-tricks-about-public-speaking-and-stage-technology"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Instruire une entreprise aux médias sociaux?"
 date: "2009-08-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "social-media-marketing-300x273.jpg"
 slug: "instruire-une-entreprise-aux-medias-sociaux"
 ---

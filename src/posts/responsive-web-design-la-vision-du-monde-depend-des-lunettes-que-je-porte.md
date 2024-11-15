@@ -1,14 +1,6 @@
 ---
 title: "Responsive Web Design: La vision du monde dépend des lunettes que je porte"
 date: "2012-02-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "responsive-web-design-la-vision-du-monde-depend-des-lunettes-que-je-porte"
 ---
 

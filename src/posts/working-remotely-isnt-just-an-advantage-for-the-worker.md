@@ -1,14 +1,6 @@
 ---
 title: "Working remotely isn't just an advantage for the worker"
 date: "2013-12-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "remoteworker.jpg"
 slug: "working-remotely-isnt-just-an-advantage-for-the-worker"
 ---

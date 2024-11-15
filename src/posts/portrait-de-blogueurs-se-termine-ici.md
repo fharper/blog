@@ -1,14 +1,6 @@
 ---
 title: "Portrait de blogueurs se termine ici"
 date: "2013-04-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Portrait-de-blogueurs-Logo1.png"
 slug: "portrait-de-blogueurs-se-termine-ici"
 ---

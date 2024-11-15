@@ -1,14 +1,6 @@
 ---
 title: "Books for 2012"
 date: "2011-12-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "books-for-2012"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Thanks Microsoft"
 date: "2013-07-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6461751385_82d069ee17_b.jpg"
 slug: "thanks-microsoft"
 ---

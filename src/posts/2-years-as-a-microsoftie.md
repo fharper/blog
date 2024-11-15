@@ -1,14 +1,6 @@
 ---
 title: "2 years as a Microsoftie"
 date: "2013-01-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "73042_532499706778993_1774213558_n.jpg"
 slug: "2-years-as-a-microsoftie"
 ---

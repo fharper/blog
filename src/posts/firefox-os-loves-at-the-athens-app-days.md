@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS loves at the Athens App Days"
 date: "2013-11-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "firefox-os-loves-at-the-athens-app-days"
 ---
 

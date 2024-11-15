@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS au Visual Studio Talkshow"
 date: "2013-11-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "podcast.jpg"
 slug: "firefox-os-au-visual-studio-talkshow"
 ---

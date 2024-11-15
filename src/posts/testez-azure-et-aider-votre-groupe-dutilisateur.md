@@ -1,14 +1,6 @@
 ---
 title: "Testez Azure et aider votre groupe d'utilisateur"
 date: "2010-12-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "windows_azure_logo-300x56.jpg"
 slug: "testez-azure-et-aider-votre-groupe-dutilisateur"
 ---

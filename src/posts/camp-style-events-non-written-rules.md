@@ -1,14 +1,6 @@
 ---
 title: "Camp style events non-written rules"
 date: "2013-12-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "camp-style-events-non-written-rules"
 ---
 

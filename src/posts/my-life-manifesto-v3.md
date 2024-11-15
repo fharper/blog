@@ -1,12 +1,6 @@
 ---
 title: "My life manifesto v3"
 date: "2014-03-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "4170745005_6d4ff16e70_o.jpg"
 slug: "my-life-manifesto-v3"
 ---

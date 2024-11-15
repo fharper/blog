@@ -1,14 +1,6 @@
 ---
 title: "Going to Budapest in Hungary, anything a tourist should do?"
 date: "2013-11-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "budapest.jpg"
 slug: "going-to-budapest-in-hungary-anything-a-tourist-should-do"
 ---

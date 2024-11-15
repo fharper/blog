@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty #04"
 date: "2022-01-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "buddhism"

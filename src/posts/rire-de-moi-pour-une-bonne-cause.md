@@ -1,14 +1,6 @@
 ---
 title: "Rire de moi pour une bonne cause"
 date: "2014-02-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fondationmv.jpg"
 slug: "rire-de-moi-pour-une-bonne-cause"
 ---

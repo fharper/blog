@@ -1,14 +1,6 @@
 ---
 title: "We are now the owners of a condo"
 date: "2012-06-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000018.jpg"
 slug: "we-are-now-the-owners-of-a-condo"
 ---

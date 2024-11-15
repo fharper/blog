@@ -1,14 +1,6 @@
 ---
 title: "Ubuntu - Souris Logitech VX Revolution"
 date: "2008-06-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "ubuntu-logo-290x300.png"
 slug: "ubuntu-souris-logitech-vx-revolution"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Pourquoi choisir un consultant?"
 date: "2010-07-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "dilbert2-300x300.jpg"
 slug: "pourquoi-choisir-un-consultant"
 ---

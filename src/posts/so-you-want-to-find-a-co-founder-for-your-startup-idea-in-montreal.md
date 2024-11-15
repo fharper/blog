@@ -1,14 +1,6 @@
 ---
 title: "So you want to find a co-founder for your startup idea in Montreal?"
 date: "2013-11-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "idea-600x450.jpg"
 slug: "so-you-want-to-find-a-co-founder-for-your-startup-idea-in-montreal"
 ---

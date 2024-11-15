@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS tools & Web APIs in Krakow"
 date: "2013-09-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fxos-krakow.jpg"
 slug: "firefox-os-tools-web-apis-in-krakow"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Limiter les intermédiaires, un avantage pour tous"
 date: "2010-08-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "steps-204x300.jpg"
 slug: "limiter-les-intermediaires-un-avantage-pour-tous"
 ---

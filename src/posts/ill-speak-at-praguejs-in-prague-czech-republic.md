@@ -1,12 +1,6 @@
 ---
 title: "I'll speak at PragueJS, in Prague, Czech Republic"
 date: "2014-03-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "PragueJS.png"
 slug: "ill-speak-at-praguejs-in-prague-czech-republic"
 ---

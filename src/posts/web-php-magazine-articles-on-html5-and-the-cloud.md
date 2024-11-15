@@ -1,14 +1,6 @@
 ---
 title: "Web & PHP magazine: articles on HTML5, and the cloud"
 date: "2013-10-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "webandphpmag.png"
 slug: "web-php-magazine-articles-on-html5-and-the-cloud"
 ---

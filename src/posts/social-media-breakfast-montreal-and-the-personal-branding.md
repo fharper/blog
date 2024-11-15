@@ -1,14 +1,6 @@
 ---
 title: "Social Media Breakfast Montreal and the personal branding"
 date: "2012-08-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "social-media-breakfast-montreal-and-the-personal-branding"
 ---
 

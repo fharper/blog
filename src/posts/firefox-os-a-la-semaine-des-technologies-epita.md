@@ -1,13 +1,6 @@
 ---
 title: "Firefox OS à la semaine des technologies EPITA"
 date: "2014-06-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fred@EPITA.jpg"
 slug: "firefox-os-a-la-semaine-des-technologies-epita"
 ---

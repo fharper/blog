@@ -1,13 +1,6 @@
 ---
 title: "Parlons Personal Branding avec les membres de PHP Québec"
 date: "2015-03-02"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
-  - "fr"
 image: "2218075860_205c9c1dfe_o.jpg"
 slug: "parlons-personal-branding-avec-les-membres-de-php-quebec"
 ---

@@ -1,12 +1,6 @@
 ---
 title: "I'm diving in & joining DigitalOcean"
 date: "2019-05-15"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "cloud"
   - "digitalocean"

@@ -1,14 +1,6 @@
 ---
 title: "Trace a line between the web, and your private life"
 date: "2014-01-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "privacy.jpg"
 slug: "trace-a-line-between-the-web-and-your-private-life"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Take 2012 as an opportunity"
 date: "2011-12-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2340150187_49e1e1be01_b-580x400.jpg"
 slug: "take-2012-as-an-opportunity"
 ---

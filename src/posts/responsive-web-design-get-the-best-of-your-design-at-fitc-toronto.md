@@ -1,14 +1,6 @@
 ---
 title: "Responsive Web Design, get the best of your design at FITC Toronto"
 date: "2012-04-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "responsive-web-design-get-the-best-of-your-design-at-fitc-toronto"
 ---
 

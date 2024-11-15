@@ -1,14 +1,6 @@
 ---
 title: "TripIt, let's connect together"
 date: "2013-08-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tripit_logo.png"
 slug: "tripit-lets-connect-together"
 ---

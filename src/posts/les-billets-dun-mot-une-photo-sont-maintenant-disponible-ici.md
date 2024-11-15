@@ -1,14 +1,6 @@
 ---
 title: "Les billets d'Un mot... une photo! sont maintenant disponible ici"
 date: "2012-03-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "unmotunephoto.jpg"
 slug: "les-billets-dun-mot-une-photo-sont-maintenant-disponible-ici"
 ---

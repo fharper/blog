@@ -1,14 +1,6 @@
 ---
 title: "Bonne St-Jean"
 date: "2011-06-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "stjean1-300x201.jpg"
 slug: "bonne-st-jean"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Designing a Windows Store app"
 date: "2013-04-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "883686_446458512101134_320476237_o.jpg"
 slug: "designing-a-windows-store-app"
 ---

@@ -1,9 +1,6 @@
 ---
 title: "My Home Office & Recording Setup"
 date: "2020-10-07"
-categories: 
-  - "brainer"
-  - "evergreen"
 tags: 
   - "applications"
   - "audio"

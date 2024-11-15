@@ -1,14 +1,6 @@
 ---
 title: "Les courriels, moins importants que le téléphone?"
 date: "2010-05-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "emailmarketing-300x268.jpg"
 slug: "les-courriels-moins-importants-que-le-telephone"
 ---

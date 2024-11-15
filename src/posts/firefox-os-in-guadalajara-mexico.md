@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS in Guadalajara, Mexico"
 date: "2013-11-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "firefox-os-in-guadalajara-mexico"
 ---
 

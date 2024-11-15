@@ -1,14 +1,6 @@
 ---
 title: "Bonne année 2009"
 date: "2009-01-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "bonne-annee-2006-300x205.jpg"
 slug: "bonne-annee-2009"
 ---

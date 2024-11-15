@@ -1,14 +1,6 @@
 ---
 title: "Webcom 2009 - Je blogue, tu blogue..."
 date: "2009-05-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3527498375_a4bcfd096d.png"
 slug: "webcom-2009-je-blogue-tu-blogue"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Et si je bloguais en anglais?"
 date: "2010-07-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "speak-english-300x263.png"
 slug: "et-si-je-bloguais-en-anglais"
 ---

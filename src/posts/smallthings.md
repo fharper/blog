@@ -1,10 +1,6 @@
 ---
 title: "Finding Happiness in the Small Things"
 date: "2020-10-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "happiness"
   - "life"

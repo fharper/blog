@@ -1,13 +1,6 @@
 ---
 title: "DevFest Nantes 2014 aura sa présentation sur Firefox OS"
 date: "2014-10-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "devfestnantes.png"
 slug: "devfest-nantes-2014-aura-sa-presentation-sur-firefox-os"
 ---

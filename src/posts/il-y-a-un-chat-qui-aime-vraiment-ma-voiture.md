@@ -1,14 +1,6 @@
 ---
 title: "Il y a un chat qui aime vraiment ma voiture"
 date: "2011-08-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1c-440x586.jpg"
 slug: "il-y-a-un-chat-qui-aime-vraiment-ma-voiture"
 ---

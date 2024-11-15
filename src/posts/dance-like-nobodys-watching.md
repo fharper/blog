@@ -1,14 +1,6 @@
 ---
 title: "Dance like nobody's watching"
 date: "2013-04-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "dance-like-nobodys-watching"
 ---
 

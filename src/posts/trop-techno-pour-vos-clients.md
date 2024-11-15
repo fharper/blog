@@ -1,14 +1,6 @@
 ---
 title: "Trop techno pour vos clients?"
 date: "2010-10-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "trop-techno-pour-vos-clients"
 ---
 

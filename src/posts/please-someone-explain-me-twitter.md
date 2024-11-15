@@ -1,14 +1,6 @@
 ---
 title: "Please someone, explain me Twitter"
 date: "2012-04-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5858249526_2298a25375_b.jpg"
 slug: "please-someone-explain-me-twitter"
 ---

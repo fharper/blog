@@ -1,12 +1,6 @@
 ---
 title: "The one time I sang with a live band"
 date: "2014-04-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "Fred-GetLucky.png"
 slug: "the-one-time-i-sang-with-a-live-band"
 ---

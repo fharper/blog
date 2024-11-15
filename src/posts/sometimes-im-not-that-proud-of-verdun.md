@@ -1,14 +1,6 @@
 ---
 title: "Sometimes, I'm not that proud of Verdun"
 date: "2013-06-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130424_001.jpg"
 slug: "sometimes-im-not-that-proud-of-verdun"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "My life manifesto v2"
 date: "2013-09-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "gnomes.jpg"
 slug: "my-life-manifesto-v2"
 ---

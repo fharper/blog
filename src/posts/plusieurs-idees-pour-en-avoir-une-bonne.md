@@ -1,14 +1,6 @@
 ---
 title: "Plusieurs idées pour en avoir une bonne"
 date: "2010-03-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5549_share_ideas_mih-300x225.jpg"
 slug: "plusieurs-idees-pour-en-avoir-une-bonne"
 ---

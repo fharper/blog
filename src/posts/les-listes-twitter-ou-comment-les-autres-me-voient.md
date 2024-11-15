@@ -1,14 +1,6 @@
 ---
 title: "Les listes Twitter ou comment les autres me voient"
 date: "2010-01-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "les-listes-twitter-ou-comment-les-autres-me-voient"
 ---
 

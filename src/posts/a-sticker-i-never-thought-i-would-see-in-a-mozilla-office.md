@@ -1,14 +1,6 @@
 ---
 title: "A sticker I never thought I would see in a Mozilla office"
 date: "2013-07-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000009.jpg"
 slug: "a-sticker-i-never-thought-i-would-see-in-a-mozilla-office"
 ---

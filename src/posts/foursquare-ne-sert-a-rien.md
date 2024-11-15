@@ -1,14 +1,6 @@
 ---
 title: "Foursquare ne sert à rien"
 date: "2010-12-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "n13foursquare-300x213.jpg"
 slug: "foursquare-ne-sert-a-rien"
 ---

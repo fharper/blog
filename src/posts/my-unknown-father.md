@@ -1,14 +1,6 @@
 ---
 title: "My unknown father"
 date: "2012-03-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "111.jpg"
 slug: "my-unknown-father"
 ---

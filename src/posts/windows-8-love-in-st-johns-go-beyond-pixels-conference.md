@@ -1,14 +1,6 @@
 ---
 title: "Windows 8 love in St-John's Go Beyond Pixels conference"
 date: "2012-05-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "AtyyzRrCIAAWnUC.jpg"
 slug: "windows-8-love-in-st-johns-go-beyond-pixels-conference"
 ---

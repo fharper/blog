@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Cross platform technologies with Raymond Tsang"
 date: "2013-09-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Raymond_and_Fred.png"
 slug: "make-web-not-war-tv-cross-platform-technologies-with-raymond-tsang"
 ---

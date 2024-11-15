@@ -1,14 +1,6 @@
 ---
 title: "Pierre-Luc Gagnon"
 date: "2010-10-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "pierre-luc-gagnon"
 ---
 

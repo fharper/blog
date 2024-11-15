@@ -1,14 +1,6 @@
 ---
 title: "It's about how people perceive you"
 date: "2014-02-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "perception.jpg"
 slug: "its-about-how-people-perceive-you"
 ---

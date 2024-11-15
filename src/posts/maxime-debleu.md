@@ -1,14 +1,6 @@
 ---
 title: "Maxime DeBleu"
 date: "2010-04-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "maxime-debleu"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "FOXHACK, un hackathon Firefox OS à Montréal"
 date: "2013-09-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fxos-hackathon.jpg"
 slug: "foxhack-un-hackathon-firefox-os-a-montreal"
 ---

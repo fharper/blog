@@ -1,14 +1,6 @@
 ---
 title: "Pierre-Luc"
 date: "2010-06-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "pierre-luc"
 ---
 

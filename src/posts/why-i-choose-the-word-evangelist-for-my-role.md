@@ -1,14 +1,6 @@
 ---
 title: "Why I choose the word Evangelist for my role"
 date: "2012-06-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "evangelist.jpg"
 slug: "why-i-choose-the-word-evangelist-for-my-role"
 ---

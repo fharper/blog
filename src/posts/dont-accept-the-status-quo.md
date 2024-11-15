@@ -1,14 +1,6 @@
 ---
 title: "Don't accept the status quo"
 date: "2013-12-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "dontbeaverage.jpg"
 slug: "dont-accept-the-status-quo"
 ---

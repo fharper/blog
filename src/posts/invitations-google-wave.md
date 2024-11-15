@@ -1,14 +1,6 @@
 ---
 title: "Invitations Google Wave"
 date: "2009-12-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "google_wave_logo.1243584569.png"
 slug: "invitations-google-wave"
 ---

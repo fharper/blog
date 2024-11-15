@@ -1,14 +1,6 @@
 ---
 title: "Avant... Après..."
 date: "2011-04-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fred201104081.png"
 slug: "avant-apres"
 ---

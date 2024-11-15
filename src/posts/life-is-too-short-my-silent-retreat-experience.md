@@ -1,12 +1,6 @@
 ---
 title: "Life is too short - my silent retreat experience"
 date: "2014-02-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtags"
-  - "fixurl"
 image: "silent.jpg"
 slug: "life-is-too-short-my-silent-retreat-experience"
 ---

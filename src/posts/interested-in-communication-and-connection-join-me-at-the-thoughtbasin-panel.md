@@ -1,14 +1,6 @@
 ---
 title: "Interested in communication, and connection? Join me at the ThoughtBasin panel."
 date: "2014-01-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "ThoughtBasin.jpg"
 slug: "interested-in-communication-and-connection-join-me-at-the-thoughtbasin-panel"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Lâche ton ordi pour une soirée au Geek Show"
 date: "2011-07-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "lache-ton-ordi-pour-une-soiree-au-geek-show"
 ---
 

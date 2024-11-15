@@ -1,14 +1,6 @@
 ---
 title: "Kim Auclair"
 date: "2010-07-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "kim-auclair"
 ---
 

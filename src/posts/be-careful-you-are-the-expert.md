@@ -1,14 +1,6 @@
 ---
 title: "Be careful, you are the expert"
 date: "2012-01-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1745480_4a48b54c24_o-580x400.jpg"
 slug: "be-careful-you-are-the-expert"
 ---

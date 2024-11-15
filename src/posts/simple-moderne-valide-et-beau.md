@@ -1,14 +1,6 @@
 ---
 title: "Simple, moderne, valide et beau..."
 date: "2008-04-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo_w3c.png"
 slug: "simple-moderne-valide-et-beau"
 ---

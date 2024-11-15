@@ -1,14 +1,6 @@
 ---
 title: "Social Media Sumo"
 date: "2013-09-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "SocialSumo.jpg"
 slug: "social-media-sumo"
 ---

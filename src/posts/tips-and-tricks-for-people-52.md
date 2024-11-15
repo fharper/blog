@@ -1,14 +1,6 @@
 ---
 title: "Tips and tricks for people #52"
 date: "2014-01-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-52"

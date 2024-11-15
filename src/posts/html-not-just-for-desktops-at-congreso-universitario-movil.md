@@ -1,13 +1,6 @@
 ---
 title: "HTML, not just for desktops at Congreso Universitario Móvil"
 date: "2014-09-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "CongresoUniversitarioMovil2014.jpg"
 slug: "html-not-just-for-desktops-at-congreso-universitario-movil"
 ---

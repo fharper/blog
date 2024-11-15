@@ -1,14 +1,6 @@
 ---
 title: "I want a logo, any designer out there?"
 date: "2014-01-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "gnome_and_unicorn.jpg"
 slug: "i-want-a-logo-any-designer-out-there"
 ---

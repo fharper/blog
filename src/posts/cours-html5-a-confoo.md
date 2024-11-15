@@ -1,14 +1,6 @@
 ---
 title: "Cours HTML5 à Confoo"
 date: "2012-03-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "cours-html5-a-confoo"
 ---
 

@@ -1,13 +1,6 @@
 ---
 title: "Welcome to the simple version of my site"
 date: "2014-12-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4307833809_582036e555_o-scaled.jpg"
 slug: "welcome-to-the-simple-version-of-my-site"
 ---

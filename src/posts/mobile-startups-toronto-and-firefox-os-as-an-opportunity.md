@@ -1,14 +1,6 @@
 ---
 title: "Mobile Startups Toronto, and Firefox OS as an opportunity"
 date: "2013-12-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "firefoxmascot.jpg"
 slug: "mobile-startups-toronto-and-firefox-os-as-an-opportunity"
 ---

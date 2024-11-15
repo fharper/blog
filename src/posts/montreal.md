@@ -1,10 +1,6 @@
 ---
 title: "What to do in Montréal"
 date: "2019-09-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "activities"
   - "drinks"

@@ -1,14 +1,6 @@
 ---
 title: "This is how I'm dealing with a big computer"
 date: "2012-05-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "af.jpg"
 slug: "this-is-how-im-dealing-with-a-big-computer"
 ---

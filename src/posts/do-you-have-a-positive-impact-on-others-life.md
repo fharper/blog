@@ -1,14 +1,6 @@
 ---
 title: "Do you have a positive impact on other's life?"
 date: "2013-12-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sharing.jpg"
 slug: "do-you-have-a-positive-impact-on-others-life"
 ---

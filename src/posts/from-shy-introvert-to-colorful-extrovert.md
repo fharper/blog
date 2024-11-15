@@ -1,14 +1,6 @@
 ---
 title: "From shy introvert to colorful extrovert"
 date: "2014-02-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6097158569_71248e312d_o.jpg"
 slug: "from-shy-introvert-to-colorful-extrovert"
 ---

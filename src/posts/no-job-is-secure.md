@@ -1,14 +1,6 @@
 ---
 title: "No job is secure"
 date: "2014-02-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "job.jpg"
 slug: "no-job-is-secure"
 ---

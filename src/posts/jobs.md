@@ -1,8 +1,6 @@
 ---
 title: "Too Many Jobs for My Own Good"
 date: "2020-08-18"
-categories: 
-  - "brainer"
 tags: 
   - "career"
   - "jobs"

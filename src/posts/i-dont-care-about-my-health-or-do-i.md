@@ -1,14 +1,6 @@
 ---
 title: "I don't care about my health, or do I?"
 date: "2014-02-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "danger.jpg"
 slug: "i-dont-care-about-my-health-or-do-i"
 ---

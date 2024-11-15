@@ -1,14 +1,6 @@
 ---
 title: "Festival Geek de Montréal: mon bébé grandit"
 date: "2011-03-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "geekfestmtl-300x154.png"
 slug: "festival-geek-de-montreal-mon-bebe-grandit"
 ---

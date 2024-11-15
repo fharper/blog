@@ -1,14 +1,6 @@
 ---
 title: "I'm leaving Microsoft, looking for a new opportunity"
 date: "2013-05-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fharper-1024x683.jpg"
 slug: "im-leaving-microsoft-looking-for-a-new-opportunity"
 ---

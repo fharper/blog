@@ -1,14 +1,6 @@
 ---
 title: "Stop complaining"
 date: "2015-07-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "attitude"
   - "life"

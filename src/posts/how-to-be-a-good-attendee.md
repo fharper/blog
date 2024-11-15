@@ -1,14 +1,6 @@
 ---
 title: "How to be a good attendee"
 date: "2013-11-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5971599783_b4a0909a13_o.jpg"
 slug: "how-to-be-a-good-attendee"
 ---

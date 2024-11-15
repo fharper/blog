@@ -1,14 +1,6 @@
 ---
 title: "Learning from failure at FailCamp Montreal"
 date: "2011-08-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "failcampmtl.png"
 slug: "learning-from-failure-at-failcamp-montreal"
 ---

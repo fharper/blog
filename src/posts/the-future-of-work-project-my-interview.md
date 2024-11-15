@@ -1,13 +1,6 @@
 ---
 title: "The Future of work project: my interview"
 date: "2014-10-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "eat-2661935-scaled.jpg"
 slug: "the-future-of-work-project-my-interview"
 ---

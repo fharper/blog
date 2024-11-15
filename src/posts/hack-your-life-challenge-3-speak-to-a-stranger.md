@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #3: speak to a stranger"
 date: "2012-02-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "hack-your-life-challenge-3-speak-to-a-stranger"
 ---
 

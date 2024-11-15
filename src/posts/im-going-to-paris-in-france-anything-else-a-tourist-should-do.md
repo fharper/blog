@@ -1,14 +1,6 @@
 ---
 title: "I'm going to Paris in France, anything else a tourist should do?"
 date: "2014-02-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "paris.jpg"
 slug: "im-going-to-paris-in-france-anything-else-a-tourist-should-do"
 ---

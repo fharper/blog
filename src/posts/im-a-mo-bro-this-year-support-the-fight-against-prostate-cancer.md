@@ -1,14 +1,6 @@
 ---
 title: "I'm a mo-bro this year - Support the fight against prostate cancer"
 date: "2011-11-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "movember-580x400.jpg"
 slug: "im-a-mo-bro-this-year-support-the-fight-against-prostate-cancer"
 ---

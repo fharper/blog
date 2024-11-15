@@ -1,14 +1,6 @@
 ---
 title: "Your blog posts are too long"
 date: "2012-03-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5925354646_e62e12ca05_b.jpg"
 slug: "your-blog-posts-are-too-long"
 ---

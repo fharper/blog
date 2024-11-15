@@ -1,14 +1,6 @@
 ---
 title: "A colorful raccoon"
 date: "2013-02-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130203_013.jpg"
 slug: "a-colorful-raccoon"
 ---

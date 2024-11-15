@@ -1,14 +1,6 @@
 ---
 title: "Portrait de blogueurs vole de ses propres ailes"
 date: "2010-03-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "PdBNoir-300x225.png"
 slug: "portrait-de-blogueurs-vole-de-ses-propres-ailes"
 ---

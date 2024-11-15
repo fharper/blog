@@ -1,10 +1,6 @@
 ---
 title: "Asking for sponsorship to speak: a lack of respect for the attendees"
 date: "2015-01-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "conference"
   - "ethic"

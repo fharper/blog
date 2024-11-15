@@ -1,14 +1,6 @@
 ---
 title: "So you want me to speak at your event?"
 date: "2013-10-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "fred-personal_branding.jpg"
 slug: "so-you-want-me-to-speak-at-your-event"
 ---

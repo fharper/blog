@@ -1,14 +1,6 @@
 ---
 title: "Because there aren't enough cat pictures on the Internet: my first photography course homework"
 date: "2014-01-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "because-there-arent-enough-cat-pictures-on-the-internet-my-first-photography-course-homework"
 ---
 

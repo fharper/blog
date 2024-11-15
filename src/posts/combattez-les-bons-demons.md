@@ -1,14 +1,6 @@
 ---
 title: "Combattez les bons démons"
 date: "2011-01-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "vino-4-300x300.jpg"
 slug: "combattez-les-bons-demons"
 ---

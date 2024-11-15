@@ -1,14 +1,6 @@
 ---
 title: "Diane Massicotte"
 date: "2010-06-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "diane-massicotte"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Les ingénieurs et les TIC"
 date: "2010-11-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Logo_oiq-300x104.gif"
 slug: "les-ingenieurs-et-les-tic"
 ---

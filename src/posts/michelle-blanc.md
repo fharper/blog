@@ -1,14 +1,6 @@
 ---
 title: "Michelle Blanc"
 date: "2010-04-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "michelle-blanc"
 ---
 

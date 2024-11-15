@@ -1,14 +1,6 @@
 ---
 title: "My presentations are Creative Commons: share them, use them, improve them..."
 date: "2013-12-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "creativecommons.jpg"
 slug: "my-presentations-are-creative-commons-share-them-use-them-improve-them"
 ---

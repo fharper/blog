@@ -1,14 +1,6 @@
 ---
 title: "The state of the Web–FITC Spotlight HTML5"
 date: "2011-12-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fitc-logo_thumb.png"
 slug: "the-state-of-the-web-fitc-spotlight-html5"
 ---

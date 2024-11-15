@@ -1,14 +1,6 @@
 ---
 title: "Île Sans Fil : du wifi gratuit à Montréal"
 date: "2010-08-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Ile_sans_fil-300x300.jpg"
 slug: "ile-sans-fil-du-wifi-gratuit-a-montreal"
 ---

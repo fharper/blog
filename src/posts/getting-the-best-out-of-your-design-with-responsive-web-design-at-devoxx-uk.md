@@ -1,13 +1,6 @@
 ---
 title: "Getting the best out of your design with Responsive Web Design at Devoxx UK"
 date: "2014-06-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DevoxxUK.jpg"
 slug: "getting-the-best-out-of-your-design-with-responsive-web-design-at-devoxx-uk"
 ---

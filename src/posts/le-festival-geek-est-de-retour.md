@@ -1,14 +1,6 @@
 ---
 title: "Le Festival Geek est de retour"
 date: "2013-04-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "geekfestmtl.jpg"
 slug: "le-festival-geek-est-de-retour"
 ---

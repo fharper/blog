@@ -1,14 +1,6 @@
 ---
 title: "You don't know everything, and it's OK"
 date: "2014-02-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "knowledge.jpg"
 slug: "you-dont-know-everything-and-its-ok"
 ---

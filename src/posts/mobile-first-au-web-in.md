@@ -1,14 +1,6 @@
 ---
 title: "Mobile First au Web-In"
 date: "2012-11-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "slider_webin_1__0.jpg"
 slug: "mobile-first-au-web-in"
 ---

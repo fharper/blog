@@ -1,14 +1,6 @@
 ---
 title: "Cartes d'affaires plus authentiques"
 date: "2011-05-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "cartes-daffaires-plus-authentiques"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Everybody was Confoo Fighting"
 date: "2010-07-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "confoo-300x68.png"
 slug: "everybody-was-confoo-fighting"
 ---

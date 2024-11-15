@@ -1,14 +1,6 @@
 ---
 title: "Who is the new Microsoft guy in Montreal?"
 date: "2013-12-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Rami_Fred.jpg"
 slug: "who-is-the-new-microsoft-guy-in-montreal"
 ---

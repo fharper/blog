@@ -1,14 +1,6 @@
 ---
 title: "Le temps"
 date: "2011-05-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "le-temps"
 ---
 

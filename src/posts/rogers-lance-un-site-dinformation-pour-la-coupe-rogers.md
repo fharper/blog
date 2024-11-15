@@ -1,14 +1,6 @@
 ---
 title: "Rogers lance un site d'information pour la Coupe Rogers"
 date: "2013-08-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "20130703_183538.jpg"
 slug: "rogers-lance-un-site-dinformation-pour-la-coupe-rogers"
 ---

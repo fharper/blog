@@ -1,14 +1,6 @@
 ---
 title: "Going to Guadalajara in Mexico, anything a tourist should do?"
 date: "2013-10-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "guadalajara.jpg"
 slug: "going-to-guadalajara-in-mexico-anything-a-tourist-should-do"
 ---

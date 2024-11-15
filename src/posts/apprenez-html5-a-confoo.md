@@ -1,14 +1,6 @@
 ---
 title: "Apprenez HTML5 à Confoo"
 date: "2012-01-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "apprenez-html5-a-confoo"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Hack your life challenge #6: turn off your mobile phone"
 date: "2012-02-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "17446765_4b976c7d02_o-500x400.jpg"
 slug: "hack-your-life-challenge-6-turn-off-your-mobile-phone"
 ---

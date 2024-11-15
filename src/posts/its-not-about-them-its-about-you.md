@@ -1,14 +1,6 @@
 ---
 title: "It's not about them, it's about you"
 date: "2012-06-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000013.jpg"
 slug: "its-not-about-them-its-about-you"
 ---

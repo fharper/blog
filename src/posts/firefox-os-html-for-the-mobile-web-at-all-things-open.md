@@ -1,13 +1,6 @@
 ---
 title: "Firefox OS - HTML for the mobile web at All Things Open"
 date: "2014-12-01"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fred@ATO.jpg"
 slug: "firefox-os-html-for-the-mobile-web-at-all-things-open"
 ---

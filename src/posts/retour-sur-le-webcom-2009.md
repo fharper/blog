@@ -1,14 +1,6 @@
 ---
 title: "Retour sur le Webcom 2009"
 date: "2009-05-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3529184915_8f09dd49a6.png"
 slug: "retour-sur-le-webcom-2009"
 ---

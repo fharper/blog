@@ -1,14 +1,6 @@
 ---
 title: "Une question de perception"
 date: "2010-05-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "une-question-de-perception"
 ---
 

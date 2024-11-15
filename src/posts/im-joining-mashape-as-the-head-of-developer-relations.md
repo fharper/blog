@@ -1,13 +1,6 @@
 ---
 title: "I'm joining Mashape as the Head of Developer Relations"
 date: "2014-12-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Mashape.png"
 slug: "im-joining-mashape-as-the-head-of-developer-relations"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Public speaking at Social Media Breakfast Montréal"
 date: "2013-10-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mike.jpg"
 slug: "public-speaking-at-social-media-breakfast-montreal"
 ---

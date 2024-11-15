@@ -1,14 +1,6 @@
 ---
 title: "It's not just about developing your application; you need to market it"
 date: "2013-09-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "publicity.jpg"
 slug: "its-not-just-about-developing-your-application-you-need-to-market-it"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Invitations Google+"
 date: "2011-08-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "google__icon-300x300.jpg"
 slug: "invitations-google"
 ---

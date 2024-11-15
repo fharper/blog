@@ -1,14 +1,6 @@
 ---
 title: "Ma foi en l'humanité a atteint un seuil critique"
 date: "2012-11-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2watts.png"
 slug: "ma-foi-en-lhumanite-a-atteint-un-seuil-critique"
 ---

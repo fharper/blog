@@ -1,14 +1,6 @@
 ---
 title: "Oh no, I was at the Google party"
 date: "2012-03-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "20120319_182401.jpg"
 slug: "oh-no-i-was-at-the-google-party"
 ---

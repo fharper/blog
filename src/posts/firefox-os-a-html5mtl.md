@@ -1,12 +1,6 @@
 ---
 title: "Firefox OS à HTML5mtl"
 date: "2014-04-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "9245001391_8897527f95_o-scaled.jpg"
 slug: "firefox-os-a-html5mtl"
 ---

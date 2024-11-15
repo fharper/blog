@@ -1,13 +1,6 @@
 ---
 title: "Firefox OS at the Congreso Universitario Movil in Mexico City"
 date: "2014-09-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5165168984_35b4d78747_o-scaled.jpg"
 slug: "firefox-os-at-the-congreso-universitario-movil-in-mexico-city"
 ---

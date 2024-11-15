@@ -1,13 +1,6 @@
 ---
 title: "I’m in London in United Kingdom, anything else a tourist should do?"
 date: "2014-06-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "8386940215_a28bb44f09_o.jpg"
 slug: "im-in-london-in-united-kingdom-anything-else-a-tourist-should-do"
 ---

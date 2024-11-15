@@ -1,14 +1,6 @@
 ---
 title: "Savoir s'adapter, une question de bon sens"
 date: "2010-05-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "savoir-sadapter-une-question-de-bon-sens"
 ---
 

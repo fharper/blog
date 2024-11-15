@@ -1,14 +1,6 @@
 ---
 title: "HTML5 challenge #1 - Canvas & File API"
 date: "2013-04-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "html5-topper.png"
 slug: "html5-challenge-1-canvas-file-api"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Keep calm and browse on"
 date: "2013-08-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "keepbrowseon.png"
 slug: "keep-calm-and-browse-on"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "The evolvement of the tech industry - A Make Web Not War presentation at Devcamp Vancouver 2011"
 date: "2013-12-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "opensource-communist.jpg"
 slug: "the-evolvement-of-the-tech-industry-a-make-web-not-war-presentation-at-devcamp-vancouver-2011"
 ---

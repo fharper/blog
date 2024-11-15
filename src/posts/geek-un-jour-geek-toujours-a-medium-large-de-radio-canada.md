@@ -1,14 +1,6 @@
 ---
 title: "Geek un jour, geek toujours à Médium Large de Radio-Canada"
 date: "2013-07-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2013-07-30_2031.png"
 slug: "geek-un-jour-geek-toujours-a-medium-large-de-radio-canada"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Vous représentez une entreprise, ne l'oubliez pas"
 date: "2010-12-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "ETUDEcapitale002.jpg"
 slug: "vous-representez-une-entreprise-ne-loubliez-pas"
 ---

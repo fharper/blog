@@ -1,14 +1,6 @@
 ---
 title: "An accordion guy in Montreal"
 date: "2012-09-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000168.jpg"
 slug: "an-accordion-guy-in-montreal"
 ---

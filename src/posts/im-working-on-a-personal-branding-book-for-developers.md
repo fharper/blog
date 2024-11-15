@@ -1,14 +1,6 @@
 ---
 title: "I'm working on a personal branding book for developers"
 date: "2013-12-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "doepicshit.jpg"
 slug: "im-working-on-a-personal-branding-book-for-developers"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Personal branding, the recording of my presentation"
 date: "2013-11-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "1274004_639930572707069_229726884_o.jpg"
 slug: "kws-personalbranding"
 ---

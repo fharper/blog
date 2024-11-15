@@ -1,14 +1,6 @@
 ---
 title: "Happy Labour Day"
 date: "2013-09-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "happy-labour-day"
 ---
 

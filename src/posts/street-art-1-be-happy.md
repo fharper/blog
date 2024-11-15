@@ -1,14 +1,6 @@
 ---
 title: "Street art #1 - Be happy"
 date: "2014-01-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "street-art-1-be-happy"
 ---
 

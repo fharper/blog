@@ -1,14 +1,6 @@
 ---
 title: "My blogging review of 2013"
 date: "2013-12-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "likethis.jpg"
 slug: "my-blogging-review-of-2013"
 ---

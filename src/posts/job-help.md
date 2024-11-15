@@ -1,10 +1,6 @@
 ---
 title: "Looking for a job or to recruit someone? This is how I can help you."
 date: "2015-08-04"
-categories: 
-  - "en"
-  - "evergreen"
-  - "techno"
 tags: 
   - "community"
   - "developer"

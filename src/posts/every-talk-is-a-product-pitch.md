@@ -1,14 +1,6 @@
 ---
 title: "Every talk is a product pitch"
 date: "2014-01-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mike.jpg"
 slug: "every-talk-is-a-product-pitch"
 ---

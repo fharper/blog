@@ -1,14 +1,6 @@
 ---
 title: "Fabrice Calando"
 date: "2010-07-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "fabrice-calando"
 ---
 

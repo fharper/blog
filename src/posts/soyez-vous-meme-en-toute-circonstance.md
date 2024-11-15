@@ -1,14 +1,6 @@
 ---
 title: "Soyez vous-même en toute circonstance"
 date: "2011-05-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "soyez-vous-meme-en-toute-circonstance"
 ---
 

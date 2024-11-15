@@ -1,14 +1,6 @@
 ---
 title: "La guignolée du web"
 date: "2008-12-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "big_box_bleu.png"
 slug: "la-guignolee-du-web"
 ---

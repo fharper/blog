@@ -1,14 +1,6 @@
 ---
 title: "Productif de 08h00 à 17h00, est-ce possible?"
 date: "2010-01-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "computer-monkey-210.jpg"
 slug: "productif-de-08h00-a-17h00-est-ce-possible"
 ---

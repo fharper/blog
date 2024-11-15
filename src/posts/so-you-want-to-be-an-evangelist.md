@@ -1,14 +1,6 @@
 ---
 title: "So you want to be an Evangelist?"
 date: "2013-01-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3504_502104836477653_1160489112_n.jpg"
 slug: "so-you-want-to-be-an-evangelist"
 ---

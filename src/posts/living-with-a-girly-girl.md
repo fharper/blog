@@ -1,14 +1,6 @@
 ---
 title: "Living with a Girly girl"
 date: "2012-09-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000033.jpg"
 slug: "living-with-a-girly-girl"
 ---

@@ -1,13 +1,6 @@
 ---
 title: "Prospérité Québec, une campagne du conseil du patronat du Québec"
 date: "2015-01-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "prosperite-quebec.jpg"
 slug: "prosperite-quebec-une-campagne-du-conseil-du-patronat-du-quebec"
 ---

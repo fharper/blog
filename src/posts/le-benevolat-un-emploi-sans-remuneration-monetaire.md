@@ -1,14 +1,6 @@
 ---
 title: "Le bénévolat, un emploi sans rémunération monétaire"
 date: "2010-08-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "71014_MoneyHappiness_vl-vertical-223x300.jpg"
 slug: "le-benevolat-un-emploi-sans-remuneration-monetaire"
 ---

@@ -1,10 +1,6 @@
 ---
 title: "What is a Developer Advocate?"
 date: "2017-11-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "developer-advocate"
   - "technical-evangelist"

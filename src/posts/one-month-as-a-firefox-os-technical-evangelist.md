@@ -1,14 +1,6 @@
 ---
 title: "One month as a Firefox OS Technical Evangelist"
 date: "2013-08-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "8087935024_0e1c44d6c2_c.jpg"
 slug: "one-month-as-a-firefox-os-technical-evangelist"
 ---

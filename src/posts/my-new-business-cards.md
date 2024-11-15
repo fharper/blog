@@ -1,14 +1,6 @@
 ---
 title: "My new business cards"
 date: "2011-08-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Devant1-150x150.png"
 slug: "my-new-business-cards"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Revoir le terme amis sur Facebook"
 date: "2011-05-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "facebook_20login-300x230.jpg"
 slug: "revoir-le-terme-amis-sur-facebook"
 ---

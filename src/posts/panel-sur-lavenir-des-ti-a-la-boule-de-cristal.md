@@ -1,14 +1,6 @@
 ---
 title: "Panel sur l’avenir des TI à la boule de cristal"
 date: "2012-05-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2012-05-12_0958.png"
 slug: "panel-sur-lavenir-des-ti-a-la-boule-de-cristal"
 ---

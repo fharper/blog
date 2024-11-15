@@ -1,14 +1,6 @@
 ---
 title: "Create opportunities"
 date: "2015-01-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "opportunities.jpg"
 slug: "create-opportunities"
 ---

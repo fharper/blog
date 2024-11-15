@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Josh Clark"
 date: "2013-08-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "JoshClark_and_Fred.jpg"
 slug: "make-web-not-war-tv-josh-clark"
 ---

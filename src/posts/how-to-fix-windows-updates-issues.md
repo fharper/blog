@@ -1,14 +1,6 @@
 ---
 title: "How to fix Windows Updates issues"
 date: "2013-08-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "windows8.jpg"
 slug: "how-to-fix-windows-updates-issues"
 ---

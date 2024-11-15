@@ -1,14 +1,6 @@
 ---
 title: "La Webtélés de V"
 date: "2010-11-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "v-300x278.png"
 slug: "la-webteles-de-v"
 ---

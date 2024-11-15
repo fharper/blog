@@ -1,14 +1,6 @@
 ---
 title: "See you at FITC Toronto in April"
 date: "2014-02-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "FITCTO14.png"
 slug: "see-you-at-fitc-toronto-in-april"
 ---

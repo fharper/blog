@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty #05"
 date: "2022-01-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "balance"

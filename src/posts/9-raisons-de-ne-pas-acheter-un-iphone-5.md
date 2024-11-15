@@ -1,14 +1,6 @@
 ---
 title: "9 raisons de ne pas acheter un iPhone 5"
 date: "2011-04-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "thumb.jpg"
 slug: "9-raisons-de-ne-pas-acheter-un-iphone-5"
 ---

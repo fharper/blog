@@ -1,14 +1,6 @@
 ---
 title: "ImagineCup 2012 arrive au Canada"
 date: "2012-02-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "imaginecup-580x225.jpg"
 slug: "imaginecup-2012-arrive-au-canada"
 ---

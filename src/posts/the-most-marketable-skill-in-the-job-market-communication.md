@@ -1,14 +1,6 @@
 ---
 title: "The most marketable skill in the job market: communication!"
 date: "2014-09-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "13195153284_9382a43b93_o-scaled.jpg"
 slug: "the-most-marketable-skill-in-the-job-market-communication"
 ---

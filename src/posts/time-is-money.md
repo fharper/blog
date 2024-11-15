@@ -1,14 +1,6 @@
 ---
 title: "Time is money"
 date: "2014-02-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "money.jpg"
 slug: "time-is-money"
 ---

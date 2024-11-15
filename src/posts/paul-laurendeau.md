@@ -1,14 +1,6 @@
 ---
 title: "Paul Laurendeau"
 date: "2010-12-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "paul-laurendeau"
 ---
 

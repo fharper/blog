@@ -1,14 +1,6 @@
 ---
 title: "So you want to start blogging? If not, you should!"
 date: "2013-11-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "wordpress.jpg"
 slug: "so-you-want-to-start-blogging-if-not-you-should"
 ---

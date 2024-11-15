@@ -1,14 +1,6 @@
 ---
 title: "Humour de programmeur"
 date: "2011-06-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "humour-de-programmeur"
 ---
 

@@ -1,9 +1,6 @@
 ---
 title: "working with me"
 date: "2019-05-27"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "adhd"
   - "extrovert"

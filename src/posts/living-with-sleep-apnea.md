@@ -1,14 +1,6 @@
 ---
 title: "Living with sleep apnea"
 date: "2013-10-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "sleep_apnea.jpg"
 slug: "living-with-sleep-apnea"
 ---

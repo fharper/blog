@@ -1,13 +1,6 @@
 ---
 title: "Private access of IMMUNIO for my RoR friends"
 date: "2015-07-15"
-categories: 
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
-  - "techno"
 tags: 
   - "immunio"
   - "ruby"

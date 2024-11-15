@@ -1,14 +1,6 @@
 ---
 title: "and others hire P.R. companies"
 date: "2012-08-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000095.jpg"
 slug: "and-others-hire-p-r-companies"
 ---

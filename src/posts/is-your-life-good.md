@@ -1,14 +1,6 @@
 ---
 title: "Is your life good?"
 date: "2014-06-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "andreas-weiland-TMpqNhMunQY-unsplash-scaled.jpg"
 slug: "is-your-life-good"
 ---

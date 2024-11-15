@@ -1,12 +1,6 @@
 ---
 title: "Fixing the mobile web with Firefox OS at FITC Toronto"
 date: "2014-04-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "fharper@FITCToronto2014-600x337.jpg"
 slug: "fixing-the-mobile-web-with-firefox-os-at-fitc-toronto"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "L'habit fait-il vraiment le moine?"
 date: "2009-05-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "lhabit-fait-il-vraiment-le-moine"
 ---
 

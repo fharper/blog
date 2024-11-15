@@ -1,14 +1,6 @@
 ---
 title: "Life is too short, make it worthwhile"
 date: "2013-08-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "life-is-too-short-make-it-worthwhile"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Make Web Not War TV - Make Web Not War at Microsoft with Keith Loo"
 date: "2013-10-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Keith_Loo_and_Fred.jpg"
 slug: "make-web-not-war-tv-make-web-not-war-at-microsoft-with-keith-loo"
 ---

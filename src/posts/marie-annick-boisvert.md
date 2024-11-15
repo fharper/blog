@@ -1,14 +1,6 @@
 ---
 title: "Marie-Annick Boisvert"
 date: "2010-06-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "marie-annick-boisvert"
 ---
 

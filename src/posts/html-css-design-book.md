@@ -1,14 +1,6 @@
 ---
 title: "Book: HTML & CSS, design and build websites"
 date: "2012-03-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DSC_1094.jpg"
 slug: "html-css-design-book"
 ---

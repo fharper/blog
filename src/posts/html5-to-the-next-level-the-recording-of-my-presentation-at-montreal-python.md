@@ -1,13 +1,6 @@
 ---
 title: "HTML5 to the next level, the recording of my presentation at Montreal Python"
 date: "2014-07-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Fred@PythonMontreal.jpg"
 slug: "html5-to-the-next-level-the-recording-of-my-presentation-at-montreal-python"
 ---

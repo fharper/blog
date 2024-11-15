@@ -1,14 +1,6 @@
 ---
 title: "Ajout d'une section contact"
 date: "2008-06-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "arobas.jpg"
 slug: "ajout-dune-section-contact"
 ---

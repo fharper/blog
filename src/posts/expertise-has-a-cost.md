@@ -1,14 +1,6 @@
 ---
 title: "Expertise has a cost"
 date: "2014-01-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "restoration.jpg"
 slug: "expertise-has-a-cost"
 ---

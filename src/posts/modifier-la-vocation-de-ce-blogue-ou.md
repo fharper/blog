@@ -1,14 +1,6 @@
 ---
 title: "Modifier la vocation de ce blogue ou..."
 date: "2010-12-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Two-way_traffic-300x300.png"
 slug: "modifier-la-vocation-de-ce-blogue-ou"
 ---

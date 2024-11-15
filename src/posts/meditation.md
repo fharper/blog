@@ -1,9 +1,6 @@
 ---
 title: "I look like the Happy Buddha, but it's not why I meditate daily"
 date: "2019-08-28"
-categories: 
-  - "brainer"
-  - "evergreen"
 tags: 
   - "meditation"
   - "mental-health"

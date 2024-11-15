@@ -1,14 +1,6 @@
 ---
 title: "Firefox OS at Mobile Startups Toronto, HTML5 Toronto, and online"
 date: "2014-01-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Matthew_Fred.jpg"
 slug: "firefox-os-at-mobile-startups-toronto-html5-toronto-and-online"
 ---

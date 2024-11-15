@@ -1,14 +1,6 @@
 ---
 title: "Hack your life"
 date: "2012-01-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4053722672_7d0ace2f0a_o2-580x400.jpg"
 slug: "hack-your-life"
 ---

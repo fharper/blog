@@ -1,14 +1,6 @@
 ---
 title: "Demandez et vous recevrez... peut-être!"
 date: "2010-08-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "image-300x262.jpg"
 slug: "demandez-et-vous-recevrez-peut-etre"
 ---

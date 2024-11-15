@@ -1,14 +1,6 @@
 ---
 title: "Kongossa Web Series Montreal"
 date: "2013-08-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "kongossa.png"
 slug: "kongossa-web-series-montreal"
 ---

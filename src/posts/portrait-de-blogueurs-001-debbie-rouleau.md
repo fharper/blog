@@ -1,14 +1,6 @@
 ---
 title: "Portrait de blogueurs 001 - Debbie Rouleau"
 date: "2010-03-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "portrait-de-blogueurs-001-debbie-rouleau"
 ---
 

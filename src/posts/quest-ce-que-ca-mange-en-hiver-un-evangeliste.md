@@ -1,14 +1,6 @@
 ---
 title: "Qu'est-ce que ça mange en hiver un évangéliste ?"
 date: "2010-12-09"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "quest-ce-que-ca-mange-en-hiver-un-evangeliste"
 ---
 

@@ -1,14 +1,6 @@
 ---
 title: "Desjardins, une écoute active des médias sociaux"
 date: "2010-12-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "partner_desjardins-300x62.jpg"
 slug: "desjardins-une-ecoute-active-des-medias-sociaux"
 ---

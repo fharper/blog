@@ -1,14 +1,6 @@
 ---
 title: "Oasis et le pouvoir des médias sociaux"
 date: "2012-04-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "Lassonde_Oasis.gif"
 slug: "oasis-et-le-pouvoir-des-medias-sociaux"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Take the time to live"
 date: "2012-12-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6374600725_0a67c86b86_b.jpg"
 slug: "take-the-time-to-live"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Les écoles prennent le virage des médias sociaux"
 date: "2010-11-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "ecole_showbusiness.jpg"
 slug: "les-ecoles-prennent-le-virage-des-medias-sociaux"
 ---

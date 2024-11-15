@@ -1,14 +1,6 @@
 ---
 title: "Les billets d'À la base 2 sont maintenant disponibles ici"
 date: "2012-03-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo.png"
 slug: "les-billets-da-la-base-2-sont-maintenant-disponibles-ici"
 ---

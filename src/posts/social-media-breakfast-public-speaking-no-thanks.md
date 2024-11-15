@@ -1,14 +1,6 @@
 ---
 title: "Social Media Breakfast - Public Speaking? No, thanks!"
 date: "2013-10-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mic.jpg"
 slug: "social-media-breakfast-public-speaking-no-thanks"
 ---

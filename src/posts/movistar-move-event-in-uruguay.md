@@ -1,13 +1,6 @@
 ---
 title: "Movistar MOVE event in Uruguay"
 date: "2014-10-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "move_speakers.png"
 slug: "movistar-move-event-in-uruguay"
 ---

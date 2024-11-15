@@ -1,14 +1,6 @@
 ---
 title: "Équipement"
 date: "2009-04-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3532609058_ea3a9c68ac_o.png"
 slug: "equipement"
 ---

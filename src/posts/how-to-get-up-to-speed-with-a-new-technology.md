@@ -1,14 +1,6 @@
 ---
 title: "How to get up to speed with a new technology"
 date: "2012-01-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4292084185_c2ffefff9d_b-580x400.jpg"
 slug: "how-to-get-up-to-speed-with-a-new-technology"
 ---

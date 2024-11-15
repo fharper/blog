@@ -1,14 +1,6 @@
 ---
 title: "Hélène La Coquette"
 date: "2010-11-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "helene-la-coquette"
 ---
 

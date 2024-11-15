@@ -1,14 +1,6 @@
 ---
 title: "Mon retour sur Podcamp Montréal 2010"
 date: "2010-09-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4986540469_645352d4b0_z.jpg"
 slug: "mon-retour-sur-podcamp-montreal-2010"
 ---

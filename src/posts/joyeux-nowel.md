@@ -1,14 +1,6 @@
 ---
 title: "Joyeux Nowel"
 date: "2010-12-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tree-300x217.png"
 slug: "joyeux-nowel"
 ---

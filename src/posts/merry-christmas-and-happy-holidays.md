@@ -1,14 +1,6 @@
 ---
 title: "Merry Christmas and Happy Holidays"
 date: "2011-12-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5098113853_64d3a3a005_b-580x400.jpg"
 slug: "merry-christmas-and-happy-holidays"
 ---

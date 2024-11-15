@@ -1,9 +1,6 @@
 ---
 title: "Let's Do Epic Shit Together"
 date: "2021-06-02"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "challenge"
   - "developer-advocate"

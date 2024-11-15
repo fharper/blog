@@ -1,14 +1,6 @@
 ---
 title: "Awesome tools you can use to build your next HTML5 website or application"
 date: "2012-02-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "HTML5-paradise-560x400.png"
 slug: "awesome-tools-you-can-use-to-build-your-next-html5-website-or-application"
 ---

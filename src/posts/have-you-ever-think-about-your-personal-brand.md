@@ -1,14 +1,6 @@
 ---
 title: "Have you ever think about your personal brand?"
 date: "2014-02-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3352119505_fe35104f44_o-scaled.jpg"
 slug: "have-you-ever-think-about-your-personal-brand"
 ---

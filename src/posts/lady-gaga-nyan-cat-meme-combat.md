@@ -1,14 +1,6 @@
 ---
 title: "Lady Gaga & Nyan Cat, même combat"
 date: "2012-01-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2011-09-29_2134.png"
 slug: "lady-gaga-nyan-cat-meme-combat"
 ---

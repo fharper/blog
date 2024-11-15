@@ -1,14 +1,6 @@
 ---
 title: "The magic happens out of your comfort zone"
 date: "2013-11-29"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "outofcomfortzone.jpg"
 slug: "the-magic-happens-out-of-your-comfort-zone"
 ---

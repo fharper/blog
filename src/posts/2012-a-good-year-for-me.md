@@ -1,14 +1,6 @@
 ---
 title: "2012, a good year for me"
 date: "2013-01-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3166085824_d93fe8c5c5_z.jpg"
 slug: "2012-a-good-year-for-me"
 ---

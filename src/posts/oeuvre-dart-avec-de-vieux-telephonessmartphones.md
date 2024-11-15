@@ -1,14 +1,6 @@
 ---
 title: "\"Oeuvre d'art\" avec de vieux téléphones/smartphones"
 date: "2010-08-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "smartphones-300x210.jpg"
 slug: "oeuvre-dart-avec-de-vieux-telephonessmartphones"
 ---

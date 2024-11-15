@@ -1,14 +1,6 @@
 ---
 title: "Le gouvernement investit dans nos infrastructures"
 date: "2012-08-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_000083.jpg"
 slug: "le-gouvernement-investit-dans-nos-infrastructures"
 ---

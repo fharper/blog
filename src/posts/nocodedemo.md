@@ -1,13 +1,6 @@
 ---
 title: "Why I won't write code demos, articles or new talks in your interview process"
 date: "2017-09-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "experience"

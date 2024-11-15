@@ -1,14 +1,6 @@
 ---
 title: "Tips and tricks for people #46"
 date: "2013-10-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-46"

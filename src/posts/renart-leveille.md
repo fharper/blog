@@ -1,14 +1,6 @@
 ---
 title: "Renart Léveillé"
 date: "2010-05-14"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "renart-leveille"
 ---
 

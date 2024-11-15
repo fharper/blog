@@ -1,14 +1,6 @@
 ---
 title: "Guest blogging"
 date: "2010-08-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "guest-pass-image-223x300.jpg"
 slug: "guest-blogging"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Now is the perfect moment"
 date: "2013-03-23"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3184149164_602721a576_b.jpg"
 slug: "now-is-the-perfect-moment"
 ---

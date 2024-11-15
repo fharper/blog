@@ -1,9 +1,6 @@
 ---
 title: "Guest blog posts"
 date: "2013-01-21"
-categories: 
-  - "brainer"
-  - "en"
 tags: 
   - "blogging"
   - "contribution"

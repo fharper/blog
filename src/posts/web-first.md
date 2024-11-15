@@ -1,14 +1,6 @@
 ---
 title: "Web first"
 date: "2014-02-20"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "internet1.jpg"
 slug: "web-first"
 ---

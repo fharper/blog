@@ -1,14 +1,6 @@
 ---
 title: "Make the process frictionless"
 date: "2013-12-19"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "complexity.jpg"
 slug: "make-the-process-frictionless"
 ---

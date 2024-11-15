@@ -1,14 +1,6 @@
 ---
 title: "À la recherche d'un logo - 2ième partie"
 date: "2008-12-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo2_gros.jpg"
 slug: "a-la-recherche-dun-logo-2ieme-partie"
 ---

@@ -1,12 +1,6 @@
 ---
 title: "6 months at DigitalOcean"
 date: "2019-11-21"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "career"
   - "culture"

@@ -1,12 +1,6 @@
 ---
 title: "Tips and tricks for people #57"
 date: "2014-03-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-57"

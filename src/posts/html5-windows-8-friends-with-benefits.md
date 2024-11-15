@@ -1,14 +1,6 @@
 ---
 title: "HTML5 & Windows 8, friends with benefits"
 date: "2013-04-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "893984_446458285434490_278728303_o.jpg"
 slug: "html5-windows-8-friends-with-benefits"
 ---

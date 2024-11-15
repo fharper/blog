@@ -1,14 +1,6 @@
 ---
 title: "Once in a while, you should check your social media access permissions"
 date: "2013-08-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "security.jpg"
 slug: "once-in-a-while-you-should-check-your-social-media-access-permissions"
 ---

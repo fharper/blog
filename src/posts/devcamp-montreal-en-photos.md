@@ -1,14 +1,6 @@
 ---
 title: "DevCamp Montréal en photos"
 date: "2011-12-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "devcamp-montreal-en-photos"
 ---
 

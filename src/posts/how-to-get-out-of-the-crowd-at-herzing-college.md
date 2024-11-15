@@ -1,12 +1,6 @@
 ---
 title: "How to get out of the crowd at Herzing College"
 date: "2014-04-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "4610262111_6e8df2cac0_o-scaled.jpg"
 slug: "how-to-get-out-of-the-crowd-at-herzing-college"
 ---

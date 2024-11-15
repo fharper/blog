@@ -1,13 +1,6 @@
 ---
 title: "HTML for the Mobile Web at All Things Open"
 date: "2014-09-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "allthingsopen.jpg"
 slug: "html-for-the-mobile-web-at-all-things-open"
 ---

@@ -1,13 +1,6 @@
 ---
 title: "Linux Meetup Montréal et son intérêt pour Mozilla"
 date: "2014-08-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "highres_395243882-scaled.jpeg"
 slug: "linux-meetup-montreal-et-son-interet-pour-mozilla"
 ---

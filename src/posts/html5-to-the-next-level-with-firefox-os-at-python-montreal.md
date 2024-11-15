@@ -1,13 +1,6 @@
 ---
 title: "HTML5 to the next level with Firefox OS at Python Montreal"
 date: "2014-05-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "snakes.png"
 slug: "html5-to-the-next-level-with-firefox-os-at-python-montreal"
 ---

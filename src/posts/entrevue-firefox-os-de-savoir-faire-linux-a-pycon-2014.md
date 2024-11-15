@@ -1,12 +1,6 @@
 ---
 title: "Entrevue Firefox OS de Savoir Faire Linux à Pycon 2014"
 date: "2014-05-01"
-categories: 
-  - "brainer"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
-  - "fr"
 image: "Pycon2014.png"
 slug: "entrevue-firefox-os-de-savoir-faire-linux-a-pycon-2014"
 ---

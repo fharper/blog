@@ -1,14 +1,6 @@
 ---
 title: "How I choose when to write a blog post in French, or in English"
 date: "2013-09-05"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "languages.jpg"
 slug: "how-i-choose-when-to-write-a-blog-post-in-french-or-in-english"
 ---

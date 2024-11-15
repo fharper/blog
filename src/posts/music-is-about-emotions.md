@@ -1,14 +1,6 @@
 ---
 title: "Music is about emotions"
 date: "2015-07-31"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "emotions"
   - "foo-fighters"

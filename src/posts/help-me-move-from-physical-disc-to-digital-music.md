@@ -1,14 +1,6 @@
 ---
 title: "Help me move from physical disc to digital music"
 date: "2013-11-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "music.jpg"
 slug: "help-me-move-from-physical-disc-to-digital-music"
 ---

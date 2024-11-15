@@ -1,13 +1,6 @@
 ---
 title: "Codementor Office Hours on Personal Branding for developers"
 date: "2015-01-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "maxresdefault-1.jpg"
 slug: "codementor-office-hours-on-personal-branding-for-developers"
 ---

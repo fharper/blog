@@ -1,14 +1,6 @@
 ---
 title: "HTML5 challenge #2 – Web Socket"
 date: "2013-06-21"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "html5-topper.png"
 slug: "html5-challenge-2-web-socket"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "L'importance du réseautage"
 date: "2010-11-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "networking2-300x200.jpg"
 slug: "limportance-du-reseautage"
 ---

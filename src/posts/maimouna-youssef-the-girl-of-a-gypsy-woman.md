@@ -1,14 +1,6 @@
 ---
 title: "Maimouna Youssef, the girl of a gypsy woman"
 date: "2012-03-22"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "img_1814.jpg"
 slug: "maimouna-youssef-the-girl-of-a-gypsy-woman"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Tips and tricks for people"
 date: "2012-04-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "tipsandtricks"
 image: "2711755476_502a4dff03_o.png"

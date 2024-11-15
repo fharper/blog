@@ -1,13 +1,6 @@
 ---
 title: "I'm joining Fitbit as their Senior Developer Advocate"
 date: "2017-11-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "developer-advocate"
   - "fitbit"

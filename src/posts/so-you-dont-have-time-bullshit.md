@@ -1,14 +1,6 @@
 ---
 title: "So you don't have time? Bullshit!"
 date: "2013-10-18"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "time.jpg"
 slug: "so-you-dont-have-time-bullshit"
 ---

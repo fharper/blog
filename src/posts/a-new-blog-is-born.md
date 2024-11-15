@@ -1,14 +1,6 @@
 ---
 title: "A new blog is born"
 date: "2011-07-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "155604654_271132f38a_o-1024x682.jpg"
 slug: "a-new-blog-is-born"
 ---

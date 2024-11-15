@@ -1,14 +1,6 @@
 ---
 title: "What the heck is Responsive Web Design?"
 date: "2012-02-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "5818096043_1995236700_o-580x400.jpg"
 slug: "what-the-heck-is-responsive-web-design"
 ---

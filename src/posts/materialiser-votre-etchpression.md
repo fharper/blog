@@ -1,14 +1,6 @@
 ---
 title: "Matérialiser votre etchpression"
 date: "2008-12-28"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "dscn1735-300x225.jpg"
 slug: "materialiser-votre-etchpression"
 ---

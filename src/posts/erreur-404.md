@@ -1,14 +1,6 @@
 ---
 title: "Erreur 404"
 date: "2013-04-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WP_20130410_001.jpg"
 slug: "erreur-404"
 ---

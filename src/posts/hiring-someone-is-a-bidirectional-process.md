@@ -1,14 +1,6 @@
 ---
 title: "Hiring someone is a bidirectional process"
 date: "2017-05-16"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "employer"
   - "hiring"

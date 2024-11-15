@@ -1,14 +1,6 @@
 ---
 title: "We are Geek, une idée qui devient projet"
 date: "2010-06-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "WeAreGeek.png"
 slug: "we-are-geek-une-idee-qui-devient-projet"
 ---

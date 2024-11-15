@@ -1,14 +1,6 @@
 ---
 title: "The secret that nobody will tell you about success"
 date: "2012-09-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "6956655022_7d362069a4_b.jpg"
 slug: "the-secret-that-nobody-will-tell-you-about-success"
 ---

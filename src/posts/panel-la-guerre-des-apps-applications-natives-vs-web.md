@@ -1,14 +1,6 @@
 ---
 title: "Panel la guerre des apps: applications natives vs web"
 date: "2013-09-24"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "tp1_guerre_apps.jpg"
 slug: "panel-la-guerre-des-apps-applications-natives-vs-web"
 ---

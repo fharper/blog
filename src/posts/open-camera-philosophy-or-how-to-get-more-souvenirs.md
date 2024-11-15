@@ -1,14 +1,6 @@
 ---
 title: "Open Camera philosophy, or how to get more souvenirs"
 date: "2013-11-25"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "pictures-600x227.jpg"
 slug: "open-camera-philosophy-or-how-to-get-more-souvenirs"
 ---

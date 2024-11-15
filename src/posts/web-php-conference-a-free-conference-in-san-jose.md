@@ -1,14 +1,6 @@
 ---
 title: "Web & PHP Conference, a free conference in San Jose"
 date: "2013-08-08"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "wpc_con_hintergrundbild.jpg"
 slug: "web-php-conference-a-free-conference-in-san-jose"
 ---

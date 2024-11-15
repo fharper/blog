@@ -1,14 +1,6 @@
 ---
 title: "Le grand ménage des 404"
 date: "2009-04-15"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "le-grand-menage-des-404"
 ---
 

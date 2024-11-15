@@ -1,14 +1,6 @@
 ---
 title: "CindyLou"
 date: "2010-08-12"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "cindylou"
 ---
 

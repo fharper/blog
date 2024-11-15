@@ -1,14 +1,6 @@
 ---
 title: "Do you want to become the next Technical Evangelist at Microsoft Canada?"
 date: "2013-06-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "DPE2011team.png"
 slug: "do-you-want-to-become-the-next-technical-evangelist-at-microsoft-canada"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "How many people will attend my event?"
 date: "2015-02-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "4530090176_5170acc6a7_o.jpg"
 slug: "how-many-people-will-attend-my-event"
 ---

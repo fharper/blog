@@ -1,14 +1,6 @@
 ---
 title: "Geek et fier de l'être"
 date: "2012-01-13"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "3896009598_23ca24459c_o-434x400.jpg"
 slug: "geek-et-fier-de-letre"
 ---

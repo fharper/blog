@@ -1,14 +1,6 @@
 ---
 title: "Web-In 2012"
 date: "2013-01-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "web-in-2012"
 ---
 

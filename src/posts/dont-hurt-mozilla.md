@@ -1,13 +1,6 @@
 ---
 title: "Don't hurt Mozilla"
 date: "2014-04-04"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "mozlove.png"
 slug: "dont-hurt-mozilla"
 ---

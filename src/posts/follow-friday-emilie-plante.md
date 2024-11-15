@@ -1,14 +1,6 @@
 ---
 title: "Follow Friday - Émilie Plante"
 date: "2010-12-10"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 slug: "follow-friday-emilie-plante"
 ---
 

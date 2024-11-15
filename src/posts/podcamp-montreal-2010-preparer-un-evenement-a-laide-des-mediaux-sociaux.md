@@ -1,14 +1,6 @@
 ---
 title: "Podcamp Montréal 2010 : Préparer un événement à l’aide des médiaux sociaux"
 date: "2010-09-03"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "pcmtl2010-300x118.jpg"
 slug: "podcamp-montreal-2010-preparer-un-evenement-a-laide-des-mediaux-sociaux"
 ---

@@ -1,14 +1,6 @@
 ---
 title: "Radio Highway, plus qu'une radio"
 date: "2010-11-11"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "gros-logo1-300x300.png"
 slug: "radio-highway-plus-quune-radio"
 ---

@@ -1,8 +1,6 @@
 ---
 title: "samples of past work"
 date: "2022-11-15"
-categories: 
-  - "brainer"
 image: "fred.dev-1-removed-grayscale.jpg"
 slug: "work"
 ---

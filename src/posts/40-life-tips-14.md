@@ -1,10 +1,6 @@
 ---
 title: "40 Life Tips Before Forty - #14"
 date: "2022-02-06"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
 tags: 
   - "40lifetips"
   - "health"

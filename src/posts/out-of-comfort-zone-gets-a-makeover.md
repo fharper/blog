@@ -1,14 +1,6 @@
 ---
 title: "Out of Comfort Zone gets a makeover"
 date: "2012-05-07"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "logo.jpg"
 slug: "out-of-comfort-zone-gets-a-makeover"
 ---

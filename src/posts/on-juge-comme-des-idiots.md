@@ -1,14 +1,6 @@
 ---
 title: "On juge comme des idiots"
 date: "2010-12-30"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "juger-300x216.jpg"
 slug: "on-juge-comme-des-idiots"
 ---

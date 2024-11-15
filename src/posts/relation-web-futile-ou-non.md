@@ -1,14 +1,6 @@
 ---
 title: "Relation Web: futile ou non?"
 date: "2010-08-02"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "internaute-inconnu-300x123.jpg"
 slug: "relation-web-futile-ou-non"
 ---

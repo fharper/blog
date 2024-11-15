@@ -1,14 +1,6 @@
 ---
 title: "Celebrate failure"
 date: "2011-07-27"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fiximg"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "2407313614_cc746f52aa_o-580x400.jpg"
 slug: "celebrate-failure"
 ---

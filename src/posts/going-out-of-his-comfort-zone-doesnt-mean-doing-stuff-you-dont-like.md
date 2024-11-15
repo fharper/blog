@@ -1,13 +1,6 @@
 ---
 title: "Going out of his comfort zone doesn't mean doing stuff you don't like"
 date: "2014-02-26"
-categories: 
-  - "brainer"
-  - "en"
-  - "evergreen"
-  - "fixtxt"
-  - "fixtags"
-  - "fixurl"
 image: "comfortzone.jpg"
 slug: "going-out-of-his-comfort-zone-doesnt-mean-doing-stuff-you-dont-like"
 ---

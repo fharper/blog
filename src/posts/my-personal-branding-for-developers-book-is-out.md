@@ -1,13 +1,6 @@
 ---
 title: "My Personal Branding for developers book is out"
 date: "2014-12-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 tags: 
   - "personal-branding"
 image: "book-personal-branding.jpeg"

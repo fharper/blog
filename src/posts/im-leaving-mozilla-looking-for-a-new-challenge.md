@@ -1,13 +1,6 @@
 ---
 title: "I’m leaving Mozilla, looking for a new challenge"
 date: "2014-10-17"
-categories: 
-  - "brainer"
-  - "en"
-  - "fixtxt"
-  - "fixlang"
-  - "fixtags"
-  - "fixurl"
 image: "14207240404_547b4346bc_o.jpg"
 slug: "im-leaving-mozilla-looking-for-a-new-challenge"
 ---
