@@ -23,6 +23,7 @@ const manifest = isDev
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 
 const { execSync } = require('child_process')
+const embedYouTube = require("eleventy-plugin-youtube-embed");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
@@ -33,6 +34,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.on('eleventy.after', () => {
     execSync(`npx pagefind --site public --glob \"**/*.html\"`, { encoding: 'utf-8' })
   })
+
+  //YouTube embedded plugin
+  eleventyConfig.addPlugin(embedYouTube);
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
