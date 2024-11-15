@@ -2,13 +2,12 @@
 title: "Show me your book: Strengths Finder 2.0"
 date: "2012-02-11"
 slug: "show-me-your-book-strengths-finder-2-0"
+image: "513Ty-LRc9L._SL160_.jpg"
 ---
 
 One thing that is awesome with my job is that our team is all about learning and getting better. I’m the kind of guy who think there is things I need to learn by myself, on my own time, but other things that my employer need to pay for it in a form or in other: training, time… What is even greater in my role is that even things I would do all by myself, my manager invest time and money on!
 
 One of the things we did to improve ourselves on a personal plan, that will also help our team work, is reading the book Strengths Finder 2.0 (version of the book, no link with Web 2.0). It’s not that our team is not playing well together, we are an amazing team, but there is always space to improvement everywhere in life. Usually books or people told you to find your weakness and try to work on them. You must admit that it’s a lot of work to being a better person. The main idea of this book is to work on your strength instead of your weakness. You have powerful aptitudes, why not taking them to the next step?
-
-![](images/513Ty-LRc9L._SL160_.jpg)
 
 [Strengthsfinder 2.0: From the Author of the Bestseller Wellbeing](https://www.amazon.ca/Strengthsfinder-2-0-Author-Bestseller-Wellbeing/dp/159562015X%3FSubscriptionId%3D0JTCV5ZMHMF7ZYTXGFR2%26tag%3Doutofcomzon-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D159562015X)
 
