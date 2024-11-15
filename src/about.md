@@ -1,14 +1,7 @@
 ---
-title: About Aidan Charles Powell
+title: about
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+image: '/images/fred.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
-
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
-
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+As the Principal Developer Advocate at Kubefirst, Frédéric Harper helps Developers, and DevOps be successful with their Kubernetes journey. Fred has shared his passion for technology on the stage at multitudinous events around the world. He’s helped build successful, and healthy communities at npm, Mozilla, Microsoft, DigitalOcean, and Fitbit. He is also the author of the book Personal Branding for Developers at Apress. Behind this extrovert is a very passionate individual who believes in the power of communication... and cat videos.
