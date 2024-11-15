@@ -22,10 +22,17 @@ const manifest = isDev
     }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 
+const { execSync } = require('child_process')
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
+
+  //Search: pageFind
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site public --glob \"**/*.html\"`, { encoding: 'utf-8' })
+  })
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
