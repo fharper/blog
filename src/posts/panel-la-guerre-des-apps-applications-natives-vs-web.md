@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tp1_guerre_apps.jpg"
+image: "tp1_guerre_apps.jpg"
 slug: "panel-la-guerre-des-apps-applications-natives-vs-web"
 ---
 

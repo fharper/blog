@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "5700038935_4cc490d41c_o.jpg"
+image: "5700038935_4cc490d41c_o.jpg"
 slug: "my-blog-posts-frequency"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "juger-300x216.jpg"
+image: "juger-300x216.jpg"
 slug: "on-juge-comme-des-idiots"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "freeyourmind.jpg"
+image: "freeyourmind.jpg"
 slug: "free-your-mind"
 ---
 

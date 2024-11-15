@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Comedy-Nest-Stage.jpg"
+image: "Comedy-Nest-Stage.jpg"
 slug: "the-comedy-nest-laughter-guaranteed"
 ---
 

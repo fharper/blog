@@ -12,7 +12,7 @@ tags:
   - "extensions"
   - "open-source"
   - "utility"
-coverImage: "fred.dev-awesome-chrome-extensions-pawel-czerwinski-fpzzev0uqwa-unsplash.jpg"
+image: "fred.dev-awesome-chrome-extensions-pawel-czerwinski-fpzzev0uqwa-unsplash.jpg"
 slug: "chrome-extensions"
 ---
 

@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "9245001391_8897527f95_o-scaled.jpg"
+image: "9245001391_8897527f95_o-scaled.jpg"
 slug: "firefox-os-a-html5mtl"
 ---
 

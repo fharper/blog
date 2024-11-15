@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130410_001.jpg"
+image: "WP_20130410_001.jpg"
 slug: "erreur-404"
 ---
 

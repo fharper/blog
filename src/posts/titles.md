@@ -10,7 +10,7 @@ tags:
   - "personal-branding"
   - "title"
   - "work"
-coverImage: "fred.dev-job-titles-are-important-yuhan-du-jddegohcqio-unsplash.jpg"
+image: "fred.dev-job-titles-are-important-yuhan-du-jddegohcqio-unsplash.jpg"
 slug: "titles"
 ---
 

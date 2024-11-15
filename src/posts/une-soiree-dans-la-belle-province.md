@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "plaque_bellepro-300x211.jpg"
+image: "plaque_bellepro-300x211.jpg"
 slug: "une-soiree-dans-la-belle-province"
 ---
 

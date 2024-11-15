@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "yelp.jpg"
+image: "yelp.jpg"
 slug: "im-a-shareaholic-so-im-enjoying-yelp"
 ---
 

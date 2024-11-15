@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "AtyyzRrCIAAWnUC.jpg"
+image: "AtyyzRrCIAAWnUC.jpg"
 slug: "windows-8-love-in-st-johns-go-beyond-pixels-conference"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2012-11-07_2027.png"
+image: "2012-11-07_2027.png"
 slug: "quand-une-loi-protegeant-ma-langue-limite-mes-choix"
 ---
 

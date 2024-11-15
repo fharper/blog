@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5925354646_e62e12ca05_b.jpg"
+image: "5925354646_e62e12ca05_b.jpg"
 slug: "your-blog-posts-are-too-long"
 ---
 

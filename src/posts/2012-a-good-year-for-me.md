@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3166085824_d93fe8c5c5_z.jpg"
+image: "3166085824_d93fe8c5c5_z.jpg"
 slug: "2012-a-good-year-for-me"
 ---
 

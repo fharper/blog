@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "310990867_64974ce2d2_o-scaled.jpg"
+image: "310990867_64974ce2d2_o-scaled.jpg"
 slug: "im-going-to-prague-in-czech-republic-anything-else-a-tourist-should-do"
 ---
 

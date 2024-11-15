@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mobiz.jpg"
+image: "mobiz.jpg"
 slug: "html5-une-revolution-a-plusieurs-niveaux"
 ---
 

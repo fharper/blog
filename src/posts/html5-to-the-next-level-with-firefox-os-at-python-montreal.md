@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "snakes.png"
+image: "snakes.png"
 slug: "html5-to-the-next-level-with-firefox-os-at-python-montreal"
 ---
 

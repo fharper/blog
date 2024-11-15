@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "devlab-300x127.png"
+image: "devlab-300x127.png"
 slug: "devlab-montreal-la-soiree-du-hockey-pour-geeks"
 ---
 

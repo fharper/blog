@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "pictures-600x227.jpg"
+image: "pictures-600x227.jpg"
 slug: "open-camera-philosophy-or-how-to-get-more-souvenirs"
 ---
 

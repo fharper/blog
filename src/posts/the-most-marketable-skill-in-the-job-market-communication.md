@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "13195153284_9382a43b93_o-scaled.jpg"
+image: "13195153284_9382a43b93_o-scaled.jpg"
 slug: "the-most-marketable-skill-in-the-job-market-communication"
 ---
 

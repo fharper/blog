@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "twitter.jpg"
+image: "twitter.jpg"
 slug: "my-twitter-manifesto"
 ---
 

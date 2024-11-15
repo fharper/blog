@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "web-in_noir-300x53.jpg"
+image: "web-in_noir-300x53.jpg"
 slug: "un-tablettecamp-a-montreal"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "jordan-whitfield-sm3Ub_IJKQg-unsplash-scaled.jpg"
+image: "jordan-whitfield-sm3Ub_IJKQg-unsplash-scaled.jpg"
 slug: "the-day-i-was-ashamed-of-myself"
 ---
 

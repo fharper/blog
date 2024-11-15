@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred@EPITA.jpg"
+image: "Fred@EPITA.jpg"
 slug: "firefox-os-a-la-semaine-des-technologies-epita"
 ---
 

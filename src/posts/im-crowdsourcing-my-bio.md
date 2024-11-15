@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "135287814_7d01fe5642_o.jpg"
+image: "135287814_7d01fe5642_o.jpg"
 slug: "im-crowdsourcing-my-bio"
 ---
 

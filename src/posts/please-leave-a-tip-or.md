@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130202_014.jpg"
+image: "WP_20130202_014.jpg"
 slug: "please-leave-a-tip-or"
 ---
 

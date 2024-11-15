@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Raymond_Kao_and_Fred.jpg"
+image: "Raymond_Kao_and_Fred.jpg"
 slug: "make-web-not-war-tv-3d-printing-with-a-kinect-and-raymond-kao"
 ---
 

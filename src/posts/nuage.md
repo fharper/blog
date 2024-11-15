@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3753962744_4400d7959a_o.png"
+image: "3753962744_4400d7959a_o.png"
 slug: "nuage"
 ---
 

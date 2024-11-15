@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "partner_desjardins-300x62.jpg"
+image: "partner_desjardins-300x62.jpg"
 slug: "desjardins-une-ecoute-active-des-medias-sociaux"
 ---
 

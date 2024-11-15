@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "gnome.jpg"
+image: "gnome.jpg"
 slug: "tomorrow"
 ---
 

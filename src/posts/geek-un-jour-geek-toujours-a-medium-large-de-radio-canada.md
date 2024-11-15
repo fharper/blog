@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2013-07-30_2031.png"
+image: "2013-07-30_2031.png"
 slug: "geek-un-jour-geek-toujours-a-medium-large-de-radio-canada"
 ---
 

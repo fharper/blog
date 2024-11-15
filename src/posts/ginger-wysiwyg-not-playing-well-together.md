@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2013-08-01_0953.png"
+image: "2013-08-01_0953.png"
 slug: "ginger-wysiwyg-not-playing-well-together"
 ---
 

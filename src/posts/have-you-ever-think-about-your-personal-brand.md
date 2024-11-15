@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3352119505_fe35104f44_o-scaled.jpg"
+image: "3352119505_fe35104f44_o-scaled.jpg"
 slug: "have-you-ever-think-about-your-personal-brand"
 ---
 

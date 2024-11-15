@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3710798106_dee1e87638_b.jpg"
+image: "3710798106_dee1e87638_b.jpg"
 slug: "stop-blaming-others"
 ---
 

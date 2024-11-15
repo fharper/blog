@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5313067703_dc9f69ce48_o.jpg"
+image: "5313067703_dc9f69ce48_o.jpg"
 slug: "welcome-to-the-chapter-one-of-the-rest-of-your-life"
 ---
 

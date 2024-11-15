@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2a65ac68e93411e18b0122000a1e9b8c_7.jpg"
+image: "2a65ac68e93411e18b0122000a1e9b8c_7.jpg"
 slug: "wordpress-dans-les-nuages-au-wordcamp-montreal"
 ---
 

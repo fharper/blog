@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3513309131_1d2ed9cea5_b-580x400.jpg"
+image: "3513309131_1d2ed9cea5_b-580x400.jpg"
 slug: "i-need-a-good-designer"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fxos-krakow.jpg"
+image: "fxos-krakow.jpg"
 slug: "firefox-os-tools-web-apis-in-krakow"
 ---
 

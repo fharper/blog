@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "dontlike.jpg"
+image: "dontlike.jpg"
 slug: "no-web-version-why-do-you-hate-me"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fharper.png"
+image: "fharper.png"
 slug: "say-hi-to-my-new-friend-the-gnome"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "idea-600x450.jpg"
+image: "idea-600x450.jpg"
 slug: "so-you-want-to-find-a-co-founder-for-your-startup-idea-in-montreal"
 ---
 

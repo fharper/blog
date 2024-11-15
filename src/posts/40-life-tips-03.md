@@ -12,7 +12,7 @@ tags:
   - "life"
   - "open-minded"
   - "tips"
-coverImage: "pexels-miguel-a-padrinan-1111372-scaled.jpg"
+image: "pexels-miguel-a-padrinan-1111372-scaled.jpg"
 slug: "40-life-tips-03"
 ---
 

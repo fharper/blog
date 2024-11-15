@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WeAreGeek.png"
+image: "WeAreGeek.png"
 slug: "we-are-geek-une-idee-qui-devient-projet"
 ---
 

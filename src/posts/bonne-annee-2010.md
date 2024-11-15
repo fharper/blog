@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "dejese-papa-tux-noel-2395.png"
+image: "dejese-papa-tux-noel-2395.png"
 slug: "bonne-annee-2010"
 ---
 

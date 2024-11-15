@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "7290691698_2bf85df5d1_c.jpg"
+image: "7290691698_2bf85df5d1_c.jpg"
 slug: "a-few-other-tricks-about-public-speaking-and-stage-technology"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "internaute-inconnu-300x123.jpg"
+image: "internaute-inconnu-300x123.jpg"
 slug: "relation-web-futile-ou-non"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "comments.jpg"
+image: "comments.jpg"
 slug: "better-comment-at-the-source"
 ---
 

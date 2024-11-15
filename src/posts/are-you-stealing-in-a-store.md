@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1003687878_c1ac1df293_b.jpg"
+image: "1003687878_c1ac1df293_b.jpg"
 slug: "are-you-stealing-in-a-store"
 ---
 

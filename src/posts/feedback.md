@@ -3,7 +3,7 @@ title: "Please read this before receiving feedback from me"
 date: "2023-05-16"
 categories: 
   - "brainer"
-coverImage: "fred.dev-towfiqu-barbhuiya-0zuobtlw3y4-unsplash-scaled.jpg"
+image: "fred.dev-towfiqu-barbhuiya-0zuobtlw3y4-unsplash-scaled.jpg"
 slug: "feedback"
 ---
 

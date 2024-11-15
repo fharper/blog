@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5000120312_a47b4a5034_o-580x400.jpg"
+image: "5000120312_a47b4a5034_o-580x400.jpg"
 slug: "hack-your-life-challenge-4-set-a-happiness-metric"
 ---
 

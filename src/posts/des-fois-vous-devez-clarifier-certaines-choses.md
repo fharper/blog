@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5800383424_a17af3753b1-300x225.jpg"
+image: "5800383424_a17af3753b1-300x225.jpg"
 slug: "des-fois-vous-devez-clarifier-certaines-choses"
 ---
 

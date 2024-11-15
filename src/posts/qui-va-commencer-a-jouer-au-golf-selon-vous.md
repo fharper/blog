@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "43-440x586.jpg"
+image: "43-440x586.jpg"
 slug: "qui-va-commencer-a-jouer-au-golf-selon-vous"
 ---
 

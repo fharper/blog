@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "gros-logo1-300x300.png"
+image: "gros-logo1-300x300.png"
 slug: "radio-highway-plus-quune-radio"
 ---
 

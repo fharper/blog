@@ -11,7 +11,7 @@ tags:
   - "conversation"
   - "life"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-09-pexels-miguel-a-padrinan-1111368-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-09-pexels-miguel-a-padrinan-1111368-scaled.jpg"
 slug: "40-life-tips-09"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "wordpress-must-dos.jpg"
+image: "wordpress-must-dos.jpg"
 slug: "a-la-recherche-dun-nouveau-theme"
 ---
 

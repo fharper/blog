@@ -8,7 +8,7 @@ categories:
 tags: 
   - "happiness"
   - "life"
-coverImage: "pawel-czerwinski-3k9PGKWt7ik-unsplash-scaled.jpg"
+image: "pawel-czerwinski-3k9PGKWt7ik-unsplash-scaled.jpg"
 slug: "smallthings"
 ---
 

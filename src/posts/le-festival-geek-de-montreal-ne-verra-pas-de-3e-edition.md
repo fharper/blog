@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo_geekfestmtl2011_rgb_medium1.png"
+image: "logo_geekfestmtl2011_rgb_medium1.png"
 slug: "le-festival-geek-de-montreal-ne-verra-pas-de-3e-edition"
 ---
 

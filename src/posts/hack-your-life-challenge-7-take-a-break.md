@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4337496170_8052a14cac_o-580x400.jpg"
+image: "4337496170_8052a14cac_o-580x400.jpg"
 slug: "hack-your-life-challenge-7-take-a-break"
 ---
 

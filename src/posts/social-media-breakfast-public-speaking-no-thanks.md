@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mic.jpg"
+image: "mic.jpg"
 slug: "social-media-breakfast-public-speaking-no-thanks"
 ---
 

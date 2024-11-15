@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "71014_MoneyHappiness_vl-vertical-223x300.jpg"
+image: "71014_MoneyHappiness_vl-vertical-223x300.jpg"
 slug: "le-benevolat-un-emploi-sans-remuneration-monetaire"
 ---
 

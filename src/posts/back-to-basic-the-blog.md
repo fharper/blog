@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4021813470_90f76ddc77_b-580x400.jpg"
+image: "4021813470_90f76ddc77_b-580x400.jpg"
 slug: "back-to-basic-the-blog"
 ---
 

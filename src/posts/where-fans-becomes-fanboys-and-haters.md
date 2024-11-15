@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5443535994_8734fed57d_b-580x400.jpg"
+image: "5443535994_8734fed57d_b-580x400.jpg"
 slug: "where-fans-becomes-fanboys-and-haters"
 ---
 

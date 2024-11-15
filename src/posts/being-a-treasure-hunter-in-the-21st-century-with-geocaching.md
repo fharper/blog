@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "geocaching.jpg"
+image: "geocaching.jpg"
 slug: "being-a-treasure-hunter-in-the-21st-century-with-geocaching"
 ---
 

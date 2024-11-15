@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "hospital.jpg"
+image: "hospital.jpg"
 slug: "be-strong-for-the-ones-you-love"
 ---
 

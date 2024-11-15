@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "geekfestmtl-300x154.png"
+image: "geekfestmtl-300x154.png"
 slug: "festival-geek-de-montreal-mon-bebe-grandit"
 ---
 

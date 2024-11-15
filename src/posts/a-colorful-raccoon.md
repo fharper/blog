@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130203_013.jpg"
+image: "WP_20130203_013.jpg"
 slug: "a-colorful-raccoon"
 ---
 

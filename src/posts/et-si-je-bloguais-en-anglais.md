@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "speak-english-300x263.png"
+image: "speak-english-300x263.png"
 slug: "et-si-je-bloguais-en-anglais"
 ---
 

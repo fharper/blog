@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Portpod-300x225.png"
+image: "Portpod-300x225.png"
 slug: "portrait-de-podcasteurs-un-concept-a-reprendre"
 ---
 

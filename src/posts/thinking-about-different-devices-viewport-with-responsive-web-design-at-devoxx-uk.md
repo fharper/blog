@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DevoxxUK.png"
+image: "DevoxxUK.png"
 slug: "thinking-about-different-devices-viewport-with-responsive-web-design-at-devoxx-uk"
 ---
 

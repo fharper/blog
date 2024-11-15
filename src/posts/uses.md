@@ -13,7 +13,7 @@ tags:
   - "recording"
   - "streaming"
   - "video"
-coverImage: "IMG_1776.jpeg"
+image: "IMG_1776.jpeg"
 slug: "uses"
 ---
 

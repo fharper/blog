@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3738819183_15ee79c350_z.jpg"
+image: "3738819183_15ee79c350_z.jpg"
 slug: "the-startup-bullshit"
 ---
 

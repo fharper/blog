@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "failcampmtl.png"
+image: "failcampmtl.png"
 slug: "failcamp-montreal-naura-pas-de-deuxieme-edition"
 ---
 

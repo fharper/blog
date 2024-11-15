@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "111.jpg"
+image: "111.jpg"
 slug: "my-unknown-father"
 ---
 

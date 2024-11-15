@@ -8,7 +8,7 @@ tags:
   - "blogging"
   - "contribution"
   - "guests"
-coverImage: "fred.dev-guest-blog-posts-2707705079-28fb3ca2d2-o-scaled.jpg"
+image: "fred.dev-guest-blog-posts-2707705079-28fb3ca2d2-o-scaled.jpg"
 slug: "guestblogging"
 ---
 

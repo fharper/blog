@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Raymond_and_Fred.png"
+image: "Raymond_and_Fred.png"
 slug: "make-web-not-war-tv-cross-platform-technologies-with-raymond-tsang"
 ---
 

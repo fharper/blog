@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "christmas-holiday-party-people-300x157.jpg"
+image: "christmas-holiday-party-people-300x157.jpg"
 slug: "improvisation-dun-party-de-bureau"
 ---
 

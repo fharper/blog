@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "PdBNoir-300x225.png"
+image: "PdBNoir-300x225.png"
 slug: "portrait-de-blogueurs-vole-de-ses-propres-ailes"
 ---
 

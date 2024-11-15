@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fred-personal_branding.jpg"
+image: "fred-personal_branding.jpg"
 slug: "so-you-want-me-to-speak-at-your-event"
 ---
 

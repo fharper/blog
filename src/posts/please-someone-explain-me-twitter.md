@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5858249526_2298a25375_b.jpg"
+image: "5858249526_2298a25375_b.jpg"
 slug: "please-someone-explain-me-twitter"
 ---
 

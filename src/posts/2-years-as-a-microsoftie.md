@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "73042_532499706778993_1774213558_n.jpg"
+image: "73042_532499706778993_1774213558_n.jpg"
 slug: "2-years-as-a-microsoftie"
 ---
 

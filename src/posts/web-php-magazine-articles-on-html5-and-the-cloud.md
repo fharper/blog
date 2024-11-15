@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "webandphpmag.png"
+image: "webandphpmag.png"
 slug: "web-php-magazine-articles-on-html5-and-the-cloud"
 ---
 

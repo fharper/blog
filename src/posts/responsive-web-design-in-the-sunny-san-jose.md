@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "rws.jpg"
+image: "rws.jpg"
 slug: "responsive-web-design-in-the-sunny-san-jose"
 ---
 

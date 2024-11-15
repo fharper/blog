@@ -14,7 +14,7 @@ tags:
   - "freelance"
   - "job"
   - "life"
-coverImage: "art-close-up-comic-16516.jpg"
+image: "art-close-up-comic-16516.jpg"
 slug: "i-just-want-to-make-shit-happens-looking-for-a-new-opportunity"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6642357447_f5a287c130_b-580x400.jpg"
+image: "6642357447_f5a287c130_b-580x400.jpg"
 slug: "hack-your-life-challenge-1-get-rid-of-excess-clothing"
 ---
 

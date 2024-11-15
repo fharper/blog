@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "html5-topper1.png"
+image: "html5-topper1.png"
 slug: "html5-challenges-are-you-ready"
 ---
 

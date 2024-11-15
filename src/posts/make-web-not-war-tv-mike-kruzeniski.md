@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Mike_and_Fred.png"
+image: "Mike_and_Fred.png"
 slug: "make-web-not-war-tv-mike-kruzeniski"
 ---
 

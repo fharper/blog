@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2013-03-29_1130.png"
+image: "2013-03-29_1130.png"
 slug: "mamairie-ca-une-plateforme-de-participation-citoyenne"
 ---
 

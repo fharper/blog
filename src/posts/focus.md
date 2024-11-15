@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "focus.jpg"
+image: "focus.jpg"
 slug: "focus"
 ---
 

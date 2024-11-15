@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "happynewyear.jpg"
+image: "happynewyear.jpg"
 slug: "happy-new-year"
 ---
 

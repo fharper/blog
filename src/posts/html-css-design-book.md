@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DSC_1094.jpg"
+image: "DSC_1094.jpg"
 slug: "html-css-design-book"
 ---
 

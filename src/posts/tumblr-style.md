@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tumblr_logo-300x78.png"
+image: "tumblr_logo-300x78.png"
 slug: "tumblr-style"
 ---
 

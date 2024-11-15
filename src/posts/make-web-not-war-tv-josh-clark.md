@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "JoshClark_and_Fred.jpg"
+image: "JoshClark_and_Fred.jpg"
 slug: "make-web-not-war-tv-josh-clark"
 ---
 

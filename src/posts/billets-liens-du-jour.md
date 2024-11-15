@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "delicious.png"
+image: "delicious.png"
 slug: "billets-liens-du-jour"
 ---
 

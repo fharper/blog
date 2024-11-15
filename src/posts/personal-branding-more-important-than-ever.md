@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "0Q8A2576.jpg"
+image: "0Q8A2576.jpg"
 slug: "personal-branding-more-important-than-ever"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "athens.jpg"
+image: "athens.jpg"
 slug: "going-to-athens-in-greece-anything-a-tourist-should-do"
 ---
 

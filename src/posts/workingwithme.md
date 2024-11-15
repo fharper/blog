@@ -11,7 +11,7 @@ tags:
   - "get-shit-done"
   - "personality"
   - "work"
-coverImage: "adam-whitlock-270558-unsplash.jpg"
+image: "adam-whitlock-270558-unsplash.jpg"
 slug: "workingwithme"
 ---
 

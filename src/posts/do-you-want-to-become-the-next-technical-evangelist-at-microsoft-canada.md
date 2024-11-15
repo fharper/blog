@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DPE2011team.png"
+image: "DPE2011team.png"
 slug: "do-you-want-to-become-the-next-technical-evangelist-at-microsoft-canada"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5063192367_4ff8b947ee_o.jpg"
+image: "5063192367_4ff8b947ee_o.jpg"
 slug: "things-i-want-to-achieve-in-2012"
 ---
 

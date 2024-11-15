@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "podcast.jpg"
+image: "podcast.jpg"
 slug: "firefox-os-au-visual-studio-talkshow"
 ---
 

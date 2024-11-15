@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "brussels.jpg"
+image: "brussels.jpg"
 slug: "going-to-brussels-in-belgium-anything-a-tourist-should-do"
 ---
 

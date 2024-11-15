@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "7582140718_72b91ae0d9_c.jpg"
+image: "7582140718_72b91ae0d9_c.jpg"
 slug: "20-pounds-and-counting"
 ---
 

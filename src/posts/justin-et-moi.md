@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1a-440x586.jpg"
+image: "1a-440x586.jpg"
 slug: "justin-et-moi"
 ---
 

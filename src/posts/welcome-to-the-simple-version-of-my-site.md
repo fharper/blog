@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4307833809_582036e555_o-scaled.jpg"
+image: "4307833809_582036e555_o-scaled.jpg"
 slug: "welcome-to-the-simple-version-of-my-site"
 ---
 

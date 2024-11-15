@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "podcamp-montreal.jpg"
+image: "podcamp-montreal.jpg"
 slug: "decouvrir-des-podcasteurs-pour-le-podcamp-montreal"
 ---
 

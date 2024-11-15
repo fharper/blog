@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "HTML5mtl.png"
+image: "HTML5mtl.png"
 slug: "mon-retour-a-html5mtl"
 ---
 

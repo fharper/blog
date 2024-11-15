@@ -15,7 +15,7 @@ tags:
   - "love"
   - "semicolon-project"
   - "suicide"
-coverImage: "semicolon.jpg"
+image: "semicolon.jpg"
 slug: "mentalhealth"
 ---
 

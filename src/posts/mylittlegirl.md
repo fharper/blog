@@ -12,7 +12,7 @@ tags:
   - "java"
   - "life"
   - "love"
-coverImage: "IMG_8843-scaled.jpeg"
+image: "IMG_8843-scaled.jpeg"
 slug: "mylittlegirl"
 ---
 

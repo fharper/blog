@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "analysedesgeeks-300x126.jpg"
+image: "analysedesgeeks-300x126.jpg"
 slug: "lanalyse-des-geeks-et-moi"
 ---
 

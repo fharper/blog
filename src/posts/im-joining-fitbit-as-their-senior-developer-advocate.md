@@ -15,7 +15,7 @@ tags:
   - "health"
   - "job"
   - "technical-evangelist"
-coverImage: "adam-birkett-347694-unsplash.jpg"
+image: "adam-birkett-347694-unsplash.jpg"
 slug: "im-joining-fitbit-as-their-senior-developer-advocate"
 ---
 

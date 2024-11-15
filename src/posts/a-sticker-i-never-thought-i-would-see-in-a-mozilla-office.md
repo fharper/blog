@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000009.jpg"
+image: "WP_000009.jpg"
 slug: "a-sticker-i-never-thought-i-would-see-in-a-mozilla-office"
 ---
 

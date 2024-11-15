@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3269448838_aed667ed1d_b.jpg"
+image: "3269448838_aed667ed1d_b.jpg"
 slug: "i-wont-give-you-the-answer"
 ---
 

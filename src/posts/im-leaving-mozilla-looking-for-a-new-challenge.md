@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "14207240404_547b4346bc_o.jpg"
+image: "14207240404_547b4346bc_o.jpg"
 slug: "im-leaving-mozilla-looking-for-a-new-challenge"
 ---
 

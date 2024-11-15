@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "8569155191_f9ef1e9d9e_o.jpg"
+image: "8569155191_f9ef1e9d9e_o.jpg"
 slug: "mobile-first-at-web-and-php-conference"
 ---
 

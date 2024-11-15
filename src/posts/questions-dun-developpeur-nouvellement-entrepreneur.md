@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "entrepreneurship.png"
+image: "entrepreneurship.png"
 slug: "questions-dun-developpeur-nouvellement-entrepreneur"
 ---
 

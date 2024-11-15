@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "windows_azure_logo-300x56.jpg"
+image: "windows_azure_logo-300x56.jpg"
 slug: "testez-azure-et-aider-votre-groupe-dutilisateur"
 ---
 

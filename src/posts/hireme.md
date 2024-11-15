@@ -7,7 +7,7 @@ tags:
   - "developer-advocate"
   - "job"
   - "public-speaking"
-coverImage: "ines-pimentel-opkaRk20tAw-unsplash-scaled.jpg"
+image: "ines-pimentel-opkaRk20tAw-unsplash-scaled.jpg"
 slug: "hireme"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tp1.jpg"
+image: "tp1.jpg"
 slug: "out-of-comfort-zone-dans-la-demo-de-lagence-tp1"
 ---
 

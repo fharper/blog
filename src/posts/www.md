@@ -25,7 +25,7 @@ tags:
   - "social-media"
   - "we-are-geek"
   - "yuldev"
-coverImage: "neonbrand-237580-unsplash.jpg"
+image: "neonbrand-237580-unsplash.jpg"
 slug: "www"
 ---
 

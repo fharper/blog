@@ -8,7 +8,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "5282390494_62776d797a_o-scaled.jpg"
+image: "5282390494_62776d797a_o-scaled.jpg"
 slug: "cherish-feedbacks"
 ---
 

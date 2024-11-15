@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "bonne-annee-2006-300x205.jpg"
+image: "bonne-annee-2006-300x205.jpg"
 slug: "bonne-annee-2009"
 ---
 

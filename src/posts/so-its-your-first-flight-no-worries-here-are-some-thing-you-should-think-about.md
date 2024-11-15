@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2181849280_875d408640_o.jpg"
+image: "2181849280_875d408640_o.jpg"
 slug: "so-its-your-first-flight-no-worries-here-are-some-thing-you-should-think-about"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "gnome_and_unicorn.jpg"
+image: "gnome_and_unicorn.jpg"
 slug: "i-want-a-logo-any-designer-out-there"
 ---
 

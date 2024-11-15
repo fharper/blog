@@ -13,7 +13,7 @@ tags:
   - "job"
   - "noyarpp"
   - "technical-evangelist"
-coverImage: "immunio.png"
+image: "immunio.png"
 slug: "im-joining-immun-io-as-their-technical-evangelist"
 ---
 

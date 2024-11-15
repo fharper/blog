@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "CodeLove.png"
+image: "CodeLove.png"
 slug: "coder-pour-lamour-de-montreal"
 ---
 

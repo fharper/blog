@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sleep_apnea.jpg"
+image: "sleep_apnea.jpg"
 slug: "living-with-sleep-apnea"
 ---
 

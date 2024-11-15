@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6956655022_7d362069a4_b.jpg"
+image: "6956655022_7d362069a4_b.jpg"
 slug: "the-secret-that-nobody-will-tell-you-about-success"
 ---
 

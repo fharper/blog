@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3432158731_e1ebd6ff56_o.png"
+image: "3432158731_e1ebd6ff56_o.png"
 slug: "chat"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixtags"
   - "fixurl"
   - "fr"
-coverImage: "2218075860_205c9c1dfe_o.jpg"
+image: "2218075860_205c9c1dfe_o.jpg"
 slug: "parlons-personal-branding-avec-les-membres-de-php-quebec"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "failcampmtl.png"
+image: "failcampmtl.png"
 slug: "learning-from-failure-at-failcamp-montreal"
 ---
 

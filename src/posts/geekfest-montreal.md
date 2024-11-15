@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "geekfestmtl-300x148.png"
+image: "geekfestmtl-300x148.png"
 slug: "geekfest-montreal"
 ---
 

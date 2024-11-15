@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Logo_oiq-300x104.gif"
+image: "Logo_oiq-300x104.gif"
 slug: "les-ingenieurs-et-les-tic"
 ---
 

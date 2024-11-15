@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "26-440x586.jpg"
+image: "26-440x586.jpg"
 slug: "aubergiste-mon-cheval"
 ---
 

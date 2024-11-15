@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "promotion.jpg"
+image: "promotion.jpg"
 slug: "dont-be-ashamed-of-self-promotion"
 ---
 

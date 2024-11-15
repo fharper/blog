@@ -11,7 +11,7 @@ tags:
   - "health"
   - "journey"
   - "wwahpd"
-coverImage: "twinsfisch-KX_HvSO-JlE-unsplash-e1567525710727.jpg"
+image: "twinsfisch-KX_HvSO-JlE-unsplash-e1567525710727.jpg"
 slug: "wwahpd"
 ---
 

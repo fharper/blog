@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DSC_2309_small.jpg"
+image: "DSC_2309_small.jpg"
 slug: "the-most-dressed-i-can-be"
 ---
 

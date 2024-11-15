@@ -8,7 +8,7 @@ categories:
   - "fixtags"
   - "fixurl"
   - "fr"
-coverImage: "Fred@YulDev.png"
+image: "Fred@YulDev.png"
 slug: "quest-ce-que-le-yuldev"
 ---
 

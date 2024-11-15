@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "excuses.jpg"
+image: "excuses.jpg"
 slug: "you-have-no-excuses-just-do-it"
 ---
 

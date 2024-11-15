@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mike.jpg"
+image: "mike.jpg"
 slug: "public-speaking-at-social-media-breakfast-montreal"
 ---
 

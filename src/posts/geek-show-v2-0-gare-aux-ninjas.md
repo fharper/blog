@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "PosterGeek2012v3_web.jpg"
+image: "PosterGeek2012v3_web.jpg"
 slug: "geek-show-v2-0-gare-aux-ninjas"
 ---
 

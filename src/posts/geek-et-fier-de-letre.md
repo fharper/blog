@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3896009598_23ca24459c_o-434x400.jpg"
+image: "3896009598_23ca24459c_o-434x400.jpg"
 slug: "geek-et-fier-de-letre"
 ---
 

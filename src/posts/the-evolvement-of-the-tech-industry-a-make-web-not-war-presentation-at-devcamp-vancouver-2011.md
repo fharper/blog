@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "opensource-communist.jpg"
+image: "opensource-communist.jpg"
 slug: "the-evolvement-of-the-tech-industry-a-make-web-not-war-presentation-at-devcamp-vancouver-2011"
 ---
 

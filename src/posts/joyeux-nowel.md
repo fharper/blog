@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tree-300x217.png"
+image: "tree-300x217.png"
 slug: "joyeux-nowel"
 ---
 

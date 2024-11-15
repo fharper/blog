@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "speaking.jpg"
+image: "speaking.jpg"
 slug: "make-your-slides-worth-of-showing-them"
 ---
 

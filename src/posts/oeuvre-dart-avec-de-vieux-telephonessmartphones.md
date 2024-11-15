@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "smartphones-300x210.jpg"
+image: "smartphones-300x210.jpg"
 slug: "oeuvre-dart-avec-de-vieux-telephonessmartphones"
 ---
 

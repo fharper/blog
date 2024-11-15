@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "8464046864_a2c4399a48_o.jpg"
+image: "8464046864_a2c4399a48_o.jpg"
 slug: "im-going-to-barcelona-in-spain-anything-else-a-tourist-should-do"
 ---
 

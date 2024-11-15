@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "201251785345.jpg"
+image: "201251785345.jpg"
 slug: "les-gens-techniques-au-webcamp-a-quebec"
 ---
 

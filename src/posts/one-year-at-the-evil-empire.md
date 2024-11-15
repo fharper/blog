@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5696645310_eb609dc95d_o.jpg"
+image: "5696645310_eb609dc95d_o.jpg"
 slug: "one-year-at-the-evil-empire"
 ---
 

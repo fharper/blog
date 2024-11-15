@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5818096043_1995236700_o-580x400.jpg"
+image: "5818096043_1995236700_o-580x400.jpg"
 slug: "what-the-heck-is-responsive-web-design"
 ---
 

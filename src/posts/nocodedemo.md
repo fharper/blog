@@ -15,7 +15,7 @@ tags:
   - "job"
   - "opinion"
   - "technical-evangelist"
-coverImage: "5768808772_2f7cf84fbe_o.jpg"
+image: "5768808772_2f7cf84fbe_o.jpg"
 slug: "nocodedemo"
 ---
 

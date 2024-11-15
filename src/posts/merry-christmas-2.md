@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "geekchristmas.jpg"
+image: "geekchristmas.jpg"
 slug: "merry-christmas-2"
 ---
 

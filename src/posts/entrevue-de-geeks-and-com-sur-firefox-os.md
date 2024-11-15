@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "GeeksandcomFred.png"
+image: "GeeksandcomFred.png"
 slug: "entrevue-de-geeks-and-com-sur-firefox-os"
 ---
 

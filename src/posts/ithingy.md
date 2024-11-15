@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130220_007.jpg"
+image: "WP_20130220_007.jpg"
 slug: "ithingy"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - "responsive-web-design"
   - "vancouver"
   - "web"
-coverImage: "CIXXZGtW8AUUuWS.jpeg"
+image: "CIXXZGtW8AUUuWS.jpeg"
 slug: "responsive-web-design-at-javascript-open-day-vancouver"
 ---
 

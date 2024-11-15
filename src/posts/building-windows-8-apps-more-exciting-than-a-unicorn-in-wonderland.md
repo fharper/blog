@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2192179302_aa69fd2aab_b.jpg"
+image: "2192179302_aa69fd2aab_b.jpg"
 slug: "building-windows-8-apps-more-exciting-than-a-unicorn-in-wonderland"
 ---
 

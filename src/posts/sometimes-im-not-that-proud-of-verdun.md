@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130424_001.jpg"
+image: "WP_20130424_001.jpg"
 slug: "sometimes-im-not-that-proud-of-verdun"
 ---
 

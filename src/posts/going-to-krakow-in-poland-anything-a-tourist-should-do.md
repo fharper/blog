@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "krakow.jpg"
+image: "krakow.jpg"
 slug: "going-to-krakow-in-poland-anything-a-tourist-should-do"
 ---
 

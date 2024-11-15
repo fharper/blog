@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2407313614_cc746f52aa_o-580x400.jpg"
+image: "2407313614_cc746f52aa_o-580x400.jpg"
 slug: "celebrate-failure"
 ---
 

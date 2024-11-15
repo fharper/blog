@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mouth_tape-200x300.jpg"
+image: "mouth_tape-200x300.jpg"
 slug: "manifeste-des-medias-sociaux"
 ---
 

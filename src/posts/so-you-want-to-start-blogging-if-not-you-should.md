@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "wordpress.jpg"
+image: "wordpress.jpg"
 slug: "so-you-want-to-start-blogging-if-not-you-should"
 ---
 

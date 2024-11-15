@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2013-03-29_1055.png"
+image: "2013-03-29_1055.png"
 slug: "do-you-recognize-your-local-high-speed-internet-cable-provider"
 ---
 

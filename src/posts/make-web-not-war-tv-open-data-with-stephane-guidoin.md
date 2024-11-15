@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Stephane_Guidoin_and_Fred.jpg"
+image: "Stephane_Guidoin_and_Fred.jpg"
 slug: "make-web-not-war-tv-open-data-with-stephane-guidoin"
 ---
 

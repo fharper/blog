@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4574733303_5c72eac636_o-580x400.jpg"
+image: "4574733303_5c72eac636_o-580x400.jpg"
 slug: "my-life-manifesto"
 ---
 

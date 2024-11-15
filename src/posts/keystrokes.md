@@ -14,7 +14,7 @@ tags:
   - "productivity"
   - "time"
   - "tips"
-coverImage: "5871762782_1bac28c371_o.jpg"
+image: "5871762782_1bac28c371_o.jpg"
 slug: "keystrokes"
 ---
 

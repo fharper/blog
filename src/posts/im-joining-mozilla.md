@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mozilla_wordmark1.png"
+image: "mozilla_wordmark1.png"
 slug: "im-joining-mozilla"
 ---
 

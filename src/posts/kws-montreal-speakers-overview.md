@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "kws.png"
+image: "kws.png"
 slug: "kws-montreal-speakers-overview"
 ---
 

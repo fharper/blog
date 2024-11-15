@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2012-09-15_1305.png"
+image: "2012-09-15_1305.png"
 slug: "how-to-disable-autocorrect-in-windows-8"
 ---
 

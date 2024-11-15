@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3504_502104836477653_1160489112_n.jpg"
+image: "3504_502104836477653_1160489112_n.jpg"
 slug: "so-you-want-to-be-an-evangelist"
 ---
 

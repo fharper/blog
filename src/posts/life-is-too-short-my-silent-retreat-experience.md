@@ -7,7 +7,7 @@ categories:
   - "evergreen"
   - "fixtags"
   - "fixurl"
-coverImage: "silent.jpg"
+image: "silent.jpg"
 slug: "life-is-too-short-my-silent-retreat-experience"
 ---
 

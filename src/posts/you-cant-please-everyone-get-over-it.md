@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "8675724041_3c35450f25_o-scaled.jpg"
+image: "8675724041_3c35450f25_o-scaled.jpg"
 slug: "you-cant-please-everyone-get-over-it"
 ---
 

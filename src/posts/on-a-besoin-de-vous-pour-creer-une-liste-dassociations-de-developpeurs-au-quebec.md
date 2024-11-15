@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fleur_de_lys_thumb.jpg"
+image: "Fleur_de_lys_thumb.jpg"
 slug: "on-a-besoin-de-vous-pour-creer-une-liste-dassociations-de-developpeurs-au-quebec"
 ---
 

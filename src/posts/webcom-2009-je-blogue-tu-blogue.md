@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3527498375_a4bcfd096d.png"
+image: "3527498375_a4bcfd096d.png"
 slug: "webcom-2009-je-blogue-tu-blogue"
 ---
 

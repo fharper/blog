@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "evangelist.jpg"
+image: "evangelist.jpg"
 slug: "why-i-choose-the-word-evangelist-for-my-role"
 ---
 

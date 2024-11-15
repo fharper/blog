@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "highres_395243882-scaled.jpeg"
+image: "highres_395243882-scaled.jpeg"
 slug: "linux-meetup-montreal-et-son-interet-pour-mozilla"
 ---
 

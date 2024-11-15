@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred@S2LQ.jpg"
+image: "Fred@S2LQ.jpg"
 slug: "letat-de-lopen-source-en-2014-au-salon-du-logiciel-libre-et-des-technologies-ouvertes-du-quebec"
 ---
 

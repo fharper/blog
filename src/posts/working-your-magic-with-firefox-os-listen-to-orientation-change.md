@@ -11,7 +11,7 @@ categories:
   - "fixurl"
 tags: 
   - "working-your-magic-with-firefox-os"
-coverImage: "FFxOS_Devs_twitterHeader_1252x626_1.png"
+image: "FFxOS_Devs_twitterHeader_1252x626_1.png"
 slug: "working-your-magic-with-firefox-os-listen-to-orientation-change"
 ---
 

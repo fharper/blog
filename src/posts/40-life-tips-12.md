@@ -10,7 +10,7 @@ tags:
   - "busyness"
   - "life"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-12-pexels-alexas-fotos-2198671-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-12-pexels-alexas-fotos-2198671-scaled.jpg"
 slug: "40-life-tips-12"
 ---
 

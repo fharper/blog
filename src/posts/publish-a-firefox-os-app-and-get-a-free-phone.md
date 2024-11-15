@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "8800479801_e1372a3a18_o.jpg"
+image: "8800479801_e1372a3a18_o.jpg"
 slug: "publish-a-firefox-os-app-and-get-a-free-phone"
 ---
 

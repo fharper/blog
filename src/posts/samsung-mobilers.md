@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo3-300x82.png"
+image: "logo3-300x82.png"
 slug: "samsung-mobilers"
 ---
 

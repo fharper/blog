@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4602804480_78ece120a2_o-scaled.jpg"
+image: "4602804480_78ece120a2_o-scaled.jpg"
 slug: "know-when-you-lost-a-battle"
 ---
 

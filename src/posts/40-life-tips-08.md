@@ -11,7 +11,7 @@ tags:
   - "impermanence"
   - "life"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-08-drz-CK7rdTauhDE-unsplash-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-08-drz-CK7rdTauhDE-unsplash-scaled.jpg"
 slug: "40-life-tips-08"
 ---
 

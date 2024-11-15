@@ -8,7 +8,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "9478232458_422e622fe7_o-scaled.jpg"
+image: "9478232458_422e622fe7_o-scaled.jpg"
 slug: "no-speakers-no-conferences"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "outofcomfortzone.jpg"
+image: "outofcomfortzone.jpg"
 slug: "the-magic-happens-out-of-your-comfort-zone"
 ---
 

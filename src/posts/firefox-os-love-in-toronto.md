@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "FredInToronto.jpg"
+image: "FredInToronto.jpg"
 slug: "firefox-os-love-in-toronto"
 ---
 

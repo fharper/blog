@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4053722672_7d0ace2f0a_o2-580x400.jpg"
+image: "4053722672_7d0ace2f0a_o2-580x400.jpg"
 slug: "hack-your-life"
 ---
 

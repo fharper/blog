@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "cherie_et_moi.jpg"
+image: "cherie_et_moi.jpg"
 slug: "6-years-of-freedom"
 ---
 

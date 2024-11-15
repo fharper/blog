@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Samsung-Focus-ATT-Windows-Phone-7-official_thumb.jpg"
+image: "Samsung-Focus-ATT-Windows-Phone-7-official_thumb.jpg"
 slug: "vous-avez-une-idee-dapplication-pour-windows-phone-7-je-la-realise"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - "mindfulness"
   - "minimalism"
   - "prioritizing"
-coverImage: "carl-heyerdahl-181868-unsplash.jpg"
+image: "carl-heyerdahl-181868-unsplash.jpg"
 slug: "busy"
 ---
 

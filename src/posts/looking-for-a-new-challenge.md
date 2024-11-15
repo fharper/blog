@@ -20,7 +20,7 @@ tags:
   - "personal-branding"
   - "public-speaking"
   - "technical-evangelist"
-coverImage: "3403640171_70d37d3061_o.png"
+image: "3403640171_70d37d3061_o.png"
 slug: "looking-for-a-new-challenge"
 ---
 

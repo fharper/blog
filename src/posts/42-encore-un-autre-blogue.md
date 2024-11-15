@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "421.png"
+image: "421.png"
 slug: "42-encore-un-autre-blogue"
 ---
 

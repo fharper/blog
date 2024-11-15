@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "image-300x262.jpg"
+image: "image-300x262.jpg"
 slug: "demandez-et-vous-recevrez-peut-etre"
 ---
 

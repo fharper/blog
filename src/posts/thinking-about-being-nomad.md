@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "freedom.jpg"
+image: "freedom.jpg"
 slug: "thinking-about-being-nomad"
 ---
 

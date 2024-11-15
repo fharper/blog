@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Moz_ffx_openStandards.jpg"
+image: "Moz_ffx_openStandards.jpg"
 slug: "first-week-done-as-a-mozillian"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "social-media-marketing-300x273.jpg"
+image: "social-media-marketing-300x273.jpg"
 slug: "instruire-une-entreprise-aux-medias-sociaux"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2012-05-12_0958.png"
+image: "2012-05-12_0958.png"
 slug: "panel-sur-lavenir-des-ti-a-la-boule-de-cristal"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "two-face.png"
+image: "two-face.png"
 slug: "soyez-consequent-avec-vous-meme"
 ---
 

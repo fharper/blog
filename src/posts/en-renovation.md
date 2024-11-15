@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "under_construction-300x299.png"
+image: "under_construction-300x299.png"
 slug: "en-renovation"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "comfortzone.jpg"
+image: "comfortzone.jpg"
 slug: "going-out-of-his-comfort-zone-doesnt-mean-doing-stuff-you-dont-like"
 ---
 

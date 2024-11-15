@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "v-300x278.png"
+image: "v-300x278.png"
 slug: "la-webteles-de-v"
 ---
 

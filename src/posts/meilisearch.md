@@ -10,7 +10,7 @@ tags:
   - "meilisearch"
   - "open-source"
   - "search-engine"
-coverImage: "meilisearch.png"
+image: "meilisearch.png"
 slug: "meilisearch"
 ---
 

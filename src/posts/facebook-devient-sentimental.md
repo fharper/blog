@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2011-05-20_2121.png"
+image: "2011-05-20_2121.png"
 slug: "facebook-devient-sentimental"
 ---
 

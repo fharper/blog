@@ -12,7 +12,7 @@ tags:
   - "kubenertes"
   - "kubeshop"
   - "startup"
-coverImage: "fred.dev-im-joining-kubefirst-kubefirst.png"
+image: "fred.dev-im-joining-kubefirst-kubefirst.png"
 slug: "kubefirst"
 ---
 

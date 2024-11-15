@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "attention-300x300.jpg"
+image: "attention-300x300.jpg"
 slug: "attention-ce-site-change-de-vocation"
 ---
 

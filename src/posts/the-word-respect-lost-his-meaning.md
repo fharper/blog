@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "respect.jpg"
+image: "respect.jpg"
 slug: "the-word-respect-lost-his-meaning"
 ---
 

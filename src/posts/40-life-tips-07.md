@@ -12,7 +12,7 @@ tags:
   - "life"
   - "open-source"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-07-jason-rosewell-ASKeuOZqhYU-unsplash-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-07-jason-rosewell-ASKeuOZqhYU-unsplash-scaled.jpg"
 slug: "40-life-tips-07"
 ---
 

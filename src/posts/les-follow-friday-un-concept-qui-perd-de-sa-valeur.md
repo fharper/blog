@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Death-of-Follow-Friday-on-Twitter-300x182.jpg"
+image: "Death-of-Follow-Friday-on-Twitter-300x182.jpg"
 slug: "les-follow-friday-un-concept-qui-perd-de-sa-valeur"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - "no-lion-is-born-king"
   - "personal-branding"
   - "startups"
-coverImage: "nlibk.png"
+image: "nlibk.png"
 slug: "open-for-new-contracts"
 ---
 

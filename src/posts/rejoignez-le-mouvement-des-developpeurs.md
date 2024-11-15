@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "devmov.jpg"
+image: "devmov.jpg"
 slug: "rejoignez-le-mouvement-des-developpeurs"
 ---
 

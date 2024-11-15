@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "slider_webin_1__0.jpg"
+image: "slider_webin_1__0.jpg"
 slug: "mobile-first-au-web-in"
 ---
 

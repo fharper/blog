@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "dontbeaverage.jpg"
+image: "dontbeaverage.jpg"
 slug: "dont-accept-the-status-quo"
 ---
 

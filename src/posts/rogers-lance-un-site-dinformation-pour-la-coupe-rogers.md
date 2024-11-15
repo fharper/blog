@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "20130703_183538.jpg"
+image: "20130703_183538.jpg"
 slug: "rogers-lance-un-site-dinformation-pour-la-coupe-rogers"
 ---
 

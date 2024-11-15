@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "883686_446458512101134_320476237_o.jpg"
+image: "883686_446458512101134_320476237_o.jpg"
 slug: "designing-a-windows-store-app"
 ---
 

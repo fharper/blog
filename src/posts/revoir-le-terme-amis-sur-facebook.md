@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "facebook_20login-300x230.jpg"
+image: "facebook_20login-300x230.jpg"
 slug: "revoir-le-terme-amis-sur-facebook"
 ---
 

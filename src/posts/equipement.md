@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3532609058_ea3a9c68ac_o.png"
+image: "3532609058_ea3a9c68ac_o.png"
 slug: "equipement"
 ---
 

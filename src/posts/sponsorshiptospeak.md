@@ -10,7 +10,7 @@ tags:
   - "ethic"
   - "public-speaking"
   - "sponsorship"
-coverImage: "7408506410_c1ed04a0d0_o.jpg"
+image: "7408506410_c1ed04a0d0_o.jpg"
 slug: "sponsorshiptospeak"
 ---
 

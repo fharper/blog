@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "allthingsopen.jpg"
+image: "allthingsopen.jpg"
 slug: "html-for-the-mobile-web-at-all-things-open"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2995826559_f6b9aaeb48_o-580x400.jpg"
+image: "2995826559_f6b9aaeb48_o-580x400.jpg"
 slug: "hack-your-life-challenge-5-do"
 ---
 

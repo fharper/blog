@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1288700874_cabb8e6095_b-580x400.jpg"
+image: "1288700874_cabb8e6095_b-580x400.jpg"
 slug: "hack-your-life-challenge-2-turn-off-the-electronics"
 ---
 

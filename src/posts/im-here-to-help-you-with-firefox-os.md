@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "FFxOSDevs_.png"
+image: "FFxOSDevs_.png"
 slug: "im-here-to-help-you-with-firefox-os"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "eat-2661935-scaled.jpg"
+image: "eat-2661935-scaled.jpg"
 slug: "the-future-of-work-project-my-interview"
 ---
 

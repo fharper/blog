@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3026523941_da008990d0_o.jpg"
+image: "3026523941_da008990d0_o.jpg"
 slug: "merry-christmas"
 ---
 

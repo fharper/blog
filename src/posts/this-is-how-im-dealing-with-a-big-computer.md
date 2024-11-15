@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "af.jpg"
+image: "af.jpg"
 slug: "this-is-how-im-dealing-with-a-big-computer"
 ---
 

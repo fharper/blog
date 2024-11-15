@@ -12,7 +12,7 @@ tags:
   - "mental-health"
   - "past"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-11-sebastiano-piazzi-Wbekvae-0P4-unsplash-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-11-sebastiano-piazzi-Wbekvae-0P4-unsplash-scaled.jpg"
 slug: "40-life-tips-11"
 ---
 

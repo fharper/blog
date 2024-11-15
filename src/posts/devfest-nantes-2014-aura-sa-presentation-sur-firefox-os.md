@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "devfestnantes.png"
+image: "devfestnantes.png"
 slug: "devfest-nantes-2014-aura-sa-presentation-sur-firefox-os"
 ---
 

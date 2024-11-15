@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "618_l-300x195.jpg"
+image: "618_l-300x195.jpg"
 slug: "concours-vip-au-party-de-la-f1-du-light-ultra-club"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "time.jpg"
+image: "time.jpg"
 slug: "so-you-dont-have-time-bullshit"
 ---
 

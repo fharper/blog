@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "8087935024_0e1c44d6c2_c.jpg"
+image: "8087935024_0e1c44d6c2_c.jpg"
 slug: "one-month-as-a-firefox-os-technical-evangelist"
 ---
 

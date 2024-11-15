@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5396463842_40452dc571_o.png"
+image: "5396463842_40452dc571_o.png"
 slug: "firefox-os-love-in-the-python-world"
 ---
 

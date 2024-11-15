@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo_w3c.png"
+image: "logo_w3c.png"
 slug: "simple-moderne-valide-et-beau"
 ---
 

@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "4610262111_6e8df2cac0_o-scaled.jpg"
+image: "4610262111_6e8df2cac0_o-scaled.jpg"
 slug: "how-to-get-out-of-the-crowd-at-herzing-college"
 ---
 

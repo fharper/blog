@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "winners2012.png"
+image: "winners2012.png"
 slug: "merci-winners-jai-toujours-mon-coffre-fort-avec-moi-pour-laction-de-grace"
 ---
 

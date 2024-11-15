@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo.jpg"
+image: "logo.jpg"
 slug: "out-of-comfort-zone-gets-a-makeover"
 ---
 

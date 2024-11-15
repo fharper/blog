@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "windows8.jpg"
+image: "windows8.jpg"
 slug: "how-to-fix-windows-updates-issues"
 ---
 

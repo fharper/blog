@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1745480_4a48b54c24_o-580x400.jpg"
+image: "1745480_4a48b54c24_o-580x400.jpg"
 slug: "be-careful-you-are-the-expert"
 ---
 

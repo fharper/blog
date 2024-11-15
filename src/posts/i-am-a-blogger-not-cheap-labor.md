@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2268610556_2fa88c227f_b-580x400.jpg"
+image: "2268610556_2fa88c227f_b-580x400.jpg"
 slug: "i-am-a-blogger-not-cheap-labor"
 ---
 

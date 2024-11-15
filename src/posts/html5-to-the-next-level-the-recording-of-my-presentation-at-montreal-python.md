@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred@PythonMontreal.jpg"
+image: "Fred@PythonMontreal.jpg"
 slug: "html5-to-the-next-level-the-recording-of-my-presentation-at-montreal-python"
 ---
 

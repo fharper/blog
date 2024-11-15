@@ -7,7 +7,7 @@ categories:
   - "fixtags"
   - "fixurl"
   - "fr"
-coverImage: "7087270549_c4281396b5_o.png"
+image: "7087270549_c4281396b5_o.png"
 slug: "html5-sur-les-steroides-a-html5mtl"
 ---
 

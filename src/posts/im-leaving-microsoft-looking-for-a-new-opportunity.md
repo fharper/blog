@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fharper-1024x683.jpg"
+image: "fharper-1024x683.jpg"
 slug: "im-leaving-microsoft-looking-for-a-new-opportunity"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Philippe_Gamache_and_Fred.png"
+image: "Philippe_Gamache_and_Fred.png"
 slug: "make-web-not-war-tv-the-importance-of-security-with-philippe-gamache"
 ---
 

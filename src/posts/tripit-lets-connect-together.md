@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tripit_logo.png"
+image: "tripit_logo.png"
 slug: "tripit-lets-connect-together"
 ---
 

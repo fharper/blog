@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "money.jpg"
+image: "money.jpg"
 slug: "time-is-money"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6208762878_6f1b26baf0_b.jpg"
+image: "6208762878_6f1b26baf0_b.jpg"
 slug: "i-think-youre"
 ---
 

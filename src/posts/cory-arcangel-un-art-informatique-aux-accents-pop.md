@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "KillWarhol.jpg"
+image: "KillWarhol.jpg"
 slug: "cory-arcangel-un-art-informatique-aux-accents-pop"
 ---
 

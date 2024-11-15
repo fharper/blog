@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "google_wave_logo.1243584569.png"
+image: "google_wave_logo.1243584569.png"
 slug: "invitations-google-wave"
 ---
 

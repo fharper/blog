@@ -14,7 +14,7 @@ tags:
   - "job"
   - "technical-evangelist"
   - "tips"
-coverImage: "chase-clark-509066-unsplash.jpg"
+image: "chase-clark-509066-unsplash.jpg"
 slug: "how-to-look-for-a-technical-evangelist-job"
 ---
 

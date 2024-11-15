@@ -10,7 +10,7 @@ tags:
   - "ego"
   - "life"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-10-pro-church-media-3E3AVpvlpao-unsplash-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-10-pro-church-media-3E3AVpvlpao-unsplash-scaled.jpg"
 slug: "40-life-tips-10"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "developer-advocate"
   - "developer-evangelist"
   - "npm"
-coverImage: "npm-1.jpg"
+image: "npm-1.jpg"
 slug: "im-joining-npm-as-their-first-developer-advocate"
 ---
 

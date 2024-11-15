@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3d-glasses-300x222.jpg"
+image: "3d-glasses-300x222.jpg"
 slug: "comment-me-definissez-vous"
 ---
 

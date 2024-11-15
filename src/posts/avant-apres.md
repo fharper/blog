@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred201104081.png"
+image: "Fred201104081.png"
 slug: "avant-apres"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "GeekShow-full.jpg"
+image: "GeekShow-full.jpg"
 slug: "le-geek-show-3-0-un-spectacle-dhumour-a-ne-pas-manquer"
 ---
 

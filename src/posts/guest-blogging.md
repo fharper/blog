@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "guest-pass-image-223x300.jpg"
+image: "guest-pass-image-223x300.jpg"
 slug: "guest-blogging"
 ---
 

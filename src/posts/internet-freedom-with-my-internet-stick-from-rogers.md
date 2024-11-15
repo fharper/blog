@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "252218894_3779c6a5ee_b.jpg"
+image: "252218894_3779c6a5ee_b.jpg"
 slug: "internet-freedom-with-my-internet-stick-from-rogers"
 ---
 

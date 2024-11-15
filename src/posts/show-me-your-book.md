@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "537556252_49a33faf55_o-580x400.jpg"
+image: "537556252_49a33faf55_o-580x400.jpg"
 slug: "show-me-your-book"
 ---
 

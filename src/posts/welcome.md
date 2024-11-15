@@ -9,7 +9,7 @@ categories:
   - "fixurl"
 tags: 
   - "blogging"
-coverImage: "alexandre-godreau-510220-unsplash.jpg"
+image: "alexandre-godreau-510220-unsplash.jpg"
 slug: "welcome"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Mashape.png"
+image: "Mashape.png"
 slug: "im-joining-mashape-as-the-head-of-developer-relations"
 ---
 

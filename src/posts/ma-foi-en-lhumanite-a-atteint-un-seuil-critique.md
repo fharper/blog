@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2watts.png"
+image: "2watts.png"
 slug: "ma-foi-en-lhumanite-a-atteint-un-seuil-critique"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "unmotunephoto.jpg"
+image: "unmotunephoto.jpg"
 slug: "les-billets-dun-mot-une-photo-sont-maintenant-disponible-ici"
 ---
 

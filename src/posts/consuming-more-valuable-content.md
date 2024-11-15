@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "listen.jpg"
+image: "listen.jpg"
 slug: "consuming-more-valuable-content"
 ---
 

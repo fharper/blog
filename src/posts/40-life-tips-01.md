@@ -10,7 +10,7 @@ tags:
   - "life"
   - "opinion"
   - "tips"
-coverImage: "pexels-andrea-piacquadio-3831187-scaled.jpg"
+image: "pexels-andrea-piacquadio-3831187-scaled.jpg"
 slug: "40-life-tips-01"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Cory_and_Fred.jpg"
+image: "Cory_and_Fred.jpg"
 slug: "make-web-not-war-tv-windows-azure-with-cory-fowler"
 ---
 

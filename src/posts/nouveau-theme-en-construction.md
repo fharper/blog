@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mainss-300x181.gif"
+image: "mainss-300x181.gif"
 slug: "nouveau-theme-en-construction"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2011-09-29_2134.png"
+image: "2011-09-29_2134.png"
 slug: "lady-gaga-nyan-cat-meme-combat"
 ---
 

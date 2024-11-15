@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Perusse.jpg"
+image: "Perusse.jpg"
 slug: "des-fois-je-suis-un-fan-fini"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "geekfestmtl.jpg"
+image: "geekfestmtl.jpg"
 slug: "le-festival-geek-est-de-retour"
 ---
 

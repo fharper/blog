@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "582805_278586808898724_100002422216764_580232_486958561_n.jpg"
+image: "582805_278586808898724_100002422216764_580232_486958561_n.jpg"
 slug: "a-sketch-of-me-with-a-duckface"
 ---
 

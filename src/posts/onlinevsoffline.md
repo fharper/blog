@@ -18,7 +18,7 @@ tags:
   - "people"
   - "social-media"
   - "tribe"
-coverImage: "william-iven-19844-unsplash.jpg"
+image: "william-iven-19844-unsplash.jpg"
 slug: "onlinevsoffline"
 ---
 

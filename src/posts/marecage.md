@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3524173888_c859011988_o.png"
+image: "3524173888_c859011988_o.png"
 slug: "marecage"
 ---
 

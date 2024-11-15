@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "trollface.jpg"
+image: "trollface.jpg"
 slug: "dont-feed-the-trolls"
 ---
 

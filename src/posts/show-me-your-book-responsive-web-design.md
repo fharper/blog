@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "RWD-feature.png"
+image: "RWD-feature.png"
 slug: "show-me-your-book-responsive-web-design"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "andreas-weiland-TMpqNhMunQY-unsplash-scaled.jpg"
+image: "andreas-weiland-TMpqNhMunQY-unsplash-scaled.jpg"
 slug: "is-your-life-good"
 ---
 

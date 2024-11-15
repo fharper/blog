@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5094829588_3b26bdb283_o-1-scaled.jpg"
+image: "5094829588_3b26bdb283_o-1-scaled.jpg"
 slug: "stop-being-a-pussy-and-take-the-control-of-your-life"
 ---
 

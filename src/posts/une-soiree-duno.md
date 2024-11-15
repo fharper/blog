@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "uno-300x208.jpg"
+image: "uno-300x208.jpg"
 slug: "une-soiree-duno"
 ---
 

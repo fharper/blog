@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6374600725_0a67c86b86_b.jpg"
+image: "6374600725_0a67c86b86_b.jpg"
 slug: "take-the-time-to-live"
 ---
 

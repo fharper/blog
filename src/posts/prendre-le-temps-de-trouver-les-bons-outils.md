@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "klein_01-300x237.jpg"
+image: "klein_01-300x237.jpg"
 slug: "prendre-le-temps-de-trouver-les-bons-outils"
 ---
 

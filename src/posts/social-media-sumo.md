@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "SocialSumo.jpg"
+image: "SocialSumo.jpg"
 slug: "social-media-sumo"
 ---
 

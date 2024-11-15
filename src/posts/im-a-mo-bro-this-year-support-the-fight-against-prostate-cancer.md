@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "movember-580x400.jpg"
+image: "movember-580x400.jpg"
 slug: "im-a-mo-bro-this-year-support-the-fight-against-prostate-cancer"
 ---
 

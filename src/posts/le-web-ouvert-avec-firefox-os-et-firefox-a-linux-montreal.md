@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6261682210_48313c34a2_o.jpg"
+image: "6261682210_48313c34a2_o.jpg"
 slug: "le-web-ouvert-avec-firefox-os-et-firefox-a-linux-montreal"
 ---
 

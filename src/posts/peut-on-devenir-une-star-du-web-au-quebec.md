@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "versionfinale-300x191.jpg"
+image: "versionfinale-300x191.jpg"
 slug: "peut-on-devenir-une-star-du-web-au-quebec"
 ---
 

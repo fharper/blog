@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "fharper@FITCToronto2014-600x337.jpg"
+image: "fharper@FITCToronto2014-600x337.jpg"
 slug: "fixing-the-mobile-web-with-firefox-os-at-fitc-toronto"
 ---
 

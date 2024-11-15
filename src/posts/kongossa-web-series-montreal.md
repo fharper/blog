@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "kongossa.png"
+image: "kongossa.png"
 slug: "kongossa-web-series-montreal"
 ---
 

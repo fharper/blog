@@ -12,7 +12,7 @@ tags:
   - "people"
   - "tips"
   - "toxic"
-coverImage: "danilo-alvesd-wDz6iigThrg-unsplash-scaled-e1643059690917.jpg"
+image: "danilo-alvesd-wDz6iigThrg-unsplash-scaled-e1643059690917.jpg"
 slug: "40-life-tips-02"
 ---
 

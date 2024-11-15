@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "junkmail.jpg"
+image: "junkmail.jpg"
 slug: "i-did-not-subscribe-to-your-newsletter"
 ---
 

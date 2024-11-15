@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mwnwhack2013confoo.jpg"
+image: "mwnwhack2013confoo.jpg"
 slug: "confoo-2013-and-an-amazing-hackathon"
 ---
 

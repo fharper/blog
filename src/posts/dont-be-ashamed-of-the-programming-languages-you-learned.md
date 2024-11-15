@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "vb.jpg"
+image: "vb.jpg"
 slug: "dont-be-ashamed-of-the-programming-languages-you-learned"
 ---
 

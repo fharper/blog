@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "cloudcamp-quebec-300x112.jpg"
+image: "cloudcamp-quebec-300x112.jpg"
 slug: "quebec-aller-retour"
 ---
 

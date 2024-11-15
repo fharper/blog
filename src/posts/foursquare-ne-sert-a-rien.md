@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "n13foursquare-300x213.jpg"
+image: "n13foursquare-300x213.jpg"
 slug: "foursquare-ne-sert-a-rien"
 ---
 

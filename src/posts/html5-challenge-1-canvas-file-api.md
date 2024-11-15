@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "html5-topper.png"
+image: "html5-topper.png"
 slug: "html5-challenge-1-canvas-file-api"
 ---
 

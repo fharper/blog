@@ -14,7 +14,7 @@ tags:
   - "presentation"
   - "user-group"
   - "west-island-developers-and-entrepreneurs-meetup"
-coverImage: "4617735218_fe82727c41_o.jpg"
+image: "4617735218_fe82727c41_o.jpg"
 slug: "west-island-developers-also-need-to-think-about-their-brand"
 ---
 

@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred@ATO.jpg"
+image: "Fred@ATO.jpg"
 slug: "firefox-os-html-for-the-mobile-web-at-all-things-open"
 ---
 

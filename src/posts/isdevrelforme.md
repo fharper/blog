@@ -13,7 +13,7 @@ tags:
   - "developer-relations"
   - "resources"
   - "technical-evangelist"
-coverImage: "pineapple-supply-co-279730-unsplash.jpg"
+image: "pineapple-supply-co-279730-unsplash.jpg"
 slug: "isdevrelforme"
 ---
 

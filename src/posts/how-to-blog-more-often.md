@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "blogging.jpg"
+image: "blogging.jpg"
 slug: "how-to-blog-more-often"
 ---
 

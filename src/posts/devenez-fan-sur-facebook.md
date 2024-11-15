@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "facebook-300x112.jpg"
+image: "facebook-300x112.jpg"
 slug: "devenez-fan-sur-facebook"
 ---
 

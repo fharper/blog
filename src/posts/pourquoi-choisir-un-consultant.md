@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "dilbert2-300x300.jpg"
+image: "dilbert2-300x300.jpg"
 slug: "pourquoi-choisir-un-consultant"
 ---
 

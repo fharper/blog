@@ -18,7 +18,7 @@ tags:
   - "job-search"
   - "processes"
   - "recruitment"
-coverImage: "2962194797_70082c1b93_o.jpg"
+image: "2962194797_70082c1b93_o.jpg"
 slug: "hiring-someone-is-a-bidirectional-process"
 ---
 

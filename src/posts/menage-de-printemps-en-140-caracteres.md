@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "twitter-over-300x225.jpg"
+image: "twitter-over-300x225.jpg"
 slug: "menage-de-printemps-en-140-caracteres"
 ---
 

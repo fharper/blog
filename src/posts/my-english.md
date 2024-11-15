@@ -8,7 +8,7 @@ tags:
   - "english"
   - "learning"
   - "self-deprecation"
-coverImage: "English.jpg"
+image: "English.jpg"
 slug: "my-english"
 ---
 

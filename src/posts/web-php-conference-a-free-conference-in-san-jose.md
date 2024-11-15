@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "wpc_con_hintergrundbild.jpg"
+image: "wpc_con_hintergrundbild.jpg"
 slug: "web-php-conference-a-free-conference-in-san-jose"
 ---
 

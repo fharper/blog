@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "fharper@PragueJS.jpg"
+image: "fharper@PragueJS.jpg"
 slug: "empower-mobile-web-developers-with-javascript-webapi-at-praguejs"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "linkedin.jpg"
+image: "linkedin.jpg"
 slug: "linkedin-un-c-v-2-0"
 ---
 

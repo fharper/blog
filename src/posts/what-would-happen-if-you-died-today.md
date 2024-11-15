@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5946686018_3166efc63e_b.jpg"
+image: "5946686018_3166efc63e_b.jpg"
 slug: "what-would-happen-if-you-died-today"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "582038_300.jpg"
+image: "582038_300.jpg"
 slug: "follow-friday-laurent-lasalle"
 ---
 

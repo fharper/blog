@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sebastienhelping.jpg"
+image: "sebastienhelping.jpg"
 slug: "looking-for-a-windows-8-or-windows-phone-freelancer-i-know-one-of-the-best-out-there"
 ---
 

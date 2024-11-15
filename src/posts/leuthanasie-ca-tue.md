@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3410727398_3d7812e093_m.png"
+image: "3410727398_3d7812e093_m.png"
 slug: "leuthanasie-ca-tue"
 ---
 

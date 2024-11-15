@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DSCN03911.jpg"
+image: "DSCN03911.jpg"
 slug: "jai-encourage-layton"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "16468-300x224.jpg"
+image: "16468-300x224.jpg"
 slug: "joyeux-noel"
 ---
 

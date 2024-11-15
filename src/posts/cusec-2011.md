@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "cusec.jpg"
+image: "cusec.jpg"
 slug: "cusec-2011"
 ---
 

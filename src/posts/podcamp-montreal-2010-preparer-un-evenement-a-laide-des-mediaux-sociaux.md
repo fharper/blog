@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "pcmtl2010-300x118.jpg"
+image: "pcmtl2010-300x118.jpg"
 slug: "podcamp-montreal-2010-preparer-un-evenement-a-laide-des-mediaux-sociaux"
 ---
 

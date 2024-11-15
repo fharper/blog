@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "maxresdefault-1.jpg"
+image: "maxresdefault-1.jpg"
 slug: "codementor-office-hours-on-personal-branding-for-developers"
 ---
 

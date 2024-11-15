@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "bryan_and_fred.jpg"
+image: "bryan_and_fred.jpg"
 slug: "make-web-not-war-tv-wordpress-windows-8-with-bryan-xu"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "digitalocean"
   - "hatch"
   - "startup"
-coverImage: "Sammy.png"
+image: "Sammy.png"
 slug: "digitalocean"
 ---
 

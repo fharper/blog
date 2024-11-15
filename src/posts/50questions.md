@@ -14,7 +14,7 @@ tags:
   - "developer-relations"
   - "interview"
   - "technical-evangelist"
-coverImage: "15095219197_d2d3ffac43_o.jpg"
+image: "15095219197_d2d3ffac43_o.jpg"
 slug: "50questions"
 ---
 

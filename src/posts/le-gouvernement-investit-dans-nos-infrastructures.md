@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000083.jpg"
+image: "WP_000083.jpg"
 slug: "le-gouvernement-investit-dans-nos-infrastructures"
 ---
 

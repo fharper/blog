@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130201_003.jpg"
+image: "WP_20130201_003.jpg"
 slug: "obvious-placard-is-obvious"
 ---
 

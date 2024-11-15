@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fxos-hackathon.jpg"
+image: "fxos-hackathon.jpg"
 slug: "foxhack-un-hackathon-firefox-os-a-montreal"
 ---
 

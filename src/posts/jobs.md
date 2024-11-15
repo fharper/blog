@@ -6,7 +6,7 @@ categories:
 tags: 
   - "career"
   - "jobs"
-coverImage: "elijah-o-donnell-t8T_yUgCKSM-unsplash-scaled.jpg"
+image: "elijah-o-donnell-t8T_yUgCKSM-unsplash-scaled.jpg"
 slug: "jobs"
 ---
 

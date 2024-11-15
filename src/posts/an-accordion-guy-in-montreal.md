@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000168.jpg"
+image: "WP_000168.jpg"
 slug: "an-accordion-guy-in-montreal"
 ---
 

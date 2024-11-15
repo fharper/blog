@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000033.jpg"
+image: "WP_000033.jpg"
 slug: "living-with-a-girly-girl"
 ---
 

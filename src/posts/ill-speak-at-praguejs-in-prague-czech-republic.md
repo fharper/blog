@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "PragueJS.png"
+image: "PragueJS.png"
 slug: "ill-speak-at-praguejs-in-prague-czech-republic"
 ---
 

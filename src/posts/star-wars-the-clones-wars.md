@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "theclonewars_logo-300x206.jpg"
+image: "theclonewars_logo-300x206.jpg"
 slug: "star-wars-the-clones-wars"
 ---
 

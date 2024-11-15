@@ -8,7 +8,7 @@ categories:
 tags: 
   - "developer-advocate"
   - "technical-evangelist"
-coverImage: "davide-ragusa-24118-unsplash.jpg"
+image: "davide-ragusa-24118-unsplash.jpg"
 slug: "developeradvocate"
 ---
 

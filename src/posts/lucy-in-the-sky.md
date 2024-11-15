@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3511033621_7de1a869b6.png"
+image: "3511033621_7de1a869b6.png"
 slug: "lucy-in-the-sky"
 ---
 

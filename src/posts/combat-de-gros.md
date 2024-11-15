@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sumo-wrestler-lawn-sculpture-300x300.jpg"
+image: "sumo-wrestler-lawn-sculpture-300x300.jpg"
 slug: "combat-de-gros"
 ---
 

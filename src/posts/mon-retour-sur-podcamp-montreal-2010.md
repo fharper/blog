@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4986540469_645352d4b0_z.jpg"
+image: "4986540469_645352d4b0_z.jpg"
 slug: "mon-retour-sur-podcamp-montreal-2010"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3175872479_aff91d806c_o-580x400.jpg"
+image: "3175872479_aff91d806c_o-580x400.jpg"
 slug: "how-to-use-e-mail"
 ---
 

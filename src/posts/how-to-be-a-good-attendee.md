@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5971599783_b4a0909a13_o.jpg"
+image: "5971599783_b4a0909a13_o.jpg"
 slug: "how-to-be-a-good-attendee"
 ---
 

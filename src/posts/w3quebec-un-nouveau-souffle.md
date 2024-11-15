@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "w3quebec.gif"
+image: "w3quebec.gif"
 slug: "w3quebec-un-nouveau-souffle"
 ---
 

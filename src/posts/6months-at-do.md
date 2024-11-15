@@ -13,7 +13,7 @@ tags:
   - "developer-relations"
   - "digitalocean"
   - "values"
-coverImage: "Do-Community-team.jpeg"
+image: "Do-Community-team.jpeg"
 slug: "6months-at-do"
 ---
 

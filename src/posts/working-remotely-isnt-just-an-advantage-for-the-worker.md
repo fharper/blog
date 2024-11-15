@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "remoteworker.jpg"
+image: "remoteworker.jpg"
 slug: "working-remotely-isnt-just-an-advantage-for-the-worker"
 ---
 

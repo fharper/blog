@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6922749580_e7b6bb8378_o-scaled.jpg"
+image: "6922749580_e7b6bb8378_o-scaled.jpg"
 slug: "you-recruitment-and-interview-process-reveals-a-lot-more-about-you-and-your-company-than-you-would-expect"
 ---
 

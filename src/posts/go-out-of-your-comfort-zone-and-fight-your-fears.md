@@ -8,7 +8,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "297136996_ce925fb9a8_o.jpg"
+image: "297136996_ce925fb9a8_o.jpg"
 slug: "go-out-of-your-comfort-zone-and-fight-your-fears"
 ---
 

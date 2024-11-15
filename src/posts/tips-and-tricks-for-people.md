@@ -11,7 +11,7 @@ categories:
   - "fixurl"
 tags: 
   - "tipsandtricks"
-coverImage: "2711755476_502a4dff03_o.png"
+image: "2711755476_502a4dff03_o.png"
 slug: "tips-and-tricks-for-people"
 ---
 

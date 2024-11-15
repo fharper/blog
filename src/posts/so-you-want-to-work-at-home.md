@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "114082129.jpg"
+image: "114082129.jpg"
 slug: "so-you-want-to-work-at-home"
 ---
 

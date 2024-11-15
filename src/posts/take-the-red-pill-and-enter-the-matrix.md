@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WebMatrix_bL1.png"
+image: "WebMatrix_bL1.png"
 slug: "take-the-red-pill-and-enter-the-matrix"
 ---
 

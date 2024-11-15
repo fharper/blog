@@ -9,7 +9,7 @@ tags:
   - "conference"
   - "public-speaking"
   - "tips-and-tricks"
-coverImage: "fred.dev-cornucopia-of-call-for-speakers-tips-lusma-trading-6j6ej6n-bua-unsplash-1-scaled.jpg"
+image: "fred.dev-cornucopia-of-call-for-speakers-tips-lusma-trading-6j6ej6n-bua-unsplash-1-scaled.jpg"
 slug: "cfps"
 ---
 

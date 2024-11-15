@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "img_1814.jpg"
+image: "img_1814.jpg"
 slug: "maimouna-youssef-the-girl-of-a-gypsy-woman"
 ---
 

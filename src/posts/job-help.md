@@ -13,7 +13,7 @@ tags:
   - "recruiting"
   - "tech"
   - "trust-agent"
-coverImage: "7018300893_54e3b6df93_o.jpg"
+image: "7018300893_54e3b6df93_o.jpg"
 slug: "job-help"
 ---
 

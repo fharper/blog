@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Ile_sans_fil-300x300.jpg"
+image: "Ile_sans_fil-300x300.jpg"
 slug: "ile-sans-fil-du-wifi-gratuit-a-montreal"
 ---
 

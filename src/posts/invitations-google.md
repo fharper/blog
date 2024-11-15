@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "google__icon-300x300.jpg"
+image: "google__icon-300x300.jpg"
 slug: "invitations-google"
 ---
 

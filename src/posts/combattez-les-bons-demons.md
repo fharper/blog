@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "vino-4-300x300.jpg"
+image: "vino-4-300x300.jpg"
 slug: "combattez-les-bons-demons"
 ---
 

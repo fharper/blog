@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "8386940215_a28bb44f09_o.jpg"
+image: "8386940215_a28bb44f09_o.jpg"
 slug: "im-in-london-in-united-kingdom-anything-else-a-tourist-should-do"
 ---
 

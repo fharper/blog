@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "rockstar.jpg"
+image: "rockstar.jpg"
 slug: "who-are-your-rock-star-developers"
 ---
 

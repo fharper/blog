@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "internet1.jpg"
+image: "internet1.jpg"
 slug: "web-first"
 ---
 

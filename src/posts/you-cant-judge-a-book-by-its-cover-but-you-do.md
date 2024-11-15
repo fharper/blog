@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "yourself.jpg"
+image: "yourself.jpg"
 slug: "you-cant-judge-a-book-by-its-cover-but-you-do"
 ---
 

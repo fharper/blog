@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "computer-monkey-210.jpg"
+image: "computer-monkey-210.jpg"
 slug: "productif-de-08h00-a-17h00-est-ce-possible"
 ---
 

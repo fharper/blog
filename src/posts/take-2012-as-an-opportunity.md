@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2340150187_49e1e1be01_b-580x400.jpg"
+image: "2340150187_49e1e1be01_b-580x400.jpg"
 slug: "take-2012-as-an-opportunity"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Matthew_Fred.jpg"
+image: "Matthew_Fred.jpg"
 slug: "firefox-os-at-mobile-startups-toronto-html5-toronto-and-online"
 ---
 

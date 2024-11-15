@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000018.jpg"
+image: "WP_000018.jpg"
 slug: "we-are-now-the-owners-of-a-condo"
 ---
 

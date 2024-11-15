@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3627118865_3f6fbc63da_b-580x400.jpg"
+image: "3627118865_3f6fbc63da_b-580x400.jpg"
 slug: "you-too-can-become-a-make-web-not-war-warriors"
 ---
 

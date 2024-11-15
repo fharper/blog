@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "jobless-240x300.jpg"
+image: "jobless-240x300.jpg"
 slug: "je-redeviens-un-agent-libre-sous-peu-professionnellement-parlant"
 ---
 

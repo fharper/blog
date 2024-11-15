@@ -8,7 +8,7 @@ categories:
 tags: 
   - "bullshit"
   - "life"
-coverImage: "4233333_06e2a8a626_o.jpg"
+image: "4233333_06e2a8a626_o.jpg"
 slug: "nobullshit"
 ---
 

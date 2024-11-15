@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5343267956_32c89b8580_b-580x400.jpg"
+image: "5343267956_32c89b8580_b-580x400.jpg"
 slug: "work-hard-play-hard"
 ---
 

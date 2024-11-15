@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "keepbrowseon.png"
+image: "keepbrowseon.png"
 slug: "keep-calm-and-browse-on"
 ---
 

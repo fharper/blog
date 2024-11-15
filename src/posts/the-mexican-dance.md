@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Mexico_dance.gif"
+image: "Mexico_dance.gif"
 slug: "the-mexican-dance"
 ---
 

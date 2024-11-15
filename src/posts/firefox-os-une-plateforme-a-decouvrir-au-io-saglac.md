@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2203668139_95a006d98a_o.jpg"
+image: "2203668139_95a006d98a_o.jpg"
 slug: "firefox-os-une-plateforme-a-decouvrir-au-io-saglac"
 ---
 

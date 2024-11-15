@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "nerd.png"
+image: "nerd.png"
 slug: "ma-carriere-techno-lenregistrement-de-ma-presentation"
 ---
 

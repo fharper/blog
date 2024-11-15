@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5165168984_35b4d78747_o-scaled.jpg"
+image: "5165168984_35b4d78747_o-scaled.jpg"
 slug: "firefox-os-at-the-congreso-universitario-movil-in-mexico-city"
 ---
 

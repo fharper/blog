@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Fitc-logo_thumb.png"
+image: "Fitc-logo_thumb.png"
 slug: "the-state-of-the-web-fitc-spotlight-html5"
 ---
 

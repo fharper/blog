@@ -14,7 +14,7 @@ tags:
   - "san-francisco"
   - "technical-evangelist"
   - "uber"
-coverImage: "Uber_Logo_Black_RGB.png"
+image: "Uber_Logo_Black_RGB.png"
 slug: "im-moving-to-san-francisco-and-joining-uber-as-their-first-developer-advocate"
 ---
 

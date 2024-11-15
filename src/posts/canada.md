@@ -8,7 +8,7 @@ tags:
   - "canada"
   - "job"
   - "remote"
-coverImage: "hermes-rivera-ahHn48-zKWo-unsplash-scaled.jpg"
+image: "hermes-rivera-ahHn48-zKWo-unsplash-scaled.jpg"
 slug: "canada"
 ---
 

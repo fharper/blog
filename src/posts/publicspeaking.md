@@ -12,7 +12,7 @@ tags:
   - "public-speaking"
   - "tips"
   - "tricks"
-coverImage: "fred.dev-cornucopia-of-public-speaking-tips-pexels-andrea-piacquadio-3978388-scaled.jpg"
+image: "fred.dev-cornucopia-of-public-speaking-tips-pexels-andrea-piacquadio-3978388-scaled.jpg"
 slug: "publicspeaking"
 ---
 

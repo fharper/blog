@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000095.jpg"
+image: "WP_000095.jpg"
 slug: "and-others-hire-p-r-companies"
 ---
 

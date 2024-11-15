@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "budapest.jpg"
+image: "budapest.jpg"
 slug: "going-to-budapest-in-hungary-anything-a-tourist-should-do"
 ---
 

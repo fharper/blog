@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000013.jpg"
+image: "WP_000013.jpg"
 slug: "its-not-about-them-its-about-you"
 ---
 

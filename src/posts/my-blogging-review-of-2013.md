@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "likethis.jpg"
+image: "likethis.jpg"
 slug: "my-blogging-review-of-2013"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "attitude"
   - "life"
   - "negativity"
-coverImage: "299122321_e9c75c89a8_o.jpg"
+image: "299122321_e9c75c89a8_o.jpg"
 slug: "stop-complaining"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3184149164_602721a576_b.jpg"
+image: "3184149164_602721a576_b.jpg"
 slug: "now-is-the-perfect-moment"
 ---
 

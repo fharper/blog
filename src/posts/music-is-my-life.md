@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3497849677_9798b22910_b-580x400.jpg"
+image: "3497849677_9798b22910_b-580x400.jpg"
 slug: "music-is-my-life"
 ---
 

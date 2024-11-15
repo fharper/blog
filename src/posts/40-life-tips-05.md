@@ -11,7 +11,7 @@ tags:
   - "life"
   - "tips"
   - "work"
-coverImage: "fred.dev-40-life-tips-before-forty-05-pexels-cottonbro-9062776-2-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-05-pexels-cottonbro-9062776-2-scaled.jpg"
 slug: "40-life-tips-05"
 ---
 

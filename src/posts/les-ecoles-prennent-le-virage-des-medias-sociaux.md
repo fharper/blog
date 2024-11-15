@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "ecole_showbusiness.jpg"
+image: "ecole_showbusiness.jpg"
 slug: "les-ecoles-prennent-le-virage-des-medias-sociaux"
 ---
 

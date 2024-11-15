@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "social-media-overload-196x300.jpg"
+image: "social-media-overload-196x300.jpg"
 slug: "services-services-et-services"
 ---
 

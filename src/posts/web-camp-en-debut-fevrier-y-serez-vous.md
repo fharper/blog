@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo-webcamps.png"
+image: "logo-webcamps.png"
 slug: "web-camp-en-debut-fevrier-y-serez-vous"
 ---
 

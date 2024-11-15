@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sanfrancisco.jpg"
+image: "sanfrancisco.jpg"
 slug: "going-to-san-francisco-in-united-states-anything-a-tourist-should-do"
 ---
 

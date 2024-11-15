@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5549_share_ideas_mih-300x225.jpg"
+image: "5549_share_ideas_mih-300x225.jpg"
 slug: "plusieurs-idees-pour-en-avoir-une-bonne"
 ---
 

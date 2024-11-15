@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "express_yourself.jpg"
+image: "express_yourself.jpg"
 slug: "dont-be-shy-leave-a-comment"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "FITCTO14.png"
+image: "FITCTO14.png"
 slug: "see-you-at-fitc-toronto-in-april"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fondationmv.jpg"
+image: "fondationmv.jpg"
 slug: "rire-de-moi-pour-une-bonne-cause"
 ---
 

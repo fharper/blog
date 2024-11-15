@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "cheesecakeninja.png"
+image: "cheesecakeninja.png"
 slug: "street-music-1"
 ---
 

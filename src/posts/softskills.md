@@ -9,7 +9,7 @@ tags:
   - "hard-skills"
   - "soft-skills"
   - "technical-evangelist"
-coverImage: "ryan-pouncy-14513-unsplash.jpg"
+image: "ryan-pouncy-14513-unsplash.jpg"
 slug: "softskills"
 ---
 

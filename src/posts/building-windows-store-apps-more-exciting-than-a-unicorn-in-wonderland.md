@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Picture1.png"
+image: "Picture1.png"
 slug: "building-windows-store-apps-more-exciting-than-a-unicorn-in-wonderland"
 ---
 

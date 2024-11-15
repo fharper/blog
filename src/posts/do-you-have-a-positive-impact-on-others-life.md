@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sharing.jpg"
+image: "sharing.jpg"
 slug: "do-you-have-a-positive-impact-on-others-life"
 ---
 

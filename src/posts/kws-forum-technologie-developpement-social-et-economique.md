@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fred_at_kws.jpg"
+image: "fred_at_kws.jpg"
 slug: "kws-forum-technologie-developpement-social-et-economique"
 ---
 

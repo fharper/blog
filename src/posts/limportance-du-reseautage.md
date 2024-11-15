@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "networking2-300x200.jpg"
+image: "networking2-300x200.jpg"
 slug: "limportance-du-reseautage"
 ---
 

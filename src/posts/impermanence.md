@@ -9,7 +9,7 @@ tags:
   - "buddhism"
   - "impermanence"
   - "life"
-coverImage: "austin-chan-ukzHlkoz1IE-unsplash-scaled.jpg"
+image: "austin-chan-ukzHlkoz1IE-unsplash-scaled.jpg"
 slug: "impermanence"
 ---
 

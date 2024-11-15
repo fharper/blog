@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "budapestFred.jpg"
+image: "budapestFred.jpg"
 slug: "firefox-os-the-platform-you-deserve-budapest-hungary"
 ---
 

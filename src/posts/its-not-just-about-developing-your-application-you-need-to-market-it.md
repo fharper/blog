@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "publicity.jpg"
+image: "publicity.jpg"
 slug: "its-not-just-about-developing-your-application-you-need-to-market-it"
 ---
 

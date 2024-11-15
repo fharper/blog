@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "bixi-300x100.png"
+image: "bixi-300x100.png"
 slug: "bixi-le-premier-point-de-mon-plan-de-remise-en-forme"
 ---
 

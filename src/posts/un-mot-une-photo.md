@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3432303175_62e9d9ce90_o.png"
+image: "3432303175_62e9d9ce90_o.png"
 slug: "un-mot-une-photo"
 ---
 

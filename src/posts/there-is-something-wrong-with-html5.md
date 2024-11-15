@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6346609079_aae53a2270_b.jpg"
+image: "6346609079_aae53a2270_b.jpg"
 slug: "there-is-something-wrong-with-html5"
 ---
 

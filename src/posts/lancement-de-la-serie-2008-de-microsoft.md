@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "windows-art1-290x300.png"
+image: "windows-art1-290x300.png"
 slug: "lancement-de-la-serie-2008-de-microsoft"
 ---
 

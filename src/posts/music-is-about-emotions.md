@@ -14,7 +14,7 @@ tags:
   - "foo-fighters"
   - "life"
   - "music"
-coverImage: "16326341181_fdfa2d3d61_o.jpg"
+image: "16326341181_fdfa2d3d61_o.jpg"
 slug: "music-is-about-emotions"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Lassonde_Oasis.gif"
+image: "Lassonde_Oasis.gif"
 slug: "oasis-et-le-pouvoir-des-medias-sociaux"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3529184915_8f09dd49a6.png"
+image: "3529184915_8f09dd49a6.png"
 slug: "retour-sur-le-webcom-2009"
 ---
 

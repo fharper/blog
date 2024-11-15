@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "YulDev.png"
+image: "YulDev.png"
 slug: "yuldev-connecting-with-other-developers"
 ---
 

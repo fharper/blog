@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "big_box_bleu.png"
+image: "big_box_bleu.png"
 slug: "la-guignolee-du-web"
 ---
 

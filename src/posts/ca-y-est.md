@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "wordpress-logo2-300x282.png"
+image: "wordpress-logo2-300x282.png"
 slug: "ca-y-est"
 ---
 

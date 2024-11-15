@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "ThoughtBasin.jpg"
+image: "ThoughtBasin.jpg"
 slug: "interested-in-communication-and-connection-join-me-at-the-thoughtbasin-panel"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "pourquoibloguer-201x300.png"
+image: "pourquoibloguer-201x300.png"
 slug: "a-la-base-2"
 ---
 

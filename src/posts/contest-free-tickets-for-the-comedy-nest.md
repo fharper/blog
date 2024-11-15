@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "2998579599_1cbf5fc4a3_b.jpg"
+image: "2998579599_1cbf5fc4a3_b.jpg"
 slug: "contest-free-tickets-for-the-comedy-nest"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "gnomes.jpg"
+image: "gnomes.jpg"
 slug: "my-life-manifesto-v2"
 ---
 

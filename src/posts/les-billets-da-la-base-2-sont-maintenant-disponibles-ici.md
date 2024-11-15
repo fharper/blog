@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo.png"
+image: "logo.png"
 slug: "les-billets-da-la-base-2-sont-maintenant-disponibles-ici"
 ---
 

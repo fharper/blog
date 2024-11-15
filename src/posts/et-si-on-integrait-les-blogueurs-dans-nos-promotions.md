@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4796225037_50239439b9_o-300x199.jpg"
+image: "4796225037_50239439b9_o-300x199.jpg"
 slug: "et-si-on-integrait-les-blogueurs-dans-nos-promotions"
 ---
 

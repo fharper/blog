@@ -14,7 +14,7 @@ tags:
   - "happiness"
   - "life"
   - "minimalism"
-coverImage: "happiness.jpg"
+image: "happiness.jpg"
 slug: "happiness-the-minimalist-way"
 ---
 

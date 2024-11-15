@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Devant1-150x150.png"
+image: "Devant1-150x150.png"
 slug: "my-new-business-cards"
 ---
 

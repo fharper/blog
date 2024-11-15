@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4016547286_b3f0b04831_b.jpg"
+image: "4016547286_b3f0b04831_b.jpg"
 slug: "what-can-you-expect-from-me-as-an-evangelist"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "HTML5-paradise-560x400.png"
+image: "HTML5-paradise-560x400.png"
 slug: "awesome-tools-you-can-use-to-build-your-next-html5-website-or-application"
 ---
 

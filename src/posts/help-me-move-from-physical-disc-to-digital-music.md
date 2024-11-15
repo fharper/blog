@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "music.jpg"
+image: "music.jpg"
 slug: "help-me-move-from-physical-disc-to-digital-music"
 ---
 

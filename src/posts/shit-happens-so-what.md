@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "shithappens.jpg"
+image: "shithappens.jpg"
 slug: "shit-happens-so-what"
 ---
 

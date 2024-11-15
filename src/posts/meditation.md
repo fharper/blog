@@ -7,7 +7,7 @@ categories:
 tags: 
   - "meditation"
   - "mental-health"
-coverImage: "35744218703_19c28dcb48_o.jpg"
+image: "35744218703_19c28dcb48_o.jpg"
 slug: "meditation"
 ---
 

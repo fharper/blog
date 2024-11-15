@@ -14,7 +14,7 @@ tags:
   - "presentation"
   - "public-speaking"
   - "tips-and-tricks"
-coverImage: "14221969896_b6916f62a1_b.jpg"
+image: "14221969896_b6916f62a1_b.jpg"
 slug: "tips-for-your-first-presentation"
 ---
 

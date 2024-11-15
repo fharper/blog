@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "prosperite-quebec.jpg"
+image: "prosperite-quebec.jpg"
 slug: "prosperite-quebec-une-campagne-du-conseil-du-patronat-du-quebec"
 ---
 

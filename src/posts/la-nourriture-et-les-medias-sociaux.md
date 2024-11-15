@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "sodexo_4c-300x127.jpg"
+image: "sodexo_4c-300x127.jpg"
 slug: "la-nourriture-et-les-medias-sociaux"
 ---
 

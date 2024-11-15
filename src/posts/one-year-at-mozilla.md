@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "MozillaFharper.jpg"
+image: "MozillaFharper.jpg"
 slug: "one-year-at-mozilla"
 ---
 

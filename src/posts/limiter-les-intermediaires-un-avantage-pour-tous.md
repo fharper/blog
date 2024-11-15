@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "steps-204x300.jpg"
+image: "steps-204x300.jpg"
 slug: "limiter-les-intermediaires-un-avantage-pour-tous"
 ---
 

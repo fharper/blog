@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "FounderFuel-logo-On-white.jpg"
+image: "FounderFuel-logo-On-white.jpg"
 slug: "founderfuel-et-lentrepreneuriat-a-montreal"
 ---
 

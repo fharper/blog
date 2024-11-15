@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mozlove.png"
+image: "mozlove.png"
 slug: "dont-hurt-mozilla"
 ---
 

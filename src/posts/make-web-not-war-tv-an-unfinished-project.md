@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "MWNW1.png"
+image: "MWNW1.png"
 slug: "make-web-not-war-tv-an-unfinished-project"
 ---
 

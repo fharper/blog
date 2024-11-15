@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000135-440x330.jpg"
+image: "WP_000135-440x330.jpg"
 slug: "mon-look-dadolescent-prepubere-pour-movember"
 ---
 

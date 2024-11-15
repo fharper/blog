@@ -11,7 +11,7 @@ categories:
   - "fixurl"
 tags: 
   - "meetup"
-coverImage: "Meetup-Logo-1300x730-1.png"
+image: "Meetup-Logo-1300x730-1.png"
 slug: "my-5-rules-to-be-a-good-meetup-com-citizen"
 ---
 

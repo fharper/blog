@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "kobo_town_sleeve_5x5_300dpi.jpg"
+image: "kobo_town_sleeve_5x5_300dpi.jpg"
 slug: "kobo-town-jumbie-in-the-jukebox-a-festive-music"
 ---
 

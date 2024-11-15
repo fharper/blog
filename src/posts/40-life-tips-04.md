@@ -12,7 +12,7 @@ tags:
   - "life"
   - "tips"
   - "uncertainty"
-coverImage: "fred.dev-40-life-tips-before-forty-4-sigmund-By-tZImt0Ms-unsplash-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-4-sigmund-By-tZImt0Ms-unsplash-scaled.jpg"
 slug: "40-life-tips-04"
 ---
 

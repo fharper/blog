@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3497660519_a6ae4af43d_z.jpg"
+image: "3497660519_a6ae4af43d_z.jpg"
 slug: "5-years-later-she-is-still-with-me"
 ---
 

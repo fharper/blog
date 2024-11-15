@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1274004_639930572707069_229726884_o.jpg"
+image: "1274004_639930572707069_229726884_o.jpg"
 slug: "kws-personalbranding"
 ---
 

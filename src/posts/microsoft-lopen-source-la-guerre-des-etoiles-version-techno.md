@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "7025126015_a40502ceb4_b.jpg"
+image: "7025126015_a40502ceb4_b.jpg"
 slug: "microsoft-lopen-source-la-guerre-des-etoiles-version-techno"
 ---
 

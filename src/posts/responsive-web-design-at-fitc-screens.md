@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "A35EiMKCYAE_t1i.jpg"
+image: "A35EiMKCYAE_t1i.jpg"
 slug: "responsive-web-design-at-fitc-screens"
 ---
 

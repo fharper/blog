@@ -9,7 +9,7 @@ tags:
   - "developer-advocate"
   - "developer-relations"
   - "job"
-coverImage: "fred-harper-by-eva-blue-37-scaled.jpeg"
+image: "fred-harper-by-eva-blue-37-scaled.jpeg"
 slug: "jobsearch"
 ---
 

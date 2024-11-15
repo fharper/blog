@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "893984_446458285434490_278728303_o.jpg"
+image: "893984_446458285434490_278728303_o.jpg"
 slug: "html5-windows-8-friends-with-benefits"
 ---
 

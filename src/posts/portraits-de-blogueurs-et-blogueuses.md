@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "podcast-299x300.jpg"
+image: "podcast-299x300.jpg"
 slug: "portraits-de-blogueurs-et-blogueuses"
 ---
 

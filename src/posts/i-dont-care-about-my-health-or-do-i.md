@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "danger.jpg"
+image: "danger.jpg"
 slug: "i-dont-care-about-my-health-or-do-i"
 ---
 

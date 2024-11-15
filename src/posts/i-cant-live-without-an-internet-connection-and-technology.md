@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "technology.jpg"
+image: "technology.jpg"
 slug: "i-cant-live-without-an-internet-connection-and-technology"
 ---
 

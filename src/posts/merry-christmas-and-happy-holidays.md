@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "5098113853_64d3a3a005_b-580x400.jpg"
+image: "5098113853_64d3a3a005_b-580x400.jpg"
 slug: "merry-christmas-and-happy-holidays"
 ---
 

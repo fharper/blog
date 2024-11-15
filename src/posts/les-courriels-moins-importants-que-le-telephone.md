@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "emailmarketing-300x268.jpg"
+image: "emailmarketing-300x268.jpg"
 slug: "les-courriels-moins-importants-que-le-telephone"
 ---
 

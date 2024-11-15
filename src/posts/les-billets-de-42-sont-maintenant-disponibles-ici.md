@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "42.png"
+image: "42.png"
 slug: "les-billets-de-42-sont-maintenant-disponibles-ici"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000190.jpg"
+image: "WP_000190.jpg"
 slug: "my-fans-are-intense"
 ---
 

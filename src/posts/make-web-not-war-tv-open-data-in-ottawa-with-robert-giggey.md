@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Robert_Giggey_and_Fred.jpg"
+image: "Robert_Giggey_and_Fred.jpg"
 slug: "make-web-not-war-tv-open-data-in-ottawa-with-robert-giggey"
 ---
 

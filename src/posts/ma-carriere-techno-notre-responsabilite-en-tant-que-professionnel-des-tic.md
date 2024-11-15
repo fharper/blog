@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "schoolbus.jpg"
+image: "schoolbus.jpg"
 slug: "ma-carriere-techno-notre-responsabilite-en-tant-que-professionnel-des-tic"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4292084185_c2ffefff9d_b-580x400.jpg"
+image: "4292084185_c2ffefff9d_b-580x400.jpg"
 slug: "how-to-get-up-to-speed-with-a-new-technology"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6097158569_71248e312d_o.jpg"
+image: "6097158569_71248e312d_o.jpg"
 slug: "from-shy-introvert-to-colorful-extrovert"
 ---
 

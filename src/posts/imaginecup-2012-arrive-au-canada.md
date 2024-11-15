@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "imaginecup-580x225.jpg"
+image: "imaginecup-580x225.jpg"
 slug: "imaginecup-2012-arrive-au-canada"
 ---
 

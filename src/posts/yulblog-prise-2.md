@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo2.png"
+image: "logo2.png"
 slug: "yulblog-prise-2"
 ---
 

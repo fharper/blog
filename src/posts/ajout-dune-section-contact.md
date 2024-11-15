@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "arobas.jpg"
+image: "arobas.jpg"
 slug: "ajout-dune-section-contact"
 ---
 

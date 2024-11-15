@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000042.jpg"
+image: "WP_000042.jpg"
 slug: "a-restaurant-for-me-or-maybe-not"
 ---
 

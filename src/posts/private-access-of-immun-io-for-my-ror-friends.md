@@ -14,7 +14,7 @@ tags:
   - "ruby-on-rails"
   - "security"
   - "web"
-coverImage: "13856199984_63b612a886_o.jpg"
+image: "13856199984_63b612a886_o.jpg"
 slug: "private-access-of-immun-io-for-my-ror-friends"
 ---
 

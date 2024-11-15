@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "thumb.jpg"
+image: "thumb.jpg"
 slug: "9-raisons-de-ne-pas-acheter-un-iphone-5"
 ---
 

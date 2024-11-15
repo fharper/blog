@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "CongresoUniversitarioMovil2014.jpg"
+image: "CongresoUniversitarioMovil2014.jpg"
 slug: "html-not-just-for-desktops-at-congreso-universitario-movil"
 ---
 

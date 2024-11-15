@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "doepicshit.jpg"
+image: "doepicshit.jpg"
 slug: "im-working-on-a-personal-branding-book-for-developers"
 ---
 

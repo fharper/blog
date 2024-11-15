@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Portrait-de-blogueurs-Logo1.png"
+image: "Portrait-de-blogueurs-Logo1.png"
 slug: "portrait-de-blogueurs-se-termine-ici"
 ---
 

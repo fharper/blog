@@ -13,7 +13,7 @@ tags:
   - "book"
   - "developers"
   - "persoal-branding"
-coverImage: "5378458328_35fd2abec8_o.jpg"
+image: "5378458328_35fd2abec8_o.jpg"
 slug: "the-gift-you-can-give-me"
 ---
 

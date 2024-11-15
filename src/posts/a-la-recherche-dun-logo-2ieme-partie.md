@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logo2_gros.jpg"
+image: "logo2_gros.jpg"
 slug: "a-la-recherche-dun-logo-2ieme-partie"
 ---
 

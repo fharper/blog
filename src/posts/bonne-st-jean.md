@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "stjean1-300x201.jpg"
+image: "stjean1-300x201.jpg"
 slug: "bonne-st-jean"
 ---
 

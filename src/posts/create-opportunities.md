@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "opportunities.jpg"
+image: "opportunities.jpg"
 slug: "create-opportunities"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "job.jpg"
+image: "job.jpg"
 slug: "no-job-is-secure"
 ---
 

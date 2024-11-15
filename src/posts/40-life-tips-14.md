@@ -12,7 +12,7 @@ tags:
   - "mental-health"
   - "survival"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-14-camila-quintero-franco-mC852jACK1g-unsplash-scaled-e1644156087569.jpg"
+image: "fred.dev-40-life-tips-before-forty-14-camila-quintero-franco-mC852jACK1g-unsplash-scaled-e1644156087569.jpg"
 slug: "40-life-tips-14"
 ---
 

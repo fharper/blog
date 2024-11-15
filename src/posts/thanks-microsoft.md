@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6461751385_82d069ee17_b.jpg"
+image: "6461751385_82d069ee17_b.jpg"
 slug: "thanks-microsoft"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "ubuntu-logo-290x300.png"
+image: "ubuntu-logo-290x300.png"
 slug: "ubuntu-souris-logitech-vx-revolution"
 ---
 

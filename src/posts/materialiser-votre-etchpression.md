@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "dscn1735-300x225.jpg"
+image: "dscn1735-300x225.jpg"
 slug: "materialiser-votre-etchpression"
 ---
 

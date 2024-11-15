@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "fast.jpg"
+image: "fast.jpg"
 slug: "my-retrospective-of-my-2013s-words"
 ---
 

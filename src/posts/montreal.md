@@ -17,7 +17,7 @@ tags:
   - "restaurants"
   - "tourism"
   - "visit"
-coverImage: "matthieu-joannon-SnTxeUW6jtY-unsplash.jpg"
+image: "matthieu-joannon-SnTxeUW6jtY-unsplash.jpg"
 slug: "montreal"
 ---
 

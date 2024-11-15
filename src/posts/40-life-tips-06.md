@@ -11,7 +11,7 @@ tags:
   - "life"
   - "tips"
   - "travelling"
-coverImage: "fred.dev-40-life-tips-before-forty-06-pexels-rakicevic-nenad-1262304-scaled.jpg"
+image: "fred.dev-40-life-tips-before-forty-06-pexels-rakicevic-nenad-1262304-scaled.jpg"
 slug: "40-life-tips-06"
 ---
 

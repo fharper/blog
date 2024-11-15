@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "open.jpg"
+image: "open.jpg"
 slug: "i-have-no-software-religion-im-pragmatic"
 ---
 

@@ -5,7 +5,7 @@ categories:
   - "brainer"
   - "en"
   - "fixtags"
-coverImage: "10631714324_0089582057_k.jpg"
+image: "10631714324_0089582057_k.jpg"
 slug: "firstimpression"
 ---
 

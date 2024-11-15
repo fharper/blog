@@ -18,7 +18,7 @@ tags:
   - "no-lion-is-born-king"
   - "proud"
   - "stickers"
-coverImage: "NLIBK_sticker.png"
+image: "NLIBK_sticker.png"
 slug: "free-stickers-show-others-that-you-are-a-lion"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "j0423031-300x300.jpg"
+image: "j0423031-300x300.jpg"
 slug: "un-site-pour-les-travailleurs-mobiles-ca-vous-dirait"
 ---
 

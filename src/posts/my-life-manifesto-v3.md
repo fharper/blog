@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "4170745005_6d4ff16e70_o.jpg"
+image: "4170745005_6d4ff16e70_o.jpg"
 slug: "my-life-manifesto-v3"
 ---
 

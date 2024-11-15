@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "20120319_182401.jpg"
+image: "20120319_182401.jpg"
 slug: "oh-no-i-was-at-the-google-party"
 ---
 

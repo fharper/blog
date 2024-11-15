@@ -10,7 +10,7 @@ categories:
   - "fixurl"
 tags: 
   - "personal-branding"
-coverImage: "book-personal-branding.jpeg"
+image: "book-personal-branding.jpeg"
 slug: "my-personal-branding-for-developers-book-is-out"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "mobmtl-logo-300x57.jpg"
+image: "mobmtl-logo-300x57.jpg"
 slug: "mobilecamp-montreal"
 ---
 

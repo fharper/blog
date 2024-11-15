@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "languages.jpg"
+image: "languages.jpg"
 slug: "how-i-choose-when-to-write-a-blog-post-in-french-or-in-english"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DSC_00314-300x200.jpg"
+image: "DSC_00314-300x200.jpg"
 slug: "html5-un-francais-et-moi"
 ---
 

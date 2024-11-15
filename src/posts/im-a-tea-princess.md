@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "7810826712_270f958de0_b.jpg"
+image: "7810826712_270f958de0_b.jpg"
 slug: "im-a-tea-princess"
 ---
 

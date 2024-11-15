@@ -12,7 +12,7 @@ tags:
   - "self-confidence"
   - "self-esteem"
   - "tips"
-coverImage: "fred.dev-40-life-tips-before-forty-13-mariel-reiser-q2yLkzCQPNo-unsplash-scaled-e1644153550410.jpg"
+image: "fred.dev-40-life-tips-before-forty-13-mariel-reiser-q2yLkzCQPNo-unsplash-scaled-e1644153550410.jpg"
 slug: "40-life-tips-13"
 ---
 

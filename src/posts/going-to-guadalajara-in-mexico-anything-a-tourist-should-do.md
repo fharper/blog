@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "guadalajara.jpg"
+image: "guadalajara.jpg"
 slug: "going-to-guadalajara-in-mexico-anything-a-tourist-should-do"
 ---
 

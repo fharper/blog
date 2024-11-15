@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "new-montreal-logo.jpg"
+image: "new-montreal-logo.jpg"
 slug: "a-la-base-2-arrive-au-centre-ville"
 ---
 

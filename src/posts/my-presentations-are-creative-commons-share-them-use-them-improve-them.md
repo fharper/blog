@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "creativecommons.jpg"
+image: "creativecommons.jpg"
 slug: "my-presentations-are-creative-commons-share-them-use-them-improve-them"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "mental-health"
   - "people"
   - "toxic"
-coverImage: "6506480729_53f780164b_o.jpg"
+image: "6506480729_53f780164b_o.jpg"
 slug: "toxic"
 ---
 

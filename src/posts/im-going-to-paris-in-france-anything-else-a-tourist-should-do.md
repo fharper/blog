@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "paris.jpg"
+image: "paris.jpg"
 slug: "im-going-to-paris-in-france-anything-else-a-tourist-should-do"
 ---
 

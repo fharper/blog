@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "confoo-300x68.png"
+image: "confoo-300x68.png"
 slug: "everybody-was-confoo-fighting"
 ---
 

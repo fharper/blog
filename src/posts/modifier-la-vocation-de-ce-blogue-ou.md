@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Two-way_traffic-300x300.png"
+image: "Two-way_traffic-300x300.png"
 slug: "modifier-la-vocation-de-ce-blogue-ou"
 ---
 

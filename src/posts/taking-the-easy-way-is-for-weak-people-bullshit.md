@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "6539115511_7cca2212ec_o.jpg"
+image: "6539115511_7cca2212ec_o.jpg"
 slug: "taking-the-easy-way-is-for-weak-people-bullshit"
 ---
 

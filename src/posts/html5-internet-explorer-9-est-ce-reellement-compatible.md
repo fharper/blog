@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "HTML5-300x300.png"
+image: "HTML5-300x300.png"
 slug: "html5-internet-explorer-9-est-ce-reellement-compatible"
 ---
 

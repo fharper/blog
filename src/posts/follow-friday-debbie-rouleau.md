@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4279283887_df01d30654-225x300.jpg"
+image: "4279283887_df01d30654-225x300.jpg"
 slug: "follow-friday-debbie-rouleau"
 ---
 

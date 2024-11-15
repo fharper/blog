@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "restoration.jpg"
+image: "restoration.jpg"
 slug: "expertise-has-a-cost"
 ---
 

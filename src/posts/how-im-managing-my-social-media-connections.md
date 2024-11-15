@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "network.jpg"
+image: "network.jpg"
 slug: "how-im-managing-my-social-media-connections"
 ---
 

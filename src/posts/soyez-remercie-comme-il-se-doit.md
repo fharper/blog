@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_20130330_001.jpg"
+image: "WP_20130330_001.jpg"
 slug: "soyez-remercie-comme-il-se-doit"
 ---
 

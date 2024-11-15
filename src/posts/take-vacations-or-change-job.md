@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4848319217_dc2bd109eb_o-580x400.jpg"
+image: "4848319217_dc2bd109eb_o-580x400.jpg"
 slug: "take-vacations-or-change-job"
 ---
 

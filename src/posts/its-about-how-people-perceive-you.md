@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "perception.jpg"
+image: "perception.jpg"
 slug: "its-about-how-people-perceive-you"
 ---
 

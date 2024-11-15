@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "security.jpg"
+image: "security.jpg"
 slug: "once-in-a-while-you-should-check-your-social-media-access-permissions"
 ---
 

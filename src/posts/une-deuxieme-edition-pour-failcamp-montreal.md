@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "failcampmtl-600x291.jpg"
+image: "failcampmtl-600x291.jpg"
 slug: "une-deuxieme-edition-pour-failcamp-montreal"
 ---
 

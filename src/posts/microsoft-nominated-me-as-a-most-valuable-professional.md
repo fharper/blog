@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "devopsgroup_microsoft_mvp_winner.jpg"
+image: "devopsgroup_microsoft_mvp_winner.jpg"
 slug: "microsoft-nominated-me-as-a-most-valuable-professional"
 ---
 

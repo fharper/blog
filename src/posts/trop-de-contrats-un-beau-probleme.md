@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "too-much-work-300x200.jpg"
+image: "too-much-work-300x200.jpg"
 slug: "trop-de-contrats-un-beau-probleme"
 ---
 

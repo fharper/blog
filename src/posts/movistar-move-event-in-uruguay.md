@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "move_speakers.png"
+image: "move_speakers.png"
 slug: "movistar-move-event-in-uruguay"
 ---
 

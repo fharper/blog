@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "1c-440x586.jpg"
+image: "1c-440x586.jpg"
 slug: "il-y-a-un-chat-qui-aime-vraiment-ma-voiture"
 ---
 

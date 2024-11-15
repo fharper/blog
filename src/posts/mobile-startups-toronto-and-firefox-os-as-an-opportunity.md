@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "firefoxmascot.jpg"
+image: "firefoxmascot.jpg"
 slug: "mobile-startups-toronto-and-firefox-os-as-an-opportunity"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "ipod-300x238.png"
+image: "ipod-300x238.png"
 slug: "iphonedevcamp-montreal"
 ---
 

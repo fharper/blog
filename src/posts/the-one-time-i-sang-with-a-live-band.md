@@ -7,7 +7,7 @@ categories:
   - "fixtxt"
   - "fixtags"
   - "fixurl"
-coverImage: "Fred-GetLucky.png"
+image: "Fred-GetLucky.png"
 slug: "the-one-time-i-sang-with-a-live-band"
 ---
 

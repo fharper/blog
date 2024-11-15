@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Rami_Fred.jpg"
+image: "Rami_Fred.jpg"
 slug: "who-is-the-new-microsoft-guy-in-montreal"
 ---
 

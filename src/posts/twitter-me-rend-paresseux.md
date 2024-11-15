@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "twitter.png"
+image: "twitter.png"
 slug: "twitter-me-rend-paresseux"
 ---
 

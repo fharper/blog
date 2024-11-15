@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "WP_000165-440x586.jpg"
+image: "WP_000165-440x586.jpg"
 slug: "mysterieux-tel-un-cougar-movember-jour-19"
 ---
 

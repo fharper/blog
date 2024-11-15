@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "privacy.jpg"
+image: "privacy.jpg"
 slug: "trace-a-line-between-the-web-and-your-private-life"
 ---
 

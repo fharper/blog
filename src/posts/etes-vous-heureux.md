@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "tumblr_lpkntj8baF1qzleu4o1_500.jpg"
+image: "tumblr_lpkntj8baF1qzleu4o1_500.jpg"
 slug: "etes-vous-heureux"
 ---
 

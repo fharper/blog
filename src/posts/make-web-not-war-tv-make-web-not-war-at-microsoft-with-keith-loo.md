@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Keith_Loo_and_Fred.jpg"
+image: "Keith_Loo_and_Fred.jpg"
 slug: "make-web-not-war-tv-make-web-not-war-at-microsoft-with-keith-loo"
 ---
 

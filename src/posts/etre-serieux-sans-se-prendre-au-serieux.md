@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "corbis-300x225.jpg"
+image: "corbis-300x225.jpg"
 slug: "etre-serieux-sans-se-prendre-au-serieux"
 ---
 

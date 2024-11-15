@@ -13,7 +13,7 @@ tags:
   - "life"
   - "love"
   - "mother"
-coverImage: "12599327_508723802622261_1145387364_n.jpg"
+image: "12599327_508723802622261_1145387364_n.jpg"
 slug: "maman"
 ---
 

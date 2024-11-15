@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "4530090176_5170acc6a7_o.jpg"
+image: "4530090176_5170acc6a7_o.jpg"
 slug: "how-many-people-will-attend-my-event"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "influence.png"
+image: "influence.png"
 slug: "you-are-an-influencer"
 ---
 

@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Read-This-Before-Our-Next-Meeting.jpg"
+image: "Read-This-Before-Our-Next-Meeting.jpg"
 slug: "show-me-your-book-read-this-before-our-next-meeting"
 ---
 

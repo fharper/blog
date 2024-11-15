@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "3289068821_b190d6a311_b.jpg"
+image: "3289068821_b190d6a311_b.jpg"
 slug: "social-media-roundtable-at-the-mcgill-writing-centre"
 ---
 

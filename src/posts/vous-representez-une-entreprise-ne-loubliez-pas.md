@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "ETUDEcapitale002.jpg"
+image: "ETUDEcapitale002.jpg"
 slug: "vous-representez-une-entreprise-ne-loubliez-pas"
 ---
 

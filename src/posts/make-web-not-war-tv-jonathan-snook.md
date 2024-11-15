@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "Snook_and_Fred.png"
+image: "Snook_and_Fred.png"
 slug: "make-web-not-war-tv-jonathan-snook"
 ---
 

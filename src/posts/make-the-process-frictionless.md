@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "complexity.jpg"
+image: "complexity.jpg"
 slug: "make-the-process-frictionless"
 ---
 

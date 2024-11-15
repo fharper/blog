@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "logorfaq200.png"
+image: "logorfaq200.png"
 slug: "le-reseau-des-femmes-daffaires-du-quebec-sinteresse-aux-medias-sociaux"
 ---
 

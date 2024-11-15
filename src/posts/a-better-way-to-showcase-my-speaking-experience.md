@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "speakup.jpg"
+image: "speakup.jpg"
 slug: "a-better-way-to-showcase-my-speaking-experience"
 ---
 

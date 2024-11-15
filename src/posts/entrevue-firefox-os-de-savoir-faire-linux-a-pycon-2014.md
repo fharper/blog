@@ -7,7 +7,7 @@ categories:
   - "fixtags"
   - "fixurl"
   - "fr"
-coverImage: "Pycon2014.png"
+image: "Pycon2014.png"
 slug: "entrevue-firefox-os-de-savoir-faire-linux-a-pycon-2014"
 ---
 

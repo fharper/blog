@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "demenagement-300x222.jpg"
+image: "demenagement-300x222.jpg"
 slug: "encore-dans-le-demenagement"
 ---
 

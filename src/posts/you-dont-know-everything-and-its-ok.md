@@ -9,7 +9,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "knowledge.jpg"
+image: "knowledge.jpg"
 slug: "you-dont-know-everything-and-its-ok"
 ---
 

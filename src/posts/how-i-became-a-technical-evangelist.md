@@ -11,7 +11,7 @@ tags:
   - "developer-relations"
   - "microsoft"
   - "technical-evangelist"
-coverImage: "5273149468_4e7097b038_o.jpg"
+image: "5273149468_4e7097b038_o.jpg"
 slug: "how-i-became-a-technical-evangelist"
 ---
 

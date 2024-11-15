@@ -8,7 +8,7 @@ categories:
   - "fixlang"
   - "fixtags"
   - "fixurl"
-coverImage: "DevoxxUK.jpg"
+image: "DevoxxUK.jpg"
 slug: "getting-the-best-out-of-your-design-with-responsive-web-design-at-devoxx-uk"
 ---
 
