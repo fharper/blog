@@ -34,3 +34,26 @@
 .eleventy-plugin-youtube-embed {
   margin-bottom: 3em;
 }
+
+.talk {
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.talk h3 {
+  color: #000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.talk pre {
+  border: none;
+  padding-top: 0;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+.talk a {
+  text-decoration: none;
+  color: #7f7f7f;
+}

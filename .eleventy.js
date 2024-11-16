@@ -148,6 +148,9 @@ module.exports = function (eleventyConfig) {
       });
   });
 
+  // Add talks.json
+  eleventyConfig.addPassthroughCopy({ 'src/data/talks.json': 'assets/talks.json' });
+
   return {
     dir: {
       input: 'src',
