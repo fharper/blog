@@ -1,0 +1,27 @@
+name: Markdown Syntax Validation
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/README-TEMPLATE.md'
+
+jobs:
+  check-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Download .markdownlint.json
+        uses: suisei-cn/actions-download-file@v1.6.0
+        with:
+          url: "https://raw.githubusercontent.com/fharper/gh-configs/main/.markdownlint.json"
+
+      - name: Validate Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v18.0.0
+        with:
+          command: config
+          globs: |
+            .markdownlint.json
+            **/*.md
+            #**/node_modules
