@@ -25,6 +25,4 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           privateKey: ${{ secrets.SSH_KEY }}
           concurrency: 10
-          rmRemote: true
-          atomicPut: true
 
