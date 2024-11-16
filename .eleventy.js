@@ -24,11 +24,54 @@ const manifest = isDev
 
 const { execSync } = require('child_process')
 const embedYouTube = require("eleventy-plugin-youtube-embed");
+const slugify = require("slugify");
 
+// Anchor links
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+
+const linkAfterHeader = markdownItAnchor.permalink.linkAfterHeader({
+  class: "anchor",
+  symbol: "<span hidden>#</span>",
+  style: "aria-labelledby",
+});
+const markdownItAnchorOptions = {
+  level: [1, 2, 3],
+  slugify: (str) =>
+    slugify(str, {
+      lower: true,
+      strict: true,
+      remove: /["]/g,
+    }),
+  tabIndex: false,
+};
+
+let markdownLibrary = markdownIt({
+  html: true,
+}).use(markdownItAnchor, markdownItAnchorOptions);
+
+
+// Eleventy Configurations
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
+
+  // Replace Markdown with custom configurations
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
+  //Slugify
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) {
+      return;
+    }
+
+    return slugify(str, {
+      lower: true,
+      strict: true,
+      remove: /["]/g,
+    });
+  });
 
   //Search: pageFind
   eleventyConfig.on('eleventy.after', () => {
