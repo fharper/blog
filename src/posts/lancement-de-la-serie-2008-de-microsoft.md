@@ -21,8 +21,6 @@ Du reste, si ce n'est que la présentation sur LINQ n'a pas fonctionné, c'étai
 
 Pour terminer, sérieusement, la publicité de Dell et HP "camouflé" dans un vidéo pour une mise en situation, on était supposé ne pas se rendre compte que c'était ca? C'était juste drôle, sauf que j'ai eu l'impression qu'on nous prenait pour des niais. Donc en gros, pas une si mauvaise journée du point de vue technique (excluant SQL), même si je souligne grandement, voire presque juste, les mauvais côtés. Par contre, je serais mieux préparé pour le prochain lancement et surtout, je n'attendrais pas un événement inoubliable!
 
-\_\_\_\_\_\_\_\_\_\_
-
 ](https://fred.dev/ca-y-est/ "Ça y est!")
 
 [_Source de l'image:_](https://fred.dev/ca-y-est/ "Ça y est!") _[Ashbaugh Online](https://www.ashbaughonline.com/ "Source de l'image")_

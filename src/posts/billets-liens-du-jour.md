@@ -21,6 +21,4 @@ Vous y retrouverez aussi des liens qui n'ont rien à voir avec l'informatique. C
 
 Sur ce, je vous souhaite de passer un bel été, mes billets seront presque inexistants ou du moins très courts pour les 4-5 semaines à venir, car je suis toujours aussi occupé, mais en plus je déménage avec ma douce moitié. Donc je rentre dans les boîtes sous peu!
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [It's a SharePoint World](https://blogs.developpeur.org/phil/default.aspx "Source de l'image")_

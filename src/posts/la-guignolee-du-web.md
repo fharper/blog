@@ -17,7 +17,5 @@ Donc un gros merci à toute l'équipe qui a mené ce projet à terme...
 
 Alors, qu'attendez-vous? Cliqué sur l'image pour aller sur le site de la guignolée du web et aider votre prochain!
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [La guignolée du Web](https://www.guignoleeduweb.org/ "Site web de la source de l'image")  
 _

@@ -13,6 +13,4 @@ Je ne vous souhaite pas bonne année tout de suite, car j'aurais la chance de le
 
 Encore une fois, Joyeux Noël... Ho Ho Ho!!!
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [Tom's Guide](https://www.tomsguide.com/fr/ "Site web de la source de l'image")_

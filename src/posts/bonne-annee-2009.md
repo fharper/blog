@@ -27,6 +27,4 @@ Aussi! En commençant, ne disons pas mes, déjà que une c'est dur à faire une,
 
 Au risque de me répéter, je vous souhaite une merveilleuse année 2009, qu'elle soit remplit de tout ce que vous voulez et vide de tout ce dont vous ne voulez pas!!! Vivez pleinement cette nouvelle année...
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [Didier Chapellon](https://blogperso.univ-rennes1.fr/didier.chapellon/ "Site web de la source de l'image")_

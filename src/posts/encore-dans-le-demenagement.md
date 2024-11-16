@@ -11,8 +11,6 @@ Ce billet a été initialement rédigé sur le défunt blogue À la base 2
 
 Comme je vous avais dit, je redéfinis la nature de ce blogue à chaque fois que je l'utilise, alors je viens d'ajouter une section "Personnel" où je placerais des billets de ce genre. Il restera principalement de type technologique et professionnel, mais vous y verrez un peu plus de moi.
 
-\_\_\_\_\_\_\_\_\_\_
-
 ](https://www.constantineau.ca/ "Site web de la compagnie de déménagement Constantineau")
 
 [_Source de l'image:_](https://www.constantineau.ca/ "Site web de la compagnie de déménagement Constantineau") _[Gravitation](https://gravitations.canalblog.com/ "Source de l'image")_

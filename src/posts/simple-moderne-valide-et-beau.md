@@ -13,6 +13,4 @@ Je voulais quelque chose de simple, mais avec une allure moderne. Quelque chose 
 
 Soyez patient, j'ai presque terminé...
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [AnySurfer](https://www.anysurfer.be/ "Source de l'image")_

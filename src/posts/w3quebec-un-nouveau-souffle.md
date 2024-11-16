@@ -19,6 +19,4 @@ Il y a un peu plus de 2 mois, voyant le regain d'énergie qu'avait l'organisatio
 
 Peut-être que le W3QC allait agir dans les directions ou je me sentirais à l'aise de participer? Chose sûre, comme vous voyez la fréquence de mes billets présentement, je n'ai plus le temps que j'avais pour m'impliquer, mais croyez-moi, je ne reste pas loin à surveiller ce qui ce passe!
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [W3Québec](https://w3qc.org "Source de l'image")_

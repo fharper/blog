@@ -19,6 +19,4 @@ J'ai donc cherché un nom de domaine qui me plairait et surtout, qui serait disp
 
 Bonne lecture!
 
-\_\_\_\_\_\_\_\_\_\_
-
 _Source de l'image: [K3 Blogue](https://www.k3blogue.com/ "Source de l'image")_
