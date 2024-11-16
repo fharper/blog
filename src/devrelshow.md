@@ -31,7 +31,7 @@ My goal is to give visibility to other developer advocates, foster a better unde
 
 Outside of the demonstration part of the show (even that), no need to prepare anything: it will be a casual discussion between two (new) friends. It will be live on YouTube, LinkedIn, Twitter, and Twitch: so no video edition, even after, and no worries, shit happens, nobody dies. I don't mind people swearing (I do a lot, only in English though) or that you are in your bath during the interview, but I will not tolerate any form of hate speech.
 
-Lastly, here are some [guidelines](https://fred.dev/devrelshow/recording-guidelines/) to review before the show, and please check the following [F.A.Q.](https://fred.dev/devrelshow/#faq), or [ping me](https://fred.dev/contact) if you have any other questions.
+Lastly, here are some [guidelines](../recording-guidelines/) to review before the show, and please check the following [F.A.Q.](#faq), or [ping me](../contact) if you have any other questions.
 
 ## F.A.Q.
 
@@ -41,7 +41,7 @@ Simply said, I do not care about your years of experience in this field. It does
 
 ### I don't want to demo anything, can I be a guest?
 
-Unfortunately no, the [demonstration part of the show](https://fred.dev/devrelshow/#what_is_the_demo_exactly) is quite important: it's not just about discussing devrel, it's also a show to help the audience learn new things.
+Unfortunately no, the [demonstration part of the show](#what-is-the-demo-exactly) is quite important: it's not just about discussing devrel, it's also a show to help the audience learn new things.
 
 ### I'm a manager, can I be a guest?
 
