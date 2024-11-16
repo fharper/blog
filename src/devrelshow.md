@@ -23,7 +23,9 @@ Come on.
 
 I'm waiting!
 
-![](../images/you-got-it.gif)The idea is simple, **we will have a discussion about developer relations**, who you are, what you do, tips you want to share, how you became one of us, your employer and anything that naturally sprung out of our discussion. Lastly,  **you will give [a technical demo](https://fred.dev/devrelshow/#what_is_the_demo_exactly)**: it can be anything, really.
+![Gif of Fred saying you got this](../images/you-got-it.gif)
+
+The idea is simple, **we will have a discussion about developer relations**, who you are, what you do, tips you want to share, how you became one of us, your employer and anything that naturally sprung out of our discussion. Lastly,  **you will give [a technical demo](#what-is-the-demo-exactly)**: it can be anything, really.
 
 My goal is to give visibility to other developer advocates, foster a better understanding and demystify our role, help people who want to join the devrel journey to find some inspiration, and lastly, showcase cool tech folks may not know about!
 
