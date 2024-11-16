@@ -30,3 +30,7 @@
 #search {
   margin-top: 2rem;
 }
+
+.eleventy-plugin-youtube-embed {
+  margin-bottom: 3em;
+}
