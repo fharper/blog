@@ -11,8 +11,8 @@ Ce billet a été initialement rédigé sur le défunt blogue À la base 2
 
 Ça vous offre donc une page pour rentrer en communication avec moi. Bien sûre , si ce sont des messages reliés à un billet en particulier, passé par la section commentaires de celui-ci, mais sinon, pour toutes critiques sur le blogue, des questions diverses ou pour simplement jaser, ne vous gênez pas!](https://fred.dev/contact/ "Page de contact de mon blogue")
 
-[L'ajout de cette page a été facile à faire grâce à l'extension](https://fred.dev/contact/ "Page de contact de mon blogue") [Enhanced WordPress Contact Form](https://www.joostdevalk.nl/wordpress/enhanced-wordpress-contactform-plugin/ "Site web de l'extension Enhanced WordPress Contact Form") qui a été traduite en français par [Erwan](https://www.iconique.net/ "Site web de Erwan").
+[L'ajout de cette page a été facile à faire grâce à l'extension](https://fred.dev/contact/ "Page de contact de mon blogue") [Enhanced WordPress Contact Form](https://www.joostdevalk.nl/wordpress/enhanced-wordpress-contactform-plugin/ "Site web de l'extension Enhanced WordPress Contact Form") qui a été traduite en français par Erwan.
 
 \_\_\_\_\_\_\_\_\_\_
 
-_Source de l'image: [Mesuo](https://www.tristandenommee.com/ "Source de l'image")_
+_Source de l'image: Mesuo_

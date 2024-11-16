@@ -26,7 +26,7 @@ Cela devrait vous retourner quelque chose du genre :
 
 À ce point, prenez en note celle qui contient le mot "Logitech" dedans.
 
-Pour pouvoir gérer les touches et leurs associés des actions, vous allez avoir besoin de deux logiciels, soit [XBindKeys](https://hocwp.free.fr/xbindkeys/xbindkeys.fr.html "Site web de XBindKeys") pour associer un bouton a une action et [Xvkbd](https://homepage3.nifty.com/tsato/xvkbd/ "Site web de Xvkbd") pour associer des touches ou combinaison de touches a une action. Pour ce faire, tapez cette commande :
+Pour pouvoir gérer les touches et leurs associés des actions, vous allez avoir besoin de deux logiciels, soit [XBindKeys](https://hocwp.free.fr/xbindkeys/xbindkeys.fr.html "Site web de XBindKeys") pour associer un bouton a une action et Xvkbd](_le site web précédament référencé n'existe plus_) pour associer des touches ou combinaison de touches a une action. Pour ce faire, tapez cette commande :
 
 ```
 sudo apt-get install xserver-xorg-input-evdev xbindkeys xvkbd
@@ -219,4 +219,4 @@ Dans mon cas, j'utilisais Ubuntu 8.04 (Hardy Heron) pour faire ces modifications
 
 \_\_\_\_\_\_\_\_\_\_
 
-_Source de l'image: [The Consumer's Corner](https://theconsumerscorner.net/ "Source de l'image")_
+_Source de l'image: The Consumer's Corner_

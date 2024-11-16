@@ -24,6 +24,7 @@ const manifest = isDev
 
 const { execSync } = require('child_process')
 const embedYouTube = require("eleventy-plugin-youtube-embed");
+const brokenLinksPlugin = require("eleventy-plugin-broken-links");
 
 // Anchor links
 const markdownIt = require('markdown-it');
@@ -57,6 +58,9 @@ module.exports = function (eleventyConfig) {
 
   //YouTube embedded plugin
   eleventyConfig.addPlugin(embedYouTube);
+
+  //Broken links plugins
+  eleventyConfig.addPlugin(brokenLinksPlugin);
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
