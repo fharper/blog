@@ -17,10 +17,11 @@ jobs:
         run: yarn build
 
       - name: Copy site to DigitalOcean
-        uses: garygrossgarten/github-action-scp@0.9.0
+        uses: burnett01/rsync-deployments@7.0.1
         with:
-          local: public
-          remote: ${{ secrets.SSH_PATH }}
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USERNAME }}
-          privateKey: ${{ secrets.SSH_KEY }}
+          switches: --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose --dry-run
+          path: public/
+          remote_path: ${{ secrets.SSH_PATH }}
+          remote_host: ${{ secrets.SSH_HOST }}
+          remote_user: ${{ secrets.SSH_USERNAME }}
+          remote_key: ${{ secrets.SSH_KEY }}
