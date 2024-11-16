@@ -217,4 +217,4 @@ Voilà!
 
 Dans mon cas, j'utilisais Ubuntu 8.04 (Hardy Heron) pour faire ces modifications. En espérant que cela vous a aidé (même si c'est simplement pour clarifier le tutoriel sur Ubuntu), mais dans tous les cas, ça me fait une trace si je dois réinstaller Ubuntu éventuellement.
 
-_Source de l'image: The Consumer's Corner_
+_Source de l'image: The Consumer's Corner (le site précédamment référencé n'existe plus)_

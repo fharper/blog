@@ -13,4 +13,4 @@ Ce billet a été initialement rédigé sur le défunt blogue À la base 2
 
 [L'ajout de cette page a été facile à faire grâce à l'extension](https://fred.dev/contact/ "Page de contact de mon blogue") [Enhanced WordPress Contact Form](https://www.joostdevalk.nl/wordpress/enhanced-wordpress-contactform-plugin/ "Site web de l'extension Enhanced WordPress Contact Form") qui a été traduite en français par Erwan.
 
-_Source de l'image: Mesuo_
+_Source de l'image: Mesuo (le site précédamment référencé n'existe plus)_

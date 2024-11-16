@@ -19,4 +19,4 @@ J'ai donc cherché un nom de domaine qui me plairait et surtout, qui serait disp
 
 Bonne lecture!
 
-_Source de l'image: [K3 Blogue](https://www.k3blogue.com/ "Source de l'image")_
+_Source de l'image: K3 Blogue (le site précédamment référencé n'existe plus)_
