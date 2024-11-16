@@ -10,7 +10,7 @@ Photo by AbsolutVision on Unsplash
 
 An exhaustive list of mentions or collaborations with media in [English](#english), [French](#french), [Spanish,](#spanish) [Vietnamese](#vietnamese), and [Indonesian](#indonesian). For media inquiry, please send an email to [hi@fred.dev](mailto:hi@fred.dev).
 
-## **English**
+## English
 
 2022-11-29 - Insider - [I lost my wallet in a foreign country — twice. Here's why I'll never travel without an AirTag again.](https://www.insider.com/guides/travel/apple-airtag-for-wallet-luggage-moving)
 
