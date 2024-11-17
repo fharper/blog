@@ -155,6 +155,9 @@ module.exports = function (eleventyConfig) {
   // Add talks.json
   eleventyConfig.addPassthroughCopy({ 'src/data/talks.json': 'assets/talks.json' });
 
+  // Add .htaccess
+  eleventyConfig.addPassthroughCopy({ 'src/.htaccess': '.htaccess' });
+
   return {
     dir: {
       input: 'src',
