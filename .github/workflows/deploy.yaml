@@ -19,7 +19,7 @@ jobs:
       - name: Copy site to DigitalOcean
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          switches: --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose
+          switches: --checksum --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose
           path: public/
           remote_path: ${{ secrets.SSH_PATH }}
           remote_host: ${{ secrets.SSH_HOST }}
