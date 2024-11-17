@@ -25,7 +25,7 @@
         "city": "Berlin, Germany",
         "date": "2024-09-10",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/developers-documentation-civo-navigate-2024-09-10.pdf"
+        "slides": "https://fred.dev/slides/developers-documentation-civo-navigate-2024-09-10.pdf"
     },
     {
         "title": "Meditation Introduction Workshop",
@@ -44,7 +44,7 @@
         "city": "Montréal, Canada",
         "date": "2024-05-08",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/surfing-the-argo-cd-sync-waves-cncf-montreal-1.pdf"
+        "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-cncf-montreal-1.pdf"
     },
     {
         "title": "Développer la compassion envers soi-même et les autres",
@@ -63,7 +63,7 @@
         "city": "Pasadena, United States",
         "date": "2024-03-17",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/surfing-the-argo-cd-sync-waves-scale-2024.pdf",
+        "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-scale-2024.pdf",
         "video": "https://www.youtube.com/watch?v=hc9-iBSGD4Q"
     },
     {
@@ -74,7 +74,7 @@
         "city": "Pasadena, United States",
         "date": "2024-03-16",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/what-the-heck-is-kubernetes-scale-2024.pdf",
+        "slides": "https://fred.dev/slides/what-the-heck-is-kubernetes-scale-2024.pdf",
         "video": "https://www.youtube.com/watch?v=pB0yzxf1alc"
     },
     {
@@ -94,7 +94,7 @@
         "city": "Montréal, Canada",
         "date": "2024-02-23",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/bring-your-kubernetes-game-to-the-next-level-confoo-2024.pdf"
+        "slides": "https://fred.dev/slides/bring-your-kubernetes-game-to-the-next-level-confoo-2024.pdf"
     },
     {
         "title": "Git Shit Done, the GitOps Way",
@@ -104,7 +104,7 @@
         "city": "Montréal, Canada",
         "date": "2024-02-22",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/git-shit-done-the-gitops-way-confoo-2024.pdf"
+        "slides": "https://fred.dev/slides/git-shit-done-the-gitops-way-confoo-2024.pdf"
     },
     {
         "title": "Surfing the Argo CD sync waves",
@@ -114,7 +114,7 @@
         "city": "Austin, United States",
         "date": "2024-02-20",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/surfing-the-argo-cd-sync-waves-civo-navigate-us-2024.pdf",
+        "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-civo-navigate-us-2024.pdf",
         "video": "https://www.youtube.com/watch?v=6iZJFGrAx2w"
     },
     {
@@ -132,7 +132,7 @@
         "url": "https://www.conf42.com/kubenative2023",
         "date": "2023-09-28",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/git-shit-done-the-gitops-way-conf42-kube-native-2023.pdf",
+        "slides": "https://fred.dev/slides/git-shit-done-the-gitops-way-conf42-kube-native-2023.pdf",
         "video": "https://www.youtube.com/watch?v=u8AaNr4HKWk"
     },
     {
@@ -272,7 +272,7 @@
         "country": "us",
         "city": "San Francisco, United States",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/digitalocean-hatch-cloudflare-meetup-be-like-batman.pdf"
+        "slides": "https://fred.dev/slides/digitalocean-hatch-cloudflare-meetup-be-like-batman.pdf"
     },
     {
         "title": "Retour aux sources pour un code de qualité",
@@ -491,7 +491,7 @@
         "country": "jp",
         "city": "Tokyo, Japan",
         "type": "talk",
-        "slides": "https://fred.dev/content/uploads/2018-06-05-tokyo-fitbit-developers-fitbit-sdk-web-api-overview.pdf"
+        "slides": "https://fred.dev/slides/2018-06-05-tokyo-fitbit-developers-fitbit-sdk-web-api-overview.pdf"
     },
     {
         "title": "Fitbit SDK & Web API Overview",
