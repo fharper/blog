@@ -158,6 +158,9 @@ module.exports = function (eleventyConfig) {
   // Add .htaccess
   eleventyConfig.addPassthroughCopy({ 'src/.htaccess': '.htaccess' });
 
+  // Add slides
+  eleventyConfig.addPassthroughCopy({ 'src/slides/': 'slides/' });
+
   return {
     dir: {
       input: 'src',
