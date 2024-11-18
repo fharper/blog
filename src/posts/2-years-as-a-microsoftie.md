@@ -1,11 +1,10 @@
 ---
 title: "2 years as a Microsoftie"
 date: "2013-01-16"
-image: "73042_532499706778993_1774213558_n.jpg"
 slug: "2-years-as-a-microsoftie"
 ---
 
-![73042_532499706778993_1774213558_n](images/73042_532499706778993_1774213558_n.jpg)
+![Me speaking pointing toward the screen with a like a boss blue t-shirt](../../images/73042_532499706778993_1774213558_n.jpg)
 
 On the last day of 2012, it has been 2 years that I'm a Microsoftie (internal name for a Microsoft employee). As things are related for now, it has also been two years that I'm being paid to do what I like to do for a living, Evangelism!
 
