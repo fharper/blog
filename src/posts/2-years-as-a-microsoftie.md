@@ -15,7 +15,7 @@ Time goes quickly as I feel like it was yesterday that I've become a blue badge 
 - I started the year with a new partner in crime, [Reemah](https://reemah.posterous.com/), as my first one, [Samantha](https://twitter.com/sammwong), got a new role. Halfway during the year, I changed again for [Vanessa](https://twitter.com/VanBees), as Reemah also got a new role (maybe I scared them - I'm curious to see how much time Vanessa will tough me);
 - The three products I'm focusing on, had new releases: Windows, Windows Phone, and Windows Azure;
 - Two team members, my [unknown father](https://fred.dev/my-unknown-father/) [Damir](https://twitter.com/DamirB), and [Rick](https://twitter.com/RicksterCDN), changed roles inside of Microsoft (yes, there is always a lot of movement between roles at Microsoft), and another one, [Ruth](https://ruthlindamorton.com/), left the company;
-- Two new members, [Marc](https://www.gotsomething.com/), and [Pierre](https://roman.azurewebsites.net/), join the family (my direct team);
+- Two new members, [Marc](https://www.gotsomething.com/), and [Pierre](https://roman.azurewebsites.net/), join the team (my direct team);
 - ...
 
 I also learn a lot of new stuff during this crazy year:
