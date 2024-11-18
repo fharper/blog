@@ -1,7 +1,7 @@
 ---
 title: "Cornucopia of call for speakers tips"
 date: "2024-07-31"
-tags: 
+tags:
   - "cfp"
   - "conference"
   - "public-speaking"
@@ -12,13 +12,13 @@ slug: "cfps"
 
 Before even speaking at a conference, you need to be accepted (duh), which mean that you need to submit your talk to the CFP (Call for Proposals). We commonly call those "call for speakers". The CFP is the moment when you need to shine, and prove to the organizers or track chairs that you are worthy to be on the stage. No matter how much experience you have, or how amazing your submissions are, you are competing against multiple speakers, and there is no way to guarantee you'll be selected. The selection process is and will always be subjective no matter how it is managed. With that said, there are things you can do to improve your chance of being one of the event speakers.
 
-# How to choose your topic
+## How to choose your topic
 
 One of the things to be a great speaker is that you need to choose a topic that you know enough about to share your knowledge legitimately on a stage, and one that you are passionate about. Knowing enough is not... enough. If it's a topic that does not interest you, how can you make it interesting for the people in the room? Note that I didn't write that you need to be the main expert, nor even an expert on the topic: you just need to know enough to be able to fill the time you are allowed to talk about your subject, and being able to answer related questions to what you demonstrate. You do not need to know everything, and "I don't know, come see me after the talk, I'll get your coordinates, I'll do my homework, and will get back to you with an answer" is a perfect reply to a question you can't answer. I'm one to believe that there is no topic that hasn't been blogged about or spoke at a conference or a meetup before, so don't prevent yourself to speak about a topic of your choice because it has been done before. You will definitely share a different angle, and bring your own sauce to it.
 
 If it's your first time speaking, I suggest you do a brain dump first. Write EVERYTHING you know technology-wise in a document. Once it's done, take the time to review that list, and remove the one you don't think you can talk enough about, not sure you can make them interesting, that you aren't excited about, or which doesn't fit the targeted audience for the conference you want to submit to. From that list, you may have a feeling about the topic(s) you want to share on stage, but if not, start working on their abstracts: it will be easier to choose after.
 
-# The abstract
+## The abstract
 
 Once you select your topic, you need to write the abstract. You can also start with the title, but I always prefer to start with the abstract so it will give me a better idea of what my talk will be about, and based on what I wrote, I can decide what will be the best title.
 
@@ -36,13 +36,13 @@ So with that in mind, you can craft an abstract that is, as a reminder, basicall
 
 For some abstract ideas, go on your preferred conference and check last year's agenda, or give a closer look to [the ones I have](https://github.com/fharper/speakerkit/blob/main/abstracts.md).
 
-# The title
+## The title
 
 The title is as important if not more than the abstract. I can tell you by experience that many attendees won't even read your abstract, so the only thing that will help make them decide if they want to go into your room or the other one for conferences with multiple tracks, is this. The reality is that it may be the same for the people selecting the talks as there is no way to read all submissions completely on the first filtering. Some will, but trust me, most will only read it after you pick their interest.
 
 It's the time to highlight your conference subject in a catchy, educative and interesting way. It's up to you to find a right balance between a none shitty clickbait title and still something that will catch people's attention. I don't have much tips about this than “do your best”. I would suggest that you share the title with your co-workers or friends working in your field and get their opinion while ensuring they still have an idea of what is the talk about.
 
-# The benefits or extra information section
+## The benefits or extra information section
 
 Some conferences have that additional field to give extra information just for the people selecting the talk. The abstract should do a good enough job that this shouldn't be needed, but usually if it's there, it can serve two purposes:
 
@@ -51,7 +51,7 @@ Some conferences have that additional field to give extra information just for t
 
 So use that section to reiterate important points from your abstract they may have missed, but also talk directly to the organizer. If they don't have a speaking experience field, use it for that too (see the next section for speaker experience). You previously wrote about the benefits for the attendees, but what are the ones for the organizers. Is this topic the latest things the cool kids talk about in the industry? Is it something that isn't talked about much, but you believe it should be? Why is this topic would be better than the other ones? Take the extra characters provided by this field, if it's there, to be more specific about your talk: the points you decided to keep before writing your abstract that you were not able to fit in a concise description of your talk, add them here. It's your biggest sales pitch after the abstract.
 
-# Your speaker experience
+## Your speaker experience
 
 Most conferences will have a field to add information about past experience as a speaker. It does not need to be in a professional setting at a conference. It can be when you were at school or for a lunch bag session at work. It does not even need to be as a conference speaker. Add your participation in livestreams or podcasts. Anything that involves you talking to an audience, live or not, in-person or online is a plus. The best is to also be able to share previous slides you created, or even better, recording of previous talks. Some conferences will record and publish them online, but even you having a video tutorial on your YouTube channel will do the trick.
 
@@ -64,9 +64,10 @@ If you have experience, you have two choices there:
 
 If you choose option two, here is what I usually submit to keep the wow factor in case they don't click on the link:
 
+<!-- markdownlint-disable MD034 -->
 > I have extensive experience as a public speaker: I gave more than 190 talks in 23 countries. You can find my speaking history at https://fred.dev/speaking/, which also include slides, and recording for some of them.
 
-# The process
+## The process
 
 Most conferences let you submit at least two talks (smaller conferences won't have a limit), and I suggest you submit more than one if you had multiple topics ideas. The more submissions you get in, the better chances you have to be selected. If all of your talks are selected, first congratulations, but if you feel it's too much to prepare more than one talk, you can always tell the organizers. Do not worry, they rejected many other talks, and not because they felt they were bad: they probably have to choose between multiple good talks, because of the limited opportunities of the schedule vs the number of submissions.
 
