@@ -15,7 +15,9 @@ layout: base.njk
   </header>
 
   <main class="post__content">
-    <img src="../../images/{{ image }}" alt="Article main image for {{ title }}" />
+    {%- if image %}
+      <img src="../../images/{{ image }}" alt="Article main image for {{ title }}" />
+     {% endif %}
 
     {{ content | safe }}
   </main>
