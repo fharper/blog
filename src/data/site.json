@@ -37,8 +37,8 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/fredericharper",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/fredericharper",
       "external": true
     },
     {
@@ -49,6 +49,11 @@
     {
       "text": "Twitter",
       "url": "https://twitter.com/fharper",
+      "external": true
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/fredericharper",
       "external": true
     }
   ],
