@@ -16,6 +16,7 @@ Moving to an SSG give me a couple of advantages:
 - No backup needed (the [source of my site is on Git](https://github.com/fharper/blog), and can be redeployed within three minutes with one click).
 - No platform or plugins updates server side needed.
 - Tremendous speed gain.
+- Run on smaller cloud instance, so saving money & resources.
 - Better writing flows for me.
 
 And probably a lot more advantages, but in other words, simplicity is the key here. For my needs, there is no drawback I can think of right now. In the last years, I felt the pain of maintaining the site as I don't blog as much as I used to. I have the desire to start to write a bit more again on this personal blog, and I hope that the new process in place will make it easier and more fun.
