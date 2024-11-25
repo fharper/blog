@@ -60,7 +60,7 @@
   "footerLinks": [
     {
       "text": "RSS",
-      "url": "/feed.xml",
+      "url": "/feed",
       "external": true
     }
   ],
