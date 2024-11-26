@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=lq4UHTJ4yEY
 
 ## Want to be a guest?
 
-Are you a Developer Advocate? If so, I want YOU to participate to the devrelshow, just [send me an email](mailto:hi@fred.dev) (or ping me anywhere you see me).
+Are you a Developer Advocate? If so, I want YOU to participate to the devrelshow by filling this [form](https://docs.google.com/forms/d/e/1FAIpQLSc742r8gmMDciNXNa9NwlEoLyhzlXopLjVYVeogUxTFut0iUg/viewform).
 
 Now.
 
