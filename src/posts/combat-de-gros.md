@@ -15,4 +15,4 @@ Pourquoi je vous parle de ce projet aujourd'hui? Comme la plupart des choses qui
 
 La réflexion a été déjà été faite suite à une première rencontre sur les différents aspects tels que les règlements et le principe de base. De plus, je suis apte à aider les gens à "brainstormer" et à mettre certaines personnes en relation, mais le seul point pour lequel je serais apte à mettre les mains à la pâte sera bien sûr pour promouvoir ce projet dans mon réseau et être un combattant! **Que vous soyez une personne voulant y participer, une entreprise telle un gym, ou quelqu'un en bonne santé qui veulent prendre les rênes de ce projet, faite moi signe. Tout commentaire constructif sur l'idée est aussi le bienvenu.**
 
-_Source de l'image : [https://iphonecruncher.com](https://iphonecruncher.com "Site Web de l'image")_
+_Source de l'image : https://iphonecruncher.com_

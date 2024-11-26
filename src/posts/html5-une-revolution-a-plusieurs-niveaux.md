@@ -5,7 +5,9 @@ image: "mobiz.jpg"
 slug: "html5-une-revolution-a-plusieurs-niveaux"
 ---
 
-![](images/mobiz.jpg "Print")Cet après-midi j'ai fait un survol rapide de 45 minutes sur HTML5 au Mobiz. J'en ai profité pour introduire quelques éléments que je considère révolutionnaire pour HTML5, des éléments que l'on peut utiliser sans crainte dès aujourd'hui.
+![](images/mobiz.jpg "Print")
+
+Cet après-midi j'ai fait un survol rapide de 45 minutes sur HTML5 au Mobiz. J'en ai profité pour introduire quelques éléments que je considère révolutionnaire pour HTML5, des éléments que l'on peut utiliser sans crainte dès aujourd'hui.
 
 Pour ceux qui étaient présent, tel que promis, voici ma présentation:
 
@@ -19,7 +21,7 @@ Voici quelques ressources et liens vers des exemples que j'ai utilisé durant ma
 
 - Contre Jour: [https://www.contrejour.ie](https://www.contrejour.ie)
 - Illy Issimo: [https://us.illyissimo.com/](https://us.illyissimo.com/)
-- Windows Azure: (doit avoir un compte): [https://manage.windowsazure.com](https://manage.windowsazure.com)
+- Windows Azure: (doit avoir un compte): [https://azure.microsoft.com](https://azure.microsoft.com)
 - SVG girl: [https://jsdo.it/event/svggirl/](https://jsdo.it/event/svggirl/)
 - W3C HTML Working Group: [https://www.w3.org/html/wg/](https://www.w3.org/groups/wg/htmlwg)
 - La spécification HTML5: [https://dev.w3.org/html5/spec/](https://dev.w3.org/html5/spec/)

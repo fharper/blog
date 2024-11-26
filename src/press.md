@@ -76,7 +76,7 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2016-05-17 - C2MTL - [C2 Montréal 2016: The Most Social C2 Ever](https://www.c2montreal.com/news/c2-montreal-2016-social-c2-ever/)
 
-2015-07-19 - [Climbing Olympus](https://biljanadavidovic.com/2015/07/19/understending-trends/)
+2015-07-19 - [Climbing Olympus](https://web.archive.org/web/20230202113240/https://biljanadavidovic.com/2015/07/19/understending-trends/)
 
 2015-02-19 - Tech Times - [Firefox VP Departure Signals All's Not Well With Mozilla](https://www.techtimes.com/articles/33808/20150219/firefox-vp-departure-signals-alls-not-well-with-mozilla.htm)
 
@@ -118,7 +118,7 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2011-03-03 - Vox: Mise à Jour - [Festival Geek de Montréal](https://www.voxtv.ca/montreal/emissions/mise_a_jour_montreal.php)
 
-2011-03-02 - Musique Plus: M. NET - [Festival Geek de Montréal](http://www.musiqueplus.com/m-net/videos/festival-geek-de-montreal)
+2011-03-02 - Musique Plus: M. NET - [Festival Geek de Montréal](https://web.archive.org/web/20100220101523/https://www.musiqueplus.com/m-net/videos/festival-geek-de-montreal)
 
 2010-09-10 - Journal le Métro - [PodCamp Montréal: une série de conférences sur les médias sociaux à ne pas manquer](https://journalmetro.com/societe/techno/47851/podcamp-montreal-une-serie-de-conferences-sur-les-medias-sociaux-a-ne-pas-manquer/)
 
@@ -126,15 +126,15 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2010-06-22 - SOlstice en RP - ​[Portraits de blogueurs du Québec​](https://sophielabelle.blogspot.com/2010/06/portraits-de-blogueurs-du-quebec.html)
 
-2010-04-15 - MSN Techno - ​[Clés Internet et autres services](http://techno.ca.msn.com/photos/galeriedephotos.aspx?cp-documentid=23888286)
+2010-04-15 - MSN Techno - ​[Clés Internet et autres services](https://web.archive.org/web/20100422194000/https://techno.ca.msn.com/photos/galeriedephotos.aspx?cp-documentid=23888286)
 
-2010-04-09 - Branchez-vous - [Des portraits de blogueurs en vidéo](http://blogosphere.branchez-vous.com/2010/04/des_portraits_de_blogueurs_en.html)
+2010-04-09 - Branchez-vous - [Des portraits de blogueurs en vidéo](https://web.archive.org/web/20100815033056/http://blogosphere.branchez-vous.com/2010/04/des_portraits_de_blogueurs_en.html)
 
 2010-04-09 - Geek & Music - [GeekFest Montréal](http://geekandmusic.com/geek-thang/geekfest-montreal/)
 
 2010-03-13 - CHOQ.FM: Les Mystérieux Étonnants - [WebTV Épisode 11](https://www.mysterieuxetonnants.com/episode-1-%e2%80%93-les-mysterieux-etonnants/)​
 
-2010-03-13 - Quartier L!bre​ - ​[Culture geek, un mouvement identitaire](http://quartierlibre.ca/IMG/pdf/QLvol17no14.pdf)
+2010-03-13 - Quartier L!bre​ - ​Culture geek, un mouvement identitaire (_le site web précédament référencé n'existe plus_)
 
 2010-03-12 - Vivre au Canada - [Montréal en hiver : vibrante et allumée](https://www.vivreaucanada.tv/montreal-en-hiver-vibrante-et-allumee/)
 
@@ -146,7 +146,7 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2010-03-01 - CHOQ.FM: Les Mystérieux Étonnants - [Wolverine: Old Man Logan](https://www.mysterieuxetonnants.com/emission-158-%e2%80%93-wolverine-old-man-logan/)
 
-2010-02-16 - Musique Plus: M. NET - [Festival Geek de Montréal](http://www.musiqueplus.com/m-net/videos/festival-geek-de-montreal)
+2010-02-16 - Musique Plus: M. NET - [Festival Geek de Montréal](https://web.archive.org/web/20100220101523/https://www.musiqueplus.com/m-net/videos/festival-geek-de-montreal)
 
 ## Spanish
 

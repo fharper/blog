@@ -27,9 +27,9 @@ Dans la folie de tout ceci, je crois sincèrement que Google va se diriger vers 
 
 _J'étais curieux de voir si ce que je pensais sur le sujet était monnaie courante ou si le fait d'avoir la grippe me faisait sortir quelques inepties, alors voici quelques liens qui traitent du sujet:_
 
-- _[Does Real-Time Search Make Twitter a Google Killer? Its Fanbots Think So (BoomTown Not Quite Yet).](https://kara.allthingsd.com/20090209/does-real-time-search-make-twitter-a-google-killer-its-fanbots-think-so-boomtown-not-quite-yet/ "Article en anglais ") (anglais)_
-- _[Google's First Real Threat? Twitter.](https://lewmoorman.com/googles-first-real-threat-twit "Article en anglais ") (anglais)_
-- _[If Google did Twitter search](https://www.blogstorm.co.uk/if-google-did-twitter-search/ "Article en anglais ") (anglais)_
-- _[Twitter destined to replace Google Search](https://www.twitip.com/twitter-destined-to-replace-google-search/ "Article en anglais ") (anglais)_
+- _[Does Real-Time Search Make Twitter a Google Killer? Its Fanbots Think So (BoomTown Not Quite Yet).](https://kara.allthingsd.com/20090209/does-real-time-search-make-twitter-a-google-killer-its-fanbots-think-so-boomtown-not-quite-yet/) (anglais)_
+- _[Google's First Real Threat? Twitter.](https://lewmoorman.com/googles-first-real-threat-twit) (anglais)_
+- _[If Google did Twitter search](https://web.archive.org/web/20120413134958/https://www.blogstorm.co.uk/if-google-did-twitter-search/) (anglais)_
+- _[Twitter destined to replace Google Search](https://web.archive.org/web/20160314023756/http://www.twitip.com/twitter-destined-to-replace-google-search/) (anglais)_
 
 _Veuillez prendre note que ce ne sont pas des articles qui présentent nécessairement la même opinion que moi, mais bien des articles qui traitent du sujet dont j'ai parlé ci-haut._

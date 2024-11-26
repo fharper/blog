@@ -7,7 +7,7 @@ slug: "a-la-recherche-dun-nouveau-theme"
 
 Ce billet a été initialement rédigé sur le défunt blogue À la base 2
 
-![](images/wordpress-must-dos.jpg "wordpress-must-dos")Comme vous le savez probablement, ce site va redevenir un simple blogue vu ma [transition professionnellePourquoi je vous en parle ici? Pour trois raisons:
+![wordpress-must-dos](images/wordpress-must-dos.jpg) Comme vous le savez probablement, ce site va redevenir un simple blogue vu ma [transition professionnellePourquoi je vous en parle ici? Pour trois raisons:
 
 ](https://fred.dev/le-roi-est-mort-vive-le-roi/ "Le roi est mort, vive le roi")
 
@@ -33,7 +33,7 @@ Ce que je recherche est assez vague: habituellement c'est avec certains critère
 
 Comme vous voyez, c'est un peu flou comme descriptions, mais comme je disais, je fonctionne surtout par intuition, par coup de foudre! Des exemples aideraient peut-être:
 
-- [Headphones Required](https://headphonesrequired.com/ "Site Web du podcast de Laurent LaSalle Headphones Required") de [Laurent LaSalle](https://mesparolessenvolent.com/ "Blogue de Laurent LaSalle")
+- [Headphones Required](https://headphonesrequired.com/ "Site Web du podcast de Laurent LaSalle Headphones Required") de Laurent LaSalle (_le site web précédament référencé n'existe plus_)
 - [Thème Open](https://themeforest.net/item/open-by-cudazi/full_screen_preview/95080 "Démonstration du thème Open")
 - [Thème Big Feature](https://themeforest.net/item/bigfeature-wordpress-theme/full_screen_preview/51702 "Démonstration du thème Big Feature")
 

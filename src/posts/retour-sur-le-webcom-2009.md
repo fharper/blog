@@ -141,7 +141,7 @@ _**Quelques sources d'informations autres sur le Webcom**_
 - Les [tweets](https://twitter.com/#search?q=webcom2009 "Résultat de la recherche du hashtag #webcom2009 sur Twitter") qui avaient le tag officiel, soit #webcom2009.
 - Le [billet](https://www.philippebonneau.net/philippebonneau/Blogue/Entr%C3%A9es/2009/5/14_Webcom_Montr%C3%A9al_2009_le_bilan_%C3%A0_Bonneau.html "Le billet concernant le Webcom de Philippe Bonneau") de Philippe Bonneau.
 - Le [billet](https://www.duperrin.com/2009/05/14/mon-webcom-2009-en-quelques-mots/ "Le billet concernant le Webcom de Bertrand Duperrin") de Bertrand Duperrin.
-- Les [commentaires](https://paradivision.com/live/ "Les commentaires concernant le Webcom de Jerome Paradis") en direct de Jerome Paradis.
+- Les commentaires  (_la page web précédament référencée n'existe plus_) en direct de Jerome Paradis.
 - Les [commentaires](https://athome.kimvallee.com/live/ "Les commentaires concernant le Webcom de Kim Vallee") en direct de Kim Vallee.
 - Éventuellement le billet de Claude Malaison soit [ici](https://webcom-montreal.com/blog/ "Blogue du Webcom") ou [ici](https://emergenceweb.com/blog/ "Blogue de Claude Malaison") (faut lui laisser le temps de se remettre de cet événement).
 - Puis bien sûr, [pleins d'autres endroits](https://lmgtfy.com/?q=webcom+2009 "Google it for me sur Webcom 2009")...

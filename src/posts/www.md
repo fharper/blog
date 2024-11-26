@@ -101,7 +101,7 @@ Note that I don't own nor organized those events anymore: I decided to focus on 
 
 I'm pragmatic, but I've always been more on the open side of things. Funny enough, most of my projects are coming with a lovely NDA and some are not even public.
 
-[Arc+ Welding Simulator](http://www.123arc.com/) as a Software Developer and project lead at 123Certification.
+[Arc+ Welding Simulator](https://web.archive.org/web/20181021213311/http://123arc.com/) as a Software Developer and project lead at 123Certification.
 
 [MobileTech](http://www.ibi-solutions.com/mobiletech/) (in French) as a Software Developer and team lead at IBI Solutions.
 
