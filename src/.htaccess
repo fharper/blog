@@ -1,3 +1,5 @@
+ErrorDocument 404 /404.html
+
 Redirect 301 "/2018words" "/3words2018"
 Redirect 301 "/30mins" "https://calendly.com/fharper/30mins"
 Redirect 301 "/40-life-tips-1" "/40-life-tips-01"
