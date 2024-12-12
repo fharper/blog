@@ -5,7 +5,7 @@ slug: "book"
 layout: base.njk
 ---
 
-![Picture of Fred with Nina, his cat](../images/fred.dev-book-personal-branding.jpeg)
+![Picture of Fred with Nina, his cat](../images/book-personal-branding.jpeg)
 
 Why should you, a competent software developer or programmer, care about your own brand? After all, it’s not like you're an actor or musician.
 
