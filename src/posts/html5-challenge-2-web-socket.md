@@ -49,6 +49,6 @@ There are three ways you can help:
 
 ### Where can I find older challenges?
 
-You can look on this blog for the tag “[HTML5 challenges](https://fred.dev/tag/html5-challenges/)” and you’ll see all posts related to those: the introduction one, the challenges, and the solutions.
+You can look on this blog for the tag “[HTML5 challenges](https://fred.dev/tags/html5-challenges/)” and you’ll see all posts related to those: the introduction one, the challenges, and the solutions.
 
 1. [Canvas & File API](https://fred.dev/html5-challenge-1-canvas-file-api/) (the [solution](https://fred.dev/html5-challenge-1-the-result/))

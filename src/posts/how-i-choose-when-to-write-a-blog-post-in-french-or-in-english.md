@@ -31,7 +31,7 @@ For me, blogging was, and will always be about myself. Unless I write on compani
 
 ## What would be the advantage of blogging in my mother tongue?
 
-My mother tongue being French, what would be the advantages to continue to blog in French only? It would be easier for me to do so, as it's simpler for me to write in French, of course. I also already had a French blog, with a French domain name: moving to an English one would be more trouble. Since [I had this blog](https://fred.dev/tag/a-la-base-2/), I had readers I didn't want to loose: they may be upset if I blog only in English from this day forwards. All of these elements were part of my thinking about the languages I'll use in the future.
+My mother tongue being French, what would be the advantages to continue to blog in French only? It would be easier for me to do so, as it's simpler for me to write in French, of course. I also already had a French blog, with a French domain name: moving to an English one would be more trouble. Since [I had this blog](https://fred.dev/tags/a-la-base-2/), I had readers I didn't want to loose: they may be upset if I blog only in English from this day forwards. All of these elements were part of my thinking about the languages I'll use in the future.
 
 ## What would be the advantage of blogging in the foreign language?
 

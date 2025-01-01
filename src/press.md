@@ -66,7 +66,7 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2019-04-01 - The Register - [Nice People Matter? NPM may stand for Not Politely Managed – job cuts leave staff sore](https://www.theregister.co.uk/2019/04/01/npm_layoff_staff/)
 
-2018-09-07 - Jaime Montoya - [Vocabulary I have learned from the "Success in Programming: How to Gain Recognition, Power, and Influence through Personal Branding" book](https://jaimemontoya.com/success-in-programming/vocabulary/)
+2018-09-07 - Jaime Montoya - [Vocabulary I have learned from the "Success in Programming: How to Gain Recognition, Power, and Influence through Personal Branding" book](https://web.archive.org/web/20230606122704/https://jaimemontoya.com/success-in-programming/vocabulary/)
 
 2018-07-10 - HackBio - [video interview](https://hacker.bio/hackers/frederic-harper/)
 

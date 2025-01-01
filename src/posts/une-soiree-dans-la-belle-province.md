@@ -17,4 +17,4 @@ On vient de me dire que c'est le Twestival à Québec ce soir-là, alors **mes p
 
 Je me suis trompé en parlant de Québec comme de la belle province dans ce cas-ci, mais bon, c'est fait,et vous comprenez ce que je veux dire.
 
-_Source de l'image: [https://www.charlesmagnan.net](https://www.charlesmagnan.net)_
+_Source de l'image: charlesmagnan.net_

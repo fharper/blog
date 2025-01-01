@@ -64,4 +64,4 @@ There are three ways you can help:
 
 ### Where can I find older challenges?
 
-You can look on this blog for the tag "[HTML5 challenges](https://fred.dev/tag/html5-challenges/)" and you'll see all posts related to those: the introduction one, the challenges, and the solutions. Note that for now, since it's the first challenge, you won't find a lot of posts.
+You can look on this blog for the tag "[HTML5 challenges](https://fred.dev/tags/html5-challenges/)" and you'll see all posts related to those: the introduction one, the challenges, and the solutions. Note that for now, since it's the first challenge, you won't find a lot of posts.
