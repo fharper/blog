@@ -392,6 +392,7 @@
         "url": "https://register.gotowebinar.com/register/126771895295271437",
         "date": "2020-01-16",
         "type": "talk",
+        "slides": "https://fred.dev/slides/Getting-Started-with-Containers-and-Kubernetes.pdf",
         "video": "https://www.youtube.com/watch?v=7WOgYfZgSf0"
     },
     {
