@@ -1177,7 +1177,7 @@
         "country": "cz",
         "city": "Prague, Czech Republic",
         "type": "talk",
-        "slides": "https://fred.dev/slides/2014praguejs/",
+        "slides": "https://fred.dev/slides/praguejs.pdf",
         "details": "https://fred.dev/empower-mobile-web-developers-with-javascript-webapi-at-praguejs/"
     },
     {
