@@ -309,6 +309,7 @@
         "country": "ie",
         "city": "Dublin, Ireland",
         "type": "talk",
+        "slides": "https://fred.dev/slides/developer-documentation-EuroPython.pdf",
         "video": "https://www.youtube.com/watch?v=l5AFKL0SX-Q"
     },
     {
