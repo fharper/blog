@@ -346,6 +346,7 @@
         "country": "gb",
         "city": "London, United Kingdom",
         "type": "talk",
+        "slides": "https://fred.dev/slides/dont-gitignore-mental-health-Devoxx-UK.pdf",
         "video": "https://www.youtube.com/watch?v=6aiLh4tTSzE"
     },
     {
