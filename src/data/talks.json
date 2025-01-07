@@ -326,6 +326,7 @@
         "url": "https://pagerdutysummit.eventfinity.co/",
         "date": "2022-06-07",
         "type": "talk",
+        "slides": "https://fred.dev/slides/developer-documentation-PagerDuty.pdf",
         "video": "https://www.youtube.com/watch?v=SfKYuIDh8bY"
     },
     {
