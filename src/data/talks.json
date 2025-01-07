@@ -335,6 +335,7 @@
         "url": "https://www.meetup.com/Miami-PyLadies",
         "date": "2022-05-26",
         "type": "talk",
+        "slides": "https://fred.dev/slides/dont-gitignore-mental-health-PyLadies.pdf",
         "video": "https://www.youtube.com/watch?v=uCYQvCWjv2k"
     },
     {
