@@ -302,15 +302,6 @@
         "video": "https://www.youtube.com/watch?v=GIl39FNQLXo"
     },
     {
-        "title": "A Personal Brand? Surprise, you already have one!",
-        "name": "EuroPython",
-        "url": "https://ep2022.europython.eu/",
-        "date": "2022-07-14",
-        "country": "ie",
-        "city": "Dublin, Ireland",
-        "type": "talk"
-    },
-    {
         "title": "Developers Documentation: your secret weapon",
         "name": "EuroPython",
         "url": "https://ep2022.europython.eu/",
