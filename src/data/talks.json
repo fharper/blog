@@ -987,7 +987,7 @@
         "city": "Toronto, Canada",
         "type": "talk",
         "video" : "https://www.youtube.com/watch?v=gBJOje5T4Ws",
-        "slides" : "http://www.slideshare.net/fredericharper/building-web-mobile-app-that-dont-suck-fitc-web-unleashed-20140918",
+        "slides": "https://fred.dev/slides/Building-Web-Mobile-App-that-dont-suck-FITC-Web-Unleashed-2014-09-18.pdf",
         "details" : "https://outofcomfortzone.net/2014/09/26/html-not-just-for-desktops-at-congreso-universitario-movil/"
     },
     {
