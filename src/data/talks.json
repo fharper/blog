@@ -502,6 +502,7 @@
         "name": "DevOps Inside RJ",
         "url": "https://www.meetup.com/devopsinsiderj/events/261672976/",
         "date": "2019-06-19",
+        "slides": "https://fred.dev/slides/remote-working.pdf",
         "type": "talk"
     },
     {
@@ -535,7 +536,7 @@
     {
         "title": "Datadog on steroids",
         "name": "Datadog",
-        "url": "https://www.datadoghq.com/",
+        "url": "https://www.datadoghq.com",
         "date": "2019-04-29",
         "type": "talk"
     },
