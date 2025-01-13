@@ -133,7 +133,8 @@
         "city": "Berlin, Germany",
         "date": "2024-09-10",
         "type": "talk",
-        "slides": "https://fred.dev/slides/developers-documentation-civo-navigate-2024-09-10.pdf"
+        "slides": "https://fred.dev/slides/developers-documentation-civo-navigate-2024-09-10.pdf",
+        "recording": "https://www.youtube.com/watch?v=LDk4vsH5d3I"
     },
     {
         "title": "Meditation Introduction Workshop",
