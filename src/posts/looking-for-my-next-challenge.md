@@ -28,7 +28,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 - [Twenty-three years of experience in the industry](https://www.linkedin.com/in/fredericharper/): 10 of those as a developer.
 - Fourteen years in developer advocates' roles at companies like Microsoft, Mozilla, Fitbit and npm.
 - Tremendous [speaking experience](https://fred.dev/speaking/): 190 talks in 23 countries.
-- Experience leading and building developer relations and specific areas like conferences, meetups, documentation, communities, social media, blogs, influencers programs...
+- Experience leading and building developer relations and specific areas like conferences, meetups, documentation, communities, social media, blogs, videos, livestreams, influencers programs...
 
 ## Who I am
 
@@ -50,4 +50,4 @@ More often than not, when the company isn't going as well as expected, the Devel
 
 If you think there is a fit between who I am, my experience and your business needs, hit me up on [LinkedIn](https://www.linkedin.com/in/fredericharper/) or by [email](mailto:hi@fred.dev). Talk to you soon!
 
-_P.S.: if you are not hiring, you can still help a lot by sharing this article within your network or on social media._
+_P.S.: if you are not hiring, you can still help a lot by sharing this article within your network or on social media ([X post](https://x.com/fharper/status/1892669298977497420) & [LinkedIn post](https://www.linkedin.com/posts/fredericharper_looking-for-my-next-challenge-activity-7298433663652843522-lyjC))._
