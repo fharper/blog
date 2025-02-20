@@ -36,6 +36,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 - Pragmatic, but I have a preference for anything open source.
 - More than happy to work with products or technologies I don't know: I actually love being a real customer zero.
 - Really good at public speaking, making videos and creating real connections with developers.
+- I run the [devrelshow](https://www.youtube.com/@fharper/streams), a livestream where my guests and I discuss about developer relations and all things technical.
 - I teach meditation and Buddhist philosophy on my free time.
 
 ## What I won't
