@@ -1,131 +1,5 @@
 [
     {
-        "title": "Being happier is possible",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-being-happier-is-possible",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-03-26",
-        "type": "talk"
-    },
-    {
-        "title": "Être plus heureux, c'est possible",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-etre-plus-heureux-cest-possible",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-03-25",
-        "type": "talk"
-    },
-    {
-        "title": "Having a lifestyle conducive to calm-abiding",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-having-a-lifestyle-conducive-to-calm-abiding",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-04-19",
-        "type": "talk"
-    },
-    {
-        "title": "Avoir un mode de vie propice au calme mental",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-avoir-un-mode-de-vie-propice-au-calme-mental",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-04-18",
-        "type": "talk"
-    },
-    {
-        "title": "Finding happiness through detachment",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-finding-happiness-through-detachment",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-04-12",
-        "type": "talk"
-    },
-    {
-        "title": "Trouver le bonheur grâce au lâcher-prise",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-trouver-le-bonheur-grace-au-lacher-prise",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-04-11",
-        "type": "talk"
-    },
-    {
-        "title": "Developing compassion for yourself and others",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-developing-compassion-for-yourself-and-others",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-04-05",
-        "type": "talk"
-    },
-    {
-        "title": "Développer la compassion envers soi-même et les autres",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-developper-la-compassion-envers-soi-meme-et-les-autres",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-04-04",
-        "type": "talk"
-    },
-    {
-        "title": "Freeing yourself from anxiety",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-freeing-yourself-from-anxiety",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-01-22",
-        "type": "talk"
-    },
-    {
-        "title": "Se libérer de l'anxiété",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-se-liberer-de-lanxiete-6",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-01-21",
-        "type": "talk"
-    },
-    {
-        "title": "Learning to meditate",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/workshop-learning-to-meditate",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2025-01-15",
-        "type": "talk"
-    },
-    {
-        "title": "Apprendre à méditer",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-apprendre-a-mediter-1",
-        "country": "ca",
-        "city": "Mascouche, Canada",
-        "date": "2025-01-14",
-        "type": "talk"
-    },
-    {
-        "title": "Se libérer de l'anxiété",
-        "name": "Le Centre d'action bénévole Montcalm",
-        "url": "https://www.cabmontcalm.com",
-        "country": "ca",
-        "city": "Saint-Esprit, Canada",
-        "date": "2024-10-15",
-        "type": "talk"
-    },
-    {
-        "title": "Meditation Introduction Workshop",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/meditation-introduction-workshop",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2024-09-18",
-        "type": "talk"
-    },
-    {
         "title": "Developers Documentation: your secret weapon",
         "name": "Civo Navigate Europe",
         "url": "https://www.civo.com/navigate/europe",
@@ -137,15 +11,6 @@
         "recording": "https://www.youtube.com/watch?v=LDk4vsH5d3I"
     },
     {
-        "title": "Meditation Introduction Workshop",
-        "name": "Centre de méditation bouddhiste Paramita de Montréal",
-        "url": "https://www.meditationmontreal.org/event-details/meditation-introduction-workshop",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2024-05-25",
-        "type": "talk"
-    },
-    {
         "title": "Surfing the Argo CD sync waves",
         "name": "CNCF Montreal Meetup",
         "url": "https://community.cncf.io/events/details/cncf-montreal-presents-kubehuddle-recap-understanding-kubernetes-in-a-visual-way-and-more/",
@@ -154,15 +19,6 @@
         "date": "2024-05-08",
         "type": "talk",
         "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-cncf-montreal-1.pdf"
-    },
-    {
-        "title": "Développer la compassion envers soi-même et les autres",
-        "name": "Au Diapason",
-        "url": "https://audiapason.org",
-        "country": "ca",
-        "city": "Bromont, Canada",
-        "date": "2024-04-16",
-        "type": "talk"
     },
     {
         "title": "Surfing the Argo CD sync waves",
@@ -225,15 +81,6 @@
         "type": "talk",
         "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-civo-navigate-us-2024.pdf",
         "video": "https://www.youtube.com/watch?v=6iZJFGrAx2w"
-    },
-    {
-        "title": "Atelier d'introduction à la méditation",
-        "name": "Centre de Méditation Bouddhiste Paramita de la Rive-Nord",
-        "url": "https://www.paramitarivenord.org/event-details/atelier-dintroduction-a-la-meditation",
-        "country": "ca",
-        "city": "Laval, Canada",
-        "date": "2023-10-25",
-        "type": "talk"
     },
     {
         "title": "Git Shit Done, the GitOps Way",
