@@ -43,7 +43,6 @@ More often than not, when the company isn't going as well as expected, the Devel
 
 - Relocate anywhere.
 - Be able to work for you unless you have a Canadian entity or use a Professional Employer Organization (it's easy & inexpensive, here's [why/how](https://fred.dev/canada/)).
-- Work at a startup which doesn't have at least a series A: I'm tired of the lack of stability and no budget for anything.
 - Have goals that are too close to a dollar sign: developer relations is not sales or presales even if we help fill the top of the funnel and work together.
 - Have a technical focus on native mobile development (or Ionic framework) or any low-level programming languages (not my cup of tea).
 - Work for companies that aren't ethical and do not value diversity.
