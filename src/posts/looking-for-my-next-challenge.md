@@ -40,7 +40,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 
 ## What I won't
 
-- Relocate anywhere.
+- Relocate anywhere, but I'm used to extensive traveling, so happy to go to the office as often as needed.
 - Be able to work for you unless you have a Canadian entity or use a Professional Employer Organization (it's easy & inexpensive, here's [why/how](https://fred.dev/canada/)).
 - Have goals that are too close to a dollar sign: developer relations is not sales or presales even if we help fill the top of the funnel and work together.
 - Work for companies that aren't ethical and do not value diversity.
