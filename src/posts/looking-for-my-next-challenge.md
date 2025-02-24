@@ -25,7 +25,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 ## What I offer
 
 - [Twenty-three years of experience in the industry](https://www.linkedin.com/in/fredericharper/): 10 of those as a developer.
-- Fourteen years in developer advocates' roles at companies like Microsoft, Mozilla, Fitbit and npm.
+- Thirteen years in developer advocates' roles at companies like Microsoft, Mozilla, Fitbit, DigitalOcean and npm.
 - Tremendous [speaking experience](https://fred.dev/speaking/): 190 talks in 23 countries.
 - Experience leading and building developer relations and specific areas like conferences, meetups, documentation, communities, social media, blogs, videos, livestreams, influencers programs...
 
