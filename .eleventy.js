@@ -161,6 +161,9 @@ module.exports = function (eleventyConfig) {
   // Add slides
   eleventyConfig.addPassthroughCopy({ 'src/slides/': 'slides/' });
 
+  // Add docs
+  eleventyConfig.addPassthroughCopy({ 'src/docs/': 'docs/' });
+
   return {
     dir: {
       input: 'src',
