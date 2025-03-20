@@ -42,7 +42,6 @@ More often than not, when the company isn't going as well as expected, the Devel
 
 - Relocate anywhere, but I'm used to extensive traveling, so happy to go to the office as often as needed.
 - Be able to work for you unless you have a Canadian entity or use a Professional Employer Organization (it's easy & inexpensive, here's [why/how](https://fred.dev/canada/)).
-- Have sales goals: I will definitely help fill the top of the funnel and assist the sales team as much as possible, but developer relations is not a sales or presales role.
 - Work for companies that aren't ethical and do not value diversity.
 - Work with people who do not like cats (I have two) 🤣
 
