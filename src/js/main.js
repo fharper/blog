@@ -180,6 +180,7 @@ $$('.talks').forEach(function (list) {
                     past: 0, upcoming: 0, types: {}
                 };
 
+                var cities = [];
                 var countries = [];
                 var years = {};
 
@@ -215,8 +216,11 @@ $$('.talks').forEach(function (list) {
                     var type = event.type.toLowerCase();
                     count.types[type] = count.types[type] + 1 || 1;
 
+                    if (!cities.includes(event.city))
+                        cities.push(event.city);
+
                     if (!countries.includes(event.country))
-                    countries.push(event.country);
+                        countries.push(event.country);
                 });
 
                 if (count.past) {
@@ -252,7 +256,7 @@ $$('.talks').forEach(function (list) {
                     list.appendChild(element('p', "More speaking gigs coming soon, stay tuned!"));
                 }
 
-                h1Upcoming.parentNode.insertBefore(element('p', "I gave " +  count.past + " talks in " + countries.length + " different countries", {"class": "events"}), h1Upcoming);
+                h1Upcoming.parentNode.insertBefore(element('p', "I gave " +  count.past + " talks in " + cities.length + " different cities from " + countries.length + " unique countries.", {"class": "events"}), h1Upcoming);
 
             }
             else {
