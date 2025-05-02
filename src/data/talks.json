@@ -14,7 +14,8 @@
         "url": "https://www.meetup.com/san-jose-technology-meetup-group/events/306833839/",
         "date": "2025-04-24",
         "type": "talk",
-        "slides": "https://fred.dev/slides/2025-04-24_-_GDG_San_Jose_-_How_to_become_an_open_source_contributor.pdf"
+        "slides": "https://fred.dev/slides/2025-04-24_-_GDG_San_Jose_-_How_to_become_an_open_source_contributor.pdf",
+        "video": "https://www.youtube.com/watch?v=nYvdoII0jZY"
     },
     {
         "title": "Developers Documentation: your secret weapon",
