@@ -60,6 +60,11 @@
       "text": "Instagram",
       "url": "https://instagram.com/fredericharper",
       "external": true
+    },
+    {
+      "text": "Bluesky",
+      "url": "https://bsky.app/profile/fharper.bsky.social",
+      "external": true
     }
   ],
   "footerLinks": [
