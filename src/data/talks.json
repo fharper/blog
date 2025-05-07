@@ -1,14 +1,5 @@
 [
     {
-        "title": "Git Shit Done, the GitOps Way",
-        "name": "KCD Istanbul",
-        "url": "https://community.cncf.io/events/details/cncf-kcd-istanbul-presents-kcd-istanbul-2025/",
-        "country": "tr",
-        "city": "Istanbul, Turkey",
-        "date": "2025-05-23",
-        "type": "talk"
-    },
-    {
         "title": "How to become an open source contributor",
         "name": "GDG San Jose",
         "url": "https://www.meetup.com/san-jose-technology-meetup-group/events/306833839/",
