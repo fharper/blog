@@ -20,7 +20,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 - Certain freedom: I can't deal with micromanagement, let me prove to you what I can do if you let me.
 - Trust: you hire me for a reason.
 - Diversification of the role: a developer advocate has multiple areas of expertise, not just writing documentation.
-- A remote job: I've worked remotely for the last 14 years.
+- A remote job if you hire me from Canada: I've worked remotely for the last 14 years. I'm open to relocate in EMEA/APAC as long as there is a relocating package.
 
 ## What I offer
 
