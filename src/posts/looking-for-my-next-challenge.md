@@ -20,7 +20,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 - Certain freedom: I can't deal with micromanagement, let me prove to you what I can do if you let me.
 - Trust: you hire me for a reason.
 - Diversification of the role: a developer advocate has multiple areas of expertise, not just writing documentation.
-- A remote job if you hire me from Canada: I've worked remotely for the last 14 years. I'm open to relocate in EMEA/APAC as long as there is a relocating package.
+- A remote job preferably: I've worked remotely for the last 14 years.
 
 ## What I offer
 
@@ -40,7 +40,7 @@ More often than not, when the company isn't going as well as expected, the Devel
 
 ## What I won't
 
-- Relocate anywhere, but I'm used to extensive traveling, so happy to go to the office as often as needed.
+- Relocate in the North America, but I'm open to relocate in EMEA/APAC. I'm used to extensive traveling, so happy to go to the office as often as needed.
 - Be able to work for you unless you have a Canadian entity or use a Professional Employer Organization (it's easy & inexpensive, here's [why/how](https://fred.dev/canada/)).
 - Work for companies that aren't ethical and do not value diversity.
 - Work with people who do not like cats (I have two) 🤣
