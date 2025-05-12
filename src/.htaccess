@@ -24,6 +24,8 @@ Redirect 301 "/hiring-cost" "https://www.prnewswire.com/news-releases/bersin-by-
 Redirect 301 "/in-the-medias" "/press"
 Redirect 301 "/job-titles-are-important" "/titles"
 Redirect 301 "/keynote" "https://www.youtube.com/watch?v=7Cnm20hlkOo"
+Redirect 301 "/lamrim" "https://www.meditationmontreal.org/product-page/l-essence-de-la-voie-vers-l-%C3%A9veil-lamrim"
+Redirect 301 "/lamrim-pdf" "https://www.zeffy.com/fr-CA/ticketing/c3b7525e-4daf-4275-9707-3a1e91556768"
 Redirect 301 "/lets-do-epic-shit-together" "/jobsearch"
 Redirect 301 "/linkedin" "https://www.linkedin.com/in/fredericharper"
 Redirect 301 "/looking-for-a-job-or-an-employee-this-is-how-i-can-help-you" "/job-help"
