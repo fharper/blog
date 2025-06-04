@@ -8,7 +8,7 @@ image: "fred-harper-by-eva-blue-37-scaled.jpeg"
 slug: "looking-for-my-next-challenge"
 ---
 
-Unfortunately, my time at Konstruct came to an end after a round of layoffs, which mean that **I'm now open for a new challenge**. For the last two years and a half, I had a blast building developer relations, and creating or leading multiple initiatives that helped us grow a lot. I want to sincerely thanks [John Dietz](https://www.linkedin.com/in/jd-k8s/), and [Jared Edwards](https://www.linkedin.com/in/jarededwards519/) (feel free to ping them for some feedback on my work at Konstruct/Kubefirst) for giving me that opportunity, and to have done everything they can to keep me on board.
+Unfortunately, my time at Konstruct came to an end as we are closing our doors, which mean that **I'm now open for a new challenge**. For the last two years and a half, I had a blast building developer relations, and creating or leading multiple initiatives that helped us grow a lot. I want to sincerely thanks [John Dietz](https://www.linkedin.com/in/jd-k8s/), and [Jared Edwards](https://www.linkedin.com/in/jarededwards519/) (feel free to ping them for some feedback on my work at Konstruct/Kubefirst) for giving me that opportunity, and to have done everything they can to keep me on board.
 
 More often than not, when the company isn't going as well as expected, the Developer Relations team is amongst the first to being let go, even if we bring a lot of values to the business with all our activities. Knowing that, and having been at the end of that tunnel more than once, doesn't make it more comforting. Still, it's with a positive vibe that I start this new journey to find my next challenge!
 
