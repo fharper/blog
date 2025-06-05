@@ -76,6 +76,8 @@ An exhaustive list of mentions or collaborations with media in [English](#englis
 
 2016-05-17 - C2MTL - [C2 Montréal 2016: The Most Social C2 Ever](https://www.c2montreal.com/news/c2-montreal-2016-social-c2-ever/)
 
+2016-05-02 - Momento - [Portrait of a Freelancer: Frederic Harper](https://www.momenteo.com/blog/portrait-of-a-freelancer-frederic-harper)
+
 2015-07-19 - [Climbing Olympus](https://web.archive.org/web/20230202113240/https://biljanadavidovic.com/2015/07/19/understending-trends/)
 
 2015-02-19 - Tech Times - [Firefox VP Departure Signals All's Not Well With Mozilla](https://www.techtimes.com/articles/33808/20150219/firefox-vp-departure-signals-alls-not-well-with-mozilla.htm)
