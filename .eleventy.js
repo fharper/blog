@@ -152,6 +152,25 @@ module.exports = function (eleventyConfig) {
       });
   });
 
+  // Pin article option (add 'pinned' tag in the article)
+  eleventyConfig.addCollection('blog', (collection) => {
+    return collection.getFilteredByGlob('src/posts/**/*.md')
+      .sort((a, b) => {
+
+        // Sort pinned posts first, then by date
+        if (a.data.pinned && !b.data.pinned) {
+          return -1; // a before b
+        }
+        else if (!a.data.pinned && b.data.pinned) {
+          return 1; // b before a
+        }
+        else {
+          // If both are pinned or neither, sort by date
+          return (b.data.date - a.data.date); // Latest first
+        }
+      });
+  });
+
   // Add talks.json
   eleventyConfig.addPassthroughCopy({ 'src/data/talks.json': 'assets/talks.json' });
 
