@@ -12,6 +12,8 @@ image: "adam-whitlock-270558-unsplash.jpg"
 slug: "workingwithme"
 ---
 
+_Last updated on July 1st 2025._
+
 Working with a new coworker is like taking a walk in an unknown city. You aren't sure what to expect. You don't know if you will like it. You're not even sure if the local culture will align with yours. To make it easier and more enjoyable for my new colleagues, I thought I could write a bit about who I am.
 
 I'm an intense and passionate person, and I love what I do for a living. Because of that, I may come up as impatient, but I'm a firm believer that nothing is truly urgent in life. If the answer is no to "is someone dying", then it's not urgent! I'm quite laid back, so no stress, seriously! I'm someone assertive, transparent and an extrovert. It definitely translates in the way I'm interacting with others. I'm colorful and I like to politely tease people, but my goal is never to offend anyone, so please let me know if I do. I have no tolerance for sexism, racism, transphobia, ageism, ableism or anything around those lines. French is my first language, but I consider myself bilingual.
