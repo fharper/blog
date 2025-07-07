@@ -1,6 +1,6 @@
 ---
 title: "Manager README"
-date: "2025-07-04"
+date: "2025-07-07"
 tags:
   - "leadership"
   - "management"
