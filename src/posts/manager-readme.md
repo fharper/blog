@@ -64,15 +64,15 @@ There are four things, in no particular order, I value the most when it comes to
 
 Effective communication minimizes misunderstandings, help resolves conflicts more easily, and empower collaboration, leading to better relationships, which translate into greater success. It also helps me better understand how I can help you. Find the medium you prefer, and use it. In addition to that, most of us are remote so it lower down the possible feeling of isolation.
 
-#### Transparency
+### Transparency
 
 I value honesty, but I prefer transparency. Let's share information in addition to our good or less successful moves without being asked. It relates a lot to the first point, communication.
 
-#### Accountability
+### Accountability
 
 Be responsible for your actions, always. We will take bad decisions. We will make mistakes. It's fine, as long as we stay accountable for those. I'm a big fan of the lean startup principles. Try things, measure, but fail fast if needed, and most important, learn along the process.
 
-#### Compassion
+### Compassion
 
 Understanding and acknowledging that mistakes and challenges are inevitable allows us to be compassionate toward the developers community, our colleagues or even situations. We do not know what is happening in people's personal life that can affect how they interact with us. It also means being compassionate toward our users and customers. Yes, sometimes it's a code 18 (the problem is 18 inches away from their screen). More often than not, the issue will be on our side: a bug, a missing feature, an unclear resource or a missing one. Let's always help be compassionate toward others.
 
