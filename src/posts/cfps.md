@@ -38,9 +38,11 @@ For some abstract ideas, go on your preferred conference and check last year's a
 
 ## The title
 
-The title is as important if not more than the abstract. I can tell you by experience that many attendees won't even read your abstract, so the only thing that will help make them decide if they want to go into your room or the other one for conferences with multiple tracks, is this. The reality is that it may be the same for the people selecting the talks as there is no way to read all submissions completely on the first filtering. Some will, but trust me, most will only read it after you pick their interest.
+The title is as important if not more than the abstract. I can tell you by experience that many attendees won't even read your abstract, so the only thing that will help make them decide if they want to go into your room or the other one for conferences with multiple tracks, is the title. The reality is that it may also be the same for the people selecting the talks for the conference program as there is no way to read all submissions completely on the first filtering. Some will, but trust me, most will only read the full submission after you pick their interest with... the title.
 
-It's the time to highlight your conference subject in a catchy, educative and interesting way. It's up to you to find a right balance between a none shitty clickbait title and still something that will catch people's attention. I don't have much tips about this than “do your best”. I would suggest that you share the title with your co-workers or friends working in your field and get their opinion while ensuring they still have an idea of what is the talk about.
+It's the time to highlight your conference subject in a catchy, educative and interesting way. It's up to you to find a right balance between a none shitty clickbait title and still something that will catch people's attention. I don't have much tips about this than “do your best”, and keep it short. I would suggest that you share the title with your co-workers or friends working in your field and get their opinion while ensuring they still have an idea of what the talk is about.
+
+For some title ideas, check my [speaking page](https://fred.dev/speaking/). Note that some were imposed on me by employers or conference organizers like the longer one or the corporate sounding ones.
 
 ## The benefits or extra information section
 
