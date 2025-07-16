@@ -1,7 +1,7 @@
 ---
 title: "Cornucopia of public speaking tips"
 date: "2022-04-01"
-tags: 
+tags:
   - "communication"
   - "conference"
   - "meetup"
@@ -12,8 +12,6 @@ tags:
 image: "fred.dev-cornucopia-of-public-speaking-tips-pexels-andrea-piacquadio-3978388-scaled.jpg"
 slug: "publicspeaking"
 ---
-
-_Originally published on [Mindee's blog](https://blog.mindee.com)._
 
 Speech communication is a soft skill that is important regardless of the job you have. Public speaking is not just for adventurous people looking to participate at conferences, and the truth is that without realizing it, you do it every day.  Think about the one-on-one manager meeting or the weekly team meetings you have, or when you have to present a new project to your department - those are all public speaking!
 
