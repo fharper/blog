@@ -13,6 +13,7 @@ Here is the non-exhaustive list of blog articles ideas (I'm slowly moving them h
 
 ## Developer relations
 
+- Resources for someone new to developer realtions.
 - What is developer relations or the role of a developer advocate.
 
 _Photo by Miguel Á. Padriñán on Pixels_
