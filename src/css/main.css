@@ -57,3 +57,18 @@
   text-decoration: none;
   color: #7f7f7f;
 }
+
+.header-anchor {
+  text-decoration: none;
+  margin-left: 0.25em;
+  font-weight: normal;
+  visibility: hidden;
+}
+
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor,
+h5:hover .header-anchor,
+h6:hover .header-anchor {
+  visibility: visible;
+}

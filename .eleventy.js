@@ -37,19 +37,28 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
 
-  //Slugify (add strict mode)
-  const markdownItAnchorOptions = {
-    level: [1, 2, 3],
+  //Replace Markdown with custom configurations
+  const md = markdownIt({
+    html: true,
+    linkify: true,
+    typographer: true
+  }).use(markdownItAnchor, {
+    level: [2, 3, 4, 5, 6],
     slugify: (str) =>
       slugify(str, {
         lower: true,
         strict: true,
         remove: /["]/g,
       }),
-    };
+    permalink: markdownItAnchor.permalink.linkInsideHeader({
+      symbol: ' #',
+      placement: 'after',
+      ariaHidden: true,
+      class: 'header-anchor',
+    }),
+  });
 
-  //Replace Markdown with custom configurations
-  eleventyConfig.setLibrary("md", markdownIt().use(markdownItAnchor, markdownItAnchorOptions))
+  eleventyConfig.setLibrary("md", md);
 
   //Search: pageFind
   eleventyConfig.on('eleventy.after', () => {
