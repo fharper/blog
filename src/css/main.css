@@ -72,3 +72,8 @@ h5:hover .header-anchor,
 h6:hover .header-anchor {
   visibility: visible;
 }
+
+.pinned-border {
+  border-left: 4px solid #ffe600;
+  padding-left: 0.75rem;
+}
