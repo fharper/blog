@@ -53,7 +53,7 @@ Some companies name this role differently, so your title can be different (i.e.,
 
 ### What is the demo exactly?
 
-As mentioned before, it can be anything technical for a technical audience. Some examples are an OSS project you contributed to or created, a cool application you built or like, a programming language you master or even the amazing product from your actual employer. Product pitches are encouraged so there are also values to your employer for you to be on the show: as long as there is a way for the audience to try your product for free. It's about learning tools, services or applications that can be useful for the audience, which as a reminder is mostly developer advocates, developers, DevOps and GitOps practitioners, so in the end, a technical audience.
+As mentioned before, it can be anything technical for a technical audience. Some examples are an OSS project you contributed to or created, a cool application you built or like, a programming language you master or even the amazing product from your actual employer. Product pitches are encouraged so there are also values to your employer for you to be on the show: as long as there is a way for the audience to try your product for free. It's about learning tools, services or applications that can be useful for the audience, which as a reminder is mostly developer advocates, developers, DevOps and GitOps practitioners, so in the end, a technical audience. Keep in mind that the demo part of the show is about 15 minutes long: it can be less, and it can be a bit more if you have more things to show.
 
 ### When is the show?
 
