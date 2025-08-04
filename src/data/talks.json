@@ -24,7 +24,8 @@
         "country": "ca",
         "city": "Montréal, Canada",
         "date": "2025-08-04",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2025-08-04_-_EvolveDigital_-_Common_Bottlenecks_in_Collaborating_on_Written_Content_at_Scale.pdf"
     },
     {
         "title": "How to become an open source contributor",
