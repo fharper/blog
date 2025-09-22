@@ -7,7 +7,7 @@
         "city": "Edinburgh, Scotland",
         "date": "2025-09-17",
         "type": "talk",
-        "slide": "https://fred.dev/slides/2025-09-17_-_MoodleMoot_-_Accessible_by_design_How_on-the-spot_accessibility_checking_transforms_course_creation_in_Moodle.pdf"
+        "slides": "https://fred.dev/slides/2025-09-17_-_MoodleMoot_-_Accessible_by_design_How_on-the-spot_accessibility_checking_transforms_course_creation_in_Moodle.pdf"
     },
     {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
@@ -17,7 +17,7 @@
         "city": "Edinburgh, Scotland",
         "date": "2025-09-16",
         "type": "talk",
-        "slide": "https://fred.dev/slides/2025-09-16_-_MoodleMoot_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
+        "slides": "https://fred.dev/slides/2025-09-16_-_MoodleMoot_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
     },
     {
         "title": "Common bottlenecks in collaborating on written content at scale",
