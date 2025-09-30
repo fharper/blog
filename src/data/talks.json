@@ -1,12 +1,21 @@
 [
     {
-        "title": "TBD panel",
+        "title": "TBD",
         "name": "React Advanced Canada",
         "url": "https://reactadvanced.com/canada/",
         "country": "ca",
         "city": "Toronto, Canada",
         "date": "2026-03-24",
         "type": "panel"
+    },
+    {
+        "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
+        "name": "MoodleMoot Australia",
+        "url": "https://www.catalyst-au.net/moodle-moot-event-australia",
+        "country": "au",
+        "city": "Sydney, Australia",
+        "date": "2026-11-24",
+        "type": "talk"
     },
     {
         "title": "Accessible by Design: How On-the-Spot Accessibility Checking Transforms Course Creation in Moodle",
