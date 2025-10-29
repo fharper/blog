@@ -25,7 +25,8 @@
         "city": "Edinburgh, Scotland",
         "date": "2025-09-17",
         "type": "talk",
-        "slides": "https://fred.dev/slides/2025-09-17_-_MoodleMoot_-_Accessible_by_design_How_on-the-spot_accessibility_checking_transforms_course_creation_in_Moodle.pdf"
+        "slides": "https://fred.dev/slides/2025-09-17_-_MoodleMoot_-_Accessible_by_design_How_on-the-spot_accessibility_checking_transforms_course_creation_in_Moodle.pdf",
+        "video": "https://www.youtube.com/watch?v=Tn8ZpRyZ8Ag"
     },
     {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
