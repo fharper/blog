@@ -9,6 +9,15 @@
         "type": "panel"
     },
     {
+        "title": "Tiny but mighty: TinyMCE in Umbraco 17",
+        "name": "Sydney Umbraco Meetup",
+        "url": "https://www.meetup.com/sydney-umbraco-meetup/events/311741624/",
+        "country": "au",
+        "city": "Sydney, Australia",
+        "date": "2026-11-27",
+        "type": "talk"
+    },
+    {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
         "name": "MoodleMoot Australia",
         "url": "https://www.catalyst-au.net/moodle-moot-event-australia",
