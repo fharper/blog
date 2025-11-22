@@ -4,6 +4,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const fs = require('fs');
 const path = require('path');
+const htmlmin = require("html-minifier");
 
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
@@ -189,7 +190,7 @@ module.exports = function (eleventyConfig) {
     if (!talks || !Array.isArray(talks)) {
       return { upcoming: [], past: {}, stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0 } };
     }
-    
+
     const now = new Date();
     const result = {
       upcoming: [],
@@ -203,14 +204,14 @@ module.exports = function (eleventyConfig) {
         keynotes: 0
       }
     };
-    
+
     talks.forEach(talk => {
       if (!talk.date) return;
-      
+
       const talkDate = new Date(talk.date + 'T23:59:59Z'); // End of day UTC
-      
+
       result.stats.total++;
-      
+
       if (talkDate.getTime() > now.getTime()) {
         result.upcoming.push(talk);
         result.stats.upcoming++;
@@ -221,28 +222,28 @@ module.exports = function (eleventyConfig) {
         }
         result.past[year].push(talk);
         result.stats.past++;
-        
+
         // Count keynotes
         if (talk.type && talk.type.toLowerCase() === 'keynote') {
           result.stats.keynotes++;
         }
-        
+
         // Only count cities and countries from PAST events
         result.stats.cities.add(talk.city);
         result.stats.countries.add(talk.country);
       }
     });
-    
+
     // Convert Sets to counts
     result.stats.cities = result.stats.cities.size;
     result.stats.countries = result.stats.countries.size;
-    
+
     // Sort years in descending order
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
-    
+
     return result;
   });
-  
+
   // Add date formatting filter
   eleventyConfig.addFilter("formatTalkDate", function(dateString) {
     const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -250,8 +251,21 @@ module.exports = function (eleventyConfig) {
     const month = months[date.getMonth()];
     const day = date.getUTCDate();
     const year = date.getFullYear();
-    
+
     return `${day} ${month} ${year}`.toUpperCase();
+  });
+
+  // Minify HTML output
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+    return content;
   });
 
   return {
