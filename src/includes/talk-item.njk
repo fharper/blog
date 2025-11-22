@@ -1,0 +1,21 @@
+<div class="talk">
+  <h3>
+    <a href="{{ event.url }}" target="_blank">{{ event.name }}</a>
+    <br>
+    {{ event.title }}
+  </h3>
+  
+  {% if event.slides %}
+    <a href="{{ event.slides }}">SLIDES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  {% endif %}
+  
+  {% if event.video %}
+    <a href="{{ event.video }}">VIDEO</a>
+  {% endif %}
+  
+  {% if event.details %}
+    <a href="{{ event.details }}">DETAILS</a>
+  {% endif %}
+  
+  <pre>{{ event.date | formatTalkDate }} | {{ event.city | upper if event.city else "ONLINE" }}{% if event.comment %} | {{ event.comment | upper }}{% endif %}</pre>
+</div>

@@ -2,8 +2,31 @@
 layout: base.njk
 ---
 
-<script src="/assets/main.js"></script>
-
 {{ content | safe }}
 
-<ul class="talks" data-source="/assets/talks.json"></ul>
+{% set groupedTalks = talks | groupTalksByYear %}
+
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries.</p>
+
+<h2 id="upcoming">Upcoming</h2>
+{% if groupedTalks.stats.upcoming > 0 %}
+  <p>{{ groupedTalks.stats.upcoming }} events</p>
+  <div class="talks">
+    {% for event in groupedTalks.upcoming %}
+      {% include "talk-item.njk" %}
+    {% endfor %}
+  </div>
+{% else %}
+  <span class="count">(no event)</span>
+  <p>More speaking gigs coming soon, stay tuned!</p>
+{% endif %}
+
+{% for year in groupedTalks.pastYears %}
+  <h2 id="past-{{ year }}">{{ year }}</h2>
+  <p>{{ groupedTalks.past[year].length }} events</p>
+  <div class="talks">
+    {% for event in groupedTalks.past[year] %}
+      {% include "talk-item.njk" %}
+    {% endfor %}
+  </div>
+{% endfor %}

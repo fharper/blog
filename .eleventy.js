@@ -161,9 +161,6 @@ module.exports = function (eleventyConfig) {
       });
   });
 
-  // Add talks.json
-  eleventyConfig.addPassthroughCopy({ 'src/data/talks.json': 'assets/talks.json' });
-
   // Add .htaccess
   eleventyConfig.addPassthroughCopy({ 'src/.htaccess': '.htaccess' });
 
@@ -185,6 +182,76 @@ module.exports = function (eleventyConfig) {
     const unpinned = allPosts.filter(post => !post.data.pinned);
 
     return [...pinned, ...unpinned];
+  });
+
+ // Add custom filter to group talks
+  eleventyConfig.addFilter("groupTalksByYear", function(talks) {
+    if (!talks || !Array.isArray(talks)) {
+      return { upcoming: [], past: {}, stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0 } };
+    }
+    
+    const now = new Date();
+    const result = {
+      upcoming: [],
+      past: {},
+      stats: {
+        total: 0,
+        past: 0,
+        upcoming: 0,
+        cities: new Set(),
+        countries: new Set(),
+        keynotes: 0
+      }
+    };
+    
+    talks.forEach(talk => {
+      if (!talk.date) return;
+      
+      const talkDate = new Date(talk.date + 'T23:59:59Z'); // End of day UTC
+      
+      result.stats.total++;
+      
+      if (talkDate.getTime() > now.getTime()) {
+        result.upcoming.push(talk);
+        result.stats.upcoming++;
+      } else {
+        const year = talkDate.getFullYear();
+        if (!result.past[year]) {
+          result.past[year] = [];
+        }
+        result.past[year].push(talk);
+        result.stats.past++;
+        
+        // Count keynotes
+        if (talk.type && talk.type.toLowerCase() === 'keynote') {
+          result.stats.keynotes++;
+        }
+        
+        // Only count cities and countries from PAST events
+        result.stats.cities.add(talk.city);
+        result.stats.countries.add(talk.country);
+      }
+    });
+    
+    // Convert Sets to counts
+    result.stats.cities = result.stats.cities.size;
+    result.stats.countries = result.stats.countries.size;
+    
+    // Sort years in descending order
+    result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
+    
+    return result;
+  });
+  
+  // Add date formatting filter
+  eleventyConfig.addFilter("formatTalkDate", function(dateString) {
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const date = new Date(dateString);
+    const month = months[date.getMonth()];
+    const day = date.getUTCDate();
+    const year = date.getFullYear();
+    
+    return `${day} ${month} ${year}`.toUpperCase();
   });
 
   return {
