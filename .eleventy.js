@@ -268,6 +268,17 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  // Social media image
+  eleventyConfig.addFilter("getFirstImage", function(content) {
+    if (!content) return null;
+    
+    // Match img tags and extract src
+    const imgRegex = /<img\s+[^>]*src=["']([^"']+)["'][^>]*>/i;
+    const match = content.match(imgRegex);
+    
+    return match ? match[1] : null;
+  });
+
   return {
     dir: {
       input: 'src',
