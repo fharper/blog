@@ -15,7 +15,8 @@
         "country": "au",
         "city": "Sydney, Australia",
         "date": "2025-11-24",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2025-11-24_-_MoodleMoot_Australia_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
     },
     {
         "title": "Accessible by Design: How On-the-Spot Accessibility Checking Transforms Course Creation in Moodle",
