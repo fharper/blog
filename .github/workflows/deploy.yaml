@@ -18,6 +18,8 @@ jobs:
         run: yarn install
 
       - name: Build website
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: yarn build
 
       - name: Copy site to DigitalOcean

@@ -9,7 +9,18 @@ layout: base.njk
 
 Every other week on Thursday 3PM EDT/ET (with some exceptions), Fred and his guests discuss #devrel (developer relations) and learn about new things with the guests' demos. Join us live for the next #devrelshow and ask your questions to us
 
-https://www.youtube.com/watch?v=lq4UHTJ4yEY
+Here are the latest episodes. To watch any of the {{ devrelPlaylist.totalCount }} episodes, check the [playlist on YouTube](https://www.youtube.com/playlist?list=PLjMw8c44mBQuNaqruua27_oX9lQeUwrgO).
+
+<div class="playlist-grid">
+{% for video in devrelPlaylist %}
+<div class="video-card">
+  <a href="https://www.youtube.com/watch?v={{ video.id }}" target="_blank">
+    <img src="{{ video.thumbnail }}" alt="{{ video.title }}">
+    <h3>{{ video.title }}</h3>
+  </a>
+</div>
+{% endfor %}
+</div>
 
 ## Want to be a guest?
 
