@@ -1,0 +1,280 @@
+/* ============================================
+   RESPONSIVE HEADER
+   ============================================ */
+
+.header__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+@media (max-width: 47.9375em) {
+  .header__content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.site-title {
+  font-size: var(--text-xl);
+}
+
+.nav__list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  font-size: var(--text-sm);
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  gap: 0.5rem 1.5rem;
+  justify-content: flex-start;
+}
+
+.nav__list li {
+  margin-right: 0;
+}
+
+@media (min-width: 48em) {
+  .nav__list {
+    gap: 0;
+    font-size: var(--text-base);
+    justify-content: flex-end;
+  }
+  
+  .nav__list li {
+    margin-right: 2rem;
+  }
+  
+  .nav__list li:last-child {
+    margin-right: 0;
+  }
+}
+
+/* ============================================
+   RESPONSIVE HERO
+   ============================================ */
+
+.hero__social-links {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 2rem;
+  text-transform: uppercase;
+  gap: 0.5rem 1rem;
+}
+
+.hero__social-links > li {
+  margin-right: 0;
+  margin-top: 0;
+}
+
+@media (min-width: 48em) {
+  .hero__social-links {
+    gap: 0;
+  }
+  
+  .hero__social-links > li {
+    margin-right: 2rem;
+    margin-top: 1rem;
+  }
+}
+
+/* ============================================
+   RESPONSIVE POST LIST
+   ============================================ */
+
+.post-list__meta {
+  font-size: var(--text-sm);
+  margin-top: 1rem;
+  color: rgb(117, 117, 117);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.post-list__meta > * + * {
+  margin-left: 0;
+}
+
+@media (min-width: 48em) {
+  .post-list__meta {
+    gap: 0;
+  }
+  
+  .post-list__meta > * + * {
+    margin-left: 1rem;
+  }
+}
+
+.post-list__tags {
+  text-decoration: none;
+  font-size: var(--text-sm);
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.post-list__tags > * + * {
+  margin-left: 0;
+}
+
+@media (min-width: 48em) {
+  .post-list__tags {
+    gap: 0;
+  }
+  
+  .post-list__tags > * + * {
+    margin-left: 1rem;
+  }
+}
+
+/* ============================================
+   RESPONSIVE MAIN CONTENT
+   ============================================ */
+
+.main {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ============================================
+   RESPONSIVE TABLES
+   ============================================ */
+
+table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 48em) {
+  table {
+    display: table;
+  }
+}
+
+/* ============================================
+   RESPONSIVE CODE BLOCKS
+   ============================================ */
+
+pre {
+  overflow-x: auto;
+  max-width: 100%;
+  -webkit-overflow-scrolling: touch;
+}
+
+code,
+kbd {
+  word-break: break-word;
+}
+
+/* ============================================
+   RESPONSIVE IMAGES & MEDIA
+   ============================================ */
+
+img,
+video,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ============================================
+   RESPONSIVE FOOTER
+   ============================================ */
+
+.footer {
+  padding-bottom: 4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
+
+.footer li {
+  margin-right: 0;
+}
+
+@media (min-width: 48em) {
+  .footer ul {
+    gap: 0;
+  }
+  
+  .footer li {
+    margin-right: 2rem;
+  }
+}
+
+/* ============================================
+   RESPONSIVE POST CONTENT
+   ============================================ */
+
+.post__pagination {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.post__pagination > *:only-child {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* ============================================
+   RESPONSIVE ABOUT PAGE
+   ============================================ */
+
+.about img {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+@media (min-width: 36em) {
+  .about img {
+    width: 200px;
+    float: right;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+  }
+}
+
+/* ============================================
+   RESPONSIVE UTILITIES
+   ============================================ */
+
+/* Ensure content doesn't overflow viewport */
+* {
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
+html,
+body,
+.layout-wrapper {
+  overflow-x: hidden;
+}
+
+.main,
+.header__content,
+.footer__content {
+  overflow-wrap: break-word;
+}
