@@ -78,3 +78,10 @@ h6:hover .header-anchor {
   border-left: 4px solid #ffe600;
   padding-left: 0.75rem;
 }
+
+.social-icon {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}

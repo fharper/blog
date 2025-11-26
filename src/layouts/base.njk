@@ -101,36 +101,47 @@
       <footer class="footer">
         <div class="footer__content">
 
-          <ul class="hero__social-links">
-            {% if site.socialLinks %}
-              {% for item in site.socialLinks %}
-                {% set externalAttribute = '' %}
+        <ul class="hero__social-links">
+          {% if site.socialLinks %}
+            {% for item in site.socialLinks %}
+              {% set externalAttribute = '' %}
 
-                {% if item.external %}
-                  {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
-                {% endif %}
+              {% if item.external %}
+                {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+              {% endif %}
 
-                <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
-                </li>
-              {% endfor %}
-            {% endif %}
+              <li>
+                <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>
+                  {% if item.icon %}
+                    <img src="{{ item.icon }}" alt="{{ item.text }}" class="social-icon">
+                  {% else %}
+                    {{ item.text }}
+                  {% endif %}
+                </a>
+              </li>
+            {% endfor %}
+          {% endif %}
 
-            {% if site.footerLinks %}
+          {% if site.footerLinks %}
+            {% for item in site.footerLinks %}
+              {% set externalAttribute = '' %}
 
-              {% for item in site.footerLinks %}
-                {% set externalAttribute = '' %}
+              {% if item.external %}
+                {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
+              {% endif %}
 
-                {% if item.external %}
-                  {% set externalAttribute = 'target="_blank" rel="noopener noreferrer"' %}
-                {% endif %}
-
-                <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
-                </li>
-              {% endfor %}
-            {% endif %}
-          </ul>
+              <li>
+                <a href="{{ item.url | url }}" {{ externalAttribute | safe }}>
+                  {% if item.icon %}
+                    <img src="{{ item.icon }}" alt="{{ item.text }}" class="social-icon">
+                  {% else %}
+                    {{ item.text }}
+                  {% endif %}
+                </a>
+              </li>
+            {% endfor %}
+          {% endif %}
+        </ul>
 
           {% if site.showFooterAttribution %}
             <p class="footer__attribution">

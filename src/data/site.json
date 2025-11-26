@@ -49,34 +49,40 @@
     {
       "text": "LinkedIn",
       "url": "https://www.linkedin.com/in/fredericharper",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/linkedin.svg"
     },
     {
       "text": "GitHub",
       "url": "https://github.com/fharper",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/github.svg"
     },
     {
       "text": "Twitter",
       "url": "https://twitter.com/fharper",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/twitter.svg"
     },
     {
       "text": "Instagram",
       "url": "https://instagram.com/fredericharper",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/instagram.svg"
     },
     {
       "text": "Bluesky",
       "url": "https://bsky.app/profile/fharper.bsky.social",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/bluesky.svg"
     }
   ],
   "footerLinks": [
     {
       "text": "RSS",
       "url": "/feed",
-      "external": true
+      "external": true,
+      "icon": "/images/icons/rss.svg"
     }
   ],
   "showFooterAttribution": false
