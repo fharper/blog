@@ -1,0 +1,73 @@
+# fred.dev
+
+> Frédéric Harper's personal blog and professional site
+
+## About
+
+Frédéric Harper is a seasoned Developer Advocate, and a passionate international speaker with over two decades of experience in the tech industry. Throughout his career, Frédéric has helped thousands of developers succeed by bridging the gap between cutting-edge technologies and developer communities.
+
+Before joining Tiugo Technologies as a Senior Developer Relations Manager, Fred began his career in the IT industry as a web developer. His journey from a full-time practitioner to advocate gave him unique insights into the real-world problems developers face, making his guidance particularly valuable to the communities he serves. In the last 14 years, he has held developer advocacy positions at some of the most influential technology companies in the industry, including Microsoft, Mozilla, Fitbit and npm. Fred’s current work centers around rich text editors, particularly TinyMCE.
+
+With a strong background in open source, cloud infrastructure, cloud native, web development, and developer relations, Frédéric brings both technical depth and empathetic communication to every role he takes on. His expertise is shaped by the practical needs of the communities he has served rather than being confined to any single technical domain. He’s known not only for being the friendly technical face of the companies, but also for advocating on behalf of developers within these organizations.
+
+Known for his approachable style, authentic voice, and relatable storytelling, Fred is a sought-after public speaker, having spoken at hundreds of events across the globe. His passion for communication, knowledge sharing, and helping people, paired with his extroverted personality, makes complex topics approachable for developers. Whether it’s on stage, in front of a camera, or through written words, he thrives on making technology more accessible and inclusive. Furthermore, Frédéric is the author of the book "Success in Programming – How to Gain Recognition, Power, and Influence Through Personal Branding" (also referred to as "Personal Branding for Developers") published by Apress, which highlights his commitment to helping developers not only build technical skills, but also establish their professional presence.
+
+Outside of tech, Fred is a cat lover who also teaches meditation and Buddhist philosophy. He brings the same level of curiosity and creativity to his personal life as he does to his professional work.
+
+## Site Purpose
+
+This is Fred's personal blog where he shares his thoughts on:
+- Developer relations and advocacy
+- Technology and software development
+- Personal development and career guidance
+- Conference speaking and CFP tips
+- Management and leadership
+
+The tagline is "welcome in my head" - offering insights into his professional experiences and personal perspectives.
+
+## Key Features
+
+### Blog Posts
+Regular articles covering topics including:
+- Developer relations and advocacy
+- Conference speaking tips
+- Management approaches (Manager README)
+- Career transitions and job searching
+- Personal goal-setting (annual "3 words" practice)
+- Technical tutorials and tips
+
+### The DevRel Show
+A biweekly live show (Thursdays 3 PM EDT/ET) where Fred discusses developer relations with guests who are developer advocates. Each episode includes:
+- Discussion about DevRel practices and careers
+- Technical demonstrations from guests
+- Live audience participation and Q&A
+
+### Book
+Author of "Success in Programming: How to Gain Recognition, Power, and Influence Through Personal Branding" - a guide for software developers on building their personal brand and advancing their careers.
+
+## Contact & Links
+
+- Website: https://fred.dev
+- Social Media: LinkedIn, Twitter, Instagram, Bluesky
+- Professional background available on LinkedIn
+
+## Recent Posts
+
+The blog features recent articles on topics such as:
+- Manager README and leadership approaches
+- Career transitions and job searching
+- Annual goal-setting with three guiding words
+- Homebrew package management tips
+- Migrating from WordPress to Eleventy
+- Conference CFP (Call for Proposals) guidance
+- Chrome extensions recommendations
+- Feedback practices
+
+## Philosophy
+
+Fred emphasizes:
+- Open communication and transparency
+- Helping developers succeed in their careers
+- Demystifying the developer relations role
+- Personal branding and professional development
+- Community building and networking
