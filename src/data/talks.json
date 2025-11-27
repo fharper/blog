@@ -6,7 +6,8 @@
         "country": "au",
         "city": "Sydney, Australia",
         "date": "2025-11-27",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2025-11-27_-_Sydney_Umbraco_-_Tiny_but_mighty__TinyMCE_in_Umbraco_17.pdf"
     },
     {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
