@@ -1,6 +1,15 @@
 [
     {
         "title": "TBD",
+        "name": "Amsterdam DevRel Salon",
+        "url": "https://www.meetup.com/amsterdam-devrel-salon/",
+        "country": "nl",
+        "city": "Amsterdam, Netherlands",
+        "date": "2026-03-05",
+        "type": "talk"
+    },
+    {
+        "title": "TBD",
         "name": "MTL_code",
         "url": "https://luma.com/user/Botpress",
         "country": "ca",
