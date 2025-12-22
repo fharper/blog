@@ -553,7 +553,7 @@
         "country": "us",
         "city": "Las Vegas, United States",
         "type": "talk",
-        "slides": "https://fred.dev/slides/2018-04-25_-_HLTH_Hackathon.pdf"
+        "slides": "https://www.slideshare.net/fredericharper/2018-0425-hlth-hackathon-119392877"
     },
     {
         "title": "HLTH Hackathon Fitbit Challenge",
@@ -561,7 +561,7 @@
         "url": "https://hlth.co/hackhlth/",
         "date": "2018-04-25",
         "type": "talk",
-        "slides": "https://www.slideshare.net/fredericharper/2018-0425-hlth-hackathon"
+        "slides": "https://fred.dev/slides/2018-04-25_-_HLTH_Hackathon.pdf"
     },
     {
         "title": "Public Speaking? No thanks.",
