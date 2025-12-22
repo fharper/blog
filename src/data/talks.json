@@ -10,6 +10,15 @@
     },
     {
         "title": "TBD",
+        "name": "Adyen Developer Events and Meetups",
+        "url": "https://www.meetup.com/eu-adyen-developer-events-and-meetups/",
+        "country": "nl",
+        "city": "Amsterdam, Netherlands",
+        "date": "2026-03-06",
+        "type": "talk"
+    },
+    {
+        "title": "TBD",
         "name": "Amsterdam DevRel Salon",
         "url": "https://www.meetup.com/amsterdam-devrel-salon/",
         "country": "nl",
