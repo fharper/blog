@@ -6,7 +6,7 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, and did {{ groupedTalks.livestreamStats.past }} livestreams (<i>Incomplete: I'm slowly adding them here</i>).</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, and did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}.</p>
 
 <div class="tabs-container">
   <div class="tabs">
@@ -32,7 +32,7 @@ layout: base.njk
 
     {% for year in groupedTalks.pastYears %}
       <h2 id="past-{{ year }}">{{ year }}</h2>
-      <p>{{ groupedTalks.past[year].length }} events</p>
+      <p>{{ groupedTalks.past[year].length }} event{% if groupedTalks.past[year].length != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.past[year] %}
           {% include "talk-item.njk" %}
@@ -45,7 +45,7 @@ layout: base.njk
   <div id="livestreams-tab" class="tab-content">
     <h2 id="upcoming-livestreams">Upcoming</h2>
     {% if groupedTalks.livestreamStats.upcoming > 0 %}
-      <p>{{ groupedTalks.livestreamStats.upcoming }} livestreams</p>
+      <p>{{ groupedTalks.livestreamStats.upcoming }} livestream{% if groupedTalks.livestreamStats.upcoming != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.upcomingLivestreams %}
           {% include "talk-item.njk" %}
@@ -58,7 +58,7 @@ layout: base.njk
 
     {% for year in groupedTalks.pastLivestreamYears %}
       <h2 id="past-livestream-{{ year }}">{{ year }}</h2>
-      <p>{{ groupedTalks.pastLivestreams[year].length }} livestreams</p>
+      <p>{{ groupedTalks.pastLivestreams[year].length }} livestream{% if groupedTalks.pastLivestreams[year].length != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.pastLivestreams[year] %}
           {% include "talk-item.njk" %}
