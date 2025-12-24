@@ -661,6 +661,14 @@
         "video": "https://www.youtube.com/watch?v=KpXHxyFTARA"
     },
     {
+        "title": "Kubernetes Unpacked: Embracing GitOps & Best-Practice Tools with Kubefirst",
+        "name": "Civo Livestream",
+        "url": "https://www.civo.com",
+        "date": "2023-11-29",
+        "type": "livestream",
+        "video": "https://www.youtube.com/live/03dAJ3in8wM"
+    },
+    {
         "title": "Reloader: live reloading made easy",
         "name": "Kubefirst Live",
         "url": "https://konstruct.io",
