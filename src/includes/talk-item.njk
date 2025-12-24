@@ -6,14 +6,16 @@
   </h3>
 
   {% if event.slides %}
-    <a href="{{ event.slides }}">SLIDES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="{{ event.slides }}">SLIDES</a>
   {% endif %}
 
   {% if event.video %}
+    {% if event.slides %}&nbsp;&nbsp;&nbsp;&nbsp;{% endif %}
     <a href="{{ event.video }}">VIDEO</a>
   {% endif %}
 
   {% if event.audio %}
+    {% if event.slides or event.video %}&nbsp;&nbsp;&nbsp;&nbsp;{% endif %}
     <a href="{{ event.audio }}">AUDIO</a>
   {% endif %}
 
