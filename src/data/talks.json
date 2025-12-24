@@ -372,6 +372,15 @@
         "video": "https://www.youtube.com/watch?v=yAji69_Qa20"
     },
     {
+        "title": "Getting into GitOps with Fred Harper, Principal Developer Advocate, kubefirst.io",
+        "name": "Continuous Delivery Podcast",
+        "url": "https://continuousdeliverypodcast.buzzsprout.com/",
+        "date": "2024-07-01",
+        "type": "podcast",
+        "video": "https://www.youtube.com/watch?v=6nwiRpzz7wM",
+        "audio": "https://continuousdeliverypodcast.buzzsprout.com/883858/episodes/15324577-getting-into-gitops-with-fred-harper-principal-developer-advocate-kubefirst-io"
+    },
+    {
         "title": "devrelshow episode 19 - Jonathan Gottfried from Major League Hacking",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
