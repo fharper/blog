@@ -1234,6 +1234,14 @@
         "slides": "https://github.com/fharper/mytalks/blob/main/slides/pdf/2018-09-15%20-%20Hack%20the%20North%20-%20Fitbit%20SDK%20%26%20Web%20API%20Overview.pdf"
     },
     {
+        "title": "0223 - Fred Harper - Programmer avec le SDK de Fitbit",
+        "name": "Visual Studio Talk Show",
+        "url": "https://baladoquebec.ca/visual-studio-talk-show",
+        "date": "2018-09-04",
+        "type": "podcast",
+        "audio": "https://baladoquebec.ca/visual-studio-talk-show/0223-fred-harper-programmer-avec-le-sdk-de-fitbit"
+    },
+    {
         "title": "Fitbit SDK & Web API Introduction",
         "name": "Melbourne Fitbit Developers",
         "url": "https://www.meetup.com/FitbitMelbourne/events/250624716/",
@@ -1490,6 +1498,14 @@
         "type": "talk",
         "slides": "https://www.slideshare.net/fredericharper/responsive-web-design-get-the-best-out-of-your-designs-javascript-open-day-20150625",
         "video": "https://www.youtube.com/watch?v=y1lFbV-VPtA"
+    },
+    {
+        "title": "0184 - Frédéric Harper - Le branding personnel",
+        "name": "Visual Studio Talk Show",
+        "url": "https://baladoquebec.ca/visual-studio-talk-show",
+        "date": "2015-06-21",
+        "type": "podcast",
+        "audio": "https://baladoquebec.ca/visual-studio-talk-show/0184-frederic-harper-le-branding-personnel"
     },
     {
         "title": "Differentiating yourself",
@@ -1921,6 +1937,14 @@
         "slides": "http://www.slideshare.net/fredericharper/public-speaking-no-thanks-social-media-breakfast-montreal-20131023",
         "video": "http://www.youtube.com/watch?v=43HCnh9o9yg",
         "details": "https://outofcomfortzone.net/2013/10/23/public-speaking-social-media-breakfast-montreal/"
+    },
+    {
+        "title": "0164 - Frédéric Harper - Firefox OS",
+        "name": "Visual Studio Talk Show",
+        "url": "https://baladoquebec.ca/visual-studio-talk-show",
+        "date": "2013-10-20",
+        "type": "podcast",
+        "audio": "https://baladoquebec.ca/visual-studio-talk-show/0164-frederic-harper-firefox-os"
     },
     {
         "title": "Ma Carrère TECHNO",
@@ -2622,6 +2646,14 @@
         "city": "Montréal, Canada",
         "type": "talk",
         "slides": "http://www.slideshare.net/fredericharper/mobilecamp-montral-pensez-mobile-20110715"
+    },
+    {
+        "title": "0137 - Frédéric Harper - HTML5",
+        "name": "Visual Studio Talk Show",
+        "url": "https://baladoquebec.ca/visual-studio-talk-show",
+        "date": "2011-07-13",
+        "type": "podcast",
+        "audio": "https://baladoquebec.ca/visual-studio-talk-show/0137-frederic-harper-html5"
     },
     {
         "title": "HTML5, the new buzzword",
