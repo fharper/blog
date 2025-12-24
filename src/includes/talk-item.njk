@@ -13,6 +13,10 @@
     <a href="{{ event.video }}">VIDEO</a>
   {% endif %}
 
+  {% if event.audio %}
+    <a href="{{ event.audio }}">AUDIO</a>
+  {% endif %}
+
   {% if event.details %}
     <a href="{{ event.details }}">DETAILS</a>
   {% endif %}
