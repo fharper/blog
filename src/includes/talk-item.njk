@@ -4,18 +4,18 @@
     <br>
     {{ event.title }}
   </h3>
-  
+
   {% if event.slides %}
     <a href="{{ event.slides }}">SLIDES</a>&nbsp;&nbsp;&nbsp;&nbsp;
   {% endif %}
-  
+
   {% if event.video %}
     <a href="{{ event.video }}">VIDEO</a>
   {% endif %}
-  
+
   {% if event.details %}
     <a href="{{ event.details }}">DETAILS</a>
   {% endif %}
-  
-  <pre>{{ event.date | formatTalkDate }} | {{ event.city | upper if event.city else "ONLINE" }}{% if event.comment %} | {{ event.comment | upper }}{% endif %}</pre>
+
+  <pre>{{ event.date | formatTalkDate }} | {{ event.city | upper if event.city else "ONLINE" }}<br/>{% if event.comment %}<i>{{ event.comment | upper }}</i>{% endif %}</pre>
 </div>
