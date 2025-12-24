@@ -660,6 +660,14 @@
         "video": "https://www.youtube.com/watch?v=93weiQSO6vc"
     },
     {
+        "title": "Breaking the Silos",
+        "name": "GitOps Strategies through Kubefirst",
+        "url": "https://www.youtube.com/@Taiwrash/",
+        "date": "2023-11-04",
+        "type": "livestream",
+        "video": "https://www.youtube.com/live/om1rxvKJe3M"
+    },
+    {
         "title": "devrelshow episode 4 - Mason Egger from Temporal",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
