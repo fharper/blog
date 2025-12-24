@@ -193,8 +193,11 @@ module.exports = function (eleventyConfig) {
         past: {},
         upcomingLivestreams: [],
         pastLivestreams: {},
+        upcomingPodcasts: [],
+        pastPodcasts: {},
         stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0 },
-        livestreamStats: { total: 0, past: 0, upcoming: 0 }
+        livestreamStats: { total: 0, past: 0, upcoming: 0 },
+        podcastStats: { total: 0, past: 0, upcoming: 0 }
       };
     }
 
@@ -204,6 +207,8 @@ module.exports = function (eleventyConfig) {
       past: {},
       upcomingLivestreams: [],
       pastLivestreams: {},
+      upcomingPodcasts: [],
+      pastPodcasts: {},
       stats: {
         total: 0,
         past: 0,
@@ -216,6 +221,11 @@ module.exports = function (eleventyConfig) {
         total: 0,
         past: 0,
         upcoming: 0
+      },
+      podcastStats: {
+        total: 0,
+        past: 0,
+        upcoming: 0
       }
     };
 
@@ -224,9 +234,9 @@ module.exports = function (eleventyConfig) {
 
       const talkDate = new Date(talk.date + 'T23:59:59Z');
       const isLivestream = talk.type && talk.type.toLowerCase() === 'livestream';
+      const isPodcast = talk.type && talk.type.toLowerCase() === 'podcast';
 
       if (isLivestream) {
-        // Handle livestreams separately
         result.livestreamStats.total++;
 
         if (talkDate.getTime() > now.getTime()) {
@@ -240,8 +250,21 @@ module.exports = function (eleventyConfig) {
           result.pastLivestreams[year].push(talk);
           result.livestreamStats.past++;
         }
+      } else if (isPodcast) {
+        result.podcastStats.total++;
+
+        if (talkDate.getTime() > now.getTime()) {
+          result.upcomingPodcasts.push(talk);
+          result.podcastStats.upcoming++;
+        } else {
+          const year = talkDate.getFullYear();
+          if (!result.pastPodcasts[year]) {
+            result.pastPodcasts[year] = [];
+          }
+          result.pastPodcasts[year].push(talk);
+          result.podcastStats.past++;
+        }
       } else {
-        // Handle regular talks (exclude livestreams)
         result.stats.total++;
 
         if (talkDate.getTime() > now.getTime()) {
@@ -259,7 +282,6 @@ module.exports = function (eleventyConfig) {
             result.stats.keynotes++;
           }
 
-          // Only count cities and countries from past non-livestream events
           result.stats.cities.add(talk.city);
           result.stats.countries.add(talk.country);
         }
@@ -271,6 +293,7 @@ module.exports = function (eleventyConfig) {
 
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
     result.pastLivestreamYears = Object.keys(result.pastLivestreams).sort((a, b) => b - a);
+    result.pastPodcastYears = Object.keys(result.pastPodcasts).sort((a, b) => b - a);
 
     return result;
   });

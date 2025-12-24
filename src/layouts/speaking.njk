@@ -6,12 +6,13 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, and did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}.</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, and was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %}.</p>
 
 <div class="tabs-container">
   <div class="tabs">
     <button class="tab-button active" data-tab="talks">Talks</button>
     <button class="tab-button" data-tab="livestreams">Livestreams</button>
+    <button class="tab-button" data-tab="podcasts">Podcasts</button>
   </div>
 
   <!-- Talks Tab Content -->
@@ -61,6 +62,32 @@ layout: base.njk
       <p>{{ groupedTalks.pastLivestreams[year].length }} livestream{% if groupedTalks.pastLivestreams[year].length != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.pastLivestreams[year] %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <!-- Podcasts Tab Content -->
+  <div id="podcasts-tab" class="tab-content">
+    <h2 id="upcoming-podcasts">Upcoming</h2>
+    {% if groupedTalks.podcastStats.upcoming > 0 %}
+      <p>{{ groupedTalks.podcastStats.upcoming }} podcast{% if groupedTalks.podcastStats.upcoming != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.upcomingPodcasts %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <span class="count">(no podcast)</span>
+      <p>More podcast appearances coming soon, stay tuned!</p>
+    {% endif %}
+
+    {% for year in groupedTalks.pastPodcastYears %}
+      <h2 id="past-podcast-{{ year }}">{{ year }}</h2>
+      <p>{{ groupedTalks.pastPodcasts[year].length }} podcast{% if groupedTalks.pastPodcasts[year].length != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.pastPodcasts[year] %}
           {% include "talk-item.njk" %}
         {% endfor %}
       </div>
