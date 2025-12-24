@@ -36,6 +36,22 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 43 - Brenna Buuck from MinIO",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-01-08",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=Uq5NNE-f7ts"
+    },
+    {
+        "title": "devrelshow episode 42 - Sonali Srivastava from InfraCloud Technologies",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-12-11",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=F_NNue6n3dY"
+    },
+    {
         "title": "Tiny but mighty: TinyMCE in Umbraco 17",
         "name": "Sydney Umbraco Meetup",
         "url": "https://www.meetup.com/sydney-umbraco-meetup/events/311741624/",
@@ -54,6 +70,22 @@
         "date": "2025-11-24",
         "type": "talk",
         "slides": "https://fred.dev/slides/2025-11-24_-_MoodleMoot_Australia_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
+    },
+    {
+        "title": "devrelshow episode 41 - Ondřej Chrastina from CKEditor",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-11-13",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=lRJLmffQC4M"
+    },
+    {
+        "title": "devrelshow episode 40 - Eric Koleda from Grammarly",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-09-30",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=slkCXoJFokI"
     },
     {
         "title": "Accessible by Design: How On-the-Spot Accessibility Checking Transforms Course Creation in Moodle",
@@ -78,6 +110,30 @@
         "video": "https://www.youtube.com/watch?v=kyQWeVkY89o"
     },
     {
+        "title": "devrelshow episode 39 - Martin Finkel from Videolabs",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-09-04",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=17dVN1kq65o"
+    },
+    {
+        "title": "devrelshow episode 38 - Harshit Mehta from Guidewire",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-08-21",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=HgqEH2m9k6g"
+    },
+    {
+        "title": "devrelshow episode 37 - Joseph Petty from Appsmith",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-08-07",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=6G2YU0zZNE4"
+    },
+    {
         "title": "Common bottlenecks in collaborating on written content at scale",
         "name": "EvolveDigital Montreal Digital Summit",
         "url": "https://www.evolvedigital.com",
@@ -86,6 +142,46 @@
         "date": "2025-08-04",
         "type": "talk",
         "slides": "https://fred.dev/slides/2025-08-04_-_EvolveDigital_-_Common_Bottlenecks_in_Collaborating_on_Written_Content_at_Scale.pdf"
+    },
+    {
+        "title": "devrelshow episode 36 - Pachi Parra from GitHub",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-07-24",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=ETtj9WNzs7s"
+    },
+    {
+        "title": "devrelshow episode 35 - Raymond Camden from Foxit Software",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-07-10",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=KSrhIwRWIe0"
+    },
+    {
+        "title": "devrelshow episode 34 - Shawn Charles from Thesys",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-06-26",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=f4iQuTWN8dQ"
+    },
+    {
+        "title": "devrelshow episode 33 - Anthony Lusardi from Captivate.dev",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-06-17",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=qPZzdgMoIJo"
+    },
+    {
+        "title": "devrelshow episode 32 - Elvis Kahoro from Chalk",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-05-29",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=ZgxZX20GJE4"
     },
     {
         "title": "How to become an open source contributor",
@@ -97,6 +193,30 @@
         "video": "https://www.youtube.com/watch?v=nYvdoII0jZY"
     },
     {
+        "title": "devrelshow episode 31 - Chris Reynolds from Pantheon",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-03-20",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=U_RSc3IRM-w"
+    },
+    {
+        "title": "devrelshow episode 30 - Amanda Martin from Wix Studio",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-03-06",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=eiuZC2gGaHo"
+    },
+    {
+        "title": "devrelshow episode 29 - Jere Suikkila from Mappedin",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-01-23",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=y_mMUpHCbS0"
+    },
+    {
         "title": "Distributed SQL for your Cloud Native applications with YugabyteDB",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
@@ -105,12 +225,28 @@
         "video": "https://www.youtube.com/watch?v=y0quHfqN8Wo"
     },
     {
+        "title": "devrelshow episode 28 - Samir Akarioh from Gatling",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-01-09",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=dRhAekT4LhQ"
+    },
+    {
         "title": "Rapid application development in Kubernetes with grapple",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2024-12-05",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=5GblpXLnjlI"
+    },
+    {
+        "title": "devrelshow episode 27 - Siddhant Agarwal from Neo4j",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-11-28",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=Jg2P_x77ST0"
     },
     {
         "title": "Kubefirst superpowers, now available on Microsoft Azure",
@@ -129,6 +265,22 @@
         "video": "https://www.youtube.com/watch?v=Nqa61ZKwo8E"
     },
     {
+        "title": "devrelshow episode 26 - Jones Zachariah Noel N from Freshworks",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-10-31",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=wJcpuVM8VV8"
+    },
+    {
+        "title": "devrelshow episode 25 - William Imoh from Hackmamba",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-10-17",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=TfqnaYssa24"
+    },
+    {
         "title": "WebAssembly workloads on Kubernetes with SpinKube",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
@@ -137,12 +289,28 @@
         "video": "https://www.youtube.com/watch?v=BUuSbuJRbnQ"
     },
     {
+        "title": "devrelshow episode 24 - Philip Kiely from Baseten",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-10-03",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=fbofHhvlXCc"
+    },
+    {
         "title": "From Kubefirst to Konstruct: everything you need to know",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2024-09-26",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=OWWdprmvX4Y"
+    },
+    {
+        "title": "devrelshow episode 23 - Jeff Blankenburg from DigitalOcean",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-09-19",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=2oHi3VKhl4w"
     },
     {
         "title": "Developers Documentation: your secret weapon",
@@ -156,12 +324,28 @@
         "video": "https://www.youtube.com/watch?v=LDk4vsH5d3I"
     },
     {
+        "title": "devrelshow episode 22 - Ryan Blunden",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-09-03",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=VMHnnEYSylY"
+    },
+    {
         "title": "Delivering great Infrastructure as Code",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2024-08-29",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=kP7dICR8FRo"
+    },
+    {
+        "title": "devrelshow episode 21 - Sam Julien from Writer",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-08-22",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=3K4Yxp0hISE"
     },
     {
         "title": "Validate & remediate Kubernetes resources for best practices with Polaris",
@@ -172,12 +356,36 @@
         "video": "https://www.youtube.com/watch?v=4l0nGpi09dA"
     },
     {
+        "title": "devrelshow episode 20 - Joel Lord from MongoDB",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-07-25",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=jvGhSPXY4U4"
+    },
+    {
         "title": "Building composable internal developer platforms (IDPs) with Kratix",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
-        "date": "2025-07-18",
+        "date": "2024-07-18",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=yAji69_Qa20"
+    },
+    {
+        "title": "devrelshow episode 19 - Jonathan Gottfried from Major League Hacking",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-06-27",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=8gyUad-8rN4"
+    },
+    {
+        "title": "devrelshow episode 18 - Ram Iyengar from Cloud Foundry",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-05-30",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=gxsN4JykdYk"
     },
     {
         "title": "Adding a Vault SSO group to your Kubernetes platform",
@@ -186,6 +394,14 @@
         "date": "2024-05-23",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=RZSVr2ASBdM"
+    },
+    {
+        "title": "devrelshow episode 17 - Haimantika Mitra from Hashnode",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2025-05-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=E3qjPt26nMw"
     },
     {
         "title": "Developing in a Kubernetes environment with Codezero",
@@ -206,6 +422,14 @@
         "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-cncf-montreal-1.pdf"
     },
     {
+        "title": "devrelshow episode 16 - Rizel Scarlett from TBD",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-05-02",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=CrjxuX2ulQw"
+    },
+    {
         "title": "The kubefirst architecture: how is built the best GitOps platform out there",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
@@ -214,12 +438,36 @@
         "video": "https://www.youtube.com/watch?v=_jlFBtGl1I4"
     },
     {
+        "title": "devrelshow episode 15 - Linda Ikechukwu from Smallstep",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-04-18",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=KcxLzJO5R2E"
+    },
+    {
         "title": "Create production-ready GitOps clusters on DigitalOcean",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
-        "date": "2025-04-11",
+        "date": "2024-04-11",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=LqEk5T8VF18"
+    },
+    {
+        "title": "devrelshow episode 14 - Tobiloba Adedeji from Million.js",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-04-04",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=bCArd6cCJhk"
+    },
+    {
+        "title": "devrelshow episode 13 - Baruch Sadogursky from Gradle",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-04-01",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=IjtQZFP2QTA"
     },
     {
         "title": "End-to-End testing & debugging with Tracetest",
@@ -261,6 +509,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 12 - Zachary Powell from Vonage",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-03-07",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=fGMe3nbJU9M"
+    },
+    {
         "title": "Get your resource requests 'Just Right' with Goldilocks",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
@@ -289,6 +545,14 @@
         "slides": "https://fred.dev/slides/git-shit-done-the-gitops-way-confoo-2024.pdf"
     },
     {
+        "title": "devrelshow episode 11 - Doug Sillars from Speak of the Devrel",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-02-20",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=zH-CVs55V68"
+    },
+    {
         "title": "Surfing the Argo CD sync waves",
         "name": "Civo Navigate",
         "url": "https://www.civo.com/navigate/north-america",
@@ -308,12 +572,28 @@
         "video": "https://www.youtube.com/watch?v=Srz8nuHaApQ"
     },
     {
+        "title": "devrelshow episode 10 - Viktor Gamov from StarTree",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-02-13",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=vCJQmmsfcKw"
+    },
+    {
         "title": "Adding applications to the kubefirst GitOps Catalog",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2024-02-01",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=O8pTLnqIAuk"
+    },
+    {
+        "title": "devrelshow episode 9 - Erin Mikail Staples from LaunchDarkly",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-01-25",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=0sumXXdYZY8"
     },
     {
         "title": "From GitLab SaaS to GitLab self-managed on kubefirst",
@@ -324,12 +604,28 @@
         "video": "https://www.youtube.com/watch?v=zKZP9IDeY0c"
     },
     {
+        "title": "devrelshow episode 8 - Marcel Ribeiro-Dantas from Seqera Labs",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2024-01-11",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=ZBsGCR12oFI"
+    },
+    {
         "title": "Musing on platform engineering & cloud native trends with Abby Bangser",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2023-12-21",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=LjrusegcNAI"
+    },
+    {
+        "title": "devrelshow episode 7 - Jim Bennett from liblab",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-12-14",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=mDfzgHR9w6w"
     },
     {
         "title": "Taking Ownership of the kubefirst's Argo Workflows",
@@ -340,12 +636,36 @@
         "video": "https://www.youtube.com/watch?v=OuPynDbN3W8"
     },
     {
+        "title": "devrelshow episode 6 - Kevin Blanco from Appsmith",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-11-30",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=KpXHxyFTARA"
+    },
+    {
         "title": "Reloader: live reloading made easy",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2023-11-28",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=65HFXDfaYCQ"
+    },
+    {
+        "title": "devrelshow episode 5 - Dan Moore from FusionAuth",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-11-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=93weiQSO6vc"
+    },
+    {
+        "title": "devrelshow episode 4 - Mason Egger from Temporal",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-11-02",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=fd8v15-11Ic"
     },
     {
         "title": "kubefirst 2.3: physical & virtual workload clusters",
@@ -356,12 +676,28 @@
         "video": "https://www.youtube.com/watch?v=KAo3KPYjQ98"
     },
     {
+        "title": "devrelshow episode 3 - David G. Simmons from Otterize",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-10-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=sQvimBNlvSY"
+    },
+    {
         "title": "Kyverno: a policy engine designed for Kubernetes",
         "name": "Kubefirst Live",
         "url": "https://www.youtube.com/@konstructio/streams",
         "date": "2023-10-12",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=hsf58XJD3j4"
+    },
+    {
+        "title": "devrelshow episode 2 - Alejandra Thomas from Testkube",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-10-04",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=lq4UHTJ4yEY"
     },
     {
         "title": "k3d: the heart of kubefirst's local platform",
@@ -379,6 +715,14 @@
         "type": "talk",
         "slides": "https://fred.dev/slides/git-shit-done-the-gitops-way-conf42-kube-native-2023.pdf",
         "video": "https://www.youtube.com/watch?v=u8AaNr4HKWk"
+    },
+    {
+        "title": "devrelshow episode 1 - Chris Heilmann from WeAreDevelopers",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2023-09-21",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=y_9zT57pyK0"
     },
     {
         "title": "Testkube: orchestrate your tests natively on Kubernetes",
