@@ -773,6 +773,15 @@
         "video": "https://www.youtube.com/watch?v=SZ90nMKpMLE"
     },
     {
+        "title": "Cisco Cloud Unfiltered",
+        "name": "Kubefirst: Kubernetes CI/CD should be easy!",
+        "url": "https://www.cisco.com/c/en/us/solutions/cloud/podcasts.html",
+        "date": "2023-06-26",
+        "type": "podcast",
+        "video": "https://www.youtube.com/watch?v=Jnk8ac6Bu88",
+        "comment": "The episode was deleted"
+    },
+    {
         "title": "Monitor & reduce Kubernetes spend with OpenCost",
         "name": "Kubefirst Live",
         "url": "https://konstruct.io",
