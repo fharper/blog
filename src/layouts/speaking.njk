@@ -6,27 +6,64 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries.</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, and did {{ groupedTalks.livestreamStats.past }} livestreams (<i>Incomplete: I'm slowly adding them heree</i>).</p>
 
-<h2 id="upcoming">Upcoming</h2>
-{% if groupedTalks.stats.upcoming > 0 %}
-  <p>{{ groupedTalks.stats.upcoming }} events</p>
-  <div class="talks">
-    {% for event in groupedTalks.upcoming %}
-      {% include "talk-item.njk" %}
+<div class="tabs-container">
+  <div class="tabs">
+    <button class="tab-button active" data-tab="talks">Talks</button>
+    <button class="tab-button" data-tab="livestreams">Livestreams</button>
+  </div>
+
+  <!-- Talks Tab Content -->
+  <div id="talks-tab" class="tab-content active">
+
+    <h2 id="upcoming">Upcoming</h2>
+    {% if groupedTalks.stats.upcoming > 0 %}
+      <p>{{ groupedTalks.stats.upcoming }} events</p>
+      <div class="talks">
+        {% for event in groupedTalks.upcoming %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <span class="count">(no event)</span>
+      <p>More speaking gigs coming soon, stay tuned!</p>
+    {% endif %}
+
+    {% for year in groupedTalks.pastYears %}
+      <h2 id="past-{{ year }}">{{ year }}</h2>
+      <p>{{ groupedTalks.past[year].length }} events</p>
+      <div class="talks">
+        {% for event in groupedTalks.past[year] %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
     {% endfor %}
   </div>
-{% else %}
-  <span class="count">(no event)</span>
-  <p>More speaking gigs coming soon, stay tuned!</p>
-{% endif %}
 
-{% for year in groupedTalks.pastYears %}
-  <h2 id="past-{{ year }}">{{ year }}</h2>
-  <p>{{ groupedTalks.past[year].length }} events</p>
-  <div class="talks">
-    {% for event in groupedTalks.past[year] %}
-      {% include "talk-item.njk" %}
+  <!-- Livestreams Tab Content -->
+  <div id="livestreams-tab" class="tab-content">
+    <h2 id="upcoming-livestreams">Upcoming</h2>
+    {% if groupedTalks.livestreamStats.upcoming > 0 %}
+      <p>{{ groupedTalks.livestreamStats.upcoming }} livestreams</p>
+      <div class="talks">
+        {% for event in groupedTalks.upcomingLivestreams %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <span class="count">(no livestream)</span>
+      <p>More livestreams coming soon, stay tuned!</p>
+    {% endif %}
+
+    {% for year in groupedTalks.pastLivestreamYears %}
+      <h2 id="past-livestream-{{ year }}">{{ year }}</h2>
+      <p>{{ groupedTalks.pastLivestreams[year].length }} livestreams</p>
+      <div class="talks">
+        {% for event in groupedTalks.pastLivestreams[year] %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
     {% endfor %}
   </div>
-{% endfor %}
+</div>

@@ -97,6 +97,54 @@
         "video": "https://www.youtube.com/watch?v=nYvdoII0jZY"
     },
     {
+        "title": "Distributed SQL for your Cloud Native applications with YugabyteDB",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2025-01-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=y0quHfqN8Wo"
+    },
+    {
+        "title": "Rapid application development in Kubernetes with grapple",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-12-05",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=5GblpXLnjlI"
+    },
+    {
+        "title": "Kubefirst superpowers, now available on Microsoft Azure",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-11-21",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=D4gaKRS6gzg"
+    },
+    {
+        "title": "What is cooking at Konstruct with Kubefirst & Colony",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-11-07",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=Nqa61ZKwo8E"
+    },
+    {
+        "title": "WebAssembly workloads on Kubernetes with SpinKube",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-10-24",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=BUuSbuJRbnQ"
+    },
+    {
+        "title": "From Kubefirst to Konstruct: everything you need to know",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-09-26",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=OWWdprmvX4Y"
+    },
+    {
         "title": "Developers Documentation: your secret weapon",
         "name": "Civo Navigate Europe",
         "url": "https://www.civo.com/navigate/europe",
@@ -108,6 +156,46 @@
         "video": "https://www.youtube.com/watch?v=LDk4vsH5d3I"
     },
     {
+        "title": "Delivering great Infrastructure as Code",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-08-29",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=kP7dICR8FRo"
+    },
+    {
+        "title": "Validate & remediate Kubernetes resources for best practices with Polaris",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-08-15",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=4l0nGpi09dA"
+    },
+    {
+        "title": "Building composable internal developer platforms (IDPs) with Kratix",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2025-07-18",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=yAji69_Qa20"
+    },
+    {
+        "title": "Adding a Vault SSO group to your Kubernetes platform",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-05-23",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=RZSVr2ASBdM"
+    },
+    {
+        "title": "Developing in a Kubernetes environment with Codezero",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-05-09",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=1TsTHb90cX0"
+    },
+    {
         "title": "Surfing the Argo CD sync waves",
         "name": "CNCF Montreal Meetup",
         "url": "https://community.cncf.io/events/details/cncf-montreal-presents-kubehuddle-recap-understanding-kubernetes-in-a-visual-way-and-more/",
@@ -116,6 +204,30 @@
         "date": "2024-05-08",
         "type": "talk",
         "slides": "https://fred.dev/slides/surfing-the-argo-cd-sync-waves-cncf-montreal-1.pdf"
+    },
+    {
+        "title": "The kubefirst architecture: how is built the best GitOps platform out there",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-04-25",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=_jlFBtGl1I4"
+    },
+    {
+        "title": "Create production-ready GitOps clusters on DigitalOcean",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2025-04-11",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=LqEk5T8VF18"
+    },
+    {
+        "title": "End-to-End testing & debugging with Tracetest",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-03-28",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=mZUHbs2Npms"
     },
     {
         "title": "Surfing the Argo CD sync waves",
@@ -149,6 +261,14 @@
         "type": "talk"
     },
     {
+        "title": "Get your resource requests 'Just Right' with Goldilocks",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-02-29",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=j48C_6p_Vqc"
+    },
+    {
         "title": "Bring your Kubernetes game to the next level",
         "name": "Confoo",
         "url": "https://confoo.ca/en/2024",
@@ -180,6 +300,78 @@
         "video": "https://www.youtube.com/watch?v=6iZJFGrAx2w"
     },
     {
+        "title": "Deep dive on External Secrets Operator with Vault & using other providers",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-02-15",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=Srz8nuHaApQ"
+    },
+    {
+        "title": "Adding applications to the kubefirst GitOps Catalog",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-02-01",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=O8pTLnqIAuk"
+    },
+    {
+        "title": "From GitLab SaaS to GitLab self-managed on kubefirst",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2024-01-18",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=zKZP9IDeY0c"
+    },
+    {
+        "title": "Musing on platform engineering & cloud native trends with Abby Bangser",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-12-21",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=LjrusegcNAI"
+    },
+    {
+        "title": "Taking Ownership of the kubefirst's Argo Workflows",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-12-07",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=OuPynDbN3W8"
+    },
+    {
+        "title": "Reloader: live reloading made easy",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-11-28",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=65HFXDfaYCQ"
+    },
+    {
+        "title": "kubefirst 2.3: physical & virtual workload clusters",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-10-26",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=KAo3KPYjQ98"
+    },
+    {
+        "title": "Kyverno: a policy engine designed for Kubernetes",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-10-12",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=hsf58XJD3j4"
+    },
+    {
+        "title": "k3d: the heart of kubefirst's local platform",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-09-28",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=Ff9dVcTqKMg"
+    },
+    {
         "title": "Git Shit Done, the GitOps Way",
         "name": "Conf42: Kube Native",
         "url": "https://www.conf42.com/kubenative2023",
@@ -189,13 +381,69 @@
         "video": "https://www.youtube.com/watch?v=u8AaNr4HKWk"
     },
     {
+        "title": "Testkube: orchestrate your tests natively on Kubernetes",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-09-14",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=C7Tzi46HQqQ"
+    },
+    {
+        "title": "Civo Marketplace & kubefirst: a match made in heaven",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-08-17",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=d3ytIg8Yqws"
+    },
+    {
+        "title": "Infrastructure automation: Terraform with Atlantis vs Crossplane",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-08-03",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=D9vo4Xscktw"
+    },
+    {
+        "title": "Deep Dive on metaphor: the kubefirst platform exploration application",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-07-20",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=wCAWh__xXqQ"
+    },
+    {
+        "title": "Implementing observability on kubefirst with Datadog",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-07-06",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=SZ90nMKpMLE"
+    },
+    {
+        "title": "Monitor & reduce Kubernetes spend with OpenCost",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-06-22",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=k8j3GZokQp8"
+    },
+    {
         "title": "Kubefirst (Hands-On Intro) deploy a new Kubernetes cluster in minutes",
         "name": "Cloud Native Islamabad",
         "url": "https://community.cncf.io/events/details/cncf-islamabad-presents-kubefirst-hands-on-intro-deploy-a-new-kubernetes-cluster-in-minutes-workshop/",
         "date": "2023-06-15",
-        "type": "talk",
+        "type": "livestream",
         "slides": "https://fred.dev/slides/Cloud-Native-Islamabad-Kubefirst-Workshop.pdf",
         "video": "https://www.youtube.com/watch?v=sg4APL87vZc"
+    },
+    {
+        "title": "Kubefirst - Instant GitOps platform gets an amazing User Interface",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-06-08",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=WWuwjRpSewM"
     },
     {
         "title": "Git Shit Done, the GitOps Way",
@@ -209,13 +457,37 @@
         "video": "https://www.youtube.com/watch?v=gkqh2ut62gk"
     },
     {
+        "title": "Monitor & Act on Your Kubernetes Cluster With Botkube",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-05-25",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=RLmU472lync"
+    },
+    {
         "title": "GitOps with Kubefirst deploy and iterate faster | Ep 77",
         "name": "Cloud Native Podcast",
         "url": "https://www.youtube.com/@cloudnativefm",
-        "date": "2023-05-15",
-        "type": "talk",
+        "date": "2023-05-18",
+        "type": "livestream",
         "slides": "https://fred.dev/slides/Cloud-Native-Podcast-GitOps-Kubefirst.pdf",
         "video": "https://www.youtube.com/watch?v=OIJqNX-jQTc&t=3s"
+    },
+    {
+        "title": "Deep dive on kubefirst SSO & OIDC",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-05-11",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=lmrHHrM2Jts"
+    },
+    {
+        "title": "Deep Dive on HashiCorp Terraform & Atlantis",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-04-27",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=g-9_dQUzN4o"
     },
     {
         "title": "Git Shit Done, the GitOps Way",
@@ -224,6 +496,57 @@
         "date": "2023-04-26",
         "type": "talk",
         "slides": "https://fred.dev/slides/Git-shit-done-the-gitops-way-DeveloperWeek-Europe.pdf"
+    },
+    {
+        "title": "kubefirst 2.0.0 release livestream, with Civo",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-04-13",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=l0MRtWbbiDk"
+    },
+    {
+        "title": "The kubefirst Trifecta: NGINX Ingress Controller, cert-manager & external-dns",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-03-30",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=o6dt-2Dp1xE"
+    },
+    {
+        "title": "GitOps & Secrets Disaster Recovery",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-03-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=7pt2P8Pv8a4"
+    },
+    {
+        "title": "Integrating Argo Workflows with GitHub Actions & GitLab CI",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-03-02",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=5oghcm7gPdQ",
+        "comment": "Reupload of the recording of the livestream on our new channel"
+    },
+    {
+        "title": "Let's talk HashiCorp Vault",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2023-02-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=eFDr46o19Es",
+        "comment": "Reupload of the recording of the livestream on our new channel"
+    },
+    {
+        "title": "Kubefirst v1.10 release & other awesomeness",
+        "name": "Kubefirst Live",
+        "url": "https://www.youtube.com/@konstructio/streams",
+        "date": "2022-12-13",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=NEp4H-gxkw4",
+        "comment": "Reupload of the recording of the livestream on our new channel"
     },
     {
         "title": "Developers Documentation: your secret weapon",

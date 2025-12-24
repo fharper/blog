@@ -185,16 +185,25 @@ module.exports = function (eleventyConfig) {
     return [...pinned, ...unpinned];
   });
 
- // Add custom filter to group talks
+  // Add custom filter to group talks
   eleventyConfig.addFilter("groupTalksByYear", function(talks) {
     if (!talks || !Array.isArray(talks)) {
-      return { upcoming: [], past: {}, stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0 } };
+      return {
+        upcoming: [],
+        past: {},
+        upcomingLivestreams: [],
+        pastLivestreams: {},
+        stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0 },
+        livestreamStats: { total: 0, past: 0, upcoming: 0 }
+      };
     }
 
     const now = new Date();
     const result = {
       upcoming: [],
       past: {},
+      upcomingLivestreams: [],
+      pastLivestreams: {},
       stats: {
         total: 0,
         past: 0,
@@ -202,44 +211,66 @@ module.exports = function (eleventyConfig) {
         cities: new Set(),
         countries: new Set(),
         keynotes: 0
+      },
+      livestreamStats: {
+        total: 0,
+        past: 0,
+        upcoming: 0
       }
     };
 
     talks.forEach(talk => {
       if (!talk.date) return;
 
-      const talkDate = new Date(talk.date + 'T23:59:59Z'); // End of day UTC
+      const talkDate = new Date(talk.date + 'T23:59:59Z');
+      const isLivestream = talk.type && talk.type.toLowerCase() === 'livestream';
 
-      result.stats.total++;
+      if (isLivestream) {
+        // Handle livestreams separately
+        result.livestreamStats.total++;
 
-      if (talkDate.getTime() > now.getTime()) {
-        result.upcoming.push(talk);
-        result.stats.upcoming++;
+        if (talkDate.getTime() > now.getTime()) {
+          result.upcomingLivestreams.push(talk);
+          result.livestreamStats.upcoming++;
+        } else {
+          const year = talkDate.getFullYear();
+          if (!result.pastLivestreams[year]) {
+            result.pastLivestreams[year] = [];
+          }
+          result.pastLivestreams[year].push(talk);
+          result.livestreamStats.past++;
+        }
       } else {
-        const year = talkDate.getFullYear();
-        if (!result.past[year]) {
-          result.past[year] = [];
-        }
-        result.past[year].push(talk);
-        result.stats.past++;
+        // Handle regular talks (exclude livestreams)
+        result.stats.total++;
 
-        // Count keynotes
-        if (talk.type && talk.type.toLowerCase() === 'keynote') {
-          result.stats.keynotes++;
-        }
+        if (talkDate.getTime() > now.getTime()) {
+          result.upcoming.push(talk);
+          result.stats.upcoming++;
+        } else {
+          const year = talkDate.getFullYear();
+          if (!result.past[year]) {
+            result.past[year] = [];
+          }
+          result.past[year].push(talk);
+          result.stats.past++;
 
-        // Only count cities and countries from PAST events
-        result.stats.cities.add(talk.city);
-        result.stats.countries.add(talk.country);
+          if (talk.type && talk.type.toLowerCase() === 'keynote') {
+            result.stats.keynotes++;
+          }
+
+          // Only count cities and countries from past non-livestream events
+          result.stats.cities.add(talk.city);
+          result.stats.countries.add(talk.country);
+        }
       }
     });
 
-    // Convert Sets to counts
     result.stats.cities = result.stats.cities.size;
     result.stats.countries = result.stats.countries.size;
 
-    // Sort years in descending order
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
+    result.pastLivestreamYears = Object.keys(result.pastLivestreams).sort((a, b) => b - a);
 
     return result;
   });
@@ -271,11 +302,11 @@ module.exports = function (eleventyConfig) {
   // Social media image
   eleventyConfig.addFilter("getFirstImage", function(content) {
     if (!content) return null;
-    
+
     // Match img tags and extract src
     const imgRegex = /<img\s+[^>]*src=["']([^"']+)["'][^>]*>/i;
     const match = content.match(imgRegex);
-    
+
     return match ? match[1] : null;
   });
 
