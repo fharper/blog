@@ -684,6 +684,14 @@
         "video": "https://www.youtube.com/watch?v=sQvimBNlvSY"
     },
     {
+        "title": "Open Source Friday with Kubefirst",
+        "name": "GitHub - Open Source Fridays",
+        "url": "https://www.youtube.com/live/FEmb12t6i6Y",
+        "date": "2023-10-13",
+        "type": "livestream",
+        "video": "https://www.youtube.com/live/FEmb12t6i6Y"
+    },
+    {
         "title": "Kyverno: a policy engine designed for Kubernetes",
         "name": "Kubefirst Live",
         "url": "https://konstruct.io",
@@ -815,7 +823,8 @@
         "date": "2023-05-18",
         "type": "livestream",
         "slides": "https://fred.dev/slides/Cloud-Native-Podcast-GitOps-Kubefirst.pdf",
-        "video": "https://www.youtube.com/watch?v=OIJqNX-jQTc&t=3s"
+        "video": "https://www.youtube.com/watch?v=OIJqNX-jQTc&t=3s",
+        "comment": "It's called a podcast, but it's a livestream"
     },
     {
         "title": "Deep dive on kubefirst SSO & OIDC",
