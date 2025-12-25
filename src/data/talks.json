@@ -859,6 +859,14 @@
         "video": "https://www.youtube.com/watch?v=RLmU472lync"
     },
     {
+        "title": "Growing in Open Source with KubeFirst",
+        "name": "KubeSkills",
+        "url": "https://kubeskills.com",
+        "date": "2023-05-18",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=NMZxuazgaRM"
+    },
+    {
         "title": "GitOps with Kubefirst deploy and iterate faster | Ep 77",
         "name": "Cloud Native Podcast",
         "url": "https://www.youtube.com/@cloudnativefm",
