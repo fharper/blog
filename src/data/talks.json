@@ -44,6 +44,14 @@
         "video": "https://www.youtube.com/watch?v=Uq5NNE-f7ts"
     },
     {
+        "title": "3526: TinyMCE and the Human Side of Developer Experience",
+        "name": "The Tech Talks Daily Podcast",
+        "url": "https://techblogwriter.co.uk/podcast/",
+        "date": "2025-12-22",
+        "type": "podcast",
+        "audio": "https://techblogwriter.co.uk/tinymce/"
+    },
+    {
         "title": "devrelshow episode 42 - Sonali Srivastava from InfraCloud Technologies",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
