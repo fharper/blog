@@ -6,7 +6,7 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, and was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %}.</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, and was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %} (incomplete list, adding them here slowly).</p>
 
 <div class="tabs-container">
   <div class="tabs">
