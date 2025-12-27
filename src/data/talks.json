@@ -1063,6 +1063,14 @@
         "type": "talk"
     },
     {
+        "title": "Introduction to Meilisearch | Rawkode Live",
+        "name": "Rawkode Live",
+        "url": "https://www.youtube.com/@RawkodeAcademy/streams",
+        "date": "2021-02-16",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=SJl2UWfy1nk"
+    },
+    {
         "title": "Scale your startup architecture",
         "name": "Lunch & Learn with GSV LABS",
         "url": "https://tockify.com/gsvlabs/detail/448/1581019200000?startms=1580544000000",
