@@ -1938,7 +1938,14 @@
         "slides": "http://www.slideshare.net/fredericharper/firefox-os-a-startup-opportunity-mobile-startups-toronto-html-toronto-meetup-20140108",
         "video": "http://www.youtube.com/watch?v=lHWGeeIwBcY",
         "details": "https://outofcomfortzone.net/2014/01/09/firefox-os-love-toronto/"
-
+    },
+    {
+        "title": "#StreamingSunday January 5th 2014",
+        "name": "HTML Toronto",
+        "url": "https://www.youtube.com/@HTMLToronto/streams",
+        "date": "2014-01-05",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=MQAfA7k5MVk"
     },
     {
         "title": "Firefox OS, the platform you deserve",
