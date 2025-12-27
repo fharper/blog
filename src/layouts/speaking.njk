@@ -6,13 +6,16 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, and was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %} (incomplete list, adding them here slowly).</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %}, and presented {{ groupedTalks.webinarStats.past }} webinar{% if groupedTalks.webinarStats.past != 1 %}s{% endif %}.</p>
+
+<p class="note"><em>Note: This list is not complete yet. I'm still adding past speaking engagements.</em></p>
 
 <div class="tabs-container">
   <div class="tabs">
     <button class="tab-button active" data-tab="talks">Talks</button>
     <button class="tab-button" data-tab="livestreams">Livestreams</button>
     <button class="tab-button" data-tab="podcasts">Podcasts</button>
+    <button class="tab-button" data-tab="webinars">Webinars</button>
   </div>
 
   <!-- Talks Tab Content -->
@@ -88,6 +91,32 @@ layout: base.njk
       <p>{{ groupedTalks.pastPodcasts[year].length }} podcast{% if groupedTalks.pastPodcasts[year].length != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.pastPodcasts[year] %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <!-- Webinars Tab Content -->
+  <div id="webinars-tab" class="tab-content">
+    <h2 id="upcoming-webinars">Upcoming</h2>
+    {% if groupedTalks.webinarStats.upcoming > 0 %}
+      <p>{{ groupedTalks.webinarStats.upcoming }} webinar{% if groupedTalks.webinarStats.upcoming != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.upcomingWebinars %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <span class="count">(no webinar)</span>
+      <p>More webinars coming soon, stay tuned!</p>
+    {% endif %}
+
+    {% for year in groupedTalks.pastWebinarYears %}
+      <h2 id="past-webinar-{{ year }}">{{ year }}</h2>
+      <p>{{ groupedTalks.pastWebinars[year].length }} webinar{% if groupedTalks.pastWebinars[year].length != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.pastWebinars[year] %}
           {% include "talk-item.njk" %}
         {% endfor %}
       </div>

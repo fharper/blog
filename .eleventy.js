@@ -195,9 +195,12 @@ module.exports = function (eleventyConfig) {
         pastLivestreams: {},
         upcomingPodcasts: [],
         pastPodcasts: {},
+        upcomingWebinars: [],
+        pastWebinars: {},
         stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0 },
         livestreamStats: { total: 0, past: 0, upcoming: 0 },
-        podcastStats: { total: 0, past: 0, upcoming: 0 }
+        podcastStats: { total: 0, past: 0, upcoming: 0 },
+        webinarStats: { total: 0, past: 0, upcoming: 0 }
       };
     }
 
@@ -209,6 +212,8 @@ module.exports = function (eleventyConfig) {
       pastLivestreams: {},
       upcomingPodcasts: [],
       pastPodcasts: {},
+      upcomingWebinars: [],
+      pastWebinars: {},
       stats: {
         total: 0,
         past: 0,
@@ -226,6 +231,11 @@ module.exports = function (eleventyConfig) {
         total: 0,
         past: 0,
         upcoming: 0
+      },
+      webinarStats: {
+        total: 0,
+        past: 0,
+        upcoming: 0
       }
     };
 
@@ -235,6 +245,7 @@ module.exports = function (eleventyConfig) {
       const talkDate = new Date(talk.date + 'T23:59:59Z');
       const isLivestream = talk.type && talk.type.toLowerCase() === 'livestream';
       const isPodcast = talk.type && talk.type.toLowerCase() === 'podcast';
+      const isWebinar = talk.type && talk.type.toLowerCase() === 'webinar';
 
       if (isLivestream) {
         result.livestreamStats.total++;
@@ -263,6 +274,20 @@ module.exports = function (eleventyConfig) {
           }
           result.pastPodcasts[year].push(talk);
           result.podcastStats.past++;
+        }
+      } else if (isWebinar) {
+        result.webinarStats.total++;
+
+        if (talkDate.getTime() > now.getTime()) {
+          result.upcomingWebinars.push(talk);
+          result.webinarStats.upcoming++;
+        } else {
+          const year = talkDate.getFullYear();
+          if (!result.pastWebinars[year]) {
+            result.pastWebinars[year] = [];
+          }
+          result.pastWebinars[year].push(talk);
+          result.webinarStats.past++;
         }
       } else {
         result.stats.total++;
@@ -294,6 +319,7 @@ module.exports = function (eleventyConfig) {
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
     result.pastLivestreamYears = Object.keys(result.pastLivestreams).sort((a, b) => b - a);
     result.pastPodcastYears = Object.keys(result.pastPodcasts).sort((a, b) => b - a);
+    result.pastWebinarYears = Object.keys(result.pastWebinars).sort((a, b) => b - a);
 
     return result;
   });

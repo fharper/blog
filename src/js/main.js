@@ -33,12 +33,12 @@ document.addEventListener('DOMContentLoaded', function() {
   // Handle initial load with hash
   const hash = window.location.hash.slice(1); // Remove the # symbol
 
-  if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts')) {
+  if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars')) {
     switchTab(hash);
   } else if (window.location.href.includes('#')) {
     // Handle cases where URL might be /speaking#livestreams without the slash
     const urlHash = window.location.href.split('#')[1];
-    if (urlHash && (urlHash === 'talks' || urlHash === 'livestreams' || urlHash === 'podcasts')) {
+    if (urlHash && (urlHash === 'talks' || urlHash === 'livestreams' || urlHash === 'podcasts' || urlHash === 'webinars')) {
       switchTab(urlHash);
     }
   }
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Handle hash changes (back/forward browser buttons)
   window.addEventListener('hashchange', function() {
     const hash = window.location.hash.slice(1);
-    if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts')) {
+    if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars')) {
       switchTab(hash);
     }
   });
