@@ -80,6 +80,13 @@
         "slides": "https://fred.dev/slides/2025-11-24_-_MoodleMoot_Australia_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
     },
     {
+        "title": "Full Page HTML Editing: How to build and send emails with TinyMCE",
+        "name": "TinyMCE Webinar Series",
+        "url": "https://app.zuddl.com/tinycloud/p/a/event/e3f4c9a6-0757-4511-aedc-9b7b2edadbc0",
+        "date": "2025-11-20",
+        "type": "webinar"
+    },
+    {
         "title": "devrelshow episode 41 - Ondřej Chrastina from CKEditor",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
@@ -119,6 +126,14 @@
         "date": "2025-09-30",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=slkCXoJFokI"
+    },
+    {
+        "title": "Better Together: Building Collaborative Content Experiences with TinyMCE",
+        "name": "TinyMCE Webinar Series",
+        "url": "https://app.zuddl.com/tinycloud/p/a/event/2a972314-78dc-443a-9203-596557912461",
+        "date": "2025-09-24",
+        "type": "webinar",
+        "video": "https://www.youtube.com/watch?v=krFPw0Buneg"
     },
     {
         "title": "Accessible by Design: How On-the-Spot Accessibility Checking Transforms Course Creation in Moodle",
