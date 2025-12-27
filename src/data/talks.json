@@ -1115,6 +1115,14 @@
         "type": "talk"
     },
     {
+        "title": "A DigitalOcean Workshop: Get Started with Containers and Kubernetes",
+        "name": "DigitalOcean Webinar Series",
+        "url": "https://www.digitalocean.com",
+        "date": "2020-01-16",
+        "type": "webinar",
+        "video": "https://www.youtube.com/watch?v=7WOgYfZgSf0"
+    },
+    {
         "title": "Get Started with Containers and Kubernetes",
         "name": "DigitalOcean",
         "url": "https://register.gotowebinar.com/register/126771895295271437",
