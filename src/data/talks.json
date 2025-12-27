@@ -96,6 +96,14 @@
         "video": "https://www.youtube.com/watch?v=nxlO7Vt6ENE"
     },
     {
+        "title": "TinyMCE with Frédéric Harper!",
+        "name": "TuxCare Livestream",
+        "url": "https://www.youtube.com/@TuxCare/streams",
+        "date": "2025-11-05",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=U8Qnzm-5Ac4"
+    },
+    {
         "title": "devrelshow episode 40 - Eric Koleda from Grammarly",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
