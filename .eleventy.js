@@ -197,7 +197,7 @@ module.exports = function (eleventyConfig) {
         pastPodcasts: {},
         upcomingWebinars: [],
         pastWebinars: {},
-        stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0 },
+        stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0, panels: 0 },
         livestreamStats: { total: 0, past: 0, upcoming: 0 },
         podcastStats: { total: 0, past: 0, upcoming: 0 },
         webinarStats: { total: 0, past: 0, upcoming: 0 }
@@ -220,7 +220,8 @@ module.exports = function (eleventyConfig) {
         upcoming: 0,
         cities: new Set(),
         countries: new Set(),
-        keynotes: 0
+        keynotes: 0,
+        panels: 0
       },
       livestreamStats: {
         total: 0,
@@ -303,8 +304,14 @@ module.exports = function (eleventyConfig) {
           result.past[year].push(talk);
           result.stats.past++;
 
-          if (talk.type && talk.type.toLowerCase() === 'keynote') {
+          const talkType = talk.type ? talk.type.toLowerCase() : '';
+
+          if (talkType === 'keynote') {
             result.stats.keynotes++;
+          }
+
+          if (talkType === 'panel') {
+            result.stats.panels++;
           }
 
           result.stats.cities.add(talk.city);
