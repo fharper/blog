@@ -1190,7 +1190,8 @@
         "city": "Nantes, France",
         "type": "talk",
         "video" : "https://www.youtube.com/watch?v=qAk2pmiyWJg",
-        "slides" : "https://fred.dev/slides/personal-branding-devfest-nantes.pdf"
+        "slides" : "https://fred.dev/slides/personal-branding-devfest-nantes.pdf",
+        "comment": "The first 40 seconds is in French, but the rest is in English"
     },
     {
         "title": "Scaling in the cloud with DigitalOcean",
