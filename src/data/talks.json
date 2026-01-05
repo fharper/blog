@@ -36,6 +36,13 @@
         "type": "talk"
     },
     {
+        "title": "From <textarea> to Superpowers: Building Serious Editors in Angular with TinyMCE",
+        "name": "ng-conf webinar",
+        "url": "https://ng-conf.lpages.co/tinymce-webinar-2025-main/",
+        "date": "2026-01-21",
+        "type": "webinar"
+    },
+    {
         "title": "devrelshow episode 43 - Brenna Buuck from MinIO",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
