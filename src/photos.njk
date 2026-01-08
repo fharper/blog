@@ -1,0 +1,57 @@
+---
+layout: base.njk
+title: Photo Gallery
+permalink: /photos/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}
+pagination:
+  data: photos
+  size: 12
+  alias: pagedPhotos
+---
+
+<link rel="stylesheet" href="/css/gallery.css">
+
+<div class="gallery-grid">
+  {% for photo in pagedPhotos %}
+    <figure class="gallery-item" onclick="openLightbox({{ loop.index0 }})">
+      <img src="{{ photo.src }}" alt="{{ photo.alt }}" loading="lazy">
+      <figcaption>
+        <div class="caption-text">{{ photo.title }}</div>
+        <div class="caption-date">{{ photo.date }}</div>
+      </figcaption>
+    </figure>
+  {% endfor %}
+</div>
+
+<!-- Pagination -->
+<nav class="pagination" aria-label="Photo pagination">
+  {% if pagination.href.previous %}
+    <a href="{{ pagination.href.previous }}" class="pagination-link">&larr; Newer</a>
+  {% else %}
+    <span class="pagination-link disabled">&larr; Newer</span>
+  {% endif %}
+
+  <span class="pagination-info">
+    Page {{ pagination.pageNumber + 1 }} of {{ pagination.pages.length }}
+  </span>
+
+  {% if pagination.href.next %}
+    <a href="{{ pagination.href.next }}" class="pagination-link">Older &rarr;</a>
+  {% else %}
+    <span class="pagination-link disabled">Older &rarr;</span>
+  {% endif %}
+</nav>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox(event)">
+  <span class="close" onclick="closeLightbox(event)">&times;</span>
+  <div class="lightbox-image-container">
+    <img class="lightbox-content" id="lightbox-img">
+  </div>
+  <div class="lightbox-caption-hover" id="lightbox-caption"></div>
+</div>
+
+<script>
+  const photosData = {{ pagedPhotos | dump | safe }};
+  const allPhotos = {{ photos | dump | safe }};
+</script>
+<script src="/js/gallery.js"></script>

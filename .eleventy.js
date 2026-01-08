@@ -171,6 +171,15 @@ module.exports = function (eleventyConfig) {
   // Add docs
   eleventyConfig.addPassthroughCopy({ 'src/docs/': 'docs/' });
 
+  // Add photos
+  eleventyConfig.addPassthroughCopy({ 'src/photos/': 'photos/' });
+
+  // Add CSS
+  eleventyConfig.addPassthroughCopy({ 'src/css/': 'css/' });
+
+  // Add JS
+  eleventyConfig.addPassthroughCopy({ 'src/js/': 'js/' });
+
   //Pinned posts
   //Usage:
   //

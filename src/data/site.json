@@ -30,6 +30,11 @@
       "external": false
     },
     {
+      "text": "Photos",
+      "url": "/photos",
+      "external": false
+    },
+    {
       "text": "ideas",
       "url": "/ideas",
       "external": false
