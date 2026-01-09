@@ -27,6 +27,13 @@
         "type": "talk"
     },
     {
+        "title": "TBD",
+        "name": "The Dev Life",
+        "url": "https://www.youtube.com/playlist?list=PLOETEcp3DkCoITukX3OQLItbmH7WPuiYk",
+        "date": "2026-02-23",
+        "type": "podcast"
+    },
+    {
         "title": "AI for senior developers: the wins, the risks, and the blind spots",
         "name": "MTL_code",
         "url": "https://luma.com/user/Botpress",
