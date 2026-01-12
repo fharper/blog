@@ -1,5 +1,14 @@
 [
     {
+        "title": "TBD",
+        "name": "Nerdearla Buenos Aires",
+        "url": "https://nerdear.la/en/",
+        "country": "ar",
+        "city": "Buenos Aires, Argentina",
+        "date": "2026-09-22",
+        "type": "talk"
+    },
+    {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
         "name": "MoodleMoot Canada",
         "url": "https://www.catalyst-ca.net/moodle-moot-event-canada",
