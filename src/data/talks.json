@@ -9,6 +9,15 @@
         "type": "talk"
     },
     {
+        "title": "TBD",
+        "name": "Nerdearla Santiago",
+        "url": "https://nerdearla.cl/en/",
+        "country": "cl",
+        "city": "Santiago, Chile",
+        "date": "2026-04-16",
+        "type": "talk"
+    },
+    {
         "title": "Tiny but mighty: TinyMCE in Umbraco 17",
         "name": "Umbraco Spark Innovation Conference",
         "url": "https://umbracospark.com/",
