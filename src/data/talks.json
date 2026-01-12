@@ -79,6 +79,15 @@
         "type": "talk"
     },
     {
+        "title": "Surviving the JavaScript package managers jungle",
+        "name": "JS-MONTREAL",
+        "url": "https://www.meetup.com/js-montreal/events/311194449/",
+        "country": "ca",
+        "city": "Montréal, Canada",
+        "date": "2026-02-10",
+        "type": "talk"
+    },
+    {
         "title": "From <textarea> to Superpowers: Building Serious Editors in Angular with TinyMCE",
         "name": "ng-conf webinar",
         "url": "https://ng-conf.lpages.co/tinymce-webinar-2026-main/",
