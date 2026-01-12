@@ -1,6 +1,15 @@
 [
     {
         "title": "TBD",
+        "name": "Nerdearla Mexico City",
+        "url": "https://nerdearla.mx/en/",
+        "country": "mx",
+        "city": "Mexico City, Mexico",
+        "date": "2026-11-01",
+        "type": "talk"
+    },
+    {
+        "title": "TBD",
         "name": "Nerdearla Buenos Aires",
         "url": "https://nerdear.la/en/",
         "country": "ar",
