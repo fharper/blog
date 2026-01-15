@@ -158,7 +158,8 @@
         "name": "TinyMCE Webinar Series",
         "url": "https://app.zuddl.com/tinycloud/p/a/event/e3f4c9a6-0757-4511-aedc-9b7b2edadbc0",
         "date": "2025-11-20",
-        "type": "webinar"
+        "type": "webinar",
+        "video": "https://www.youtube.com/watch?v=SiTB49YhO3k"
     },
     {
         "title": "devrelshow episode 41 - Ondřej Chrastina from CKEditor",
