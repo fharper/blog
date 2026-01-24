@@ -1,7 +1,7 @@
 ---
 title: "My Home Office & Recording Setup"
 date: "2020-10-07"
-tags: 
+tags:
   - "applications"
   - "audio"
   - "developer-advocate"
