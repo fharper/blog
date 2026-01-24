@@ -14,9 +14,7 @@ image: "IMG_1776.jpeg"
 slug: "uses"
 ---
 
-```
-The picture isn't updated: I have new monitors & rearranged the light arms for cleaner desk.
-```
+__The picture isn't updated: I have new monitors & rearranged the light arms for cleaner desk.__
 
 Disclaimer : I invested a lot of money in my physical setup. Keep in mind that online conferences and video recording, even if fun, are part of my job. I'm also working remotely for the last ten years. I'm privileged enough to be able to afford the tools I wanted to get a high-quality job done.
 
@@ -33,13 +31,13 @@ Terminal: [iTerm2](https://www.iterm2.com/) with robbyrussell theme & [seti](htt
 ### IDEs
 
 - [Vim](https://www.vim.org) with [Vundle](https://github.com/VundleVim/Vundle.vim) & following plugins:
-    - [vim-airline](https://github.com/vim-airline/vim-airline): status bar
-    - [vim-jfmt](https://github.com/bcicen/vim-jfmt): JSON prettier
-    - [vim-plist](https://github.com/darfink/vim-plist): plist files editor
-    - [vim-superman](https://github.com/jez/vim-superman): read man pages with vim
+  - [vim-airline](https://github.com/vim-airline/vim-airline): status bar
+  - [vim-jfmt](https://github.com/bcicen/vim-jfmt): JSON prettier
+  - [vim-plist](https://github.com/darfink/vim-plist): plist files editor
+  - [vim-superman](https://github.com/jez/vim-superman): read man pages with vim
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### **Browser**
+### Browser
 
 I'm using Google Chrome at the moment, with [these extensions](https://fred.dev/chrome-extensions/).
 
@@ -61,17 +59,15 @@ Speakers: [Bose Companion 2 Series III](https://www.bose.ca/en_ca/products/speak
 
 ### Video
 
-Camera (for recording videos): [Sony Alpha a6400](https://www.amazon.ca/gp/product/B07MV3P7M8) with a [dummy battery](https://www.amazon.ca/gp/product/B01D67LTIK) for power & [Elgato Cam Link 4K](https://www.amazon.ca/gp/product/B07K3FN5MR) to get the signal to my computer.
+Webcam: [Insta360 Link](https://www.insta360.com/product/insta360-link)
 
-Webcam (for meetings): [Logitech 4K Pro Webcam](https://www.logitech.com/en-ca/products/webcams/4kprowebcam.960-001390.html)
-
-Lights: 3 x [Elgato Key Lights](https://www.amazon.ca/gp/product/B07L755X9G) mounted on the top of [Vivo Dual Monitor Desk Mounts](https://vivo-us.com/products/stand-v002t) & attached with [VIVO VESA Adapter Bracket Kit](https://vivo-us.com/products/stand-vad1b)
+Lights: 3 x [Elgato Key Lights](https://www.amazon.ca/gp/product/B07L755X9G) mounted on the top of [Vivo Dual Monitor Desk Mounts](https://vivo-us.com/products/stand-v002t) & attached with [VIVO VESA Adapter Bracket Kit](https://vivo-us.com/products/stand-vad1)
 
 Green Screen: [Elgato Green Screen XL](https://www.elgato.com/us/en/p/green-screen-xl)
 
 ## Desk Setup
 
-Computer: [MacBook Pro](https://www.apple.com/ca/mac/) M1 Pro 14-inch 2021 edition
+Computer: [Apple MacBook Pro](https://www.apple.com/ca/mac/) M4 Pro 14-inch 2024 edition
 
 Desk: standing desk from [Ergonofis](https://ergonofis.com/)
 
@@ -91,17 +87,9 @@ Monitors: 2 x [Dell 32 Curved 4K UHD Monitor](https://www.dell.com/en-ca/shop/de
 
 Remote: [Logitech Spotlight](https://www.logitech.com/en-ca/products/presenters/spotlight-presentation-remote.910-004984.html)
 
-Teleprompter: a generic [teleprompter setup](https://www.amazon.ca/gp/product/B08DHFC7G2/) on the 3rd [Vivo Dual Monitor Desk Mounts](https://vivo-us.com/products/stand-v002t) with a basic [iPad 10.2 inches](https://www.apple.com/ca/ipad-10.2/)
-
 ## Misc
 
-Coffee Mug: [Ember Mug² 10oz black](https://ca.ember.com/products/ember-mug-2?variant=34665440280737)
-
-Light Therapy: [HOSOME 10,000 Lux LED Therapy Light](https://www.amazon.ca/gp/product/B07X1H2R65/) mounted on a [Universal VESA Holder for Tablets](https://vivo-us.com/products/mount-uvm02)
-
 Smartphone: [Apple iPhone 15 Pro](https://www.apple.com/ca/iphone-15-pro/)
-
- 
 
 That's it! I'll try to keep that article up to date when I change my equipment. I'm always open to suggestions about my setup since it's always a work-in-progress. Also, feel free to ask any questions I may not have answered here or let me know if I missed something.
 
