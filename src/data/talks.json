@@ -103,19 +103,20 @@
         "type": "webinar"
     },
     {
+        "title": "Is Developer Relations Right for You? An Honest Breakdown With Fred Harper",
+        "name": "Dev Leader Podcast",
+        "url": "https://creators.spotify.com/pod/profile/dev-leader/",
+        "date": "2026-01-19",
+        "type": "podcast",
+        "audio": "https://creators.spotify.com/pod/profile/dev-leader/episodes/Is-Developer-Relations-Right-for-You--An-Honest-Breakdown-With-Fred-Harper-e3dl91m"
+    },
+    {
         "title": "devrelshow episode 43 - Brenna Buuck from MinIO",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
         "date": "2026-01-08",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=Uq5NNE-f7ts"
-    },
-    {
-        "title": "TBD",
-        "name": "Dev Leader Podcast",
-        "url": "https://creators.spotify.com/pod/profile/dev-leader/",
-        "date": "2026-01-07",
-        "type": "podcast"
     },
     {
         "title": "3526: TinyMCE and the Human Side of Developer Experience",
