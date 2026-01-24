@@ -71,6 +71,7 @@ module.exports = function (eleventyConfig) {
 
   //Broken links plugins
   eleventyConfig.addPlugin(brokenLinksPlugin, {
+    forbidden: "error",
     exclude: [
       "https://vivo-us.com*"
     ]
