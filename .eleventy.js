@@ -70,7 +70,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(embedYouTube);
 
   //Broken links plugins
-  eleventyConfig.addPlugin(brokenLinksPlugin);
+  eleventyConfig.addPlugin(brokenLinksPlugin, {
+    exclude: [
+      "https://vivo-us.com*"
+    ]
+  });
 
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
