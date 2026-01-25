@@ -115,7 +115,8 @@
         "url": "https://creators.spotify.com/pod/profile/dev-leader/",
         "date": "2026-01-19",
         "type": "podcast",
-        "audio": "https://creators.spotify.com/pod/profile/dev-leader/episodes/Is-Developer-Relations-Right-for-You--An-Honest-Breakdown-With-Fred-Harper-e3dl91m"
+        "audio": "https://creators.spotify.com/pod/profile/dev-leader/episodes/Is-Developer-Relations-Right-for-You--An-Honest-Breakdown-With-Fred-Harper-e3dl91m",
+        "video": "https://www.youtube.com/watch?v=wps_g0NIQ9c"
     },
     {
         "title": "devrelshow episode 43 - Brenna Buuck from MinIO",
