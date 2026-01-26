@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add active class to clicked button and corresponding content
     const targetButton = document.querySelector(`[data-tab="${targetTab}"]`);
     const targetContent = document.getElementById(targetTab + '-tab');
-
+    
     if (targetButton && targetContent) {
       targetButton.classList.add('active');
       targetContent.classList.add('active');
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     button.addEventListener('click', function() {
       const targetTab = this.getAttribute('data-tab');
       switchTab(targetTab);
-
+      
       // Update URL hash without scrolling
       history.pushState(null, null, '#' + targetTab);
     });
@@ -32,13 +32,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Handle initial load with hash
   const hash = window.location.hash.slice(1); // Remove the # symbol
-
-  if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars')) {
+  
+  if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars' || hash === 'interviews')) {
     switchTab(hash);
   } else if (window.location.href.includes('#')) {
     // Handle cases where URL might be /speaking#livestreams without the slash
     const urlHash = window.location.href.split('#')[1];
-    if (urlHash && (urlHash === 'talks' || urlHash === 'livestreams' || urlHash === 'podcasts' || urlHash === 'webinars')) {
+    if (urlHash && (urlHash === 'talks' || urlHash === 'livestreams' || urlHash === 'podcasts' || urlHash === 'webinars' || urlHash === 'interviews')) {
       switchTab(urlHash);
     }
   }
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Handle hash changes (back/forward browser buttons)
   window.addEventListener('hashchange', function() {
     const hash = window.location.hash.slice(1);
-    if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars')) {
+    if (hash && (hash === 'talks' || hash === 'livestreams' || hash === 'podcasts' || hash === 'webinars' || hash === 'interviews')) {
       switchTab(hash);
     }
   });

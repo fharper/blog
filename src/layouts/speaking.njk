@@ -6,7 +6,9 @@ layout: base.njk
 
 {% set groupedTalks = talks | groupTalksByYear %}
 
-<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes, {{ groupedTalks.stats.panels }} panels) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %}, and presented {{ groupedTalks.webinarStats.past }} webinar{% if groupedTalks.webinarStats.past != 1 %}s{% endif %}.</p>
+<p class="events">I gave {{ groupedTalks.stats.past }} talks ({{ groupedTalks.stats.keynotes }} keynotes, {{ groupedTalks.stats.panels }} panels) in {{ groupedTalks.stats.cities }} different cities from {{ groupedTalks.stats.countries }} unique countries, did {{ groupedTalks.livestreamStats.past }} livestream{% if groupedTalks.livestreamStats.past != 1 %}s{% endif %}, was on {{ groupedTalks.podcastStats.past }} podcast{% if groupedTalks.podcastStats.past != 1 %}s{% endif %}, presented {{ groupedTalks.webinarStats.past }} webinar{% if groupedTalks.webinarStats.past != 1 %}s{% endif %}, and hosted {{ groupedTalks.interviewStats.past }} interview{% if groupedTalks.interviewStats.past != 1 %}s{% endif %}.</p>
+
+<p class="note"><em>Note: This list is not complete yet. I'm still adding past speaking engagements.</em></p>
 
 <div class="tabs-container">
   <div class="tabs">
@@ -14,6 +16,7 @@ layout: base.njk
     <button class="tab-button" data-tab="livestreams">Livestreams</button>
     <button class="tab-button" data-tab="podcasts">Podcasts</button>
     <button class="tab-button" data-tab="webinars">Webinars</button>
+    <button class="tab-button" data-tab="interviews">Interviews</button>
   </div>
 
   <!-- Talks Tab Content -->
@@ -112,6 +115,31 @@ layout: base.njk
       <p>{{ groupedTalks.pastWebinars[year].length }} webinar{% if groupedTalks.pastWebinars[year].length != 1 %}s{% endif %}</p>
       <div class="talks">
         {% for event in groupedTalks.pastWebinars[year] %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <!-- Interviews Tab Content -->
+  <div id="interviews-tab" class="tab-content">
+    <h2 id="upcoming-interviews">Upcoming</h2>
+    {% if groupedTalks.interviewStats.upcoming > 0 %}
+      <p>{{ groupedTalks.interviewStats.upcoming }} interview{% if groupedTalks.interviewStats.upcoming != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.upcomingInterviews %}
+          {% include "talk-item.njk" %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <p>More interviews coming soon, stay tuned!</p>
+    {% endif %}
+
+    {% for year in groupedTalks.pastInterviewYears %}
+      <h2 id="past-interview-{{ year }}">{{ year }}</h2>
+      <p>{{ groupedTalks.pastInterviews[year].length }} interview{% if groupedTalks.pastInterviews[year].length != 1 %}s{% endif %}</p>
+      <div class="talks">
+        {% for event in groupedTalks.pastInterviews[year] %}
           {% include "talk-item.njk" %}
         {% endfor %}
       </div>

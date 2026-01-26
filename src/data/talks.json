@@ -127,6 +127,14 @@
         "video": "https://www.youtube.com/watch?v=Uq5NNE-f7ts"
     },
     {
+        "title": "MoodleMoot Australia, Interview with Berta Rincon",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-12-22",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=uR5lazuJffs"
+    },
+    {
         "title": "3526: TinyMCE and the Human Side of Developer Experience",
         "name": "The Tech Talks Daily Podcast",
         "url": "https://techblogwriter.co.uk/podcast/",
@@ -143,6 +151,14 @@
         "video": "https://www.youtube.com/watch?v=F_NNue6n3dY"
     },
     {
+        "title": "MoodleMoot Australia, Interview with Marie Achour",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-12-10",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=SSvOKvf0imY"
+    },
+    {
         "title": "Tiny but mighty: TinyMCE in Umbraco 17",
         "name": "Sydney Umbraco Meetup",
         "url": "https://www.meetup.com/sydney-umbraco-meetup/events/311741624/",
@@ -151,6 +167,14 @@
         "date": "2025-11-27",
         "type": "talk",
         "slides": "https://fred.dev/slides/2025-11-27_-_Sydney_Umbraco_-_Tiny_but_mighty__TinyMCE_in_Umbraco_17.pdf"
+    },
+    {
+        "title": "JS Nation US, Interview with Michael Sonier",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-11-25",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=RvVTpaQqiwo"
     },
     {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
@@ -179,12 +203,28 @@
         "video": "https://www.youtube.com/watch?v=lRJLmffQC4M"
     },
     {
+        "title": "JSConf US, Interview with Robin Bender Ginn",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-11-12",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=KCuRFKYSOqs"
+    },
+    {
         "title": "How to build a developer relations team w/ Frederic Harper",
         "name": "Everything Outside Code Podcast",
         "url": "https://hackmamba.io/eoc-podcast/",
         "date": "2025-11-12",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=nxlO7Vt6ENE"
+    },
+    {
+        "title": "JSConf US, Interview with Seth Webster",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-11-05",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=JkuaOIVycAQ"
     },
     {
         "title": "TinyMCE with Frédéric Harper!",
@@ -202,6 +242,46 @@
         "type": "podcast",
         "video": "https://www.youtube.com/watch?v=UxYVf5ZAkXs",
         "audio": "https://bas.fm/e/19"
+    },
+    {
+        "title": "Umbraco US Festival, Interview with Janae Cram",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-10-28",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=Qz5CHnM3D0Y"
+    },
+    {
+        "title": "Umbraco US Festival, Interview with Emma Burstow",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-10-24",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=JDxLYMd9niA"
+    },
+    {
+        "title": "Umbraco US Festival, Interview with Angela Wolak",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-10-16",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=mWN4bkQC2Uw"
+    },
+    {
+        "title": "Umbraco US Festival, Interview with Allen Smith",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-10-10",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=aa_dtcJ5B9g"
+    },
+    {
+        "title": "EvolveDigital, Interview with Maya Schaeffer",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2025-10-02",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=t7PgImjlSgU"
     },
     {
         "title": "devrelshow episode 40 - Eric Koleda from Grammarly",
