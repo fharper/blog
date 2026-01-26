@@ -12,7 +12,7 @@ image: "semicolon.jpg"
 slug: "mentalhealth"
 ---
 
-\[wppd\_disclaimer title="Content Warning" title\_tag="h1" style="yellow" icon="fa fa-exclamation-triangle" icon\_size="lg"\]This article content sensitive topics that could trigger past trauma or make you uncomfortable. i.e.: suicidal thoughts, depression, mental health\[/wppd\_disclaimer\]
+**Content Warning: This article content sensitive topics that could trigger past trauma or make you uncomfortable. i.e.: suicidal thoughts, depression, mental health.**
 
 A little more than a year ago (2015), my life was perfect. At least, from my own point of view. I was engaged to the most formidable woman I ever knew and we were living in our beautiful spacious condo with our kids, our three cats. People were paying me very well to share my passion about technology, and travel all over the world to help developers succeed with their projects. My friends and family were an important part of my life and even if I wasn’t the healthiest man on earth, I had no real health issues. I was happy and I couldn’t ask for more… Until my world collapsed.
 
