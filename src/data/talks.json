@@ -997,7 +997,8 @@
         "url": "https://kubeskills.com",
         "date": "2023-05-18",
         "type": "livestream",
-        "video": "https://www.youtube.com/watch?v=NMZxuazgaRM"
+        "video": "https://www.youtube.com/watch?v=NMZxuazgaRM",
+        "comment": "I was a guest with John Dietz & Jared Edwards"
     },
     {
         "title": "GitOps with Kubefirst deploy and iterate faster | Ep 77",
