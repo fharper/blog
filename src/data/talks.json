@@ -798,7 +798,8 @@
         "url": "https://www.civo.com",
         "date": "2023-11-29",
         "type": "livestream",
-        "video": "https://www.youtube.com/live/03dAJ3in8wM"
+        "video": "https://www.youtube.com/live/03dAJ3in8wM",
+        "comment": "I was a guest with John Dietz"
     },
     {
         "title": "Reloader: live reloading made easy",
