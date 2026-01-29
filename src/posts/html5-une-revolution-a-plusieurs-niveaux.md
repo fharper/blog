@@ -97,4 +97,4 @@ Voici quelques ressources et liens vers des exemples que j'ai utilisé durant ma
 - jsFiddle: [https://jsfiddle.net](https://jsfiddle.net)
 - Visual Studio 2012 Express for Web: [https://j.mp/W7BLuZ](https://j.mp/W7BLuZ)
 
-Et bien sûr, [HTML5mtl](https://html5mtl.ca). Donc, essayez le et amusez-vous avec HTML5.
+Et bien sûr, [HTML5mtl](https://www.meetup.com/html5mtl/). Donc, essayez le et amusez-vous avec HTML5.

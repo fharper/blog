@@ -7,7 +7,7 @@ image: "Meetup-Logo-1300x730-1.png"
 slug: "my-5-rules-to-be-a-good-meetup-com-citizen"
 ---
 
-I've been using [meetup.com](https://meetup.com "Meetup website") for many years as an attendee, but also as an organizer of [HTML5mtl](https://html5mtl.ca "HTML5mtl meetup.com page") and [Yuldev](https://www.meetup.com/YulDev/ "Yuldev meetup.com page"). I think I can say it's now the de facto platform for anyone who wants to create a user group. Since I'm using it a lot, I wanted to share with you some of my rules to be a good citizen on that platform.
+I've been using [meetup.com](https://meetup.com "Meetup website") for many years as an attendee, but also as an organizer of [HTML5mtl](https://www.meetup.com/html5mtl/ "HTML5mtl meetup.com page") and [Yuldev](https://www.meetup.com/YulDev/ "Yuldev meetup.com page"). I think I can say it's now the de facto platform for anyone who wants to create a user group. Since I'm using it a lot, I wanted to share with you some of my rules to be a good citizen on that platform.
 
 ## Take your RSVP seriously
 
