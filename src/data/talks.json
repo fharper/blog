@@ -45,6 +45,13 @@
         "type": "talk"
     },
     {
+        "title": "From <textarea> to Superpowers: Building Serious Editors in Angular with TinyMCE",
+        "name": "ng-conf webinar",
+        "url": "https://ng-conf.lpages.co/tinymce-webinar-2026-main/",
+        "date": "2026-03-11",
+        "type": "webinar"
+    },
+    {
         "title": "TBD",
         "name": "Amsterdam DevRel Salon",
         "url": "https://www.meetup.com/amsterdam-devrel-salon/",
@@ -92,13 +99,6 @@
         "date": "2026-01-29",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=BDGvcGD07D8"
-    },
-    {
-        "title": "From <textarea> to Superpowers: Building Serious Editors in Angular with TinyMCE",
-        "name": "ng-conf webinar",
-        "url": "https://ng-conf.lpages.co/tinymce-webinar-2026-main/",
-        "date": "2026-01-21",
-        "type": "webinar"
     },
     {
         "title": "Is Developer Relations Right for You? An Honest Breakdown With Fred Harper",
