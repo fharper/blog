@@ -52,15 +52,6 @@
         "type": "webinar"
     },
     {
-        "title": "TBD",
-        "name": "Amsterdam DevRel Salon",
-        "url": "https://www.meetup.com/amsterdam-devrel-salon/",
-        "country": "nl",
-        "city": "Amsterdam, Netherlands",
-        "date": "2026-03-05",
-        "type": "talk"
-    },
-    {
         "title": "Top 5 ways to make TinyMCE dev life easier",
         "name": "TinyMCE Webinar Series",
         "url": "https://app.zuddl.com/tinycloud/p/a/event/56d0db9b-30bd-46bb-9eff-fde06f42827a",
