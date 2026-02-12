@@ -1,7 +1,7 @@
 ---
 title: "What to do in Montréal"
 date: "2019-09-20"
-tags: 
+tags:
   - "activities"
   - "drinks"
   - "festivals"
@@ -22,19 +22,20 @@ I often get asked what to do when someone is visiting my city for the first time
 ## Food
 
 - Eat poutine at [La Banquise](http://labanquise.com/en/). Some locals are saying that it's overrated, but I still think it's the best place to try this local, non-healthy specialty: take a regular one (French fries, curd cheese and gravy - that's it).
-- Eat a smoke-meat sandwich at [Schwartz's Deli](http://www.schwartzsdeli.com/). It is not that disgusting thing in the US called corned beef. You'll have the full experience at the original restaurant - not the take-out next to it - and it's cash only (they have an ATM inside). It's a small restaurant, and there is often a long line-up.
-- Eat bagels at [St-Viateur Bagel](http://www.stviateurbagel.com/) or [Fairmount Bagel](https://fairmountbagel.com/). I know you already had bagels, but you never had a good one, trust me!
-- Eat a beaver's tail at [Queues de Castor](http://beavertails.com/). It's a dessert, and obviously, not from real beaver. They have multiple locations in the city.
+- Eat a smoke-meat sandwich at [Schwartz's Deli](http://www.schwartzsdeli.com). It is not that disgusting thing in the US called corned beef. You'll have the full experience at the original restaurant - not the take-out next to it - and it's cash only (they have an ATM inside). It's a small restaurant, and there is often a long line-up.
+- Eat bagels at [St-Viateur Bagel](http://www.stviateurbagel.com) or [Fairmount Bagel](https://fairmountbagel.com). I know you already had bagels, but you never had a good one, trust me!
+- Eat a beaver's tail at [Queues de Castor](http://beavertails.com). It's a dessert, and obviously, not from real beaver. They have multiple locations in the city.
 
 ## Restaurants / Bars / Coffee Shops
 
 - [Benelux Verdun](http://www.brasseriebenelux.com/wellington) - the service is slow, but it’s a nice terrace in the west of Montréal. Go there in the summer.
-- [Dieu du Ciel](https://dieuduciel.com/en/) - A must for craft/microbrewery beer.
+- [Dieu du Ciel](https://dieuduciel.com/en) - A must for craft/microbrewery beer.
 - [Gibeau Orange Julep](https://en.wikipedia.org/wiki/Gibeau_Orange_Julep) - a landmark in Montréal.
 - [L'Auberge du Dragon Rouge](http://oyez.ca/aubergedudragonrouge/) - Old French restaurant/bar. You go there for the "show".
-- [L'île Noire Pub](http://ilenoire.com/) - Scotches & gin, best places to try the good stuff.
-- [La Distillerie](https://www.pubdistillerie.com/) (3 locations) - Cocktails served in Mason jars.
-- [Le Sainte-Élisabeth](http://www.ste-elisabeth.com/) - four-walled terrace, accessible during Spring and Autumn.
+- [L'île Noire Pub](http://ilenoire.com) - Scotches & gin, best places to try the good stuff.
+- [La Distillerie](https://www.pubdistillerie.com) (3 locations) - Cocktails served in Mason jars.
+- [Le Sainte-Élisabeth](http://www.ste-elisabeth.com) - four-walled terrace, accessible during Spring and Autumn.
+- [Les Foufounes électriques](https://www.foufouneselectriques.com/en/) - bar with multiple concert spaces, and dance floors focussing on alternative music.
 - [Terrasse Nelligan](http://terrassenelligan.com/home/) - overpriced, but one of the best terrace views in town.
 
 ## Museums
@@ -49,8 +50,8 @@ I often get asked what to do when someone is visiting my city for the first time
 - [Orchestre symphonique de Montréal](https://www.osm.ca/en/home-osm/): if you like classical music, our orchestra is world-renowned.
 - [Piknic Électronik](http://www.parcjeandrapeau.com/en/piknic-electronik-electro-music-montreal/) - electronic music every Sunday (summer only).
 - [Tam-Tams](https://en.wikipedia.org/wiki/Tam-Tams) - every Sunday during summer time, people go there to play tam tam together. If you don't smoke weed or don't like the smell (like me!), be warned...
-- [Wiggle Room](http://wiggleroom.ca/) - Burlesque show. I never went there, it's on my list since forever, but I heard great things about it.
-- We also have a lively [gay village](https://www.montrealgayvillage.com/) with many bars, restaurants, and karaoke.
+- [Wiggle Room](http://wiggleroom.ca) - Burlesque show. I never went there, it's on my list since forever, but I heard great things about it.
+- We also have a lively [gay village](https://www.montrealgayvillage.com) with many bars, restaurants, and karaoke.
 
 ## Points of interest
 
@@ -59,7 +60,7 @@ I often get asked what to do when someone is visiting my city for the first time
 - [Jean-Talon Market](https://www.marchespublics-mtl.com/en/marches/jean-talon-market/) - Not as hyped as the Atwater market, but some would say it's less overrated.
 - [La Fontaine Park](https://en.wikipedia.org/wiki/La_Fontaine_Park) - Great park, go there with friends for a BBQ or just relaxing while reading a book.
 - [Mount Royal mountain](https://www.lemontroyal.qc.ca/en) - Perfect for some time in nature and some easy hiking.
-- [Old Port](http://www.oldportofmontreal.com/) - Nice area with old buildings, tourist restaurants (read expensive) and many activities during summer time.
+- [Old Port](http://www.oldportofmontreal.com) - Nice area with old buildings, tourist restaurants (read expensive) and many activities during summer time.
 - [Saint Joseph's Oratory](https://www.saint-joseph.org/en/) - If you are religious or just like church architecture.
 
 ## Festivals
