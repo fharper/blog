@@ -93,7 +93,7 @@ Note that I don't own nor organized those events anymore: I decided to focus on 
 
 [HTML5mtl](https://www.meetup.com/HTML5mtl/), a front-end meetup I co-founded and co-organized for years.
 
-[FailCamp Montréal](http://fail.camp/): the concept isn't from me, but [I brought the first edition in my hometown](https://fred.dev/learning-from-failure-at-failcamp-montreal/).
+FailCamp Montréal _(website no longer available)_: the concept isn't from me, but [I brought the first edition in my hometown](https://fred.dev/learning-from-failure-at-failcamp-montreal/).
 
 [Geekfestmtl](https://twitter.com/geekfestmtl) (Festival Geek de Montréal), an event [I imagined](https://fred.dev/geekfest-montreal/) (in French) years ago and co-organized the first two editions.
 
