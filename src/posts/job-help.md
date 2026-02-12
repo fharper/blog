@@ -13,16 +13,22 @@ image: "7018300893_54e3b6df93_o.jpg"
 slug: "job-help"
 ---
 
+_Last updated on February 12 2026._
+
 There is no secret there: the love, support, and help of the global tech community is one of the reasons I consider myself successful today. Recognizing it, I try to give back as much as I can. One of my pleasures is to use trust, reputation, and relationships to be a [trust agent](https://www.amazon.ca/Trust-Agents-Influence-Improve-Reputation-ebook/dp/B003VWCQBK/ "The book Trust Agents: Using the Web to Build Influence, Improve Reputation, and Earn Trust by Julien Smith and Chris Brogan"). Part of it is about helping others to find a job or a new employee. Since I get a lot of requests, here is how you can help me... helping you.
 
-## Looking for a job or a contract?
+## Looking for a job?
 
-There are two things I can do for you: sharing your profile publicly on LinkedIn, and Twitter or putting you in relation with someone I'm connected to at a company where there is an open position that is interesting for you. I rarely know someone hiring as when I'm not searching for work myself, I don't pay attention.
+There are three things I can do for you if you are looking for your next role.
 
-In any cases, I'll need your LinkedIn profile, and Twitter profile if you are there also (if not, it's fine, I'll still share it there, but won't be able to tag you). I'll also need a short but clear, and short description of what you are looking for.
+Firstly, if you wrote a post on LinkedIn or a status on Twitter about your job search, share the link with me. I'll comment on it to give it more exposure within my own network. If you didn't and can be vocal about your job search, I highly suggest you do so.
+
+Secondly, I can put you in relation with someone I know who is working at a company where there is an open position interesting to you. I accept any LinkedIn connection requests from people working in the tech industry even if I don't know them, so I may not be able to make a solid introduction with everyone. Unfortunately, I rarely know when someone is hiring since I don't pay attention to open positions when not looking for a new role myself, so I cannot tell you what's out there.
+
+Thirdly, feel free to [schedule a coffee chat](https://fred.dev/coffee) with me. I do not have the holy truth, but I had to search for a new role a couple of times in my career and I'm happy to share some of my tips with you.
 
 ## Looking for an employee?
 
-First, if you are a recruiter or work for a recruiting company, for different reasons, this offer is not for you. For others, if you want my help, you need to have the job description available somewhere on the web . It can be on LinkedIn, on your site, or on a GitHub gist, I don't care. You'll have more chances to find good candidates if there is a URL where they can find some information about the role you are offering.
+Sometimes I know the perfect candidate and I'll introduce you to them. More often than not, I don't, but I can share your open position on social media for more visibility. For that, I either need a URL to the job description or a social media status you have done mentioning you are recruiting.
 
-Once you have the information I need to help you, [send me an email](mailto:hi@fred.dev "Send me an email"), ping me on [Twitter](https://twitter.com/fharper) or message me on [LinkedIn](https://www.linkedin.com/in/fredericharper), and I'll see if I can help. Keep in mind that there is no guarantee it will, but more visibility and new contacts cannot hurt.
+Hopefully, it will be helpful. In both cases, good luck!
