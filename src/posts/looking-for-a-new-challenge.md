@@ -1,7 +1,7 @@
 ---
 title: "Looking for a new challenge"
 date: "2016-01-04"
-tags: 
+tags:
   - "challenge"
   - "developer-advocate"
   - "developer-evangelist"

@@ -1,7 +1,7 @@
 ---
 title: "I just want to make shit happen - looking for a new opportunity"
 date: "2017-04-20"
-tags: 
+tags:
   - "career"
   - "change"
   - "freelance"

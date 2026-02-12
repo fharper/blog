@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #08"
 date: "2022-01-31"
-tags: 
+tags:
   - "40lifetips"
   - "buddhism"
   - "impermanence"

@@ -1,7 +1,7 @@
 ---
 title: "No bullshit policy"
 date: "2015-04-25"
-tags: 
+tags:
   - "bullshit"
   - "life"
 image: "4233333_06e2a8a626_o.jpg"

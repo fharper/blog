@@ -1,7 +1,7 @@
 ---
 title: "The Day I Wanted to Kill Myself"
 date: "2016-04-18"
-tags: 
+tags:
   - "depression"
   - "learning"
   - "life"

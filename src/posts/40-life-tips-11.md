@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #11"
 date: "2022-02-02"
-tags: 
+tags:
   - "40lifetips"
   - "change"
   - "life"

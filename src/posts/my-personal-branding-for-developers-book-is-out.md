@@ -1,7 +1,7 @@
 ---
 title: "My Personal Branding for developers book is out"
 date: "2014-12-17"
-tags: 
+tags:
   - "personal-branding"
 image: "book-personal-branding.jpeg"
 slug: "my-personal-branding-for-developers-book-is-out"

@@ -1,7 +1,7 @@
 ---
 title: "I'm joining MeiliSearch as their Director of Developer Relations"
 date: "2020-11-11"
-tags: 
+tags:
   - "community"
   - "developer-relations"
   - "meilisearch"

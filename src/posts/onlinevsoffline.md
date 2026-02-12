@@ -1,7 +1,7 @@
 ---
 title: "Online is good. Offline is the secret sauce."
 date: "2017-05-23"
-tags: 
+tags:
   - "connection"
   - "developer-outreach"
   - "evangelism"

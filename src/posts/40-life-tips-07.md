@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #07"
 date: "2022-01-29"
-tags: 
+tags:
   - "40lifetips"
   - "information"
   - "knowledge"

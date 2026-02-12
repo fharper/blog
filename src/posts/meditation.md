@@ -1,7 +1,7 @@
 ---
 title: "I look like the Happy Buddha, but it's not why I meditate daily"
 date: "2019-08-28"
-tags: 
+tags:
   - "meditation"
   - "mental-health"
 image: "35744218703_19c28dcb48_o.jpg"

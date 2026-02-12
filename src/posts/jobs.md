@@ -1,7 +1,7 @@
 ---
 title: "Too Many Jobs for My Own Good"
 date: "2020-08-18"
-tags: 
+tags:
   - "career"
   - "jobs"
 image: "elijah-o-donnell-t8T_yUgCKSM-unsplash-scaled.jpg"

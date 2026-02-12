@@ -1,7 +1,7 @@
 ---
 title: "My English, nearly three years after"
 date: "2013-08-25"
-tags: 
+tags:
   - "english"
   - "learning"
   - "self-deprecation"

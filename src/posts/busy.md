@@ -1,7 +1,7 @@
 ---
 title: "Stop Glorifying Busyness"
 date: "2017-05-25"
-tags: 
+tags:
   - "busyness"
   - "focus"
   - "happiness"

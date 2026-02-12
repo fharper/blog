@@ -1,7 +1,7 @@
 ---
 title: "Saving your keystrokes"
 date: "2012-04-07"
-tags: 
+tags:
   - "keystroke"
   - "productivity"
   - "time"

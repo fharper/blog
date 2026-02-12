@@ -1,7 +1,7 @@
 ---
 title: "Music is about emotions"
 date: "2015-07-31"
-tags: 
+tags:
   - "emotions"
   - "foo-fighters"
   - "life"

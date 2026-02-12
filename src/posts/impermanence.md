@@ -1,7 +1,7 @@
 ---
 title: "Nothing Is Permanent"
 date: "2020-10-19"
-tags: 
+tags:
   - "buddhism"
   - "impermanence"
   - "life"

@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #05"
 date: "2022-01-28"
-tags: 
+tags:
   - "40lifetips"
   - "balance"
   - "life"

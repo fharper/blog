@@ -1,7 +1,7 @@
 ---
 title: "Responsive Web Design at JavaScript Open Day Vancouver"
 date: "2015-06-25"
-tags: 
+tags:
   - "conference"
   - "css3"
   - "html5"

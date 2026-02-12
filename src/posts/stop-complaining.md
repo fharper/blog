@@ -1,7 +1,7 @@
 ---
 title: "Stop complaining"
 date: "2015-07-27"
-tags: 
+tags:
   - "attitude"
   - "life"
   - "negativity"

@@ -1,7 +1,7 @@
 ---
 title: "Tips and tricks for people #16"
 date: "2012-06-15"
-tags: 
+tags:
   - "tipsandtricks"
 slug: "tips-and-tricks-for-people-16"
 ---

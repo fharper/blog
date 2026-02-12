@@ -1,7 +1,7 @@
 ---
 title: "Let's Do Epic Shit Together"
 date: "2021-06-02"
-tags: 
+tags:
   - "challenge"
   - "developer-advocate"
   - "developer-relations"

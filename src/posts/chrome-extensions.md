@@ -1,7 +1,7 @@
 ---
 title: "Awesome Chrome Extensions"
 date: "2023-08-28"
-tags: 
+tags:
   - "brave"
   - "browser"
   - "chrome"

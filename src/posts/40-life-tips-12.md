@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #12"
 date: "2022-02-04"
-tags: 
+tags:
   - "40lifetips"
   - "busyness"
   - "life"

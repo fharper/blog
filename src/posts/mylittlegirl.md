@@ -1,7 +1,7 @@
 ---
 title: "My little girl"
 date: "2019-12-10"
-tags: 
+tags:
   - "cat"
   - "java"
   - "life"

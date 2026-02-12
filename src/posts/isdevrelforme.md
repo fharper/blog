@@ -1,7 +1,7 @@
 ---
 title: "Is a developer advocate role for me?"
 date: "2019-05-17"
-tags: 
+tags:
   - "developer-advocate"
   - "developer-relations"
   - "resources"

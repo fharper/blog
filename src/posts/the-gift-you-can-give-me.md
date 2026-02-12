@@ -1,7 +1,7 @@
 ---
 title: "The gift you can give me"
 date: "2015-03-04"
-tags: 
+tags:
   - "apress"
   - "book"
   - "developers"

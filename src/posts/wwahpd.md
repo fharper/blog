@@ -1,7 +1,7 @@
 ---
 title: "What Would A Healthy Person Do - my physical health journey"
 date: "2019-09-03"
-tags: 
+tags:
   - "health"
   - "journey"
   - "wwahpd"

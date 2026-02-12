@@ -1,7 +1,7 @@
 ---
 title: "I'm joining npm as their new Developer Advocate"
 date: "2018-11-19"
-tags: 
+tags:
   - "developer-advocate"
   - "developer-evangelist"
   - "npm"

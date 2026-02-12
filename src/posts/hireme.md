@@ -1,7 +1,7 @@
 ---
 title: "Wanna Work with Me?"
 date: "2020-10-06"
-tags: 
+tags:
   - "developer-advocate"
   - "job"
   - "public-speaking"

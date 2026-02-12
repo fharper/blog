@@ -1,7 +1,7 @@
 ---
 title: "Finding Happiness in the Small Things"
 date: "2020-10-17"
-tags: 
+tags:
   - "happiness"
   - "life"
 image: "pawel-czerwinski-3k9PGKWt7ik-unsplash-scaled.jpg"

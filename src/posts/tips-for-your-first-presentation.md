@@ -1,7 +1,7 @@
 ---
 title: "Tips for your first presentation"
 date: "2015-09-15"
-tags: 
+tags:
   - "conference"
   - "presentation"
   - "public-speaking"

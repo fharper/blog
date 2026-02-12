@@ -1,7 +1,7 @@
 ---
 title: "The WWW and me..."
 date: "2017-05-19"
-tags: 
+tags:
   - "apress"
   - "event"
   - "failcamp"

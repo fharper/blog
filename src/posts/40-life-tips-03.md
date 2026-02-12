@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty #03"
 date: "2022-01-26"
-tags: 
+tags:
   - "40lifetips"
   - "balance"
   - "flexible"

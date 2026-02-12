@@ -1,7 +1,7 @@
 ---
 title: "Looking for a job or to recruit someone? This is how I can help you."
 date: "2015-08-04"
-tags: 
+tags:
   - "community"
   - "developer"
   - "helping"

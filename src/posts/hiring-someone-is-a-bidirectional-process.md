@@ -1,7 +1,7 @@
 ---
 title: "Hiring someone is a bidirectional process"
 date: "2017-05-16"
-tags: 
+tags:
   - "employer"
   - "hiring"
   - "hr"

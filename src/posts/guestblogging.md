@@ -1,7 +1,7 @@
 ---
 title: "Guest blog posts"
 date: "2013-01-21"
-tags: 
+tags:
   - "blogging"
   - "contribution"
   - "guests"

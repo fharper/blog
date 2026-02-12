@@ -1,7 +1,7 @@
 ---
 title: "40 Life Tips Before Forty - #13"
 date: "2022-02-05"
-tags: 
+tags:
   - "40lifetips"
   - "ego"
   - "life"

@@ -1,7 +1,7 @@
 ---
 title: "Job titles are important"
 date: "2014-10-10"
-tags: 
+tags:
   - "career"
   - "personal-branding"
   - "title"

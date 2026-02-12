@@ -1,7 +1,7 @@
 ---
 title: "Open for new contracts"
 date: "2016-02-16"
-tags: 
+tags:
   - "business-development"
   - "coaching"
   - "freelance"

@@ -1,7 +1,7 @@
 ---
 title: "The 50 questions you want to ask when applying for a technical evangelist role"
 date: "2014-10-27"
-tags: 
+tags:
   - "developer-advocate"
   - "developer-relations"
   - "interview"

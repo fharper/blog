@@ -1,7 +1,7 @@
 ---
 title: "What is a Developer Advocate?"
 date: "2017-11-27"
-tags: 
+tags:
   - "developer-advocate"
   - "technical-evangelist"
 image: "davide-ragusa-24118-unsplash.jpg"

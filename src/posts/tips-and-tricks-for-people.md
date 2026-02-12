@@ -1,7 +1,7 @@
 ---
 title: "Tips and tricks for people"
 date: "2012-04-10"
-tags: 
+tags:
   - "tipsandtricks"
 image: "2711755476_502a4dff03_o.png"
 slug: "tips-and-tricks-for-people"

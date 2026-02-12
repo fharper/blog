@@ -1,7 +1,7 @@
 ---
 title: "Developer Advocate - where soft skills become hard skills"
 date: "2017-08-08"
-tags: 
+tags:
   - "developer-advocate"
   - "hard-skills"
   - "soft-skills"

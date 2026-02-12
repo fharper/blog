@@ -1,7 +1,7 @@
 ---
 title: "Working your magic with Firefox OS – Listen to orientation change"
 date: "2013-08-05"
-tags: 
+tags:
   - "working-your-magic-with-firefox-os"
 image: "FFxOS_Devs_twitterHeader_1252x626_1.png"
 slug: "working-your-magic-with-firefox-os-listen-to-orientation-change"

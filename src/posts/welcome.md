@@ -1,7 +1,7 @@
 ---
 title: "Welcome to fred.dev"
 date: "2019-04-10"
-tags: 
+tags:
   - "blogging"
 image: "alexandre-godreau-510220-unsplash.jpg"
 slug: "welcome"

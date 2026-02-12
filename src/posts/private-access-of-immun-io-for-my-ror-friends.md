@@ -1,7 +1,7 @@
 ---
 title: "Private access of IMMUNIO for my RoR friends"
 date: "2015-07-15"
-tags: 
+tags:
   - "immunio"
   - "ruby"
   - "ruby-on-rails"

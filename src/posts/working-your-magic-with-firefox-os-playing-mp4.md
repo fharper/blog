@@ -1,7 +1,7 @@
 ---
 title: "Working your magic with Firefox OS - Playing mp4"
 date: "2013-07-30"
-tags: 
+tags:
   - "working-your-magic-with-firefox-os"
 image: "FFxOS_Devs_twitterHeader_1252x626_1.png"
 slug: "working-your-magic-with-firefox-os-playing-mp4"

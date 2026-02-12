@@ -1,7 +1,7 @@
 ---
 title: "The day I lost my mother"
 date: "2017-10-25"
-tags: 
+tags:
   - "death"
   - "life"
   - "love"

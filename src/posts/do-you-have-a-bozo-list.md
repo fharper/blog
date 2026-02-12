@@ -1,7 +1,7 @@
 ---
 title: "Do you have a bozo list?"
 date: "2015-01-16"
-tags: 
+tags:
   - "toxic-people"
 image: "5489894082_b1ff845522_o.jpg"
 slug: "do-you-have-a-bozo-list"

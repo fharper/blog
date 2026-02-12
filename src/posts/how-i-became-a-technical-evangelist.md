@@ -1,7 +1,7 @@
 ---
 title: "How I became a Technical Evangelist"
 date: "2013-11-13"
-tags: 
+tags:
   - "developer-advocate"
   - "developer-relations"
   - "microsoft"

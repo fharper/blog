@@ -1,7 +1,7 @@
 ---
 title: "Asking for sponsorship to speak: a lack of respect for the attendees"
 date: "2015-01-23"
-tags: 
+tags:
   - "conference"
   - "ethic"
   - "public-speaking"

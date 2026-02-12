@@ -1,7 +1,7 @@
 ---
 title: "I'm diving in & joining DigitalOcean"
 date: "2019-05-15"
-tags: 
+tags:
   - "cloud"
   - "digitalocean"
   - "hatch"

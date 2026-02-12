@@ -1,7 +1,7 @@
 ---
 title: "How to look for a technical evangelist job"
 date: "2018-04-04"
-tags: 
+tags:
   - "developer-advocate"
   - "job"
   - "technical-evangelist"

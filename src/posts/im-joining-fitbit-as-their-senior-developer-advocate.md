@@ -1,7 +1,7 @@
 ---
 title: "I'm joining Fitbit as their Senior Developer Advocate"
 date: "2017-11-06"
-tags: 
+tags:
   - "developer-advocate"
   - "fitbit"
   - "fitbit-ionic"

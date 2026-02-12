@@ -1,7 +1,7 @@
 ---
 title: "West Island developers also need to think about their brand"
 date: "2015-07-16"
-tags: 
+tags:
   - "montreal"
   - "personal-branding"
   - "presentation"

@@ -1,7 +1,7 @@
 ---
 title: "My 5 rules to be a good meetup.com citizen"
 date: "2015-01-26"
-tags: 
+tags:
   - "meetup"
 image: "Meetup-Logo-1300x730-1.png"
 slug: "my-5-rules-to-be-a-good-meetup-com-citizen"

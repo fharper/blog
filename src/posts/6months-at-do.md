@@ -1,7 +1,7 @@
 ---
 title: "6 months at DigitalOcean"
 date: "2019-11-21"
-tags: 
+tags:
   - "career"
   - "culture"
   - "developer-relations"

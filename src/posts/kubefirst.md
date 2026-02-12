@@ -1,7 +1,7 @@
 ---
 title: "I'm joining Kubefirst"
 date: "2022-11-28"
-tags: 
+tags:
   - "announcement"
   - "devrel"
   - "k8s"
