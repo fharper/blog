@@ -84,15 +84,6 @@
         "type": "talk"
     },
     {
-        "title": "Surviving the JavaScript package managers jungle",
-        "name": "JS-MONTREAL",
-        "url": "https://www.meetup.com/js-montreal/events/311194449/",
-        "country": "ca",
-        "city": "Montréal, Canada",
-        "date": "2026-02-10",
-        "type": "talk"
-    },
-    {
         "title": "devrelshow episode 44 - Viktor Farcic from Upbound",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
