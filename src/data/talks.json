@@ -92,6 +92,14 @@
         "video": "https://www.youtube.com/watch?v=e4OcDm87QeM"
     },
     {
+        "title": "TinyMCE Offsite, Interview with Bee Lawless",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2026-02-17",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=03kcQaeQqQ0"
+    },
+    {
         "title": "devrelshow episode 44 - Viktor Farcic from Upbound",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
