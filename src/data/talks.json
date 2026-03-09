@@ -82,7 +82,8 @@
         "country": "ca",
         "city": "Montréal, Canada",
         "date": "2026-02-19",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2025-02-19_-_MTL_code_-_AI_for_senior_developers__the_wins_the_risks_and_the_blind_spots_-_Short.pdf"
     },
     {
         "title": "devrelshow episode 45 - Deepa Subramanian from Google Developer Groups",
