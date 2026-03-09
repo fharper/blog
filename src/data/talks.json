@@ -58,7 +58,8 @@
         "country": "nl",
         "city": "Amsterdam, Netherlands",
         "date": "2026-03-05",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/developer_documentation_-_WTD_Amsterdam_-_2026-03-05.pdf"
     },
     {
         "title": "Top 5 ways to make TinyMCE dev life easier",
