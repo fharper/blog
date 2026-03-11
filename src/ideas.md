@@ -13,6 +13,7 @@ Here is the non-exhaustive list of blog articles ideas (I'm slowly moving them h
 
 ## Developer relations
 
+- Product pitches at conferences or meetups aren't a problem: bad ones are
 - Resources for someone new to developer relations.
 - What is developer relations or the role of a developer advocate.
 
