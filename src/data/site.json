@@ -83,7 +83,12 @@
       "url": "/feed",
       "external": true,
       "icon": "/images/icons/rss.svg"
+    },
+    {
+      "text": "100% human created content",
+      "url": "https://no-ai-icon.com/statement/?url=fred.dev",
+      "external": true,
+      "icon": "/images/icons/no-ai.svg"
     }
-  ],
-  "showFooterAttribution": false
+  ]
 }
