@@ -67,7 +67,8 @@
         "name": "TinyMCE Webinar Series",
         "url": "https://app.zuddl.com/tinycloud/p/a/event/56d0db9b-30bd-46bb-9eff-fde06f42827a",
         "date": "2026-02-25",
-        "type": "webinar"
+        "type": "webinar",
+        "video": "https://www.youtube.com/watch?v=eX0wTls7tJI"
     },
     {
         "title": "Dev Life Episode 18 | Think Like A Monk, Code Like an Engineer with Frederic Harper",
