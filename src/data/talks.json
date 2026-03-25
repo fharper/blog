@@ -36,6 +36,14 @@
         "type": "talk"
     },
     {
+        "title": "Laracon EU, Interview with Alex Kyriakidis",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2026-03-25",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=sm81tZc0fW8"
+    },
+    {
         "title": "Tiny but mighty: TinyMCE in Umbraco 17",
         "name": "Umbraco Spark Innovation Conference",
         "url": "https://umbracospark.com/",
