@@ -70,11 +70,12 @@
         "type": "webinar"
     },
     {
-        "title": "TBD",
+        "title": "Dev Life Episode 18 | Think Like A Monk, Code Like an Engineer with Frederic Harper",
         "name": "The Dev Life",
         "url": "https://www.youtube.com/playlist?list=PLOETEcp3DkCoITukX3OQLItbmH7WPuiYk",
-        "date": "2026-02-23",
-        "type": "podcast"
+        "date": "2026-03-23",
+        "type": "podcast",
+        "video": "https://www.youtube.com/watch?v=raJQ43KiKoA"
     },
     {
         "title": "AI for senior developers: the wins, the risks, and the blind spots",
