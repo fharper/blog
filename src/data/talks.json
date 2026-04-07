@@ -58,7 +58,8 @@
         "name": "ng-conf webinar",
         "url": "https://ng-conf.lpages.co/tinymce-webinar-2026-main/",
         "date": "2026-03-11",
-        "type": "webinar"
+        "type": "webinar",
+        "video": "https://www.youtube.com/watch?v=1eg5_uclEBw"
     },
     {
         "title": "Developers Documentation: your hidden strength",
