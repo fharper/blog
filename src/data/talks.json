@@ -27,6 +27,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 47 - Phil Leggetter from Hookdeck",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-04-23",
+        "type": "livestream",
+        "video": "https://youtube.com/live/aY5SWnLO_9c"
+    },
+    {
         "title": "Developers Documentation: your hidden strength",
         "name": "Nerdearla Santiago",
         "url": "https://nerdearla.cl/en/",
