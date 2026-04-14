@@ -36,6 +36,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 46 - Joey de Villa from NetFoundry",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-04-09",
+        "type": "livestream",
+        "video": "https://www.youtube.com/live/1SPme7zZGRk"
+    },
+    {
         "title": "Backstage with Fred - Umbraco Sparks, Interview with Joe Glombek",
         "name": "Backstage with Fred",
         "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
