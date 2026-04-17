@@ -53,6 +53,14 @@
         "type": "talk"
     },
     {
+        "title": "From Developer to DevRel",
+        "name": "The Intelligence Amplifiers",
+        "url": "https://plusplus.co/podcast",
+        "date": "2026-04-17",
+        "type": "podcast",
+        "video": "https://www.youtube.com/watch?v=I-WjEvCdUw8"
+    },
+    {
         "title": "devrelshow episode 46 - Joey de Villa from NetFoundry",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
