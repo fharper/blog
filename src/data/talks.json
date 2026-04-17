@@ -27,6 +27,15 @@
         "type": "talk"
     },
     {
+        "title": "Don't .gitignore mental health",
+        "name": "React Amsterdam",
+        "url": "https://guild.host/events/react-amsterdam-may-uzsv9h",
+        "country": "nl",
+        "city": "Amsterdam, Netherlands",
+        "date": "2026-05-06",
+        "type": "talk"
+    },
+    {
         "title": "devrelshow episode 47 - Phil Leggetter from Hookdeck",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
