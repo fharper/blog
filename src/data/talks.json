@@ -50,7 +50,8 @@
         "country": "cl",
         "city": "Santiago, Chile",
         "date": "2026-04-18",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/developer_documentation_-_Nerdearla_Chile_-_2026-04-18.pdf"
     },
     {
         "title": "From Developer to DevRel",
