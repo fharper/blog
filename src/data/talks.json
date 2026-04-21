@@ -1618,7 +1618,7 @@
         "url": "https://trumontreal.com/",
         "date": "2017-11-06",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "panel",
         "comment": "Animated with Elodie Danon"
     },
@@ -1628,7 +1628,7 @@
         "url": "http://www.devteach.com/",
         "date": "2017-07-04",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "https://fred.dev/slides/2017-07-04_-_DevTeach_-_I_dont_like_open_source_and_you_shouldnt_like_it_either.pdf",
         "video": "https://www.youtube.com/watch?v=BeQ4jke-P0Q"
@@ -1639,7 +1639,7 @@
         "url": "http://www.devteach.com/",
         "date": "2017-07-04",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "https://fred.dev/slides/From_employee_to_freelance_developer_in_10_steps_-_DevTeach_-_2017-07-04.pdf",
         "video": "https://www.youtube.com/watch?v=gTQ1Aw--ln4"
@@ -1650,7 +1650,7 @@
         "url": "https://s2lq.com",
         "date": "2016-09-20",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "comment": "Presented with Raymond Kao from Microsoft Canada",
         "slides": "https://fred.dev/slides/2016-09-20_-_S2LQ_-_Infrastructure_as_a_service_to_its_maximum-a_cultural_change.pdf",
@@ -1662,7 +1662,7 @@
         "url": "http://www.meetup.com/msdevmtl/events/223840239/",
         "date": "2016-06-06",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "comment": "Presented with Rock Legendre",
         "slides": "https://www.slideshare.net/fredericharper/voyez-grand-en-codant-petit-msdevmtl-20160606"
@@ -1673,7 +1673,7 @@
         "url": "http://www.devteach.com/",
         "date": "2016-07-07",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "video": "https://www.youtube.com/watch?v=cNJtdACnoik"
     },
@@ -1722,7 +1722,7 @@
         "url": "http://webnotwarmtl.lighthouselabs.ca/",
         "date": "2016-02-05",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "https://www.slideshare.net/fredericharper/frederic-harper-i-dont-like-open-source-and-you-shouldnt-like-it-either-make-web-not-war-montreal-20160205",
         "video": "https://channel9.msdn.com/Events/canada/mwnw/I-dont-like-Open-Source-and-you-shouldnt-like-it-either"
@@ -1733,7 +1733,7 @@
         "url": "http://www.meetup.com/msdevmtl/",
         "date": "2016-01-25",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "https://www.slideshare.net/fredericharper/responsive-web-design-the-secret-sauce-msdevmtl-20160125",
         "video": "https://www.youtube.com/watch?v=U-oHg-j8vf4"
@@ -1744,7 +1744,7 @@
         "url": "http://www.montrealrb.com/",
         "date": "2015-12-15",
         "country": "ca",
-        "city": "Montreal, Canada",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "https://www.slideshare.net/fredericharper/is-your-ruby-application-secure-montrealrb-20151215",
         "video": "https://www.youtube.com/watch?v=3IICMQmJl_I"
@@ -2913,7 +2913,7 @@
         "url": "http://phpquebec.net/",
         "date": "2011-09-08",
         "country": "ca",
-        "city": "Montréal, Québec",
+        "city": "Montréal, Canada",
         "type": "talk",
         "slides": "www.slideshare.net/fredericharper/php-in-the-cloud"
     },
