@@ -1235,7 +1235,7 @@
         "name": "Apidays New York",
         "url": "https://www.apidays.global/new-york/",
         "country": "us",
-        "city": "New York, United-States",
+        "city": "New York, United States",
         "date": "2022-07-27",
         "type": "talk",
         "video": "https://www.youtube.com/watch?v=GIl39FNQLXo"
@@ -2309,7 +2309,7 @@
         "url": "http://webandphp.com/conference/webandphpcon2013",
         "date": "2013-09-17",
         "country": "us",
-        "city": "San Francisco, United-State",
+        "city": "San Francisco, United States",
         "slides": "http://www.slideshare.net/fredericharper/mobile-first-web-php-conference-20130917-keynote",
         "details": "https://outofcomfortzone.net/2013/09/17/mobile-first-web-php-conference/"
     },
