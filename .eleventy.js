@@ -346,9 +346,11 @@ module.exports = function (eleventyConfig) {
             result.stats.panels++;
           }
 
-          result.stats.cities.add(talk.city);
-          if (talk.city && talk.city.includes(',')) {
-            result.stats.countries.add(talk.city.split(',').pop().trim());
+          if (talk.city) {
+            result.stats.cities.add(talk.city);
+            if (talk.city.includes(',')) {
+              result.stats.countries.add(talk.city.split(',').pop().trim());
+            }
           }
         }
       }
