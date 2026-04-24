@@ -46,7 +46,8 @@
         "city": "Santiago, Chile",
         "date": "2026-04-18",
         "type": "talk",
-        "slides": "https://fred.dev/slides/developer_documentation_-_Nerdearla_Chile_-_2026-04-18.pdf"
+        "slides": "https://fred.dev/slides/developer_documentation_-_Nerdearla_Chile_-_2026-04-18.pdf",
+        "video": "https://www.youtube.com/watch?v=d1TZv_CjSTY"
     },
     {
         "title": "From Developer to DevRel",
