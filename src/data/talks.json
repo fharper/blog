@@ -24,6 +24,14 @@
         "type": "talk"
     },
     {
+        "title": "Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components",
+        "name": "DevDays Europe",
+        "url": "https://devdays.lt",
+        "city": "Vilnius, Lithuania",
+        "date": "2026-05-20",
+        "type": "talk"
+    },
+    {
         "title": "Don't .gitignore mental health",
         "name": "React Amsterdam",
         "url": "https://guild.host/events/react-amsterdam-may-uzsv9h",
