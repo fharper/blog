@@ -32,6 +32,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 48 - Boaz Ziniman from SpeakUp",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-05-24",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=qqmsiSkZM3M"
+    },
+    {
         "title": "Don't .gitignore mental health",
         "name": "React Amsterdam",
         "url": "https://guild.host/events/react-amsterdam-may-uzsv9h",
