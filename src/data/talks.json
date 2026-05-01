@@ -21,7 +21,8 @@
         "url": "https://www.catalyst-ca.net/moodle-moot-event-canada",
         "city": "Montréal, Canada",
         "date": "2026-05-28",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2026-05-28_-_MoodleMoot_Canada_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
     },
     {
         "title": "Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components",
