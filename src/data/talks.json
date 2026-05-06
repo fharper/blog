@@ -46,7 +46,8 @@
         "url": "https://guild.host/events/react-amsterdam-may-uzsv9h",
         "city": "Amsterdam, Netherlands",
         "date": "2026-05-06",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2025-05-06_-_React_Amsterdam_-_dont_gitignore_mental_health.pdf"
     },
     {
         "title": "devrelshow episode 47 - Phil Leggetter from Hookdeck",
