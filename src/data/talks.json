@@ -37,6 +37,15 @@
         "name": "DevDays Europe",
         "url": "https://devdays.lt",
         "city": "Vilnius, Lithuania",
+        "date": "2026-05-21",
+        "type": "panel",
+        "comment": "The other panelists were Daniel Afonso & Steve Wade"
+    },
+    {
+        "title": "Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components",
+        "name": "DevDays Europe",
+        "url": "https://devdays.lt",
+        "city": "Vilnius, Lithuania",
         "date": "2026-05-20",
         "type": "talk"
     },
