@@ -15,7 +15,7 @@ slug: "job-help"
 
 _Last updated on February 12 2026._
 
-There is no secret there: the love, support, and help of the global tech community is one of the reasons I consider myself successful today. Recognizing it, I try to give back as much as I can. One of my pleasures is to use trust, reputation, and relationships to be a [trust agent](https://www.amazon.ca/Trust-Agents-Influence-Improve-Reputation-ebook/dp/B003VWCQBK/ "The book Trust Agents: Using the Web to Build Influence, Improve Reputation, and Earn Trust by Julien Smith and Chris Brogan"). Part of it is about helping others to find a job or a new employee. Since I get a lot of requests, here is how you can help me... helping you.
+There is no secret there: the love, support, and help of the global tech community is one of the reasons I consider myself successful today. Recognizing it, I try to give back as much as I can. One of my pleasures is to use trust, reputation, and relationships to be a [trust agent](https://www.amazon.ca/Trust-Agents-Influence-Improve-Reputation/dp/0470635495/ "The book Trust Agents: Using the Web to Build Influence, Improve Reputation, and Earn Trust by Julien Smith and Chris Brogan"). Part of it is about helping others to find a job or a new employee. Since I get a lot of requests, here is how you can help me... helping you.
 
 ## Looking for a job?
 
