@@ -1650,9 +1650,9 @@
         "city": "Montréal, Canada",
         "type": "talk",
         "comment": "Presented with Rock Legendre",
-        "slides": "https://www.slideshare.net/fredericharper/voyez-grand-en-codant-petit-msdevmtl-20160606"
+        "slides": "https://fred.dev/slides/2016-06-06_-_MSDEVMTL_-_Voyez_grand_en_codant_petit.pdf"
     },
-   {
+    {
         "title": "Be the architect of your career",
         "name": "DevTeach Montreal",
         "url": "http://www.devteach.com/",
