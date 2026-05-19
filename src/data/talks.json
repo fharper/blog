@@ -33,6 +33,14 @@
         "slides": "https://fred.dev/slides/2026-05-28_-_MoodleMoot_Canada_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf"
     },
     {
+        "title": "Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components",
+        "name": "DevDays Europe",
+        "url": "https://devdays.lt",
+        "city": "Vilnius, Lithuania",
+        "date": "2026-05-22",
+        "type": "talk"
+    },
+    {
         "title": "Humans Before Pipelines: The People Side of DevOps That Makes or Breaks Delivery",
         "name": "DevDays Europe",
         "url": "https://devdays.lt",
@@ -40,14 +48,6 @@
         "date": "2026-05-21",
         "type": "panel",
         "comment": "The other panelists were Daniel Afonso & Steve Wade"
-    },
-    {
-        "title": "Sleep Better on Release Day: A Modern Testing Strategy for JavaScript SDKs and Components",
-        "name": "DevDays Europe",
-        "url": "https://devdays.lt",
-        "city": "Vilnius, Lithuania",
-        "date": "2026-05-20",
-        "type": "talk"
     },
     {
         "title": "Backstage with Fred - Nerdearla Chile, Interview with Jeff Barr",
