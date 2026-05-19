@@ -50,6 +50,14 @@
         "type": "talk"
     },
     {
+        "title": "Backstage with Fred - Nerdearla Chile, Interview with Jeff Barr",
+        "name": "Backstage with Fred",
+        "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
+        "date": "2026-05-19",
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=DxcMzMlAKbI"
+    },
+    {
         "title": "devrelshow episode 48 - Boaz Ziniman from SpeakUp",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
