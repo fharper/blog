@@ -38,7 +38,8 @@
         "url": "https://devdays.lt",
         "city": "Vilnius, Lithuania",
         "date": "2026-05-22",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2026-05-22_-_DevDays_Europe_-_Sleep_better_on_release_day.pdf"
     },
     {
         "title": "Humans Before Pipelines: The People Side of DevOps That Makes or Breaks Delivery",
