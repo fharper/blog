@@ -108,6 +108,24 @@ Since our work schedule may be different, and because my team is usually distrib
 
 Unless the company policies are stating otherwise, I don't care when or where you are working. What is important for me is that we have at least a couple of overlapping hours each day so we can have synchronized discussion or video meetings if needed.
 
+## Travelling
+
+If you are on my team, there is a chance that traveling is part of your job description. While it is expected for you to hop on planes, the percentage of your time in the air may vary, and it is your responsibility to ensure it's not too much travel for your capacity. As much as I want to protect my team about that, it is really hard for me to judge when someone has too many events on their schedule. At the time of writing those lines, I’m single with no kids, and I have a bigger capacity for business trips than most, so never base your schedule on mine for that.
+
+You are the one who knows based on your life and lifestyle when it's too much. I want you to always be honest with me. I will never be mad or disappointed if you tell me you can't take more on your schedule: contrary to what people think, it's not easy to travel for work, and your health is the priority. Do not wait for burning out; been there, done that, and it’s no fun, trust me. I want us to be successful, but never to the detriment of your health, relationships and overall well-being. If you don't feel confident to say no to a colleague about a potential trip, let me do it for you.
+
+While on a business trip, I don't expect, nor want you to also do non-traveling tasks as if you were at home in front of your computer. If you are traveling, it's probably for conferences or meetups, which means that you already work all day long, either speaking, networking, organizing or on both duties. People who don't have our job don't know, but it is exhausting even for the most experienced, social and extrovert of us. If nothing is planned at the conference during the evening, it shouldn't be different than an evening at home, meaning, do what you want with your time. As much as it's nice to spend time with colleagues if you are not alone at the events, you are also never forced to join your team for drinks or dinner: do what you need to ensure you are rested and feel good. If anyone has a problem with that, send them to me.
+
+## Vacations & Sick Days
+
+Depending on the size of my team, I try to never take my summer vacation while someone on the team is away, so I can take over their responsibilities if nobody else on the team can. For that matter, I ask that you send me vacation requests as soon as you know so I can plan mine in advance. Please use the dedicated HR system, if any, to request those: if not, just DM on Slack.
+
+If you are sick, don't work. I want you to prioritize your well-being. Anyway, contrary to what some "leaders" think, forcing people to work while they don't feel good doesn't help the business at all. If those are tracked in an HR system, please add your request there, and let me know on Slack. The former can be done once you feel better. Also, I will never deny those.
+
+## Out of Office
+
+Whether you are traveling for a conference, you are on vacation, or it's a holiday where you live, always send me a meeting invite with a proper title (ex.: Thomas OOO - Holiday) for the dates you won't work. You told me already, but there is a chance I forget about it so it's easier to have it in my calendar. It will also be easier to plan your time off in advance if I need something from you. Please set your OOO (Out Of Office) status on Slack, and OOO automatic reply on Gmail so it's clear for anyone trying to reach out to you that you are away. For the latter, add a line with my email mentioning they can reach out to me if something is urgent (or someone else on the team, if any). Unless you are on a business trip, please don't check Slack or your emails: most things can wait for you to come back.
+
 ## Need Something
 
 If you need anything, don't wait or hesitate. Send me a message on Slack or add a meeting in my calendar. Yep, it's that simple.
