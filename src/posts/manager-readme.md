@@ -10,6 +10,8 @@ image: "colorful-heart.jpg"
 slug: "manager-readme"
 ---
 
+_Last updated on June 1 2026._
+
 Hello lovely people!
 
 The goal of this article is to help you, as much as possible, to understand me as a manager, and have better clarity on how I work with my team. If you want to learn more about working with me in general, read [this article](https://fred.dev/workingwithme/).
