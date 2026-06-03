@@ -16,7 +16,15 @@
         "type": "talk"
     },
     {
-        "title": "TBD",
+        "title": "TBD Talk #2",
+        "name": "Nerdearla Argentina",
+        "url": "https://nerdearla.com/argentina/",
+        "city": "Buenos Aires, Argentina",
+        "date": "2026-09-23",
+        "type": "talk"
+    },
+    {
+        "title": "TBD Talk #1",
         "name": "Nerdearla Argentina",
         "url": "https://nerdearla.com/argentina/",
         "city": "Buenos Aires, Argentina",
