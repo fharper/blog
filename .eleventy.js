@@ -178,6 +178,9 @@ module.exports = function (eleventyConfig) {
   // Add docs
   eleventyConfig.addPassthroughCopy({ 'src/docs/': 'docs/' });
 
+  // Vendored bundles for the speaking map
+  eleventyConfig.addPassthroughCopy({ 'src/vendor': 'vendor' });
+
   //Pinned posts
   //Usage:
   //

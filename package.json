@@ -17,6 +17,7 @@
     "cssnano": "^7.0.6",
     "eleventy-plugin-broken-links": "^2.2.1",
     "eleventy-plugin-reading-time": "^0.0.1",
+    "esbuild": "^0.28.0",
     "html-minifier": "^4.0.0",
     "markdown-it-anchor": "^9.2.0",
     "mini-css-extract-plugin": "^2.9.1",
@@ -39,9 +40,11 @@
     "dev:site": "env ELEVENTY_ENV=development eleventy --serve",
     "build:assets": "webpack --mode production",
     "build:site": "env ELEVENTY_ENV=production eleventy",
-    "clean": "rm -rf ./public"
+    "clean": "rm -rf ./public",
+    "bundle:worldmap": "esbuild node_modules/@granite-elements/granite-worldmap/granite-worldmap.js --bundle --format=esm --minify --outfile=src/vendor/granite-worldmap.bundle.js"
   },
   "dependencies": {
+    "@granite-elements/granite-worldmap": "^1.2.0",
     "dotenv": "^17.2.3",
     "eleventy-plugin-youtube-embed": "^1.11.0",
     "markdown-it": "^14.1.0",
