@@ -32,6 +32,14 @@
         "type": "talk"
     },
     {
+        "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
+        "name": "MoodleMoot Brasil",
+        "url": "https://brasil.moodlemoot.org/",
+        "city": "São Paulo, Brasil",
+        "date": "2026-09-10",
+        "type": "talk"
+    },
+    {
         "title": "Surviving the JavaScript package managers jungle",
         "name": "CopenhagenJS",
         "url": "https://www.meetup.com/copenhagenjs/",
