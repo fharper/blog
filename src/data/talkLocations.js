@@ -35,16 +35,17 @@ module.exports = async function () {
     }
 
     const now = new Date();
-    const cityCount = new Map();
+    const cityTalks = new Map();
     for (const talk of talks) {
         if (!talk.city || !talk.date) continue;
         if (new Date(talk.date + 'T23:59:59Z') > now) continue;
-        cityCount.set(talk.city, (cityCount.get(talk.city) || 0) + 1);
+        if (!cityTalks.has(talk.city)) cityTalks.set(talk.city, []);
+        cityTalks.get(talk.city).push(talk);
     }
 
     let cacheUpdated = false;
 
-    for (const city of cityCount.keys()) {
+    for (const city of cityTalks.keys()) {
         if (cache[city]) continue;
 
         try {
@@ -71,12 +72,19 @@ module.exports = async function () {
         fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 2) + '\n');
     }
 
-    return Array.from(cityCount.entries())
+    return Array.from(cityTalks.entries())
         .filter(([city]) => cache[city])
-        .map(([city, count]) => ({
+        .map(([city, events]) => ({
             lat: cache[city].lat,
             lng: cache[city].lng,
             name: city,
-            intensity: Math.min(5, count),
+            intensity: Math.min(5, events.length),
+            entries: events
+                .sort((a, b) => b.date.localeCompare(a.date))
+                .map(t => ({
+                    label: t.name,
+                    meta: t.date.slice(0, 4),
+                    url: t.url || undefined,
+                })),
         }));
 };
