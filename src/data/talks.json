@@ -53,7 +53,8 @@
         "url": "https://www.meetup.com/copenhagenjs/",
         "city": "Copenhagen, Denmark",
         "date": "2026-06-11",
-        "type": "talk"
+        "type": "talk",
+        "slides": "https://fred.dev/slides/2026-06-11_-_CopenhagenJS_-_Surviving_the_JavaScript_package_managers_jungle.pdf"
     },
     {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
