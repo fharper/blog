@@ -10,7 +10,7 @@ image: "colorful-heart.jpg"
 slug: "manager-readme"
 ---
 
-_Last updated on June 1 2026._
+_Last updated on June 18 2026._
 
 Hello lovely people!
 
@@ -116,7 +116,7 @@ If you are on my team, there is a chance that traveling is part of your job desc
 
 You are the one who knows based on your life and lifestyle when it's too much. I want you to always be honest with me. I will never be mad or disappointed if you tell me you can't take more on your schedule: contrary to what people think, it's not easy to travel for work, and your health is the priority. Do not wait for burning out; been there, done that, and it’s no fun, trust me. I want us to be successful, but never to the detriment of your health, relationships and overall well-being. If you don't feel confident to say no to a colleague about a potential trip, let me do it for you.
 
-While on a business trip, I don't expect, nor want you to also do non-traveling tasks as if you were at home in front of your computer. If you are traveling, it's probably for conferences or meetups, which means that you already work all day long, either speaking, networking, organizing or on both duties. People who don't have our job don't know, but it is exhausting even for the most experienced, social and extrovert of us. If nothing is planned at the conference during the evening, it shouldn't be different than an evening at home, meaning, do what you want with your time. As much as it's nice to spend time with colleagues if you are not alone at the events, you are also never forced to join your team for drinks or dinner: do what you need to ensure you are rested and feel good. If anyone has a problem with that, send them to me.
+While on a business trip, I don't expect, nor want you to also do non-traveling tasks as if you were at home in front of your computer. If you are traveling, it's probably for conferences or meetups, which means that you already work all day long, either speaking, networking, organizing or on booth duties. People who don't have our job don't know, but it is exhausting even for the most experienced, social and extrovert of us. If nothing is planned at the conference during the evening, it shouldn't be different than an evening at home, meaning, do what you want with your time. As much as it's nice to spend time with colleagues if you are not alone at the events, you are also never forced to join your team for drinks or dinner: do what you need to ensure you are rested and feel good. If anyone has a problem with that, send them to me.
 
 ## Vacations & Sick Days
 
