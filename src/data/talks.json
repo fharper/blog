@@ -48,6 +48,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 50 - Jeff Barr from AWS",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-06-22",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=J0SSn7gc0Bo"
+    },
+    {
         "title": "Surviving the JavaScript package managers jungle",
         "name": "CopenhagenJS",
         "url": "https://www.meetup.com/copenhagenjs/",
