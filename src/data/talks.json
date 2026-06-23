@@ -20,8 +20,9 @@
         "name": "Umbraco US Festival",
         "url": "https://umbracofestival.us/",
         "city": "Chicago, United States",
-        "date": "2026-09-30",
-        "type": "talk"
+        "date": "2026-10-01",
+        "type": "panel",
+        "comment": "Co-speaking with Jason Prothero from ProWorks Corporation"
     },
     {
         "title": "From prompt hell to SKILL.md",
