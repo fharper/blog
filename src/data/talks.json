@@ -57,6 +57,14 @@
         "slides": "https://fred.dev/slides/2026-06-11_-_CopenhagenJS_-_Surviving_the_JavaScript_package_managers_jungle.pdf"
     },
     {
+        "title": "devrelshow episode 49 - Niall Deehan from Camunda",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-06-04",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=PzHm7Q1X9as"
+    },
+    {
         "title": "Supercharge Moodle Course Design with TinyMCE Premium Tools",
         "name": "MoodleMoot Canada",
         "url": "https://www.catalyst-ca.net/moodle-moot-event-canada",
