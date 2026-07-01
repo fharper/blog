@@ -7,12 +7,6 @@ layout: base.njk
 
 ![The devrelshow logo](../images/Twitter-logo.jpg)
 
-## Basic information
-
-- The show will be live on [YouTube](https://www.youtube.com/fharper), [LinkedIn](https://www.linkedin.com/in/fredericharper), [Twitter](https://twitter.com/fharper) and [Twitch](https://www.twitch.tv/fredericharper) at 3:o0PM ET/EST every other Thursday (with exception discussed with the guest when scheduling a date).
-- We will connect 15 minutes before to ensure that everything is working great.
-- I try to keep the discussion part of the show to maximum 30 minutes, and keep 15 minutes for the demonstration. The show is usually one hour long.
-
 ## Technical requirements
 
 - We will use Livestream for the live: it is running inside your browser. I'll add the link to our episode meeting invite 1-2 weeks before we go live.
