@@ -49,6 +49,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 51 - Alex Kretzschmar from Tailscale",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-07-02",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=kPEnsiG9hkg"
+    },
+    {
         "title": "Backstage with Fred - JSWorld, Interview with Jan Peer Stöcklmair",
         "name": "Backstage with Fred",
         "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
