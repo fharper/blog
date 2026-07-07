@@ -49,6 +49,14 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 52 - Joel Hans from ngrok",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-07-09",
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=uQ4KmED0Mlg"
+    },
+    {
         "title": "devrelshow episode 51 - Alex Kretzschmar from Tailscale",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
