@@ -49,6 +49,13 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 54 - Heather Downing from Yugabyte",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-07-30",
+        "type": "livestream"
+    },
+    {
         "title": "Umbraco Codegarden, Interview with Filip Bech-Larsen",
         "name": "Backstage with Fred",
         "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
