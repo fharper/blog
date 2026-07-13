@@ -63,11 +63,12 @@
         "type": "interview"
     },
     {
-        "title": "devrelshow episode 53 - Nicolas Grenié from SLNG",
+        "title": "devrelshow episode 53 - Chris DeMars from TuxCare",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
         "date": "2026-07-16",
-        "type": "livestream"
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=cASKKadsefo"
     },
     {
         "title": "DevDays Europe, Interview with Horacio Gonzalez",
