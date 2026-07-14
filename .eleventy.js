@@ -209,7 +209,7 @@ module.exports = function (eleventyConfig) {
         pastWebinars: {},
         upcomingInterviews: [],
         pastInterviews: {},
-        stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0, panels: 0 },
+        stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0, panels: 0, events: 0 },
         livestreamStats: { total: 0, past: 0, upcoming: 0 },
         podcastStats: { total: 0, past: 0, upcoming: 0 },
         webinarStats: { total: 0, past: 0, upcoming: 0 },
@@ -218,6 +218,9 @@ module.exports = function (eleventyConfig) {
     }
 
     const now = new Date();
+    // Collects past talk/panel/keynote dates grouped by event name, used to
+    // count unique events (same name with same or consecutive days = one event).
+    const eventDatesByName = {};
     const result = {
       upcoming: [],
       past: {},
@@ -236,7 +239,8 @@ module.exports = function (eleventyConfig) {
         cities: new Set(),
         countries: new Set(),
         keynotes: 0,
-        panels: 0
+        panels: 0,
+        events: 0
       },
       livestreamStats: {
         total: 0,
@@ -355,12 +359,37 @@ module.exports = function (eleventyConfig) {
               result.stats.countries.add(talk.city.split(',').pop().trim());
             }
           }
+
+          if (talk.name && (talkType === 'talk' || talkType === 'panel' || talkType === 'keynote')) {
+            if (!eventDatesByName[talk.name]) {
+              eventDatesByName[talk.name] = [];
+            }
+            eventDatesByName[talk.name].push(talk.date);
+          }
         }
       }
     });
 
     result.stats.cities = result.stats.cities.size;
     result.stats.countries = result.stats.countries.size;
+
+    // Count unique events: within each event name, dates on the same or
+    // consecutive days belong to one event; a gap of more than one day starts
+    // a new one (e.g. the same conference held in different years).
+    Object.values(eventDatesByName).forEach(dates => {
+      const days = dates
+        .map(date => new Date(date + 'T00:00:00Z').getTime())
+        .sort((a, b) => a - b);
+
+      let count = 1;
+      for (let i = 1; i < days.length; i++) {
+        const diffDays = Math.round((days[i] - days[i - 1]) / 86400000);
+        if (diffDays > 1) {
+          count++;
+        }
+      }
+      result.stats.events += count;
+    });
 
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
     result.pastLivestreamYears = Object.keys(result.pastLivestreams).sort((a, b) => b - a);
