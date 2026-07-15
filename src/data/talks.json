@@ -75,7 +75,8 @@
         "name": "Backstage with Fred",
         "url": "https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9",
         "date": "2026-07-15",
-        "type": "interview"
+        "type": "interview",
+        "video": "https://www.youtube.com/watch?v=lktHvf39Fzg"
     },
     {
         "title": "devrelshow episode 52 - Joel Hans from ngrok",
