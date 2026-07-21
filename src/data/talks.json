@@ -1548,6 +1548,14 @@
         "type": "panel"
     },
     {
+        "title": "Managed Databases for Redis by DigitalOcean",
+        "name": "DigitalOcean",
+        "url": "https://www.digitalocean.com/",
+        "date": "2019-08-20",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=q349uzUzX4I"
+    },
+    {
         "title": "Scaling in the cloud with DigitalOcean",
         "name": "WeWork Labs NYC Hatch 101",
         "url": "",
