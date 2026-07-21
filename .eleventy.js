@@ -209,11 +209,14 @@ module.exports = function (eleventyConfig) {
         pastWebinars: {},
         upcomingInterviews: [],
         pastInterviews: {},
+        upcomingTutorials: [],
+        pastTutorials: {},
         stats: { total: 0, past: 0, upcoming: 0, cities: 0, countries: 0, keynotes: 0, panels: 0, events: 0 },
         livestreamStats: { total: 0, past: 0, upcoming: 0 },
         podcastStats: { total: 0, past: 0, upcoming: 0 },
         webinarStats: { total: 0, past: 0, upcoming: 0 },
-        interviewStats: { total: 0, past: 0, upcoming: 0 }
+        interviewStats: { total: 0, past: 0, upcoming: 0 },
+        tutorialStats: { total: 0, past: 0, upcoming: 0 }
       };
     }
 
@@ -232,6 +235,8 @@ module.exports = function (eleventyConfig) {
       pastWebinars: {},
       upcomingInterviews: [],
       pastInterviews: {},
+      upcomingTutorials: [],
+      pastTutorials: {},
       stats: {
         total: 0,
         past: 0,
@@ -261,6 +266,11 @@ module.exports = function (eleventyConfig) {
         total: 0,
         past: 0,
         upcoming: 0
+      },
+      tutorialStats: {
+        total: 0,
+        past: 0,
+        upcoming: 0
       }
     };
 
@@ -272,6 +282,7 @@ module.exports = function (eleventyConfig) {
       const isPodcast = talk.type && talk.type.toLowerCase() === 'podcast';
       const isWebinar = talk.type && talk.type.toLowerCase() === 'webinar';
       const isInterview = talk.type && talk.type.toLowerCase() === 'interview';
+      const isTutorial = talk.type && talk.type.toLowerCase() === 'tutorial';
 
       if (isLivestream) {
         result.livestreamStats.total++;
@@ -328,6 +339,20 @@ module.exports = function (eleventyConfig) {
           }
           result.pastInterviews[year].push(talk);
           result.interviewStats.past++;
+        }
+      } else if (isTutorial) {
+        result.tutorialStats.total++;
+
+        if (talkDate.getTime() > now.getTime()) {
+          result.upcomingTutorials.push(talk);
+          result.tutorialStats.upcoming++;
+        } else {
+          const year = talkDate.getFullYear();
+          if (!result.pastTutorials[year]) {
+            result.pastTutorials[year] = [];
+          }
+          result.pastTutorials[year].push(talk);
+          result.tutorialStats.past++;
         }
       } else {
         result.stats.total++;
@@ -396,6 +421,7 @@ module.exports = function (eleventyConfig) {
     result.pastPodcastYears = Object.keys(result.pastPodcasts).sort((a, b) => b - a);
     result.pastWebinarYears = Object.keys(result.pastWebinars).sort((a, b) => b - a);
     result.pastInterviewYears = Object.keys(result.pastInterviews).sort((a, b) => b - a);
+    result.pastTutorialYears = Object.keys(result.pastTutorials).sort((a, b) => b - a);
 
     return result;
   });
