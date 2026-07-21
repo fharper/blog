@@ -53,7 +53,8 @@
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
         "date": "2026-07-30",
-        "type": "livestream"
+        "type": "livestream",
+        "video": "https://www.youtube.com/watch?v=4fa7HooaE0A"
     },
     {
         "title": "Umbraco Codegarden, Interview with Filip Bech-Larsen",
