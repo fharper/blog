@@ -23,6 +23,13 @@
         "type": "talk"
     },
     {
+        "title": "TinyMCE AI for Developers - How to self-host",
+        "name": "TinyMCE",
+        "url": "https://www.tiny.cloud",
+        "date": "2026-10-07",
+        "type": "tutorial"
+    },
+    {
         "title": "AI, Your Way: Umbraco AI, Community Packages and Lessons From the Trenches",
         "name": "Umbraco US Festival",
         "url": "https://umbracofestival.us/",
