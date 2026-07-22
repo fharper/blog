@@ -1663,6 +1663,14 @@
         "audio": "https://baladoquebec.ca/visual-studio-talk-show/0223-fred-harper-programmer-avec-le-sdk-de-fitbit"
     },
     {
+        "title": "Fitbit OS Command Line Interface",
+        "name": "Fitbit",
+        "url": "https://fitbit.com",
+        "date": "2019-08-23",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=WkCKycDUgmU"
+    },
+    {
         "title": "Fitbit SDK & Web API Introduction",
         "name": "Melbourne Fitbit Developers",
         "url": "https://www.meetup.com/FitbitMelbourne/events/250624716/",
