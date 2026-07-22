@@ -1548,6 +1548,14 @@
         "type": "talk"
     },
     {
+        "title": "Databases as a Service (DBaaS)",
+        "name": "DigitalOcean",
+        "url": "https://www.digitalocean.com",
+        "date": "2019-09-26",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=owz0r6Cugr4"
+    },
+    {
         "title": "Building apps that don't suck",
         "name": "Web Unleashed",
         "url": "https://fitc.ca/event/webu19/",
