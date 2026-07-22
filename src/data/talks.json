@@ -1463,6 +1463,14 @@
         "slides": "https://fred.dev/slides/digitalocean-hatch-cloudflare-meetup-be-like-batman.pdf"
     },
     {
+        "title": "How to Dynamically Manage the DigitalOcean Firewall",
+        "name": "DigitalOcean",
+        "url": "https://www.digitalocean.com",
+        "date": "2020-01-29",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=VlGECI3D11Y"
+    },
+    {
         "title": "Retour aux sources pour un code de qualité",
         "name": "Ville de Montréal",
         "url": "https://montreal.ca/en/",
