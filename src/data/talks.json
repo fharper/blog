@@ -32,13 +32,6 @@
         "comment": "Co-speaking with Jason Prothero from ProWorks Corporation"
     },
     {
-        "title": "TinyMCE AI for Developers - How to customize the quick actions",
-        "name": "TinyMCE",
-        "url": "https://www.tiny.cloud",
-        "date": "2026-09-29",
-        "type": "tutorial"
-    },
-    {
         "title": "From prompt hell to SKILL.md",
         "name": "Nerdearla Argentina",
         "url": "https://nerdearla.com/argentina/",
@@ -83,6 +76,13 @@
         "date": "2026-07-30",
         "type": "livestream",
         "video": "https://www.youtube.com/watch?v=4fa7HooaE0A"
+    },
+    {
+        "title": "TinyMCE AI for Developers - How to customize the quick actions",
+        "name": "TinyMCE",
+        "url": "https://www.tiny.cloud",
+        "date": "2026-07-29",
+        "type": "tutorial"
     },
     {
         "title": "Umbraco Codegarden, Interview with Filip Bech-Larsen",
