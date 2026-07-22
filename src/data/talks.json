@@ -148,6 +148,14 @@
         "slides": "https://fred.dev/slides/2026-05-22_-_DevDays_Europe_-_Sleep_better_on_release_day.pdf"
     },
     {
+        "title": "TinyMCE AI for Developers - How to customize the chat feature",
+        "name": "TinyMCE",
+        "url": "https://www.tiny.cloud",
+        "date": "2026-05-21",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=iXbfK5slZvc"
+    },
+    {
         "title": "Humans Before Pipelines: The People Side of DevOps That Makes or Breaks Delivery",
         "name": "DevOps Pro Europe",
         "url": "https://devopspro.lt",
