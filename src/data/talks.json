@@ -1540,6 +1540,14 @@
         "type": "talk"
     },
     {
+        "title": "Terraform",
+        "name": "DigitalOcean",
+        "url": "https://digitaocean.com",
+        "date": "2019-09-09",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=CctnYXYcibo"
+    },
+    {
         "title": "Mental Health in the Tech Industry",
         "name": "AnxietyTech",
         "url": "https://www.anxietytech.com",
