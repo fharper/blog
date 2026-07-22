@@ -1446,6 +1446,14 @@
         "type": "talk"
     },
     {
+        "title": "How to Connect to Your Droplet While Having SSH Issues",
+        "name": "DigitalOcean",
+        "url": "https://www.digitalocean.com",
+        "date": "2020-02-05",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=zmglIW_ZNGY"
+    },
+    {
         "title": "Be like Batman",
         "name": "DigitalOcean Hatch & Cloudflare meetup",
         "url": "https://www.eventbrite.com/e/hatch-101-sessions-scale-your-startup-architecture-tickets-90908663259",
