@@ -523,6 +523,14 @@
         "video": "https://www.youtube.com/watch?v=kyQWeVkY89o"
     },
     {
+        "title": "How to upgrade to TinyMCE 8",
+        "name": "TinyMCE",
+        "url": "https://www.tiny.cloud",
+        "date": "2025-09-08",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=luI1tM8v_vc"
+    },
+    {
         "title": "devrelshow episode 39 - Martin Finkel from Videolabs",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
