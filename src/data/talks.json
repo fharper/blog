@@ -1724,6 +1724,14 @@
         "slides": "https://fred.dev/slides/Public_Speaking_-_FDP_Tech_Leads_Summit_-_2018-04-30.pdf"
     },
     {
+        "title": "Fitbit Simulator",
+        "name": "Fitbit",
+        "url": "https://fitbit.com",
+        "date": "2018-03-13",
+        "type": "tutorial",
+        "video": "https://www.youtube.com/watch?v=4RGFmjgmGEk"
+    },
+    {
         "title": "Fitbit SDK Overview",
         "name": "Dublin Fitbit Developers",
         "url": "https://www.meetup.com/fitbit-dublin/events/244939489/",
