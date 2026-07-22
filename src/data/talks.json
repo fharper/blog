@@ -8,6 +8,13 @@
         "type": "talk"
     },
     {
+        "title": "devrelshow episode 61 - Adnan Rahić from Bindplane",
+        "name": "The devrelshow with Fred",
+        "url": "https://fred.dev/devrelshow/",
+        "date": "2026-10-22",
+        "type": "livestream"
+    },
+    {
         "title": "Bring your Kubernetes game to the next level with these open-source tools",
         "name": "All Things Open",
         "url": "https://allthingsopen.org",
