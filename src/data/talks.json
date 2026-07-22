@@ -63,6 +63,13 @@
         "type": "livestream"
     },
     {
+        "title": "TinyMCE AI for Developers - How to connect to MCP",
+        "name": "TinyMCE",
+        "url": "https://www.tiny.cloud",
+        "date": "2026-07-29",
+        "type": "tutorial"
+    },
+    {
         "title": "devrelshow episode 55 - Gabriel Manor - Liechtman from Permit.io",
         "name": "The devrelshow with Fred",
         "url": "https://fred.dev/devrelshow/",
