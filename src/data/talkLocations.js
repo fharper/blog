@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const yaml = require('js-yaml');
 
 const CACHE_PATH = path.join(__dirname, 'geocodingCache.json');
 
@@ -27,7 +28,7 @@ function sleep(ms) {
 }
 
 module.exports = async function () {
-    const talks = require('./talks.json');
+    const talks = yaml.load(fs.readFileSync(path.join(__dirname, 'talks.yaml'), 'utf8'));
 
     let cache = {};
     if (fs.existsSync(CACHE_PATH)) {

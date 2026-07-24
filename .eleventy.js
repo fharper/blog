@@ -31,9 +31,12 @@ const brokenLinksPlugin = require("eleventy-plugin-broken-links");
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
 const slugify = require("slugify");
+const yaml = require('js-yaml');
 
 //Eleventy Configurations
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
