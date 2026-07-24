@@ -18,6 +18,12 @@
   date: "2026-10-20"
   type: talk
 
+- title: devrelshow episode 59 - Tyler Hannan from ClickHouse
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-10-08"
+  type: livestream
+
 - title: TinyMCE AI for Developers - How to self-host
   name: TinyMCE
   url: https://www.tiny.cloud
