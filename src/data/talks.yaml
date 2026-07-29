@@ -83,18 +83,18 @@
   date: "2026-08-06"
   type: livestream
 
+- title: TinyMCE AI for Developers - How to customize the quick actions
+  name: TinyMCE
+  url: https://www.tiny.cloud
+  date: "2026-08-03"
+  type: tutorial
+
 - title: devrelshow episode 54 - Heather Downing from Yugabyte
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
   date: "2026-07-30"
   type: livestream
   video: https://www.youtube.com/watch?v=4fa7HooaE0A
-
-- title: TinyMCE AI for Developers - How to customize the quick actions
-  name: TinyMCE
-  url: https://www.tiny.cloud
-  date: "2026-07-29"
-  type: tutorial
 
 - title: Umbraco Codegarden, Interview with Filip Bech-Larsen
   name: Backstage with Fred
