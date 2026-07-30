@@ -5,6 +5,12 @@
   date: "2026-11-01"
   type: talk
 
+- title: 'Moodle CMS & TinyMCE'
+  name: TinyMCE Webinar Series
+  url: https://www.tiny.cloud/
+  date: "2026-10-28"
+  type: webinar
+
 - title: devrelshow episode 61 - Adnan Rahić from Bindplane
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
