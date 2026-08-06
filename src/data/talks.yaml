@@ -1337,6 +1337,14 @@
   slides: https://fred.dev/slides/dont-gitignore-mental-health-Devoxx-UK.pdf
   video: https://www.youtube.com/watch?v=6aiLh4tTSzE
 
+- title: API Builder
+  name: Mindee
+  url: https://www.mindee.com
+  date: "2022-05-03"
+  type: tutorial
+  video: https://www.youtube.com/watch?v=VvOOOYn38ws
+
+
 - title: Writing blog posts
   name: Mindee
   url: https://mindee.com
