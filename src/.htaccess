@@ -64,6 +64,7 @@ Redirect 301 "/time-to-hire" "https://www.cnbc.com/2021/08/06/these-industries-h
 Redirect 301 "/tutorial-video" "https://www.youtube.com/watch?v=WkCKycDUgmU"
 Redirect 301 "/video-do" "https://www.digitalocean.com/products/managed-databases-mysql?wvideo=hvhpcae0xs"
 Redirect 301 "/video-mindee" "https://www.youtube.com/watch?v=VvOOOYn38ws"
+Redirect 301 "/wearedevelopers" "https://ti.to/wearedevelopers/world-congress-2026-north-america/discount/devrelshow"
 Redirect 301 "/what-is-a-developer-advocate" "/developeradvocate"
 Redirect 301 "/why-i-wont-write-code-demos-articles-or-new-talks-in-your-interview-process" "/nocodedemo"
 Redirect 301 "/writing-announcement" "https://blog.npmjs.org/post/180599338975/401-scoped-packages.html"
