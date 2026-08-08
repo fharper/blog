@@ -39,7 +39,6 @@
 - title: TinyMCE AI for Developers - How to self-host
   name: TinyMCE
   url: https://www.tiny.cloud
-  date: "2026-10-07"
   type: tutorial
 
 - title: 'AI, Your Way: Umbraco AI, Community Packages and Lessons From the Trenches'
@@ -86,7 +85,6 @@
 - title: TinyMCE AI for Developers - How to connect to MCP
   name: TinyMCE
   url: https://www.tiny.cloud
-  date: "2026-09-02"
   type: tutorial
 
 - title: devrelshow episode 56 - Maria Ashby from Nvidia
@@ -105,7 +103,6 @@
 - title: TinyMCE AI for Developers - How to customize the quick actions
   name: TinyMCE
   url: https://www.tiny.cloud
-  date: "2026-08-03"
   type: tutorial
 
 - title: devrelshow episode 54 - Heather Downing from Yugabyte
