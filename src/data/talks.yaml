@@ -1,3 +1,18 @@
+- title: TinyMCE AI for Developers - How to self-host
+  name: TinyMCE
+  url: https://www.tiny.cloud
+  type: tutorial
+
+- title: TinyMCE AI for Developers - How to connect to MCP
+  name: TinyMCE
+  url: https://www.tiny.cloud
+  type: tutorial
+
+- title: TinyMCE AI for Developers - How to customize the quick actions
+  name: TinyMCE
+  url: https://www.tiny.cloud
+  type: tutorial
+
 - title: 'Hook your LLM to the real world: building an MCP server from scratch'
   name: Nerdearla Mexico
   url: https://nerdearla.com/mexico/
@@ -35,11 +50,6 @@
   url: https://fred.dev/devrelshow/
   date: "2026-10-08"
   type: livestream
-
-- title: TinyMCE AI for Developers - How to self-host
-  name: TinyMCE
-  url: https://www.tiny.cloud
-  type: tutorial
 
 - title: 'AI, Your Way: Umbraco AI, Community Packages and Lessons From the Trenches'
   name: Umbraco US Festival
@@ -82,11 +92,6 @@
   date: "2026-09-03"
   type: livestream
 
-- title: TinyMCE AI for Developers - How to connect to MCP
-  name: TinyMCE
-  url: https://www.tiny.cloud
-  type: tutorial
-
 - title: devrelshow episode 56 - Maria Ashby from Nvidia
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
@@ -99,11 +104,6 @@
   date: "2026-08-06"
   type: livestream
   video: https://www.youtube.com/watch?v=UBpljrtvPgc
-
-- title: TinyMCE AI for Developers - How to customize the quick actions
-  name: TinyMCE
-  url: https://www.tiny.cloud
-  type: tutorial
 
 - title: devrelshow episode 54 - Heather Downing from Yugabyte
   name: The devrelshow with Fred
