@@ -23,5 +23,5 @@
     <a href="{{ event.details }}">DETAILS</a>
   {% endif %}
 
-  <pre>{{ event.date | formatTalkDate }}{% if event.city %} | {{ event.city | upper }}{% elif (event.type | lower) not in ["tutorial", "interview"] %} | ONLINE{% endif %}<br/>{% if event.comment %}<i>{{ event.comment | upper }}</i>{% endif %}</pre>
+  <pre>{{ event.date | formatTalkDate }}{% if event.city %} | {{ event.city | upper }}{% elif (event.type | lower) not in ["tutorial", "interview", "webinar"] %} | ONLINE{% endif %}<br/>{% if event.comment %}<i>{{ event.comment | upper }}</i>{% endif %}</pre>
 </div>
