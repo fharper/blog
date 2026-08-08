@@ -278,9 +278,11 @@ module.exports = function (eleventyConfig) {
     };
 
     talks.forEach(talk => {
-      if (!talk.date) return;
-
-      const talkDate = new Date(talk.date + 'T23:59:59Z');
+      // A talk without a date (or with one we can't parse) isn't scheduled yet:
+      // it counts as upcoming rather than landing in a NaN year.
+      const parsed = talk.date ? new Date(talk.date + 'T23:59:59Z') : null;
+      const talkDate = parsed && !isNaN(parsed.getTime()) ? parsed : null;
+      const isUpcoming = !talkDate || talkDate.getTime() > now.getTime();
       const isLivestream = talk.type && talk.type.toLowerCase() === 'livestream';
       const isPodcast = talk.type && talk.type.toLowerCase() === 'podcast';
       const isWebinar = talk.type && talk.type.toLowerCase() === 'webinar';
@@ -290,7 +292,7 @@ module.exports = function (eleventyConfig) {
       if (isLivestream) {
         result.livestreamStats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcomingLivestreams.push(talk);
           result.livestreamStats.upcoming++;
         } else {
@@ -304,7 +306,7 @@ module.exports = function (eleventyConfig) {
       } else if (isPodcast) {
         result.podcastStats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcomingPodcasts.push(talk);
           result.podcastStats.upcoming++;
         } else {
@@ -318,7 +320,7 @@ module.exports = function (eleventyConfig) {
       } else if (isWebinar) {
         result.webinarStats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcomingWebinars.push(talk);
           result.webinarStats.upcoming++;
         } else {
@@ -332,7 +334,7 @@ module.exports = function (eleventyConfig) {
       } else if (isInterview) {
         result.interviewStats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcomingInterviews.push(talk);
           result.interviewStats.upcoming++;
         } else {
@@ -346,7 +348,7 @@ module.exports = function (eleventyConfig) {
       } else if (isTutorial) {
         result.tutorialStats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcomingTutorials.push(talk);
           result.tutorialStats.upcoming++;
         } else {
@@ -360,7 +362,7 @@ module.exports = function (eleventyConfig) {
       } else {
         result.stats.total++;
 
-        if (talkDate.getTime() > now.getTime()) {
+        if (isUpcoming) {
           result.upcoming.push(talk);
           result.stats.upcoming++;
         } else {
@@ -419,6 +421,20 @@ module.exports = function (eleventyConfig) {
       result.stats.events += count;
     });
 
+    // Events without a date come first in the upcoming lists, before the ones
+    // with a known future date.
+    const undatedFirst = (events) => [
+      ...events.filter(event => !event.date),
+      ...events.filter(event => event.date)
+    ];
+
+    result.upcoming = undatedFirst(result.upcoming);
+    result.upcomingLivestreams = undatedFirst(result.upcomingLivestreams);
+    result.upcomingPodcasts = undatedFirst(result.upcomingPodcasts);
+    result.upcomingWebinars = undatedFirst(result.upcomingWebinars);
+    result.upcomingInterviews = undatedFirst(result.upcomingInterviews);
+    result.upcomingTutorials = undatedFirst(result.upcomingTutorials);
+
     result.pastYears = Object.keys(result.past).sort((a, b) => b - a);
     result.pastLivestreamYears = Object.keys(result.pastLivestreams).sort((a, b) => b - a);
     result.pastPodcastYears = Object.keys(result.pastPodcasts).sort((a, b) => b - a);
@@ -431,8 +447,12 @@ module.exports = function (eleventyConfig) {
 
   // Add date formatting filter
   eleventyConfig.addFilter("formatTalkDate", function(dateString) {
-    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-    const date = new Date(dateString);
+    const months =['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const date = dateString ? new Date(dateString) : null;
+
+    // No date yet, or one we can't parse: don't render NaN placeholders.
+    if (!date || isNaN(date.getTime())) return 'TBD';
+
     const month = months[date.getMonth()];
     const day = date.getUTCDate();
     const year = date.getFullYear();
