@@ -37,6 +37,11 @@ const yaml = require('js-yaml');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
+  // Those live in src/js since they are code, not data, so they have to be
+  // registered as global data manually.
+  eleventyConfig.addGlobalData("talkLocations", require('./src/js/talkLocations.js'));
+  eleventyConfig.addGlobalData("devrelPlaylist", require('./src/js/devrelPlaylist.js'));
+
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);

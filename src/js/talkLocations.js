@@ -3,7 +3,8 @@ const path = require('path');
 const https = require('https');
 const yaml = require('js-yaml');
 
-const CACHE_PATH = path.join(__dirname, 'geocodingCache.json');
+const DATA_PATH = path.join(__dirname, '..', 'data');
+const CACHE_PATH = path.join(DATA_PATH, 'cache', 'geocodingCache.json');
 
 function nominatimFetch(city) {
     return new Promise((resolve, reject) => {
@@ -28,7 +29,7 @@ function sleep(ms) {
 }
 
 module.exports = async function () {
-    const talks = yaml.load(fs.readFileSync(path.join(__dirname, 'talks.yaml'), 'utf8'));
+    const talks = yaml.load(fs.readFileSync(path.join(DATA_PATH, 'talks.yaml'), 'utf8'));
 
     let cache = {};
     if (fs.existsSync(CACHE_PATH)) {
