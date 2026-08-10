@@ -18,6 +18,10 @@
   url: https://www.tiny.cloud
   type: tutorial
 
+- title: The honest path to open source sustainability
+  name: The GitHub Podcast
+  url: https://www.youtube.com/playlist?list=PL0lo9MOBetEHmIDpT8KA-qt7Ebb2GhesV
+  type: podcast
 
 - title: 'Hook your LLM to the real world: building an MCP server from scratch'
   name: Nerdearla Mexico
