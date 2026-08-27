@@ -23,7 +23,7 @@
   url: https://www.youtube.com/playlist?list=PL0lo9MOBetEHmIDpT8KA-qt7Ebb2GhesV
   type: podcast
 
-- title: devrelshow episode 63 - April Yoho from GitHub
+- title: devrelshow episode 62 - April Yoho from GitHub
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
   date: "2026-11-12"
@@ -42,7 +42,7 @@
   date: "2026-10-28"
   type: webinar
 
-- title: devrelshow episode 60 - Adnan Rahić from Bindplane
+- title: devrelshow episode 59 - Adnan Rahić from Bindplane
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
   date: "2026-10-22"
@@ -61,7 +61,7 @@
   date: "2026-10-13"
   type: webinar
 
-- title: devrelshow episode 58 - Tyler Hannan from ClickHouse
+- title: devrelshow episode 57 - Tyler Hannan from ClickHouse
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
   date: "2026-10-08"
@@ -95,12 +95,6 @@
   city: São Paulo, Brasil
   date: "2026-09-10"
   type: talk
-
-- title: devrelshow episode 57 - Jen Person from Mistral Al
-  name: The devrelshow with Fred
-  url: https://fred.dev/devrelshow/
-  date: "2026-09-17"
-  type: livestream
 
 - title: devrelshow episode 56 - Tamas Piros from Cloudinary
   name: The devrelshow with Fred
