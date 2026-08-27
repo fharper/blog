@@ -23,6 +23,12 @@
   url: https://www.youtube.com/playlist?list=PL0lo9MOBetEHmIDpT8KA-qt7Ebb2GhesV
   type: podcast
 
+- title: devrelshow episode 63 - April Yoho from GitHub
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-11-12"
+  type: livestream
+
 - title: 'Hook your LLM to the real world: building an MCP server from scratch'
   name: Nerdearla Mexico
   url: https://nerdearla.com/mexico/
