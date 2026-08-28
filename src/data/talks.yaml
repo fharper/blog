@@ -23,6 +23,12 @@
   url: https://www.youtube.com/playlist?list=PL0lo9MOBetEHmIDpT8KA-qt7Ebb2GhesV
   type: podcast
 
+- title: devrelshow episode 64 - Jen Person from Mistral Al
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-12-03"
+  type: livestream
+
 - title: devrelshow episode 62 - April Yoho from GitHub
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
