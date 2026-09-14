@@ -101,6 +101,7 @@
   city: São Paulo, Brasil
   date: "2026-09-10"
   type: talk
+  slides: https://fred.dev/slides/2026-09-10_-_MoodleMoot_Brasil_-_Supercharge_Moodle_Course_Design_with_TinyMCE_Premium_Tools.pdf
 
 - title: devrelshow episode 56 - Tamas Piros from Cloudinary
   name: The devrelshow with Fred
