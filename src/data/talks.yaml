@@ -42,6 +42,12 @@
   date: "2026-11-01"
   type: talk
 
+- title: devrelshow episode 60 - Nancy Chauhan from Arize Al
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-10-29"
+  type: livestream
+
 - title: 'Moodle CMS & TinyMCE'
   name: TinyMCE Webinar Series
   url: https://www.tiny.cloud/
