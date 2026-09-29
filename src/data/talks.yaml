@@ -13,10 +13,15 @@
   url: https://www.tiny.cloud
   type: tutorial
 
-- title: TinyMCE with Umbraco
-  name: TinyMCE
-  url: https://www.tiny.cloud
-  type: tutorial
+- title: 'Moodle CMS & TinyMCE'
+  name: TinyMCE Webinar Series
+  url: https://www.tiny.cloud/
+  type: webinar
+
+- title: 'TinyMCE with Umbraco'
+  name: TinyMCE Webinar Series
+  url: https://www.tiny.cloud/
+  type: webinar
 
 - title: The honest path to open source sustainability
   name: The GitHub Podcast
@@ -48,12 +53,6 @@
   date: "2026-10-29"
   type: livestream
 
-- title: 'Moodle CMS & TinyMCE'
-  name: TinyMCE Webinar Series
-  url: https://www.tiny.cloud/
-  date: "2026-10-28"
-  type: webinar
-
 - title: devrelshow episode 59 - Adnan Rahić from Bindplane
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
@@ -66,12 +65,6 @@
   city: Raleigh, United States
   date: "2026-10-20"
   type: talk
-
-- title: 'TinyMCE with Umbraco'
-  name: TinyMCE Webinar Series
-  url: https://www.tiny.cloud/
-  date: "2026-10-13"
-  type: webinar
 
 - title: devrelshow episode 57 - Tyler Hannan from ClickHouse
   name: The devrelshow with Fred
