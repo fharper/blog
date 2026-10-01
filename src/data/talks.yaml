@@ -66,6 +66,12 @@
   date: "2026-10-20"
   type: talk
 
+- title: devrelshow episode 58 - Julia Biro from Vonage
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-10-15"
+  type: livestream
+
 - title: devrelshow episode 57 - Tyler Hannan from ClickHouse
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
