@@ -79,6 +79,7 @@
   date: "2026-10-01"
   type: panel
   comment: Co-speaking with Jason Prothero from ProWorks Corporation
+  slides: https://fred.dev/slides/2026-10-01_-_Umbraco_US_Festival_-_AI,_Your_Way__Umbraco_AI,_Community_Packages_and_Lessons_From_the_Trenches.pdf
 
 - title: Death to the textarea (and what to do about it)
   name: Nerdearla Argentina
