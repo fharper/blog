@@ -23,11 +23,14 @@ jobs:
         run: yarn build
 
       - name: Copy site to DigitalOcean
-        uses: burnett01/rsync-deployments@9.0.1
-        with:
-          switches: --checksum --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose
-          path: public/
-          remote_path: ${{ secrets.SSH_PATH }}
-          remote_host: ${{ secrets.SSH_HOST }}
-          remote_user: ${{ secrets.SSH_USERNAME }}
-          remote_key: ${{ secrets.SSH_KEY }}
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+          SSH_PATH: ${{ secrets.SSH_PATH }}
+        run: |
+          install -m 700 -d ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -H "$SSH_HOST" >> ~/.ssh/known_hosts
+          rsync --checksum --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose \
+            -e "ssh -i ~/.ssh/id_deploy" public/ "$SSH_USERNAME@$SSH_HOST:$SSH_PATH"
