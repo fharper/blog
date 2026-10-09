@@ -17,6 +17,14 @@ jobs:
       - name: Install depencies
         run: yarn install
 
+      # Keep the link check results between runs (rechecked after 1 day)
+      - name: Restore link check cache
+        uses: actions/cache@v6.1.0
+        with:
+          path: .cache
+          key: eleventy-fetch-${{ github.run_id }}
+          restore-keys: eleventy-fetch-
+
       - name: Build website
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
