@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7.0.1
 
       - name: Install depencies
         run: yarn install
@@ -23,7 +23,7 @@ jobs:
         run: yarn build
 
       - name: Copy site to DigitalOcean
-        uses: burnett01/rsync-deployments@7.0.1
+        uses: burnett01/rsync-deployments@9.0.1
         with:
           switches: --checksum --delete --human-readable --ignore-errors --progress --recursive --stats --times --verbose
           path: public/
