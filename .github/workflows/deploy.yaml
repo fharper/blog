@@ -14,8 +14,14 @@ jobs:
       - name: Checkout this repository
         uses: actions/checkout@v7.0.1
 
+      # Keep npm's download cache between runs (refreshed when package-lock.json changes)
+      - name: Set up npm cache
+        uses: actions/setup-node@v7.1.0
+        with:
+          cache: npm
+
       - name: Install depencies
-        run: yarn install
+        run: npm ci
 
       # Keep the link check results between runs (rechecked after 1 day)
       - name: Restore link check cache
@@ -28,7 +34,7 @@ jobs:
       - name: Build website
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: yarn build
+        run: npm run build
 
       - name: Copy site to DigitalOcean
         env:
