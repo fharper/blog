@@ -46,6 +46,12 @@
   date: "2026-11-12"
   type: livestream
 
+- title: devrelshow episode 61 - Nick Taylor from Pomerium
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-11-05"
+  type: livestream
+
 - title: 'Hook your LLM to the real world: building an MCP server from scratch'
   name: Nerdearla Mexico
   url: https://nerdearla.com/mexico/
