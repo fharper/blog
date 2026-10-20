@@ -78,6 +78,7 @@
   city: Raleigh, United States
   date: "2026-10-20"
   type: talk
+  slides: https://fred.dev/slides/2026-10-20_-_All_Things_Open_-_Bring_your_Kubernetes_game_to_the_next_level.pdf
 
 - title: devrelshow episode 58 - Julia Biro from Vonage
   name: The devrelshow with Fred
