@@ -51,6 +51,7 @@
   url: https://fred.dev/devrelshow/
   date: "2026-11-05"
   type: livestream
+  video: https://www.youtube.com/watch?v=a31Rw-SbtOE
 
 - title: 'Hook your LLM to the real world: building an MCP server from scratch'
   name: Nerdearla Mexico
