@@ -28,6 +28,11 @@
   url: https://www.youtube.com/playlist?list=PL0lo9MOBetEHmIDpT8KA-qt7Ebb2GhesV
   type: podcast
 
+- title: Nerdearla Argentina, Interview with Audra Montenegro
+  name: Backstage with Fred
+  url: https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9
+  type: interview
+
 - title: devrelshow episode 65 - Jacob Plicque III from HashiCorp
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
