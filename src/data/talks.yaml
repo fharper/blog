@@ -43,6 +43,12 @@
   url: https://www.youtube.com/playlist?list=PLE6i0Bfo_Rjng35IV5YATm-YHJCdda6i9
   type: interview
 
+- title: devrelshow episode 66 - April Yoho from GitHub
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-12-17"
+  type: livestream
+
 - title: devrelshow episode 65 - Jacob Plicque III from HashiCorp
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
@@ -53,12 +59,6 @@
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
   date: "2026-12-03"
-  type: livestream
-
-- title: devrelshow episode 62 - April Yoho from GitHub
-  name: The devrelshow with Fred
-  url: https://fred.dev/devrelshow/
-  date: "2026-11-12"
   type: livestream
 
 - title: devrelshow episode 61 - Nick Taylor from Pomerium
