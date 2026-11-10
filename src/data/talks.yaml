@@ -67,6 +67,12 @@
   date: "2026-11-26"
   type: livestream
 
+- title: devrelshow episode 62 - Ritvi Mishra from CodeRabbit
+  name: The devrelshow with Fred
+  url: https://fred.dev/devrelshow/
+  date: "2026-11-12"
+  type: livestream
+
 - title: devrelshow episode 61 - Nick Taylor from Pomerium
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/
