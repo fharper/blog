@@ -73,6 +73,13 @@
   date: "2026-11-12"
   type: livestream
 
+- title: Tiny Bits with Fred - Add TinyMCE in Two Steps
+  name: TinyMCE
+  url: https://www.tiny.cloud
+  date: "2026-11-09"
+  type: short
+  video: https://www.youtube.com/shorts/qdE77kNHvL8
+
 - title: devrelshow episode 61 - Nick Taylor from Pomerium
   name: The devrelshow with Fred
   url: https://fred.dev/devrelshow/

@@ -224,7 +224,7 @@ module.exports = function (eleventyConfig) {
         podcastStats: { total: 0, past: 0, upcoming: 0 },
         webinarStats: { total: 0, past: 0, upcoming: 0 },
         interviewStats: { total: 0, past: 0, upcoming: 0 },
-        tutorialStats: { total: 0, past: 0, upcoming: 0 }
+        tutorialStats: { total: 0, past: 0, upcoming: 0, shorts: 0 }
       };
     }
 
@@ -278,7 +278,8 @@ module.exports = function (eleventyConfig) {
       tutorialStats: {
         total: 0,
         past: 0,
-        upcoming: 0
+        upcoming: 0,
+        shorts: 0
       }
     };
 
@@ -292,7 +293,8 @@ module.exports = function (eleventyConfig) {
       const isPodcast = talk.type && talk.type.toLowerCase() === 'podcast';
       const isWebinar = talk.type && talk.type.toLowerCase() === 'webinar';
       const isInterview = talk.type && talk.type.toLowerCase() === 'interview';
-      const isTutorial = talk.type && talk.type.toLowerCase() === 'tutorial';
+      const isShort = talk.type && talk.type.toLowerCase() === 'short';
+      const isTutorial = isShort || (talk.type && talk.type.toLowerCase() === 'tutorial');
 
       if (isLivestream) {
         result.livestreamStats.total++;
@@ -363,6 +365,10 @@ module.exports = function (eleventyConfig) {
           }
           result.pastTutorials[year].push(talk);
           result.tutorialStats.past++;
+
+          if (isShort) {
+            result.tutorialStats.shorts++;
+          }
         }
       } else {
         result.stats.total++;
