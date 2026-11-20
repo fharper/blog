@@ -93,6 +93,7 @@
   city: Mexico City, Mexico
   date: "2026-11-01"
   type: talk
+  slides: https://fred.dev/slides/2026-11-19_-_Nerdearla_Mexico_-_Hook_your_LLM_to_the_real_world__building_an_MCP_server_from_scratch.pdf
 
 - title: devrelshow episode 60 - Nancy Chauhan from Arize Al
   name: The devrelshow with Fred
